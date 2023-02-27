@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  web: gunicorn online_django.wsgi:application --bind 0.0.0.0:$PORT
+  web: gunicorn onlinekai.wsgi:application --bind 0.0.0.0:$PORT
