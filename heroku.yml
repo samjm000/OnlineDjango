@@ -6,5 +6,5 @@ release:
  image: web
  command:
    - python manage.py collectstatic --noinput
-   run:
+run:
   web: gunicorn onlinekai.wsgi
