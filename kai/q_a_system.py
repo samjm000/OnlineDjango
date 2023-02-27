@@ -52,12 +52,11 @@ pipe = ExtractiveQAPipeline(reader, retriever)
 
 
 def predictionModel(question):
-    if question:
-        prediction = pipe.run(
+    if not question:
+        return "empty"
+    
+    prediction = pipe.run(
             query=question, params={"Retriever": {"top_k": 5}, "Reader": {"top_k": 1}}
         )
-    # end_result = pprint(prediction)
-    # time.sleep(3)
-    if not prediction:
-        return ""
+    
     return prediction
