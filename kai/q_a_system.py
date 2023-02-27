@@ -48,19 +48,16 @@ reader = FARMReader(model_name_or_path="deepset/roberta-base-squad2", use_gpu=Tr
 
 ##GET PIPELINE UP
 from haystack.pipelines import ExtractiveQAPipeline
-
 pipe = ExtractiveQAPipeline(reader, retriever)
-
-##
-def multiplier(num):
-    result = int(num) * 100
-    return result
 
 
 def predictionModel(question):
-    prediction = pipe.run(
-        query=question, params={"Retriever": {"top_k": 5}, "Reader": {"top_k": 1}}
-    )
+    if question:
+        prediction = pipe.run(
+            query=question, params={"Retriever": {"top_k": 5}, "Reader": {"top_k": 1}}
+        )
     # end_result = pprint(prediction)
     # time.sleep(3)
+    if not prediction:
+        return ""
     return prediction
