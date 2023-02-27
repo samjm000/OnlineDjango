@@ -1,0 +1,656 @@
+
+ 
+CLINICAL PRACTICE GUIDELINES
+ 
+Annals of Oncology 28 (Supplement 4): iv22–iv40, 2017 doi:10.1093/annonc/mdx224
+ 
+
+ 
+
+ 
+
+R. Glynne-Jones1, L. Wyrwicz2, E. Tiret3,4, G. Brown5, C. Ro¨ del6, A. Cervantes7 & D. Arnold8, on behalf of the ESMO Guidelines Committee*
+1Department of Radiotherapy, Mount Vernon Centre for Cancer Treatment, Northwood, London, UK; 2Department of Gastrointestinal Cancer, Maria Sklodowska- Curie Memorial Cancer Center and Institute of Oncology, Warsaw, Poland; 3Department of Surgery, Sorbonne Universite´s, UPMC Univ Paris 06, Paris; 4APHP, Hoˆpital Saint-Antoine, Paris, France; 5Department of Radiology, The Imperial College and Royal Marsden Hospital, Sutton, Surrey, UK; 6Department of Radiotherapy and Oncology, University of Frankfurt, Frankfurt, Germany; 7CIBERONC, Medical Oncology Department, INCLIVA University of Valencia, Valencia, Spain; 8Instituto CUF de Oncologia (I.C.O.), Lisbon, Portugal
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org
+†Approved by the ESMO Guidelines Committee: August 2002, last update May 2017. This publication supersedes the previously published version—Ann Oncol 2013; 24 (Suppl. 6): vi81–vi88.
+
+
+ 
+
+ 
+ 
+The incidence of rectal cancer in the European Union is
+ 
+is a critical component of management, driving surveillance and potential interventions for the patient and affected family mem- bers [6].
+ 
+~125 000 per year, i.e. ~35% of the total colorectal cancer inci-
+dence, reflecting 15–25 cases/100 000 population per year and
+is predicted to increase further in both genders. The mortality is 4–10/100 000 population per year. Median age at diagnosis is ~70 years, but predictions suggest that this figure will rise in the future.
+Evidence is accumulating that rectal cancer is distinct from colon cancer with different aetiologies and risk factors [1–2], pos- sibly reflecting different environmental exposures. High body mass index, body or abdominal fatness and diabetes type II are seen as risk factors. Longstanding ulcerative colitis and Crohn’s disease affecting the rectum, excessive consumption of red or processed meat and tobacco as well as moderate/heavy alcohol use increase the risk.
+A healthy lifestyle and exercise can reduce the risk of develop- ing rectal cancer [3, 4]. Consumption of garlic, milk, calcium and high dietary fibre are regarded as protective [5]. Although regular use of non-steroidal anti-inflammatory drugs (NSAIDs) is asso- ciated with reduced incidence, and there may be a protective ef- fect of vitamin D via antitumour immunity, no formal guidelines for pharmacological primary prevention should be advised.
+The majority of rectal cancers develop via the chromosomal in- stability (CIN) pathway. About 13% are caused by deficient mis- match repair (dMMR). There is a recognised hereditary component, although this is more pronounced for colon than rectal cancer. The most common disorders are Lynch syndrome and familial adenomatous polyposis. Hence, genetic counselling
+ 
+
+ 
+Diagnosis is based on a digital rectal examination (DRE) and en- doscopy with biopsy for histopathological confirmation (Figure 1). Tumours with distal extension to ≤ 15 cm from the anal margin (as measured by rigid sigmoidoscopy) are classified as rectal and more
+proximal tumours as colonic. Cancers are categorised as low (up to 5 cm), middle (from > 5 to 10 cm) or high (from > 10 up to 15 cm).
+The Cancer Genome Atlas Network analysis showed common genomic profiles for non-hypermutated colon and rectal cancers [7]. Unique subtypes are characterised by accumulation of distinct genetic and epigenetic alterations (DNA methylation), differing slightly from colon cancer [8, 9]. A transcriptional subtype with high Wnt signalling, stem cell and mesenchymal signatures occurs in rectal cancer and has a poor prognosis. Such patients may also gain less benefit from adjuvant chemotherapy (ChT) [10].
+
+
+ 
+A specialised and dedicated multidisciplinary team (MDT) of named radiologists, surgeons, radiation oncologists, medical on- cologists and pathologists should attend regular meetings and discuss all (relevant) patients [III, A]. Core members should be
+ 
+
+VC   The Author 2017. Published by Oxford University Press on behalf of the European Society for Medical Oncology. All rights reserved. For Permissions, please email: journals.permissions@oup.com.
+ 
+
+ 
+
+ 
+
+ 	 
+
+ 	 
+
+ 	 	 
+
+ 	 	 
+Figure 1. Rectal cancer diagnosis.
+DRE, digital rectal examination.
+
+
+present for the discussion of all cases where their input is needed [11]. There should be a MDT coordinator, and clinical guidelines should be taken into account in decision-making. The MDT should also audit whether their decisions are implemented [12] and review patient outcomes with standardised quality assurance.
+A history and physical examination including DRE, full blood count, liver and renal function tests, serum carcinoembryonic antigen (CEA) and computed tomography (CT) scan of thorax and abdomen should be carried out to define functional status and presence of metastases [III, A] (Figure 2). Positron emission tomography (PET) may provide additional information in terms of disease outside the pelvis. However, current evidence is not considered strong enough to recommend the use of PET in all pa-
+tients [V, C] (Table 1) [13].
+Increasing age, comorbidity and decreasing functional reserves are associated with higher early postoperative mortality and worse toxicity from radiotherapy (RT) and ChT in older patients. Hence, for patients over 70 years, formal geriatric assessment or at least screening tools for frailty are recommended before any treatment [III, C] [14].
+Rigid rectoscopy and preoperative colonoscopy to the caecal pole are required, or, in the case of obstruction, virtual colonos- copy to exclude synchronous colonic tumours. If no preoperative (virtual) colonoscopy was carried out, completion colonoscopy is recommended within 6 months of surgery [III, A].
+ 
+Table 2. UICC TNM staging (8th edition) classiﬁcation for colon and rectal cancer [16]
+TNM Clinical Classification
+
+T—Primary tumour
+TX	Primary tumour cannot be assessed
+T0	No evidence of primary tumour
+Tis	Carcinoma in situ: invasion of lamina propriaa
+T1	Tumour invades submucosa
+T2	Tumour invades muscularis propria
+T3	Tumour invades subserosa or into non-peritonealised pericolic or perirectal tissues
+T4	Tumour directly invades other organs or structuresb,c,d and/or perforates visceral peritoneum T4a	Tumour perforates visceral peritoneum
+T4b	Tumour directly invades other organs or structures
+N—Regional lymph nodes
+NX	Regional lymph nodes cannot be assessed
+N0	No regional lymph node metastasis
+N1	Metastasis in 1–3 regional lymph nodes
+N1a	Metastasis in 1 regional lymph node
+N1b	Metastasis in 2–3 regional lymph nodes
+N1c	Tumour deposit(s), i.e. satellites,e in the subserosa, or in non-peritonealised pericolic or perirectal soft tissue without regional lymph node metastasis
+N2	Metastasis in 4 or more regional lymph nodes
+N2a	Metastasis in 4–6 regional lymph nodes
+N2b	Metastasis in 7 or more regional lymph nodes
+M—Distant metastasis
+M0	No distant metastasis
+M1	Distant metastasis
+M1a	Metastasis conﬁned to one organ (liver, lung, ovary, non-regional lymph node(s)) without peritoneal metastases M1b	Metastasis in more than one organ
+M1c	Metastasis to the peritoneum with or without other organ involvement
+
+aTis includes cancer cells conﬁned within the mucosal lamina propria (intramucosal) with no extension through the muscularis mucosae into the submucosa.
+bInvades through to visceral peritoneum to involve the surface.
+cDirect invasion in T4b includes invasion of other organs or segments of the colorectum by way of the serosa, as conﬁrmed on microscopic examin- ation, or for tumours in a retroperitoneal or subperitoneal location, direct invasion of other organs or structures by virtue of extension beyond the mus- cularis propria.
+dTumour that is adherent to other organs or structures, macroscopically, is classiﬁed cT4b. However, if no tumour is present in the adhesion, microscop- ically, the classiﬁcation should be pT1–3, depending on the anatomical depth of wall invasion.
+eTumour deposits (satellites) are discrete macroscopic or microscopic nodules of cancer in the pericolorectal adipose tissue’s lymph drainage area of a primary carcinoma that are discontinuous from the primary and without histological evidence of residual lymph node or identiﬁable vascular or neural structures. If a vessel wall is identiﬁable on H&E, elastic or other stains, it should be classiﬁed as venous invasion (V1/2) or lymphatic invasion (L1). Similarly, if neural structures are identiﬁable, the lesion should be classiﬁed as perineural invasion (Pn1). The presence of tumour deposits does not change the primary tumour T category, but changes the node status (N) to pN1c if all regional lymph nodes are negative on pathological examination. H&E, hematoxilin and eosin; UICC, the Union for International Cancer Control; TNM, tumour, node, metastasis.
+Reprinted from [16], with permission from John Wiley & Sons, Inc.
+
+
+ 
+
+Endoscopic rectal ultrasound (ERUS) may define treatment for the earliest tumours. T1 tumours appropriate for transanal endo- scopic microsurgery (TEM) can be selected by determining whether a lesion is limited to the mucosa or submucosa (sm) [15]. ERUS offers less value in locally advanced rectal cancer (LARC).
+Pelvic magnetic resonance imaging (MRI) is the most accurate test to define locoregional clinical staging. By detecting extra- mural vascular invasion (EMVI), and determining the T substage and distance to the circumferential resection margin (CRM), MRI can also predict the risks of local recurrence and synchron- ous/metachronous distant metastases, and should be carried out
+ 
+
+to select patients for the respective preoperative management and to define the extent of surgery [III, A]. A standard proforma for MRI and pathology ensures a comprehensive report. The version of TNM staging used by the histopathologist and the MDT should be documented, acknowledged by all members of the MDT and regularly updated. The Union for International Cancer Control (UICC) TNM staging classification (8th edition) is shown in Table 2 [16].
+High-quality MRI allows further subclassification of cT3, which is recommended as described in Table 3 [17, 18]. Stage grouping is shown in Table 4 [16].
+ 
+
+ 
+
+ 
+Meta-analyses and population data show clinical nodal staging is unreliable even using ERUS, CT and MRI combined. The use of node size > 10 mm as a criterion for node-positive disease has been shown to be inaccurate. Irregular border and heterogeneous
+signal provide more relevant additional information [19]. Nomograms have been suggested as a predictor of lymph node involvement but have yet to be validated [20]. The assessment of the relationship between tumour and mesorectal fascia (MRF) is more crucial to decision-making than lymph node status.
+PET-CT should not be used routinely for initial staging, but can, in conjunction with liver MRI and contrast enhanced CT of the thorax, abdomen and pelvis be used to assess features at pres- entation associated with a high risk of metastases, e.g. extensive EMVI on MRI (see above) or high levels of CEA. Its value for as- sessment of primary tumour and nodal status is unproven, al- though it may assist RT target delineation. Bone scan and brain imaging should only be carried out if symptoms warrant.
+
+
+Histopathology
+T1 tumours can be classified according to Haggitt’s subclassifica- tion if the cancer is pedunculated and according to the Kudo/ Kikuchi sm-system if in a sessile adenoma [21, 22]. The two sys- tems overlap. If sessile, the level of infiltration into the sm and the width of invasion compared with the width of the cancer should be assessed [23]. If pedunculated, the grade, lymphovascular in- vasion (LVI) and presence of budding predict the risk of lymph node metastases, enable a risk/benefit assessment of the require- ment for further surgery and define the method of excision [III, B] [24]. These specimens should be pinned-out on cork before pathology assessment to facilitate this subclassification.
+Endoscopic resection for small tumours/polyps can be useful for both diagnosis and treatment, but en bloc resection is recom- mended for accurate assessment of invasion in the resection mar- gin and the deepest area [II, B]. Piecemeal resection makes the specimen impossible to assess for the above and should be avoided.
+However, radical surgery and removal of lymph nodes is rec- ommended   for   high-risk   pathological   features    according to Japanese guidelines, i.e. poorly differentiated with evidence
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+of vascular or lymphatic invasion, and an invasion depth of
+> 1000 micrometres [II, A] [25].
+For mesorectal   resections,   histopathological   examination
+should include a photographic record of the surgical specimen and assessment of total mesorectal excision (TME) quality [III, B] [26–28], which is a strong quality control measure (Figure 3). The classification has three grades based on the completeness of the removal of the mesorectum and/or plane of surgical excision (Table 5) and impacts on both local recurrence and survival. Along with the involved CRM rate (i.e. ≤1 mm), TME quality represents a surrogate parameter for good oncological outcomes [29]. More advanced T-stage, tumour distance from the anal verge < 8 cm, more advanced age and low surgical case volume have been independently associated with moderate or poor TME quality [30].
+At least 12 regional lymph nodes should be examined. Proximal, distal and circumferential margins should be docu- mented in millimetres (separately for tumour and involved lymph nodes). A proforma report such as the one by the Royal College of Pathologists is recommended [IV, B] [31]. Uncertainties in the interpretation of CRM and the residual (R) tumour classification (and the distinction pT4/R1) according to the TNM version can cause confusion. An expanded classification has been suggested [32]. Extranodal extension (ENE) of nodal metastases, EMVI, perineural invasion (PNI) and tumour
+ 
+
+ 
+Figure 2. Rectal cancer staging.
+CEA, carcinoembryonic antigen; CT, computed tomography; DRE, digital rectal examination; EMVI, extramural vascular invasion; ERUS, endor- ectal ultrasound; MRI, magnetic resonance imaging; PET-CT, positron emission tomography computed tomography; TEM, transanal endo- scopic microsurgery.
+
+A	B	C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 3. The deﬁnitions for deﬁning quality of mesorectal excision [28].
+(A) A complete mesorectal excision—shows good bulk of mesorectum with a smooth surface and no defects. (B) A nearly complete meso- rectal excision shows good bulk of mesorectum, but some defects or irregularities in the surface (arrowed) are present. (C) An incomplete mesorectal excision demonstrating a deep defect on the mesorectum below the peritoneal reﬂection, which allows visualisation of the mus- cularis propria (arrowed).
+Reprinted from [28], with permission from John Wiley & Sons, Inc.
+ 
+
+ 
+Mesorectal plane (good plane of surgery achieved)
+Intramesorectal plane (moderate plane of surgery achieved)
+
+Muscularis propria plane (poor plane of surgery achieved)
+ 
+Intact mesorectum with only minor irregularities of a smooth mesorectal surface; no defect deeper than 5 mm; no coning; and smooth circumferential resection margin on slicing
+Moderate bulk to mesorectum, with irregularities of the mesorectal surface; moderate distal coning; muscularis propria not visible with the exception of levator insertion; and moderate irregularities of circumferential resection margin
+Little bulk to mesorectum with defects down onto muscularis propria; very irregular circumferential resection margin; or both
+ 
+
+
+
+
+
+
+
+
+
+ 
+budding should also be evaluated [III, A]. Analysis of the rectal ‘doughnut’ is not required [IV, C] [33].
+
+
+ 
+Risk-adapted treatment
+
+Very early cT1N0, with low grade (G1/G2). Local excisional pro- cedures such as TEM are appropriate as a single modality for early cancers (cT1N0 without adverse features like G3, V1, L1) [III, A] [34, 35]. Only patients with cT1N0 should be considered for such treatment [36], although TEM for more advanced T-stage may be appropriate for patients at high surgical risk after discussion with the patient.
+TEM permits more accurate en bloc, full-thickness local exci- sion of rectal tumours than local excision, and can provide simi- lar oncological results in pT1sm1 (clinical cN0) rectal cancers compared with results achieved by TME, without compromising anorectal function.
+Local recurrence after local excision often occurs in the tumour bed. If there is an unfavourable pTNM assessment following local excision, the value of adjuvant CRT in preventing local recurrence is unproven, and TME should remain the standard salvage option. Local RT (brachytherapy or contact therapy—Papillon tech- nique) may also be used as an alternative to local surgery [37],
+alone or combined with CRT [III, C].
+
+
+Early rectal cancer not suitable for local excision [cT1–cT2; cT3a/ b if middle or high, N0 (or also cN1 if high), MRF clear, no EMVI]. More advanced tumours up to and including cT2c/T3a/b should be treated by radical TME surgery because of higher risks of recurrence and the higher risk of mesorectal lymph node in- volvement [36]. The standard of care for surgery is TME, imply- ing that all of the mesorectal fat, including all lymph nodes, should be meticulously excised [III, A]. A partial mesorectal exci- sion with a distal margin of at least 5 cm of mesorectum can be considered in high rectal cancer.
+ 
+In rare situations, local excision can be an option in patients with a cT1 tumour or in elderly or fragile patients. TEM is then the procedure of choice.
+In selecting laparoscopic or open surgery, the surgeon should take into account his/her experience with the technique, the stage and location of the cancer and patient factors such as obesity and previous open abdominal surgery. In the case of low rectal tu- mours, transanal TME (TaTME) may facilitate pelvic and distal mesorectal dissection, but standardisation and assessment of the technique are necessary [38].
+Robotic-assisted rectal cancer surgery provides some technical advantages for surgeons compared with conventional laparos- copy, but is still under evaluation [39]. If an abdominoperineal excision is planned and the tumour extends into the levators, a cylindrical specimen should be achieved, avoiding a ‘waist’ effect and minimising the risk of a positive CRM and/or an R1/2 resec- tion [40]. Selection of patients suitable for extralevator abdomi- noperineal excision is recommended using MRI [41].
+In Japan, lateral node dissection (LND) is practised if the tu- mour is sited below the peritoneal reflection to reduce the risk of pelvic recurrence and improve overall survival (OS). Lateral pel- vic nodes are often invaded if multiple mesorectal nodes are involved [42]. LND is rarely practised in Europe, unless involve- ment is suspected on imaging with enlarged lateral nodes persist- ing following chemoradiotherapy (CRT).
+For cT2 tumours < 4 cm, local excision after preoperative RT/ CRT has been considered as alternative management to abdom-
+inal surgery [43–45], with minimal adverse impact on anorectal function 1 year after surgery [45]. More mature data from other studies suggests some compromise to function [46]. This strategy is not routinely recommended outside clinical trials, except for elderly, fragile patients at high surgical risk [47, 48].
+These early, favourable cases, which are not suitable for local excision, i.e. cT1-2 but with adverse pathological features (e.g. G3, V1, L1), and some cT3a/b without clear involvement of MRF (MRF-) according to MRI, when located above the levators, may be appropriate for surgery alone with TME [II, A], as the risk of local failure is very low. Although not prospectively assessed, EMVI on MRI, even in the case of cT3a/b tumours, confers a higher risk of local and distant recurrence [49].
+ 
+For complete responders, in patients with cT2-3a tumours, a ‘watch-and-wait’ approach or local excision after neoadjuvant CRT is feasible, but because of limited data about long-term outcomes should be implemented only in prospective protocols [IV, C] [50].
+
+Intermediate/more locally advanced rectal cancers [cT3a/b (very low, levators clear, MRF clear or (cT3a/b in mid- or high rectum, cN1-2 (not extranodal), no EMVI]. The routine delivery of preoperative RT, either CRT or short-course preoperative radio- therapy (SCPRT), to all patients   with   imaging   predicted cN remains controversial in view of the poor accuracy if categor- ised by nodal size alone [19], and the lack of prognostic relevance of the preoperative MRI assessment of involved lymph nodes on the risk of local recurrence. This is particularly valid because data suggest a low risk of local recurrence if the surgeon routinely carries out good-quality TME and removes the mesorectal nodes en bloc [27, 51]. However, it is the responsibility of the sur- geon to demonstrate that consistent, good-quality TME is being achieved.
+
+Locally advanced rectal cancers (>cT3b, and EMVIþ). For pa- tients with LARC, treatment decisions regarding neoadjuvant therapy should be based on preoperative, MRI-predicted CRM (≤ 1 mm), EMVI and more advanced T3 substages (T3c/T3d),
+which define the risk of both local recurrence and/or synchron-
+ous and subsequent metastatic disease [52, 53]. MRI also allows risk stratification in terms of the predicted required extent of sur- gery [37], and the achievement of a clear CRM (>1 mm).
+For resectable cancers, where there is no indication on MRI
+that surgery is likely to be associated with either an R2 or an R1 resection, standard TME should achieve a curative resection, and downstaging/downsizing is not necessary to achieve this. The use of CRT or SCPRT aims to reduce local recurrence. No differences in oncological outcomes between CRT and SCPRT were reported in two prospective studies offering preoperative therapy in unselected clinically determined T3/T4 or node- positive rectal cancer patients [54, 55]. The latter trial showed that CRT had significantly higher adverse events compared with SCPRT, with no statistically significant differences in postoper- ative complications [56]. Two phase III trials showed that SCPRT with delayed surgery is a useful alternative to conven- tional short-course RT with immediate surgery [57, 58], which is associated with significantly lower postoperative complica- tions [57].
+Previous recommendations aimed to reduce the overall risk of an involved CRM to < 3% and local recurrence to (preferably)
+< 5% in the population in whom curative treatment is intended
+[59]. Evidence from the UK CR07 trial suggests that, without RT,
+a local recurrence rate of 5% (27/543) can be achieved if a com- plete mesorectal excision is carried out with a negative CRM [27]. MDTs and surgeons are, therefore, required to audit their local recurrence rates. There are recognised long-term adverse conse- quences of surgery and RT. Symptoms such as chronic pain, fae- cal incontinence and sexual difficulties are reported in both sexes. Good communication between surgeons, clinicians and patients will optimise joint decision-making.
+
+Tumours with threatened resection margin. The terms ‘unresectable/borderline cancers’ (i.e. cT4, with the resection
+ 
+margin at risk, involved MRF or CRMþ) are imprecise, but MRI can predict rectal cancers that are unlikely to be amenable to a curative resection without multivisceral resection, either because
+the tumour abuts or breaches the MRF or there is macroscopic tumour outside the MRF with local extension to pelvic side wall and sacrum or in terms of tumour spread involvement into the lateral compartment. In these circumstances, preoperative treat- ment is necessary to shrink the cancer back away from the threat- ened margin i.e. the MRF/CRM. Without preoperative treatment or in the case of no response, surgery is likely to lead to either an R1 or an R2 resection. For such patients, CRT has been shown to significantly increase the chance of performing an R0 resection compared with RT alone [60].
+Treatment recommendations for rectal cancer are summarised in Figure 4. Recommended treatment options for primary rectal cancer without distant metastases are summarised in Table 6.
+
+Risk of recurrence according to postoperative histology
+Historical studies prior to TME suggest that the postoperative histopathological features, which have an impact on the risk of local recurrence, include: pathological TNM stage, T substage (Table 3), CRM status, the number/proportion of involved lymph nodes, extracapsular extension, extranodal deposits, tumour differenti-
+ation, LVI, EMVI and PNI. Hence, it is recommended that patholo- gists review MRI scan reports when assessing EMVI status [61].
+Histologically involved nodes have in the past been associated with a high risk of local recurrence. However, the risk of local re- currence is reduced if the quality of the mesorectal excision is good (i.e. with a complete, smooth mesorectum with no defects and no coning), ensuring removal of all mesorectal lymph nodes.
+
+Selection between short-course preoperative radiotherapy and long-course chemoradiotherapy
+Two different schedules of preoperative therapy are standards of care:
+•	SCPRT with a 25 Gy total dose at 5 Gy/fraction during 1 week, followed by immediate surgery (< 10 days from the
+ﬁrst radiation fraction) [I, A]; SCPRT with delayed surgery is also a useful alternative to conventional short-course RT, with immediate surgery offering similar oncological out- comes and lower postoperative complications [57].
+•	CRT with a recommended dose of 45–50 Gy in 25–28 frac- tions; a boost with a further 5.4 Gy in 3 fractions can be con- sidered for preoperative RT if the CRM is threatened, and for postoperative RT routinely with 5.4–9.0 Gy in 3–5 fractions according to CRM [I, A].
+It is not possible to give a rigid definition of which T and N sub-stages require SCPRT or CRT. The selection of preoperative approach in LARC is based more regarding the risk of a CRMþ at TME surgery. If CRM and/or R0 resection status are predicted at
+risk, CRT is advised [60]. Otherwise, either SCPRT or CRT can be administered [I, A] [54, 55].
+However, more recent evidence suggests that even if the pre- dicted resection margin is at risk (CRM ≤ 1 mm, cT4 or fixed cT3 tumours), similar R0 resection rates and disease-free survival
+ 
+
+
+
+
+
+
+
+         
+
+Figure 4. Rectal cancer treatment.
+cCR, clinical complete response; CRT, chemoradiotherapy; EMVI, extramural vascular invasion; FOLFOX, leucovorin/ﬂuorouracil/oxaliplatin; MRF, mesorectal fascia; MRI, magnetic resonance imaging; RT, radiotherapy; SCPRT, short-course preoperative radiotherapy; TEM, transanal endoscopic microsurgery; TME, total mesorectal excision.
+ 
+Table 6. Recommended choice of treatment options within TNM risk category of primary rectal cancer without distant metastases
+Risk group	TN substage	Possible therapeutic options	Further considerations
+
+ 
+Very early	cT1 sm1 N0 (on ERUS and MRI)	Local excision (TEM)
+If pT1 and no adverse features, TEM is sufﬁcient If adverse histopathology (sm ≥ 2, G3, V1, L1), requires radical resection (TME) as standard
+ 
+Alternatively, in the case of adverse features on pathology, TEM plus sal- vage (or adjuvant) CRT in periopera- tive high-risk patients (but unproven beneﬁt—with high risk of local recurrence for pT2)
+ 
+Early (Good)	cT1-cT2; cT3a/b if middle or high,
+N0 (or also cN1 if high), MRF clear, no EMVI
+
+
+Intermediate	cT3a/b very low, levators clear, MRF
+clear or cT3a/b in mid- or high rectum, cN1-2 (not extranodal), no EMVI
+Bad	cT3c/d or very low localisation le- vators threatened, MRF clear cT3c/d mid-rectum, cN1–N2 (extranodal), EMVIþ, limited cT4aN0
+Advanced (Ugly)      cT3 with any MRF involved, any
+cT4a/b, lateral nodeþ
+ 
+Surgery (TME) alone is standard. If unexpected poor prognostic signs on histopathology (CRMþ, extranodal/N2), consider postopera- tive CRT/CT (see postoperative recommen- dations in Table 7)
+Surgery (TME) alone is a standard only if good- quality mesorectal resection assured (and local recurrence ≤0.5% or, if not, preopera- tive SCPRT (5×5 Gy) or CRT followed by TME
+Preoperative SCPRT (5×5cGy) or CRT followed by TME, depending on need for regression
+
+
+
+Preoperative CRT followed by surgery (TME and more extended surgery if needed due to tumour overgrowth), or preoperative SCPRT (5×5 Gy) plus FOLFOX and delay to surgery
+ 
+For fragile, high-risk patients or those rejecting radical surgery (CRT with evaluation, local excision or if achieving cCR, ‘watch-and-wait’, organ preservation)
+If CRT is given and cCR is achieved, ‘watch-and-wait’ in high-risk pa- tients for surgery may be considered
+If CRT and cCR achieved, ‘watch-and- wait’ in high-risk patients may be considered
+
+
+Alternatively, 5×5 Gy alone with a delay to surgery in fragile/elderly or in patients with severe comorbidity who cannot tolerate CRT
+ 
+
+Other factors besides T and N stages are relevant, such as EMVI, MRF involvement, distance from the anus and sphincters, size of mesorectum and patient characteristics. Patient preferences are also important.
+cCR, clinical complete response; CRM, circumferential resection margin; CRT, chemoradiotherapy; CT, computed tomography; EMVI, extramural vascular invasion; ERUS, endoscopic rectal ultrasound; FOLFOX, leucovorin/ﬂuorouracil/oxaliplatin; MRF, mesorectal fascia; MRI, magnetic resonance imaging; SCPRT, short-course preoperative radiotherapy; TEM, transanal endoscopic microsurgery; TME, total mesorectal excision; TNM, tumour, node, metastasis.
+
+
+ 
+(DFS) are achieved for CRT or SCPRT followed by ChT with oxa- liplatin/leucovorin/fluorouracil prior to surgery [58].
+Biological molecularly targeted agents have not been successfully integrated into CRT. Several meta-analyses indicated that oxalipla- tin added to CRT may slightly increase pathological complete re- sponse (pCR) rates and DFS in selected patients, but also enhances acute toxicity [62]. Given the contradictory results and lack of a clear long-term oncological benefit in the seven randomised trials [63–72] testing this combination so far, oxaliplatin as a radiosensi- tiser is not currently recommended to be routinely added to fluoropyrimidine-based CRT [I, D]. Continuous intravenous infu- sions of 5-fluorouracil (5-FU) or oral capecitabine during CRT are recommended rather than bolus 5-FU [I, A] [63, 73].
+In summary, preoperative RT or CRT reduces the rate of local recurrence without improvement of OS for mid/low stage II/III rectal cancers [I, A], but is associated with significantly worse in- testinal and sexual functions after surgery [I, A].
+Upper rectal cancers (>12 cm from the anal verge) above the peritoneal reflection do not benefit from preoperative SCPRT or
+CRT and should be treated as colon cancer [I, A]. Patients with cT4 tumours falling back into the pelvis might benefit from neoad- juvant CRT or neoadjuvant ChT (NACT) alone [IV, D].
+ 
+Radiotherapy field sizes
+It is beyond the scope of these guidelines to present a detailed rec- ommendation of field sizes for each T- and N-stage depending on the location within the rectum. Most current guidelines are based on a consensus of experts rather than being evidence-based. Widely encompassing nodal regions will be more appropriate for patients with advanced tumours for whom radical surgery is not intended, and smaller volumes for early cancers with the same plan.
+
+
+Preoperative (neoadjuvant) chemotherapy
+Strategies using induction ChT before/following CRT or SCPRT and surgery are being investigated in multiple trials.
+NACT alone using a fluoropyrimidine and oxaliplatin or com- bined with targeted agents has been proposed instead of preopera- tive CRT in cT3 tumours not threatening the CRM and cT4 tumours in the mid- and upper- rectum, with the aim of promptly treating potential micrometastases and individualising treatment options [72]. After NACT, pCR is achieved in some 25% of early stage cases. However, limited long-term oncological outcome data are available for more advanced stages, particularly with CRM
+ 
+involvement; hence, NACT alone is not recommended for the treatment of localised, non-metastatic disease outside clinical trials.
+
+Reassessment/response assessment after preoperative (chemo)radiotherapy
+Assessment of the primary tumour response. The standard meth- ods of clinically re-assessing patients following preoperative ther- apy rely on clinical examination using DRE, proctoscopy, and re- imaging by MRI. These findings direct appropriate surgical strat- egy, the type of operation intended and the possibility of choos- ing a ‘watch-and-wait’ strategy.
+
+Clinical complete response and a ‘watch-and-wait’ approach. Following CRT or SCPRT, a clinical complete response (cCR) can be obtained in 10%–40% of patients when assessed after an interval of 12 weeks from the start of treatment. The likelihood of achieving a cCR will depend partly on initial stage and currently unknown molecular factors. cCR has only partial concordance with pCR [74]. Although not universally agreed, a cCR is defined as the absence of any palpable tumour or irregularity at DRE, no visible lesion at rectoscopy except a flat scar, telangiectasia or whitening of the mucosa. These minimal criteria can be comple- mented by absence of any residual tumour in the primary site and draining lymph nodes on imaging with MRI or ERUS, and nega- tive biopsies from the scar. An initially raised CEA level which re-
+turns to normal (< 5 ng/ml) after CRT is associated with an increased likelihood of cCR and pCR, and hence supports the
+opinion that a cCR has been achieved [IV, C].
+Dedicated centres have reported encouraging oncological and functional outcome results for selected patients treated with standardised CRT and a non-operative strategy. However, such patients have been subjected to rigorous and meticulous follow- up, where MRI surveillance is available [75], and more frequent than routine surveillance (see below) to ensure that surgical sal- vage is feasible and timely.
+Substantially more follow-up and larger numbers of patients treated within properly controlled prospective studies are needed to validate the ‘watch-and-wait’ approach. Ongoing experiences from large databases, such as the European Registry of Cancer Care (EURECCA) ‘International Watch & Wait Database’ www. iwwd.org [50], will provide more information on its safety and efficacy, and help to select appropriate patients. Patients should be informed that the strategy remains unproven and that a small increased oncological risk of uncontrolled pelvic and metastatic disease exists, although the prognosis of patients with cCR is ex- cellent even without surgery. A standardised protocol for inten- sive surveillance is, therefore, recommended.
+
+Patients planned for surgery. In LARC, it is recommended to re- evaluate the primary tumour/CRM with MRI after CRT prior to re- section to achieve clear margins [41, 76], although re-imaging after CRT may both underestimate (poor discrimination between re- sidual tumour and radiation-induced fibrosis), and overestimate pathological response and T downstaging (tumour fragmentation).
+Comparison of sequential MRIs provides MRI tumour regres- sion grading (mriTRG), which can discriminate/determine good and poor responders and predict survival outcomes, even though
+ 
+
+ 
+
+
+
+inter-reader agreement has not been widely tested. mriTRG does not correlate well with histopathological TRG, and there is dis- cordance with RECIST (response evaluation criteria in solid tumours) tumour measurements [77].
+The additional value of diffusion-weighted imaging, gadofosveset- enhanced MRI or Apparent Diffusion Coefficient (ADC) measure- ments have not been validated. The value of CT in assessment of local response is relatively low. PET should not be routinely used as re- sponse tool, although reduction in uptake can be quantified. The relevance of these changes is not understood, and the extent of sur- gery should not be modified based on these findings [IV, D].
+In the case of persistent potential CRM involvement on imag- ing following CRT, the consensus is that such patients should not undergo trial dissection but rather should be formally referred to a MDT with experience in multivisceral resection, so the treated tumour can be removed en bloc [78]. Further ChT may be useful for some but is unproven [79]. The ultimate decision should be made by the MDT. Difficulty in distinguishing between tumour and fibrosis on restaging MRI may lead to potential discordance between imaging and clinical findings at surgery.
+
+
+Distant metastases. Routine restaging of chest and abdomen after neoadjuvant CRT is not recommended, but patients with more advanced cT4 cancers, threatened CRM and the presence of EMVI should be re-staged within 3 months of original staging to exclude metastatic disease prior to surgery. If metastatic disease is diagnosed, the patient should be re-evaluated by the MDT to de- termine appropriate management. Earlier stage tumours do not merit this practice unless clinical progression, including new
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 5. Rectal cancer treatment of local recurrence.
+ChT, chemotherapy; CRT, chemoradiotherapy; RT, radiotherapy; SCPRT, short-course preoperative radiotherapy.
+
+
+ 
+symptoms which may be related to metastasis or dramatically increased serum CEA, is observed.
+
+Pathological assessment of response. A pCR after CRT is associ- ated with low rates of local and distant recurrence. A standardised definition of pCR is recommended [80]. Several tumour regres- sion grades (TRGs) are in use, but interobserver agreement is lim- ited. pCR is classified by Mandard as TRG1 but by Dworak as TRG5 [81, 82]. The optimal system (e.g. reproducibility and prognostic information) remains unclear; as a minimum, tu- mours should be graded as having either complete response, par- tial response or no response [IV, B]. Other dynamic histopathological features, i.e. amount of necrosis, regression of EMVI and downstaging of T and N stage, may also define outcomes.
+
+Interval to surgery. The optimal timing of surgical resection of LARC after preoperative CRT or SCPRT remains controversial and is addressed in trials [83–89]. The ideal interval requires a balance between allowing sufficient time for the maximal effects
+ 
+of the RT to be fully expressed (but before tumour repopulation) and for the acute reaction to settle so that surgery can be carried out safely.
+In the case of SCPRT in resectable cancers, where downstaging is not required, ‘immediate’ surgery is recommended to take place within 7 days from the end of neoadjuvant treatment, and ideally within 0–3 days if the patient is ≥ 75 years (<10 days from the first radiation fraction) [I, A] [83, 86].
+Longer intervals after SCPRT or CRT may enhance pCR rates (with unknown prognostic implications), but risks repopulation delays the use of postoperative systemic adjuvant ChT and risks subsequent metastases. In practice, there is a wide variation in the timing of surgery (4–12 weeks) due to patient/surgeon choice, re- covery from treatment and/or waiting list issues. Prospective tri- als have been carried out, one randomising between 6 and 12 weeks and the other between 7 and 11 weeks after CRT. The latter shows that the longer interval does not increase cCR and is associated with higher surgical morbidity [84]. In contrast, pre- liminary results from the former suggest a significant increase in pCR [85].
+ 
+
+ 
+
+ 
+
+ 	 
+ 	 	 
+
+
+
+
+Figure 6. Rectal cancer treatment of metastatic disease.
+ChT, chemotherapy; EGFR, epidermal growth factor receptor; ESMO, European Society for Medical Oncology; SCPRT, short-course preopera- tive radiotherapy.
+
+
+ 
+Postoperative therapy
+Postoperative chemoradiotherapy. Preoperative CRT (i.e. 45– 54 Gy, 1.8–2.0 Gy/fraction) or SCPRT has better outcomes than postoperative CRT [87, 88]. Traditionally, postoperative CRT   was   administered   for   all   patients   with   pT3-4   or
+pNþ tumours, and combined with additional 4 months of ad- juvant bolus 5-FU ChT, but the routine use of CRT to reduce
+local recurrence can be questioned if a good-quality TME can be assured [53].
+Postoperative CRT could be selectively used in patients with unexpected adverse histopathological features after primary sur- gery—e.g. positive CRM, perforation in the tumour area, incom- plete mesorectal resection, extranodal deposits or nodal deposits with extracapsular spread close to the MRF, or in other cases with high risk of local recurrence if preoperative RT has not been given [I, A] (see Table 7).
+
+Postoperative chemotherapy. In colon cancer, adjuvant ChT has an established role for patients with ‘high-risk’ stage II and stage III disease. Patients with rectal cancer were specifically excluded from most phase III adjuvant studies because of the potential tox- icity and confounding impact of RT or CRT. Postoperative pathological staging (ypTNM) can predict a high risk of
+ 
+subsequent local and distant recurrence, but there is no auto- matic benefit from the use of adjuvant ChT.
+After surgery alone for rectal cancer, individual trials and meta-analyses indicate that there is a benefit for adjuvant 5-FU- based ChT in terms of DFS and OS [89, 90], but the magnitude of benefit is smaller than for colon cancer. However, only few stud-
+ies included in the meta-analysis-mandated TME surgery and/or preoperative RT/CRT. In contrast, following SCPRT or CRT, in- dividual randomised trials [91–93] and meta-analyses [94] have not shown any benefit for 5-FU alone.
+The addition of oxaliplatin to 5-FU may improve DFS [70, 95], but results are not consistent [96] and there is no effect on OS. A single randomised, phase II study suggests that adding oxaliplatin to 5-FU/leucovorin in a modified leucovorin/fluorouracil/oxali- platin regimen (mFOLFOX6) improves relapse-free survival and OS in high-risk rectal cancers without downstaging after pre- operative 5-FU-based CRT [97], but this data should not be used
+to recommend that all patients with ypNþ disease should receive oxaliplatin-based postoperative ChT.
+It also remains unclear whether the initial clinical (yc) or patho- logical (yp) stage should be used to determine the risk/benefit of adjuvant treatment. In general, downgrading in T or N stage has been recognised more as a prognostic factor of favourable outcome rather than predictive biomarker for adjuvant treatment.
+ 
+
+ 
+
+ 	 
+
+ 	 
+
+ 
+
+ 
+
+ 
+
+ 
+Figure 7. Rectal cancer surveillance and follow-up.
+CEA, carcinoembryonic antigen; CRM, circumferential resection margin; CT, computed tomography; RT, radiotherapy.
+
+ 
+Summarising, it is reasonable to consider adjuvant ChT in rectal cancer patients after preoperative CRT/RT with yp stage III (and ‘high-risk’ yp stage II). The level of scientific evidence for sufficient benefit is much lower than in colon cancer and is probably limited to DFS rather than to OS [II, C]. Hence, the decision on postopera- tive ChT (fluoropyrimidine alone or combined with oxaliplatin) should be risk-balanced, taking into account both the predicted toxicity for a particular patient and the risk of relapse, and should be made jointly by the individual and the clinician.
+
+
+ 
+Local recurrence is less frequent with good-quality TME and pre- operative RT/CRT. Recurrent pelvic tumour can cause severe pain, often requiring opiate and non-opiate pain relief with an offensive mucinous discharge and incontinence. Surgical salvage is compli- cated by the loss of the normal anatomical planes. Hence surgical salvage is recommended to be carried out by specialist teams.
+If RT has not already been given, patients should be considered for standard-dose, preoperative CRT (45–50 Gy in 5–6 weeks)
+ 
+[III, A] prior to an attempt at resection [60]. Alternatively, SCPRT followed by a fluoropyrimidine and oxaliplatin-based ChT as used in the Polish-2 study can be also applied [58].
+In patients previously irradiated, re-irradiation to lower doses (with concomitant ChT is safe and can be used in selected pa- tients to facilitate a curative resection or per se to palliate symp- toms [IV, C] [98]. If salvage surgery is not currently an option, systemic palliative ChT may be used to downstage the tumour, al- though reports of efficacy are rare [V, C] [99]. Palliative surgical diversion procedures in patients with reasonable life expectancy are also recommended. Brachytherapy can be an effective pallia- tive option [100]. See Figure 5.
+
+
+Metastatic rectal cancer stages are covered already in the ESMO consensus guidelines on metastatic colorectal cancer [13], but, in principle, should reflect the goals of treatment: tumour- and disease-related characteristics, patient-related factors (comorbidity,
+ 
+Table 8. Summary of recommendations
+Staging and risk assessment
+•	A history and physical examination including DRE, full blood count, liver and renal function tests, serum CEA and CT scan of thorax and abdomen should be carried out to deﬁne functional status and presence of metastases [III, A].
+•	Rigid rectoscopy and preoperative colonoscopy to the caecal pole are required, or, in the case of obstruction, virtual colonoscopy to exclude synchronous
+colonic tumours. If no preoperative (virtual) colonoscopy was carried out, completion colonoscopy is recommended within 6 months of surgery [III, A].
+•	Pelvic MRI is the most accurate test to deﬁne locoregional clinical staging. By detecting EMVI, and determining the T substage and distance to the CRM, it can predict the risks of synchronous/metachronous distant metastases, and should be carried out to select patients for the respective preoperative management and to deﬁne the extent of surgery [III, A].
+•	At least 12 regional lymph nodes should be examined. Proximal, distal and circumferential margins should be documented in millimetres (separately for tu-
+mour and involved lymph nodes). A proforma report such as the one by the Royal College of Pathologists is recommended [IV, B]. For mesorectal resec- tions, histopathological examination should include a photographic record of the surgical specimen and assessment of TME quality [III, B], which is a strong quality control measure.
+Management of local/locoregional disease
+•	Local excisional procedures such as TEM are appropriate as a single modality for early cancers (cT1N0 without adverse features like G3, V1, L1) [III, A]. Local RT (brachytherapy or contact therapy—Papillon technique) may also be used as an alternative to local surgery, alone or combined with CRT [III, C].
+•	More advanced tumours up to and including cT2c/T3a/b should be treated by radical TME surgery because of higher risks of recurrence and the higher
+risk of mesorectal lymph node involvement. The standard of care for surgery is TME, implying that all of the mesorectal fat, including all lymph nodes, should be meticulously excised [III, A].
+•	For patients with LARC, treatment decisions regarding neoadjuvant therapy should be based on preoperative, MRI-predicted CRM (≤1 mm), EMVI and
+more advanced T3 substages (T3c/T3d), which deﬁne the risk of both local recurrence and/or synchronous and subsequent metastatic disease. For resect- able cancers, where there is no indication on MRI that surgery is likely to be associated with either an R2 or an R1 resection, standard TME should achievea curative resection. The use of CRT or SCPRT aims to reduce local recurrence.
+•	The selection of preoperative approach in LARC is based more on the MDT decision regarding the risk of a CRMþ at TME surgery. If CRM and/or R0 resec-
+tion status are predicted at risk, CRT is advised. Otherwise, either SCPRT or CRT can be administered [I, A]. Continuous intravenous infusions of 5-FU or oral capecitabine during CRT are recommended rather than bolus 5-FU [I, A].
+•	Preoperative RT or CRT reduces the rate of local recurrence without improvement of OS for mid/low stage II/III rectal cancers [I, A], but is associated with signiﬁcantly worse intestinal and sexual functions after surgery [I, A].
+•	Upper rectal cancers (>12 cm from the anal verge) above the peritoneal reﬂection do not beneﬁt from preoperative SCPRT or CRT and should be treated
+as colon cancer [I, A].
+•	In the case of SCPRT in resectable cancers, where downstaging is not required, ‘immediate’ surgery is recommended to take place within 7 days from the end of neoadjuvant treatment, and ideally within 0–3 days if the patient is ≥75 years (<10 days from the ﬁrst radiation fraction) [I, A].
+•	Postoperative CRT could be selectively used in patients with unexpected adverse histopathological features after primary surgery—e.g. positive CRM, per-
+foration in the tumour area, incomplete mesorectal resection, extranodal deposits or nodal deposits with extracapsular spread close to the MRF, or in other cases with high risk of local recurrence if preoperative RT has not been given [I, A].
+Follow-up, long-term implications and survivorship
+•	During follow-up, clinical examination, completion colonoscopy and pelvic imaging using MRI and/or CT and for distant metastases CT of the chest, ab- domen and pelvis are recommended [V, B].
+A minimum provisional recommendation for average-risk patients is as follows:
+–	Clinical assessment: every 6 months for 2 years [V, D].
+–	A completion colonoscopy within the ﬁrst year if not done at the time of diagnostic work-up (e.g. if obstruction was present) [I, A].
+–	History and colonoscopy with resection of colonic polyps every 5 years up to the age of 75 years [I, B].
+–	It is reasonable to offer a minimum of two CTs of the chest, abdomen and pelvis in the ﬁrst 3 years and regular serum CEA tests (at least every 6 months in the ﬁrst 3 years).
+•	High-risk patients (CRMþ) may merit more proactive surveillance for local recurrence.
+CEA, carcinoembryonic antigen; CRM, circumferential resection margin; CRT, chemoradiotherapy; CT, computed tomography; DRE, digital rectal examin- ation; EMVI, extramural vascular invasion; 5-FU, 5-ﬂuorouracil; LARC, locally advanced rectal cancer; MDT, multidisciplinary team; MRF, mesorectal fascia; MRI, magnetic resonance imaging; OS, overall survival; RT, radiotherapy; SCPRT, short-course preoperative radiotherapy; TEM, transanal endoscopic micro- surgery; TME, total mesorectal excision.
+
+
+ 
+socioeconomic factors and expectations of the patient), and treatment-related factors such as toxicity. See Figure 6.
+Whether the primary tumour remains in situ and untreated may impact on the treatment strategy. ChT alone may be insuffi- cient in those cases, and local palliation of rectal symptoms with RT may be required. SCPRT (if feasible) is preferred to CRT since systemic ChT can start within 2 weeks from the start of treatment.
+ 
+This latter strategy palliates symptoms in ~80% of patients and avoids a salvage stoma for selected patients [101]. If the patient
+has a chance for cure (oligometastatic disease), the treatment should aim for rapid local control with effective systemic ChT and appropriate sequence/timing of metastasectomy. Single- institution series suggest that SCPRT can be safely combined with triplet ChT (capecitabine, oxaliplatin and bevacizumab) to
+ 
+
+ 
+ 
+
+ 
+facilitate the resection of borderline resectable liver metastasis and the primary tumour [102]. There are no randomised studies, so the MDT should be responsible for critical decisions in pa- tients with potentially curable metastatic disease.
+
+
+ 
+There are no molecular markers in rectal cancers available that can evaluate specific situations or treatments (e.g. whether a pa- tient needs preoperative treatment for a localised or locally advanced rectal cancer, indicating that surgery will not be radi- cal). Similarly, there are no known markers that can predict re- sponse to RT or CRT. Rectal cancers with distant metastases should be studied for RAS and BRAF mutational status and the other requirements addressed in the ESMO consensus guidelines on metastatic colorectal cancer [13].
+
+
+Follow-up, long-term implications and	
+survivorship	
+Follow-up/surveillance with clinical examination, imaging and colonoscopy aims to improve prognosis by early detection and salvage of local recurrence and metastases, and to prevent/detect second colorectal cancers. See Figure 7.
+Clinical examination and pelvic imaging using MRI and/or CT and for distant metastases CT of the chest, abdomen and pelvis are recommended [V, B]. Patients with rectal tumours (particularly more advanced stages) have a higher risk of recurrence and benefit
+more from follow-up [103], although <10% may have salvageable recurrence. Routine use of PET-CT as surveillance is not recom-
+mended, although when recurrence is diagnosed, PET-CT may be helpful for defining other unrecognised sites of disease.
+CEA screening and CT monitoring increase the rate of surgical resection of recurrence with curative intent, although the opti- mum modality, intensity and frequency remain undefined [104,
+ 
+105]. Isolated CEA monitoring is insufficiently sensitive [106]. Routine monitoring of CEA and CT imaging is only recom- mended up to 5 years following surgery.
+Both rectal cancer surgery and the additional pre- or postopera- tive (C)RT may result in late sequelae, which impact daily func- tion. Long-term side effects of treatment should be monitored. These include assessment of lower genitourinary toxicities (e.g. erectile dysfunction, dyspareunia and urinary incontinence).
+An increased risk of developing a second primary cancer follow- ing RT for rectal cancer within or outside of the irradiated volume may have been overestimated [107]. However, with better treat- ments, increasing numbers of patients are living with the long-term consequences of surgery, ChT and RT—such as stomas, poor mobility, and attendant co-morbidity (osteopaenia, malabsorption, endocrinology problems and cardiovascular disease). Surveillance should address the social, financial and emotional aspects as well as practical and functional consequences to maximise survivors’ long- term well-being. Important components include guidelines for the proactive detection of likely future effects and an educational pro- gram (before and after treatment) to promote engagement with the healthcare system and an appropriate and healthy lifestyle.
+Evidence supports late effects/survivorship clinics for patients who have received pelvic RT.
+A minimum provisional recommendation for average-risk pa- tients is as follows:
+•	Clinical assessment: every 6 months for 2 years [V, D].
+•	A completion colonoscopy within the ﬁrst year if not done at the time of diagnostic work-up (e.g. if obstruction was present) [I, A].
+•	History and colonoscopy with resection of colonic polyps every 5 years up to the age of 75 years [I, B].
+•	A minimum of two CTs of the chest, abdomen and pelvis in the ﬁrst 3 years and regular serum CEA tests (at least every 6 months in the ﬁrst 3 years).
+High-risk patients (CRMþ) may merit more proactive surveil- lance for local recurrence.
+ 
+ 
+These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating procedures for Clinical
+ 
+6.	Balman~a J, Balaguer F, Cervantes A, Arnold D. Familial risk-colorectal cancer: ESMO Clinical Practice Guidelines. Ann Oncol 2013; 24 (Suppl 6): vi73–vi80.
+7.	Cancer Genome Atlas Network. Comprehensive molecular character- ization of human colon and rectal cancer. Nature 2012; 487: 330–337.
+ 
+Practice Guidelines development http://www.esmo.org/ Guidelines/ESMO-Guidelines-Methodology. The relevant litera- ture has been selected by the expert authors. A summary of key recommendations is given in Table 8. Levels of evidence and grades of recommendation have been applied using the system shown in Table 9. Statements without grading were considered justified standard clinical practice by the experts and the ESMO Faculty. This manuscript has been subjected to an anonymous peer review process.
+
+ 
+RG-J would like to acknowledge the advice of Dr Bruce Mcfarlane, Dr Marcia Hall, CNS Angela Wheeler, and Dr Teresa Leverton. LW would like to express his gratitude to Dr Jacek Krynski and Pr Krzysztof Bujko for discussions on multimodality treatment of rec- tal cancer. AC is a member of CIBERONC, a research network of the Spanish National Institute of Health Charles III.
+
+
+ 
+RG-J has received honoraria for lectures from Roche, Sanofi, Merck Serono and Servier and for attending advisory boards from Eli Lilly, Roche, Servier, Eisai Amgen, Bristol-Myers Squibb and Mundipharma. He has received research funding for investigator-led phase II trials from Merck and Roche. LW has received honoraria for lectures from Amgen, Merck Serono, Roche and Servier and for advisory boards from Halozyme and Eisai. AC has received honoraria for lectures from Amgen, Roche, Merck Serono, Takeda and Servier and for advisory boards from Eli Lilly, Bayer, Roche, Merck Serono, Servier and Amgen; he has received research funding from Merck Serono, Eli Lilly, Bayer, Genentech and Roche. DA has reported research grants from Roche and Sanofi and has received honoraria for lec- tures from Roche, Merck Serono, Bayer and Servier and for ad- visory boards from Eli Lilly, Bayer, Roche, Merck Serono and Servier. ET, GB and CR have reported no potential conflicts of interest.
+
+
+ 
+1.	World Cancer Research Fund/American Institute for Cancer Research. Continuous Update Project Report Summary. Food, Nutrition, Physical Activity, and the Prevention of Colorectal Cancer 2011.
+2.	Wei EK, Giovannucci E, Wu K et al. Comparison of risk factors for colon and rectal cancer. Int J Cancer 2004; 108: 433–442.
+3.	Kirkegaard H, Johnsen NF, Christensen J et al. Association of adherence to lifestyle recommendations and risk of colorectal cancer: a prospective Danish cohort study. BMJ 2010; 341: c5504.
+4.	Aleksandrova K, Pischon T, Jenab M et al. Combined impact of healthy lifestyle factors on colorectal cancer: a large European cohort study. BMC Med 2014; 12: 168.
+5.	Murphy N, Norat T, Ferrari P et al. Dietary fibre intake and risks of can- cers of the colon and rectum in the European prospective investigation into cancer and nutrition (EPIC). PLoS One 2012; 7: e39361.
+ 
+8.	Sadanandam A, Wang X, de Sousa E Melo F et al. Reconciliation of clas-
+sification systems defining molecular subtypes of colorectal cancer. Cell Cycle 2014; 13: 353–357.
+9.	Guinney J, Dienstmann R, Wang X et al. The consensus molecular sub- types of colorectal cancer. Nat Med 2015; 21: 1350–1356.
+10.	Song N, Pogue-Geile KL, Gavin PG et al. Clinical outcome from oxali- platin treatment in stage II/III colon cancer according to intrinsic sub- types: secondary analysis of NSABP C-07/NRG oncology randomized clinical trial. JAMA Oncol 2016; 2: 1162–1169.
+11.	National Cancer Action Team. The characteristics of an effective multi- disciplinary team (MDT), 2010. www.ncin.org.uk/view?rid¼136 (28 May 2017, date last accessed).
+12.	Munro A, Brown M, Niblock P et al. Do multidisciplinary team (MDT) processes influence survival in patients with colorectal cancer? A population-based experience. BMC Cancer 2015; 15: 686.
+13.	Van Cutsem E, Cervantes A, Adam R et al. ESMO consensus guidelines for the management of patients with metastatic colorectal cancer. Ann Oncol 2016; 27: 1386–1422.
+14.	Papamichael D, Audisio RA, Glimelius B et al. Treatment of colorectal can- cer in older patients: International Society of Geriatric Oncology (SIOG) consensus recommendations 2013. Ann Oncol 2015; 26: 463–476.
+15.	Burdan F, Sudol-Szopinska I, Staroslawska E et al. Magnetic resonance imaging and endorectal ultrasound for diagnosis of rectal lesions. Eur J Med Res 2015; 20: 4.
+16.	Brierley JD, Gospodarowicz MK and Wittekind C. (eds). TNM Classification of Malignant Tumours, 8th edition. Oxford: John Wiley & Sons, Inc. 2016.
+17.	Zinicola R, Pedrazzi G, Haboubi N, Nicholls RJ. The degree of extra- mural spread of T3 rectal cancer: an appeal to the American Joint Committee on Cancer. Colorectal Dis 2017; 19: 8–15.
+18.	Edge SB, Byrd DR, Compton CC (eds). AJCC Cancer Staging Handbook, 7th edition. New York: Springer 2010.
+19.	Brown G, Richards CJ, Bourne MW et al. Morphologic predictors of lymph node status in rectal cancer with use of high-spatial-resolution MR imaging with histopathologic comparison. Radiology 2003; 227: 371–377.
+20.	Liu Y, Wang R, Ding Y et al. A predictive nomogram improved diag- nostic accuracy and interobserver agreement of perirectal lymph nodes metastases in rectal cancer. Oncotarget 2016; 7: 14755–14764.
+21.	Haggitt RC, Glotzbach RE, Soffer EE, Wruble LD. Prognostic factors in colorectal carcinomas arising in adenomas: implications for lesions removed by endoscopic polypectomy. Gastroenterology 1985; 89: 328–336.
+22.	Kikuchi R, Takano M, Takagi K et al. Management of early invasive colorectal cancer. Risk of recurrence and clinical guidelines. Dis Colon Rectum 1995; 38: 1286–1295.
+23.	Toh EW, Brown P, Morris E et al. Area of submucosal invasion and width of invasion predicts lymph node metastasis in pT1 colorectal can- cers. Dis Colon Rectum 2015; 58: 393–400.
+24.	Sigourakis G, Lanitis S, Gockel I et al. Transanal endoscopic microsur- gery for T1 and T2 rectal cancers: a meta-analysis and meta-regression analysis of outcomes. Am Surg 2011; 77: 761–772.
+25.	Ikematsu H, Yoda Y, Matsuda T et al. Long-term outcomes after resec- tion for submucosal invasive colorectal cancers. Gastroenterology 2013; 144: 551–559.
+26.	Hermanek P, Hermanek P, Hohenberger W et al. The pathological as- sessment of mesorectal excision: implications for further treatment and quality management. Int J Colorectal Dis 2003; 18: 335–341.
+27.	Quirke P, Steele R, Monson J et al. Effect of the plane of surgery achieved on local recurrence in patients with operable rectal cancer: a prospective study using data from the MRC CR07 and NCIC-CTG CO16 randomised clinical trial. Lancet 2009; 373: 821–828.
+28.	Garc´ıa-Granero E, Faiz O, Mun~oz E et al. Macroscopic assessment of mesorectal excision in rectal cancer: a useful tool for improving quality control in a multidisciplinary team. Cancer 2009; 115: 3400–3411.
+ 
+29.	Kreis ME, Ruppert R, Ptok H et al. Preoperative magnetic resonance imaging to select patients with rectal cancer for neoadjuvant chemoradiation–interim analysis of the German OCUM Trial (NCT01325649). J Gastrointest Surg 2016; 20: 25–32.
+30.	Garlipp B, Ptok H, Schmidt U et al. Factors influencing the quality of total mesorectal excision. Br J Surg 2012; 99: 714–720.
+31.	Quirke P, Williams GT. Minimum Dataset for Colorectal Cancer Histopathology Reports. London: Royal College of Pathologists 1998.
+32.	Wittekind C, Compton C, Quirke P et al. A uniform residual tumor (R) classification: integration of the R classification and the circumferential margin status. Cancer 2009; 115: 3483–3488.
+33.	Ng CW, Lieske B, Tan KK. Routine histological sampling of doughnuts post oncologic anterior resection is not necessary. Int J Colorectal Dis 2014; 29: 843–845.
+34.	Bach SP, Hill J, Monson JR et al. A predictive model for local recurrence after transanal endoscopic microsurgery for rectal cancer. Br J Surg 2009; 96: 280–290.
+35.	Junginger T, Goenner U, Hitzler M et al. Long-term oncologic outcome after transanal endoscopic microsurgery for rectal carcinoma. Dis Colon Rectum 2016; 59: 8–15.
+36.	Stornes T, Wibe A, Nesbakken A et al. National early rectal cancer treat- ment revisited. Dis Colon Rectum 2016; 59: 623–629.
+37.	Ge´rard JP, Ortholan C, Benezery K et al. Contact X-ray therapy for rec- tal cancer: experience in Centre Antoine-Lacassagne, Nice, 2002–2006. Int J Radiat Oncol Biol Phys 2008; 72: 665–670.
+38.	Penna M, Hompes R, Arnold S et al. Transanal total mesorectal exci- sion: international registry results of the first 720 cases. Ann Surg 2017; 266: 111–117.
+39.	Sun Y, Xu H, Li Z et al. Robotic versus laparoscopic low anterior resec- tion for rectal cancer: a meta-analysis. World J Surg Oncol 2016; 14: 61.
+40.	Holm T, Ljung A, H€aggmark T et al. Extended abdominoperineal resec- tion with gluteus maximus flap reconstruction of the pelvic floor for rectal cancer. Br J Surg 2007; 94: 232–238.
+41.	Battersby NJ, How P, Moran B et al. Prospective validation of a low rec- tal cancer magnetic resonance imaging staging system and development of a local recurrence risk stratification model: the MERCURY II study. Ann Surg 2016; 263: 751–760.
+42.	Ishihara S, Kanemitsu Y, Murono K et al. Oncological benefit of lateral pelvic lymph node dissection for rectal cancer treated without preopera- tive chemoradiotherapy: a multicenter retrospective study using pro- pensity score analysis. Int J Colorectal Dis 2016; 31: 1315–1321.
+43.	Lezoche E, Baldarelli M, Lezoche G et al. Randomized clinical trial of endoluminal locoregional resection versus laparoscopic total mesorectal excision for T2 rectal cancer after neoadjuvant therapy. Br J Surg 2012; 99: 1211–1218.
+44.	Bujko K, Richter P, Smith FM et al. Preoperative radiotherapy and local excision of rectal cancer with immediate radical re-operation for poor responders: a prospective multicentre study. Radiother Oncol 2013; 106: 198–205.
+45.	Garcia-Aguilar J, Renfro LA, Chow OS et al. Organ preservation for clinical T2N0 distal rectal cancer using neoadjuvant chemoradiotherapy and local excision (ACOSOG Z6041): results of an open-label, single- arm, multi-institutional, phase 2 trial. Lancet Oncol 2015; 16: 1537–1546.
+46.	Gornicki A, Richter P, Polkowski W et al. Anorectal and sexual func- tions after preoperative radiotherapy and full-thickness local excision of rectal cancer. Eur J Surg Oncol 2014; 40: 723–730.
+47.	Morino M, Risio M, Bach S et al. Early rectal cancer: the European Association for Endoscopic Surgery (EAES) clinical consensus confer- ence. Surg Endosc 2015; 29: 755–773.
+48.	Smith FM, Rao C, Oliva Perez R et al. Avoiding radical surgery im- proves early survival in elderly patients with rectal cancer, demonstrat- ing complete clinical response after neoadjuvant therapy: results of a decision-analytic model. Dis Colon Rectum 2015; 58: 159–171.
+49.	Bugg WG, Andreou AK, Biswas D et al. The prognostic significance of MRI-detected extramural venous invasion in rectal carcinoma. Clin Radiol 2014; 69: 619–623.
+ 
+50.	Van de Valk M. The International Watch and Wait database (IWWD) for rectal cancer: an update. J Clin Oncol 2017; 35 (Suppl 4S): abstr 521.
+51.	Taylor FG, Quirke P, Heald RJ et al. Preoperative high-resolution mag- netic resonance imaging can identify good prognosis stage I, II, and III rectal cancer best managed by surgery alone: a prospective, multicenter, European study that recruited consecutive patients with rectal cancer. Ann Surg 2011; 253: 711–719.
+52.	Hunter CJ, Garant A, Vuong T et al. Adverse features on rectal MRI identify a high-risk group that may benefit from more intensive preoperative staging and treatment. Ann Surg Oncol 2012; 19: 1199–1205.
+53.	Taylor FG, Quirke P, Heald RJ et al. Preoperative magnetic resonance imaging assessment of circumferential resection margin predicts disease-free survival and local recurrence: 5-year follow-up results of the MERCURY study. J Clin Oncol 2014; 32: 34–43.
+54.	Bujko K, Nowacki MP, Nasierowska-Guttmejer A et al. Long-term re- sults of a randomized trial comparing preoperative short-course radio- therapy with preoperative conventionally fractionated chemoradiation for rectal cancer. Br J Surg 2006; 93: 1215–1223.
+55.	Ngan SY, Burmeister B, Fisher RJ et al. Randomized trial of short- course radiotherapy versus long-course chemoradiation comparing rates of local recurrence in patients with T3 rectal cancer: Trans- Tasman Radiation Oncology Group Trial 01.04. J Clin Oncol 2012; 31: 3827–3833.
+56.	Ansari N, Solomon MJ, Fisher RJ et al. Acute adverse events and post- operative complications in a randomized trial of preoperative short- course radiotherapy versus long-course chemoradiotherapy for T3 adenocarcinoma of the rectum: Trans-Tasman Radiation Oncology Group Trial (TROG 01.04). Ann Surg 2017; 265: 882–888.
+57.	Erlandsson J, Holm T, Pettersson D et al. Optimal fractionation of pre- operative radiotherapy and timing to surgery for rectal cancer (Stockholm III): a multicentre, randomised, non-blinded, phase 3, non- inferiority trial. Lancet Oncol 2017; 18: 336–346.
+58.	Bujko K, Wyrwicz L, Rutkowski A et al. Long-course oxaliplatin-based preoperative chemoradiation versus 5 × 5 Gy and consolidation chemotherapy for cT4 or fixed cT3 rectal cancer: results of a random- ized phase III study. Ann Oncol 2016; 27: 834–842.
+59.	Glimelius B, Tiret E, Cervantes A et al. Rectal cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2013; 24 (Suppl 6): vi81–vi88.
+60.	Braendengen M, Tveit KM, Berglund A et al. Randomized phase III study comparing preoperative radiotherapy with chemoradiotherapy in nonresectable rectal cancer. J Clin Oncol 2008; 26: 3687–3694.
+61.	Chand M, Siddiqui MR, Swift I, Brown G. Systematic review of prog- nostic importance of extramural venous invasion in rectal cancer. World J Gastroenterol 2016; 22: 1721–1726.
+62.	Yang YJ, Cao L, Li ZW et al. Fluorouracil-based neoadjuvant chemora- diotherapy with or without oxaliplatin for treatment of locally advanced rectal cancer: an updated systematic review and meta-analysis. Oncotarget 2016; 7: 45513–45524.
+63.	O’Connell MJ, Colangelo LH, Beart RW et al. Capecitabine and oxali- platin in the preoperative multimodality treatment of rectal cancer: sur- gical end points from National Surgical Adjuvant Breast and Bowel Project trial R-04. J Clin Oncol 2014; 32: 1927–1934.
+64.	Allegra CJ, Yothers G, O’Connell MJ et al. Neoadjuvant 5-FU or capeci- tabine plus radiation with or without oxaliplatin in rectal cancer pa- tients: a phase III randomized clinical trial. J Natl Cancer Inst 2015; 107: pii: djv248.
+65.	Aschele C, Cionini L, Lonardi S et al. Primary tumor response to pre- operative chemoradiation with or without oxaliplatin in locally advanced rectal cancer: pathologic results of the STAR-01 randomized phase III trial. J Clin Oncol 2011; 29: 2773–2780.
+66.	Aschele C, Lonardi S, Cionini L et al. Final results of STAR-01: a randomized phase III trial comparing preoperative chemoradiation with or without oxaliplatin in locally advanced rectal cancer. J Clin Oncol 2016; 34 (Suppl): abstr 3521.
+ 
+67.	Ge´rard JP, Azria D, Gourgou-Bourgade S et al. Clinical outcome of the ACCORD12/0405 PRODIGE 2 randomized trial in rectal cancer. J Clin Oncol 2012; 30: 4558–4565.
+68.	Francois E, Gourgou-Bourgade S, Azria D et al. ACCORD12/0405- Prodige 2 phase III trial neoadjuvant treatment in rectal cancer: re- sults after 5 years of follow-up. J Clin Oncol 2016; 34 (Suppl 4S): abstr 490.
+69.	Schmoll HJ, Haustermans K, Price TJ et al. Preoperative chemoradiother- apy and postoperative chemotherapy with capecitabine and oxaliplatin versus capecitabine alone in locally advanced rectal cancer: disease-free survival at interim analysis. J Clin Oncol 2014; 32 (Suppl): abstr 3501.
+70.	Ro¨del C, Graeven U, Fietkau R et al. Oxaliplatin added to fluorouracil- based preoperative chemoradiotherapy and postoperative chemotherapy of locally advanced rectal cancer (the German CAO/ARO/AIO-04 study): final results of the multicentre, open-label, randomised, phase 3 trial. Lancet Oncol 2015; 16: 979–989.
+71.	Jiao D, Zhang R, Gong Z et al. Fluorouracil-based preoperative chemo- radiotherapy with or without oxaliplatin for stage II/III rectal cancer: a 3-year follow-up study. Chin J Cancer Res 2015; 27: 588–596.
+72.	Deng Y, Chi P, Lan P et al. Modified FOLFOX6 with or without radi- ation versus fluorouracil and leucovorin with radiation in neoadjuvant treatment of locally advanced rectal cancer: initial results of the Chinese FOWARC multicenter, open-label, randomized three-arm phase III trial. J Clin Oncol 2016; 34: 3300–3307.
+73.	Hofheinz RD, Wenz F, Post S et al. Chemoradiotherapy with capecita- bine versus fluorouracil for locally advanced rectal cancer: a rando- mised, multicentre, non-inferiority, phase 3 trial. Lancet Oncol 2012; 13: 579–588.
+74.	Glynne-Jones R, Hughes R. Critical appraisal of the ‘wait and see’ ap- proach in rectal cancer for clinical complete responders after chemora- diation. Br J Surg 2012; 99: 897–909.
+75.	Martens MH, Maas M, Heijnen LA et al. Long-term outcome of an organ preservation program after neoadjuvant treatment for rectal can- cer. J Natl Cancer Inst 2016; 108: pii: djw171.
+76.	van der Paardt MP, Zagers MB, Beets-Tan RG et al. Patients who undergo preoperative chemoradiotherapy for locally advanced rectal cancer restaged by using diagnostic MR imaging: a systematic review and meta-analysis. Radiology 2013; 269: 101–112.
+77.	Siddiqui MR, Bhoday J, Battersby NJ et al. Defining response to radio- therapy in rectal cancer using magnetic resonance imaging and histo- pathological scales. World J Gastroenterol 2016; 22: 8414–8434.
+78.	Beyond TME Collaborative. Consensus statement on the multidiscip- linary management of patients with recurrent and primary rectal cancer beyond total mesorectal excision planes. Br J Surg 2013; 100: E1–E33.
+79.	Sclafani F, Brown G, Cunningham D et al. Systemic chemotherapy (CT) as salvage treatment for locally advanced rectal cancer (LARC) pa- tients (pts) who fail to respond to neoadjuvant chemoradiotherapy (CRT). J Clin Oncol 2017; 35 (Suppl 4S): abstr 709.
+80.	Loughrey MB, Quirke P, Shepherd NA, Royal College of Pathologists. Standards and Datasets for Reporting Cancers. Dataset for Colorectal Cancer Histopathology Reports July 2014, 3rd edition. https://www. rcpath.org/asset/E94CE4A2-D722-44A7-84B9D6829413CFC/ (28 May 2017, date last accessed).
+81.	Mandard AN, Dalibar DF, Mandard JC. Pathological assessment of tu- mour regression after preoperative chemoradiotherapy of oesophageal carcinoma. Clinicopathologic correlations. Cancer 1994; 73: 2680–2686.
+82.	Dworak O, Kelholz L. Hoffman A. Pathological features of rectal cancer after preoperative radiochemotherapy. Int J Colorectal Dis 1997; 12: 19–23.
+83.	Pettersson D, Holm T, Iversen H et al. Preoperative short-course radio- therapy with delayed surgery in primary rectal cancer. Br J Surg 2012; 99: 577–583.
+84.	Evans J, Bhoday J, Sizer B et al. Results of a prospective randomised control 6 vs 12 trial: is greater tumour downstaging observed on post treatment MRI if surgery is delayed to 12-weeks versus 6-weeks after completion of neoadjuvant chemoradiotherapy?. Ann Oncol 2016; 27 (Suppl 6): vi149 (abstract 4520).
+ 
+85.	Lefevre JH, Mineur L, Kotti S et al. Effect of interval (7 or 11 weeks) be- tween neoadjuvant radiochemotherapy and surgery on complete patho- logic response in rectal cancer: a multicenter, randomized, controlled trial (GRECCAR-6). J Clin Oncol 2016; 34: 3773–3780.
+86.	van den Broek CB, Vermeer TA, Bastiaannet E et al. Impact of the inter- val between short-course radiotherapy and surgery on outcomes of rec- tal cancer patients. Eur J Cancer 2013; 49: 3131–3139.
+87.	Sauer R, Becker H, Hohenberger W et al. Preoperative versus postoper- ative chemoradiotherapy for rectal cancer. N Engl J Med 2004; 351: 1731–1740.
+88.	Sebag-Montefiore D, Stephens RJ, Steele R et al. Preoperative radiother- apy versus selective postoperative chemoradiotherapy in patients with rectal cancer (MRC CR07 and NCIC-CTG C016): a multicentre, rando- mised trial. Lancet 2009; 373: 811–820.
+89.	Quasar Collaborative Group, Gray R, Barnwell J et al. Adjuvant chemo- therapy versus observation in patients with colorectal cancer: a rando- mised study. Lancet 2007; 370: 2020–2029.
+90.	Petersen SH, Harling H, Kirkeby LT et al. Postoperative adjuvant chemotherapy in rectal cancer operated for cure. Cochrane Database Syst Rev 2012; 3: CD004078.
+91.	Bosset JF, Calais G, Mineur L et al. Fluorouracil-based adjuvant chemo- therapy after preoperative chemoradiotherapy in rectal cancer: long- term results of the EORTC 22921 randomised study. Lancet Oncol 2014; 15: 184–190.
+92.	Sainato A, Cernusco Luna Nunzia V, Valentini V et al. No benefit of ad- juvant fluorouracil leucovorin chemotherapy after neoadjuvant chemo- radiotherapy in locally advanced cancer of the rectum (LARC): long term results of a randomized trial (I-CNR-RT). Radiother Oncol 2014; 113: 223–229.
+93.	Breugom AJ, van Gijn W, Muller EW et al. Adjuvant chemotherapy for rectal cancer patients treated with preoperative (chemo)radiotherapy and total mesorectal excision: a Dutch Colorectal Cancer Group (DCCG) randomised phase III trial. Ann Oncol 2015; 26: 696–701.
+94.	Breugom AJ, Swets M, Bosset JF et al. Adjuvant chemotherapy after pre- operative (chemo)radiotherapy and surgery for patients with rectal can- cer: a systematic review and meta-analysis of individual patient data. Lancet Oncol 2015; 16: 200–207.
+95.	Zhao L, Liu R, Zhang Z et al. Oxaliplatin/fluorouracil-based adjuvant chemotherapy for locally advanced rectal cancer after neoadjuvant che- moradiotherapy and surgery: a systematic review and meta-analysis of randomized controlled trials. Colorectal Dis 2016; 18: 763–772.
+96.	Glynne-Jones R, Counsell N, Quirke P et al. Chronicle: results of a randomised phase III trial in locally advanced rectal cancer after neoad- juvant chemoradiation randomising postoperative adjuvant capecita- bine plus oxaliplatin (XELOX) versus control. Ann Oncol 2014; 25: 1356–1362.
+97.	Hong YS, Nam BH, Kim KP et al. Oxaliplatin, fluorouracil, and leuco- vorin versus fluorouracil and leucovorin as adjuvant chemotherapy for locally advanced rectal cancer after preoperative chemoradiotherapy (ADORE): an open-label, multicentre, phase 2, randomised controlled trial. Lancet Oncol 2014; 15: 1245–1253.
+98.	Guren MG, Undseth C, Rekstad BL et al. Reirradiation of locally recur- rent rectal cancer: a systematic review. Radiother Oncol 2014; 113: 151–157.
+99.	Alberda WJ, Haberkorn BC, Morshuis WG et al. Response to chemo- therapy in patients with recurrent rectal cancer in previously irradiated area. Int J Colorectal Dis 2015; 30: 1075–1080.
+100.	Bishop AJ, Gupta S, Cunningham MG et al. Interstitial brachytherapy for the treatment of locally recurrent anorectal cancer. Ann Surg Oncol 2015; 22 (Suppl 3): S596–S602.
+101.	Tyc-Szczepaniak D, Wyrwicz L, Kepka L et al. Palliative radiotherapy and chemotherapy instead of surgery in symptomatic rectal cancer with synchronous unresectable metastases: a phase II study. Ann Oncol 2013; 24: 2829–2834.
+102.	van Dijk TH, Tamas K, Beukema JC et al. Evaluation of short-course radiotherapy followed by neoadjuvant bevacizumab, capecitabine, and
+ 
+oxaliplatin and subsequent radical surgical treatment in primary stage IV rectal cancer. Ann Oncol 2013; 24: 1762–1769.
+103.	Pugh SA, Shinkins B, Fuller A et al. Site and stage of colorectal cancer influence the likelihood and distribution of disease recurrence and post-recurrence survival: data from the FACS randomized controlled trial. Ann Surg 2016; 263: 1143–1147.
+104.	Baca B, Beart RW, Jr, Etzioni DA. Surveillance after colorectal cancer resection: a systematic review. Dis Colon Rectum 2011; 54: 1036–1048.
+105.	Primrose JN, Perera R, Gray A et al. FACS Trial Investigators. Effect of 3 to 5 years of scheduled CEA and CT follow-up to detect recurrence of
+ 
+colorectal cancer: the FACS randomized clinical trial. JAMA 2014; 311: 263–270.
+106.	Nicholson BD, Shinkins B, Pathiraja I et al. Blood CEA levels for detect- ing recurrent colorectal cancer. Cochrane Database Syst Rev 2015; 12: CD011134.
+107.	Martling A, Smedby KE, Birgisson H et al. Risk of second primary can- cer in patients treated with radiotherapy for rectal cancer. Br J Surg 2017; 104: 278–287.
+108.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33: 139–144.

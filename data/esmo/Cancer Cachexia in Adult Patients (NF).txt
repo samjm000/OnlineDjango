@@ -1,0 +1,269 @@
+Cancer cachexia in adult patients: ESMO Clinical Practice Guidelines
+
+INTRODUCTION
+Cachexia remains an underdiagnosed and undertreated, complex condition which includes ‘objective’ components (e.g. inadequate food intake, weight loss, inactivity, loss of muscle mass and metabolic derangements, inducing catabolism)1,2 and ‘subjective’ components (e.g. anorexia, early satiety, taste alterations, chronic nausea, distress, fa- tigue and loss of concentration). Approximately half of all patients with advanced cancer experience cachexia.
+Comprehensive treatment requires a multitargeted and multidisciplinary approach aimed at evaluating the objec- tive signs and relieving the symptoms. The primary goal is to meet the physiological and psychological needs of the pa- tient. This includes providing energy, nutritional substrates and anabolic stimuli, as well as compassionate support to address dysfunctions associated with the emotional and social aspects of eating. Nutritional and metabolic in- terventions range from dietary counselling to pharmaco- logical agents and parenteral nutrition (PN). The invasiveness of an intervention needs to be chosen and tailored, weighing the benefits and risks for each individual patient. This is of increasing importance with advancing disease and when approaching end of life. In this sense,
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5Note: Approved by the ESMO Guidelines Committee: February 2021. 2059-7029/© 2021 The Author(s). Published by Elsevier Ltd on behalf of
+European Society for Medical Oncology. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+ 
+nutrition is an essential component of supportive, rehabil- itative and palliative care. During the patient’s trajectory towards end of life, however, the focus of nutritional care needs to change. During anticancer treatment, patients should be offered all available nutritional therapeutic op- tions, if required, whereas during the last weeks of life, care should focus increasingly on immediate symptomatic relief (Figure 1).
+In general, if anticancer treatment is effective, this often results in an improvement in cachectic signs and symp- toms,3 while ineffective anticancer treatment may increase catabolism and aggravate cachexia.4
+This European Society for Medical Oncology (ESMO) Clinical Practice Guideline (CPG) on cancer cachexia has been designed for medical oncologists who frequently care for patients with cancer cachexia in their clinical practice. The goal is to provide answers to questions regarding the diagnosis and treatment of cachexia-related physical and psychological problems, relying on evidence-based infor- mation whenever possible. A similar approach has recently been published by the American Society of Clinical Oncology (ASCO).5
+This CPG provides recommendations on overt cachexia as well as at-risk settings. Evidence to support these recom- mendations has been derived from trials studying the evo- lution of the signs and symptoms of cachexia. Whereas today we define cachexia on a pathophysiological basis to be malnutrition in the presence of disease-related metabolic alterations,6-8 historically, clinical trials used varying and inconsistent combinations of inclusion criteria. A summary
+of inclusion criteria for all clinical trials, guidelines and sys- tematic review articles reported in this CPG is therefore provided for reference in Supplementary Tables S1, S2 and Supplementary Figures S1AeS1C, available at https://doi. org/10.1016/j.esmoop.2021.100092.
+
+Recommendations
+Regular nutritional screening and nutritional support, including (if necessary) enteral nutrition or PN, is recom- mended in all patients receiving anticancer treatment and in those with an expected survival of more than a few months [V, B].
+In patients with an expected survival of less than a few months, a decrease in the invasiveness of nutritional in- terventions is recommended, with dietary counselling and oral supplements preferred, if possible [V, B].
+In patients with an expected survival of less than a few weeks, comfort-directed care is the recommended approach, including alleviating thirst, eating-related distress and other debilitating symptoms [V, B].
+
+DEFINITION AND IMPACT OF CACHEXIA
+Weight loss with depletion of fat stores and muscle mass frequently develop in patients with advanced cancer and may be the first signs leading to the diagnosis of a malig- nancy. A number of pathophysiological derangements may result in weight loss and several factors often occur at the same time, including impaired food intake, reduction in physical activity and its associated anabolic effects as well as metabolic changes leading to systemic inﬂammation and activation of catabolism (see Figure 2). Patients with depleted resources are at an increased risk of anticancer treatment-related toxicity and a lower quality of life (QoL); toxicity results in shorter treatment times, lower
+ 
+
+
+dose intensity, lower response rates, increased surgical complications and higher mortality.7
+Although used since the 19th century, a disconcerting number of definitions have been proposed for the term ‘malnutrition’. To avoid confusion, we recommend following the recent suggestion of the Global Leadership Initiative in Malnutrition (GLIM)8 that defines malnutrition by the presence of a positive malnutrition screening test, one of a list of phenotypical and one of two aetiological criteria (see Table 1). Aetiological criteria are used to differentiate starvation-type (with protein-sparing metabolism9) from cachexia-type or disease-associated malnutrition, charac- terised by accelerated protein breakdown and the hallmark of muscle loss driven by metabolic changes, most notably systemic inﬂammation.6,10,11
+Tissue injury induces inﬂammation;12 in cancer, malig- nant and stromal immune cells may contribute to a chronic inﬂammatory state13 leading to complex catabolic sequelae.14 Systemic inﬂammation has been extensively and reliably associated with poor clinical outcome. A widely validated and simple score to categorise systemic inﬂam- mation is the modified Glasgow Prognostic Score, based on C-reactive protein and serum albumin (C-reactive protein normal: 0; raised C-reactive protein and normal albumin: 1; raised C-reactive protein and low albumin: 2). This score is highly prognostic of clinical outcome.15
+Thus, the pathophysiology of cachexia is currently under- stood as host-tumour interactions redirecting metabolism and driving the brain to reduce appetite, cause alterations in taste and smell, impact gastrointestinal (GI) autonomic function, induce fatigue and decrease daily physical activity (see Section 2 of the Supplementary Material, available at https://doi.org/10.1016/j.esmoop.2021.100092). While inadequate food intake is a major driver of weight loss,7 metabolic changes and reduced activity contribute to loss of muscle mass.16
+During the last decade, low muscle mass (sarcopenia; see definition in Table 117) has been identified as a central factor impacting clinical outcome, and anticancer agents have been recognised as an important cause of sarcope- nia.18 In clinical practice, it is highly relevant that loss of muscle strength and muscle mass may appear early and before the occurrence of a clinically apparent weight loss and that it may coexist with obesity and hence be present in patients with a high body mass index (sarcopenic obesity).19 Cachexia may evolve over time and it has been proposed to differentiate early phases without discernible weight loss (pre-cachexia) from advanced or refractory stages6 (see Figure 3). In cachectic patients, the most common GI symptoms are anorexia and early satiety, nausea, bloating, taste alterations, xerostomia, dysphagia and constipation. In addition, other secondary nutrition impact symptoms may occur, such as breathlessness, severe fatigue, etc. Nutrition impact symptoms are commonly experienced and are associated with a poor QoL and performance status (PS).20
+
+Recommendation
+Defining cachexia as disease-related malnutrition based on the GLIM definition of malnutrition and the presence of systemic inﬂammation is recommended [V, A].
+ 
+
+SCREENING AND ASSESSMENT OF CACHEXIA
+To ensure access to adequate nutritional and metabolic care for all patients, it is important to:
+
+Detect at-risk patients by routinely implementing a standardised screening procedure.
+Assess all at-risk patients for their nutritional and metabolic status as well as all impairments endangering this status.7
+
+Malnutrition risk screening
+Nutritional risk screening should be carried out regularly in all cancer patients undergoing anticancer treatment and in those with an expected survival of more than a few (i.e. 3-6) months. In patients with an expected survival of less than a few months, screening for eating-related distress should be carried out (Figure 4).
+While there is no general agreement on the ‘best’ screening tool,21,22 the following are suggested: Malnutrition Universal Screening Tool (MUST), Nutrition Risk Screening 2002 (NRS-2002), Short Nutritional Assessment Questionnaire (SNAQ) and the Malnutrition Screening Tool (MST).21 Other more complex tools like the Patient-Generated Subjective Global Assessment (PG-SGA) may be included in assessment procedures.
+Assessment of nutritional status
+All patients diagnosed as being at-risk following malnutri- tion screening should be referred to a nutrition expert for assessment of nutritional and metabolic status and evaluation of food intake impairment and GI function.7 Assessing nutritional status should include objective assessment of the following (see Table 2 for recommended parameters):
+
+Body weight (BW).
+Weight change during the preceding months. Body composition with a focus on muscle mass.6 Food intake with a focus on energy and protein.
+PS [Eastern Cooperative Oncology Group (ECOG)/World Health Organization (WHO)].
+Information regarding the presence and degree of sys- temic inﬂammation.7
+An assessment of factors that are impeding or that might interfere with maintaining nutritional status should include evaluation of:
+ 
+Recommendations
+Standardised screening for nutritional risk at regular in- tervals is recommended for all patients undergoing anti- cancer treatment and those with a life expectancy of at least a few (i.e. 3-6) months; a validated screening tool should be applied [V, B].
+Offering supportive nutritional advice and education about cachexia, as well as psychological and palliative support, is recommended for all patients experiencing eating-related distress [V, B].
+Patients found to be at no immediate risk of malnutrition by screening should be re-screened at regular intervals (typically every 3 months or at staging for anticancer treatment) or, in cases where anticancer treatment with a high risk of inducing malnutrition is planned (e.g. combined-modality treatments, high-dose chemo- therapy, highly emetogenic agents), prophylactic nutri- tional support should be considered [V, B].
+For patients identified as being at nutritional risk, an objective assessment of nutritional and metabolic status (including weight, weight loss, body composition, inﬂam- matory state, nutritional intake and physical activity) and examination for the presence of factors interfering with the maintenance or improvement of this status (including nutrition impact symptoms, GI dysfunction, chronic pain and psychosocial distress) is recommended. Repeating nutritional assessments at regular intervals, typically monthly, is also recommended to guide multi- component anti-cachexia treatment [V, B].
+
+DECIDING ON CACHEXIA TREATMENT
+The relative importance of cachexia-related subjective and objective signs and symptoms may change during the tra- jectory of the disease; changes in body resources and metabolic pattern as well as impairment of physical per- formance are essential targets in patients undergoing anti- cancer treatment, but they lose their importance near end of life. Debilitating symptoms, however, need to be treated
+and alleviated as much as possible throughout the life of every patient with the involvement of his/her family members and caregivers.
+ 
+Predicting the overall survival (OS) and end of life of in- dividual patients is inherently difficult, inaccurate and often overly optimistic.24 Probability estimates (i.e. prediction of
+the chances of a patient being alive at a certain time point) are more accurate,25 as are simple scores based on in- ﬂammatory markers.26
+Dealing with uncertainties in prognosis requires contin- uous, honest and empathic communication with the patient and his/her caregivers as well as comprehensive discussions among all members of the medical team to recognise and repeatedly re-evaluate the indication for individual anti- cachexia interventions, given that each intervention is associated with different risks and burdens. Table 3 pro- vides a summary of key criteria to consider when discussing the initiation of nutritional interventions with the patient and family/caregivers.
+
+Choosing anti-cachexia treatment options: prioritising multimodal care
+Given the complex and multifaceted contributors to cachexia, anti-cachexia treatment must be based on a
+ 
+comprehensive assessment of the patient’s situation and an evaluation of reasonable, available treatment options, resulting in a personalised, multitargeted and multimodal approach.27
+Food intake may be compromised by many factors and secondary to nutrition impact symptoms, some of which may be amenable to treatment. If, after alleviating these factors, food intake is still inadequate, nutrition-based in- terventions should be initiated.
+Compared with providing energy and nutrients by nutri- tional interventions, modulating metabolic derangements is more complex. The evolution of insulin resistance28 and anabolic resistance29 impair the maintenance of whole- body muscle mass. Thus, interventions to decrease catab- olism and increase anabolic pathways include the provision of adequate amounts of energy and proteins; muscle training; pharmacological agents to increase appetite, diminish systemic inﬂammation and stimulate muscle growth; and psychosocial interactions to alleviate distress. When anticancer treatment is offered to a cachectic pa- tient, in addition to carefully adjusting the dosing, the in- tensity of multimodal supportive management needs to be enhanced, encompassing nutrition, physical exercise, anti-catabolic and anti-inﬂammatory treatment, as well as psychological and social support. In the cachectic cancer patient who is physically unfit for further oncological ther- apy, a key challenge is to decide whether to maintain or reduce the intensity of multimodal supportive manage- ment. Nutritional support and physiotherapy may be offered on an individual basis while carefully monitoring individual goals and QoL. During the last weeks of life, it is essential to provide relief from eating-related distress and weight loss-related distress, strategies to cope with impending death and compassionate communication with
+patients and family.
+Recommendations
+Every patient with cachexia should be offered interven- tions with the goal of either improving or alleviating the consequences of cachexia [II, B].
+Cachexia treatment requires a multimodal approach aimed at relieving symptoms impacting on food intake, ensuring adequate energy and nutrient intake, minimis- ing catabolic alterations, supporting muscle training and offering psychological and social support [II, B].
+During anticancer treatment and in patients with a life expectancy of more than a few (i.e. 3-6) months, inter- ventions to both antagonise deterioration of body re- sources and metabolism, and to alleviate debilitating symptoms, are recommended [IV, B].
+If expected survival is less than a few (i.e. 3-6) weeks, focussing on anti-cachexia interventions aimed at allevi- ating distressing symptoms like thirst, nausea, vomiting and dysphagia, and psychological and existential distress, as well as distress to family members, is recommended [IV, B].
+In situations where it is difficult to decide on appropriate anti-cachexia intervention strategies, a tentative inter- vention for a limited period may be considered to eval- uate the likelihood of improvement [IV, C].
+
+
+NUTRITIONAL INTERVENTIONS
+In patients undergoing anticancer therapy and/or with an expected survival of at least a few months, ensuring an adequate energy and nutrient intake should be pursued vigorously (see section on nutritional requirements). Cancer patients who cannot eat adequate amounts of food should receive nutritional support as an essential component of best supportive care to improve food intake, BW and QoL.30-32 Nutritional support in patients able to eat should be based on dietary counselling, guidance on choosing high- energy, high-protein foods, enriching foods (e.g. by adding fat/oils, protein powder) and use of oral nutritional sup- plements (ONSs). If this proves inadequate, tube feeding should be offered if the lower GI tract is working, otherwise PN is the method of choice. Separate routes of feeding may be combined for optimal effect7 (Figure 5).
+In patients not receiving anticancer therapy with an ex- pected survival of less than a few months, nutritional in- terventions with low risks/burdens for the patient (e.g. counselling and ONSs) are preferred. Very few trials have compared different modes or amounts of nutritional sup- port. In one trial, which randomised patients with severely compromised food intake and a limited survival of 1-4 months to supplemental PN or oral feeding, PN did not improve QoL or survival but increased adverse events.33 Similarly, another trial which randomised patients in the end-of-life setting to PN or ﬂuids only showed that PN did not affect median survival.34 During the last weeks of life, nutritional interventions are rarely indicated.7 Given the potential risks of enteral nutrition and PN (see sections on tube feeding and PN), these interventions should be
+ 
+considered as high-risk compared with low-risk in- terventions such as counselling and ONSs.
+
+Nutritional requirements
+The aim of nutritional support is to ensure adequate intake of energy and nutrients by enabling the patient to eat normal food, enjoy eating and participate in meals with others as a component of social life.7 It may be difficult or even impossible to achieve tissue accretion without physical activity and within the context of active systemic inﬂam- mation; therefore, these problems need to be addressed simultaneously.
+While resting energy expenditure may be increased in cachexia, total energy expenditure is often normal (25-30 kcal/kg BW/day) because of corresponding reductions in physical activity,7 but may be unpredictably low or high in some patients.35 Even increased energy and protein intake may not be able to attenuate weight loss in all patients. Given the presence of anabolic resistance in older subjects and in chronic diseases, higher than normal amounts of protein (at least 1.2 and possibly up to 2 g/kg BW/day) may be required to balance protein synthesis.36-38
+Fat utilisation in weight-losing cancer patients is very efficient and may cover a major part of resting energy expenditure,39,40 whereas carbohydrate utilisation is impaired in the presence of systemic inﬂammation and in- sulin resistance. In addition, fats are energy-dense and allow for feeding of smaller volumes. Compared with standard food, an isonitrogenous, isocaloric, ketogenic diet low in carbohydrates maintains nitrogen balance and whole-body protein turnover rates.41 In a randomised controlled trial (RCT) carried out in malnourished cancer patients, a high-fat diet improved weight control, fat-free mass and body mass compared with normal food.42
+
+Dietary counselling and ONSs
+It is unreasonable to expect an increase or stabilisation in weight if nutritional needs are not met. As a good example, two systematic reviews have shown that dietary counselling is generally effective in increasing dietary intake, BW and QoL in patients undergoing radiotherapy, with some sug- gestion that dietary counselling may also improve nutrition impact symptoms, complications, response to anticancer treatment and survival.43,44
+ONSs are a balanced mixture of macro- and micro- nutrients available as liquid feeds, puddings and powdered formulations reconstituted with milk or water. They are available in a range of different presentations, ﬂavours and formulations, including fibre-containing and milk-, juice- or yoghurt-like products. In general, dietary counselling with ONSs, when necessary, is effective for inducing weight gain and increasing dietary intake. How- ever, most trials on this topic were hampered by poor methodological quality, specifically from inadequate reporting of actual dietary intake and not reaching recom- mended dietary intakes.32,45 Three systematic reviews re- ported that providing standard ONSs without dietary
+counselling was not effective.43,44,46 As such, ONSs are best used as an adjunct to a therapeutic diet and counselling by a professional dietician.46 A meta-analysis of patients un- dergoing chemotherapy showed positive effects of dietary counselling on weight gain with or without ONSs.32 Two systematic reviews focusing on dietary counselling and ONSs in malnourished patients reported positive effects on energy intake, weight gain and some aspects of QoL (e.g. emotional functioning, loss of appetite and global QoL) but noted that evidence was weak due to the poor methodo- logical quality of included trials.30,47
+In cancer cachexia, n-3 fatty acids have been studied, particularly for their anti-inﬂammatory properties, and are available as a component of specialised ONSs, usually also enriched in protein (N3P-ONSs). Several randomised trials have been published on the effects of N3P-ONSs in cancer patients.32,47-50 Overall, studies were heterogeneous and inadequately powered to show effects on treatment toxicity or survival. No negative effects of the supplements were reported. Most trials suggested benefits of N3P-ONSs on weight, lean body mass and some aspects of QoL when given to patients receiving radiotherapy, chemotherapy or chemoradiotherapy. However, when given to patients not receiving anticancer therapy, no benefit of N3P-ONSs was detected.51
+ 
+Tube feeding
+Dysphagia due to obstruction, motility dysfunction or mucosal inﬂammation may compromise or prevent normal food intake and thus is an indication for tube feeding to circumvent the defect. Patients with head and neck or up- per GI cancers are at particular risk of dysphagia due to obstructing tumours as well as severe mucositis induced by aggressive treatment (e.g. combined-modality treatment). It is critical to recognise the emergence of dysphagia early and to respond in a timely and individually appropriate way to safeguard adequate feeding. This may include diagnostic procedures to classify and grade swallowing deficits, involving a speech therapist, specialised dietary counselling and products either via nasogastric tube feeding (NTF) or percutaneous tube feeding [e.g. percutaneous endoscopic gastrostomy (PEG)].7,52
+Tube feeding may be associated with potentially serious complications, including mechanical (e.g. tube blockage), GI (e.g. diarrhoea), infectious (e.g. aspiration pneumonia) and metabolic (e.g. refeeding syndrome) complications.53
+Short-term RCTs have shown that the metabolic efficacy and complication rates of enteral nutrition and PN are similar.54,55 As the enteral route is more physiological, safer and less expensive, it represents the first option if there is no severe impairment of GI function (Figure 5). In some
+settings, supplemental PN should be preferred over tube feeding; for example, if patients are suffering from nausea, vomiting, abdominal discomfort or severe diarrhoea. Tube feeding may be ineffective due to frequent dislodging; in particular, tube feeding may not prevent aspirations in pa- tients with dysphagia. Given the lack of reliable clinical evidence of superior outcome for either method, it has been proposed that patient preference be considered when deciding on the feeding method.56 Some patients strongly prefer an intravenous route over tube feeding,56,57 espe- cially if a patient has already had a central venous catheter inserted.
+Results from observational trials and RCTs comparing early tube feeding to oral nutrition in patients with head and neck cancer are heterogeneous, possibly due to the different oral nutrition regimens used in the control groups as well as a lack of stratification of patients by risk scores for malnutrition and dysphagia.58 Appropriate prediction and careful monitoring of food intake in order to identify the need for initiation of enteral feeding are recommended by European and Canadian guidelines.7,59
+Several RCTs have compared NTF and PEG in head and neck cancer patients requiring nutritional support for 1 month. PEG resulted in better nutritional parameters after 6 weeks of treatment but not later.60,61 Meta-analyses have also reported no significant differences in the overall complication rates between NTF and PEG,62 even though tube dislodgement was more frequent with NTF and dysphagia was more frequent with PEG.63 Resolution of dysphagia is impaired with long-term tube feeding.
+
+PN
+In patients with severely compromised GI function, it may be impossible to ensure adequate nutrition by the oral or enteral route. PN and home PN are being widely used in patients with advanced cancer, both in patients still receiving or no longer receiving anticancer treatments, although evidence to support PN in patients with advanced cancer is weak.33,64-66 It appears obvious that a prolonged, severely reduced tolerance of food may compromise clinical outcome, and in these settings, PN might improve QoL and possibly survival. A recent systematic review assessing the effectiveness of home PN in people with malignant bowel obstruction included only observational studies, reported a high risk of bias and graded the certainty of evidence to be very low for improving survival and QoL.67 Another sys- tematic review found that PN in patients with advanced cancer was understudied and that the level of evidence was weak.68 The PS and Glasgow Prognostic Score impact strongly on survival in patients with advanced cancer receiving home PN.69 From this, it has been suggested that PN should be avoided if the ECOG/WHO PS is 3 or 4.70 More complex scores and nomograms have been developed to estimate the probability of survival in patients with advanced cancer receiving home PN, e.g. based on Glasgow
+ 
+Prognostic Score, PS, presence of metastatic disease and cancer entity.65 While these tools may separate groups of patients with similar survival, predictions for individual pa- tients are imprecise.
+However, absence of evidence is not identical to evidence of absence of an effect,71 and a decision to forego the option of intravenous nutrition should not only be based on the lack of high-quality trials. Rather, the decision to initiate PN should be individualised based on the extent of disease, physical and psychological resources of the patient and on a case-by-case risk/benefit assessment (see Table 3).
+PN carries the risk of potentially severe complications, including (but not limited to) catheter-related infection, occlusion and thrombosis, derangements of substrate and electrolyte levels, refeeding syndrome, exsiccosis, ﬂuid overload and chronic hepatopathy and osteopathy.72
+PN may be offered to patients who do not tolerate any oral food or those who still tolerate some but inadequate amounts of oral food. The latter has been termed ‘sup- plemental PN’, although there is no agreement on the amount of food tolerated to justify this designation. A number of prospective observational studies have re- ported the effects of PN in patients with advanced cancer suffering from either severe GI obstruction or malnutri- tion.66,73-75 OS was reported as 57%-75% after 1 month, 34%-67% after 3 months and 12%-34% after 6 months, but this was dependent on the type of patients included.66,73,75 Only one of these observational trials reported a small, but not clinically relevant, improvement in QoL.73 Obling et al.76 randomised 47 patients with incurable GI cancer to dietary counselling plus either ONSs or supplemental PN. The authors observed improvements in fat-free mass and QoL in favour of the supplemental PN group at 12 weeks but no difference in 6-month survival; however, the statistical analysis was ﬂawed by the very large number of statistical tests carried out.76 Bouleuc et al.33 randomised 111 patients with advanced cancer to optimised nutritional care with or without additional supplemental PN for several months; supplemental PN did not improve either QoL or survival but increased severe adverse events. Thus, the potential clinical benefit of PN needs to be balanced against relevant risks (e.g. metabolic derangements, septic complications) and burdens (e.g. connection to an intravenous line for up to 14 hours per day).33
+None of the published trials reported whether patients were aware of their prognosis or the uncertainty about the benefits of PN.
+An open question is how to manage the withdrawal of home PN at end of life. Although there has been no formal study on this issue, clinical experience shows that general criteria to withhold home PN when deemed no longer helpful should be considered early at the time when home PN is first offered and thereafter be discussed repeatedly to minimise distress when it is required to phase out PN at end of life.
+ 
+ESMO Open	J. Arends et al.
+
+ 
+Recommendations
+Nutritional interventions
+
+In patients with inadequate food intake, nutritional inter- ventions are recommended. In patients with an expected survival of more than several months and in those receiving anticancer therapy, these interventions should be escalated, as required. In other situations, low-risk interventions (e.g. counselling and ONSs) are preferred [II, A].
+If safe, the oral route should be the first option for nutri- tional support. Enteral tube feeding may be used in cases of dysphagia if the small bowel function is preserved. PN should be considered if oral intake and tube feeding are not tolerated or remain inadequate [II, A].
+
+Nutritional requirements
+
+Nutritional interventions should aim to fulfil energy and nutrient requirements [III, B].
+Nutritional interventions should be accompanied by mus- cle training and efforts to normalise metabolic state (diminish systemic inﬂammation, alleviate distress) [III, B]. To maintain nutritional status, at least 25-30 kcal/kg BW/ day is recommended, adjusting the regimen as required [V, B].
+At least 1.2 g protein/kg BW/day should be provided [V, B].
+In patients with cachexia, regimens with fat accounting for half of the non-protein calories are recommended [II, B].
+
+Dietary counselling and ONSs
+
+Dietary counselling should be the first choice of nutri- tional support offered to improve oral intake and possibly weight gain in cachectic or at-risk patients who are able to eat. Dietary counselling should empha- sise protein intake, an increased number of meals per day, treatment of nutrition impact symptoms and offer- ing nutritional supplements when necessary. An adequately trained professional should guide this advice [II, B].
+ONSs can be supplied as part of dietary counselling to improve energy intake and induce weight gain [II, B].
+Patients receiving chemotherapy, radiotherapy or che- moradiotherapy may be offered N3P-ONSs to increase BW, attenuate loss of lean body mass and improve QoL [II, C].
+
+Tube feeding
+
+For patients with head and neck or upper GI cancers, especially those undergoing anticancer treatment, tube feeding to maintain BW or to reduce weight loss is
+ 
+recommended if oral feeding including ONSs is expected to remain inadequate for more than a few days [I, A]. In patients requiring >4 weeks of enteral feeding, PEG rather than NTF is recommended [II, C].
+In patients requiring tube feeding, screening for and management of dysphagia is recommended along with encouragement and education to patients regarding how to maintain their swallowing function [II, B].
+
+PN
+
+Home PN should be offered to patients if their QoL and/ or length of survival is expected to be severely compro- mised by progressive malnutrition. Indicators of a poten- tial benefit are ECOG/WHO PS 0-2, a low level of systemic inﬂammation (normal levels of serum albumin, modified Glasgow Prognostic Score <2) and the absence of metastatic disease [V, B].
+There is insufficient evidence to routinely recommend supplemental PN in hypophagic, malnourished patients receiving chemotherapy to improve QoL and nutrition parameters [V, B].
+
+MUSCLE STRENGTH AND ENDURANCE TRAINING TO SUPPORT ANABOLISM
+Current evidence shows that physical exercise is safe and provides benefit in QoL and in muscular and aerobic fitness for people with cancer, both during and after treatment.77 However, so far, reviews on exercise in cancer cachexia have generally been narrative or based on animal models. A systematic review and meta-analysis of RCTs focusing on exercise training in cachexia found no trials which met the inclusion criteria.78 An RCT comparing 8 weeks of exercise training with usual care in 231 patients with advanced cancer reported improved physical perfor- mance but no effect on subjective fatigue.79 However, despite limited robust data, multimodal rehabilitation programmes incorporating exercise and nutritional interventions have been reported to improve many out- comes, most notably those relating to physical endurance and depression scores.80
+While many patients with advanced cancer may drop out of exercise programmes due to progressive disease, when carefully supervised, the intervention appears safe for patients with advanced cancer, even in the hospice setting.79,81,82 It is suggested that exercise techniques be chosen based on the individual risk of falls and of skeletal instabilities, and to suspend training when patients experi- ence a fever >38◦C, infection, platelet count <20 000 g/l,
+haemoglobin <8 g/dl or if they display other contraindi-
+cations to exercising.83
+Exercise has been hypothesised to attenuate the effects of cancer cachexia by modulating muscle metabolism, in- sulin sensitivity, anaemia, hypogonadism and systemic inﬂammation.84 Physical activity may increase muscle
+strength and maintain a patient’s functional ability, espe- cially when a combination of moderate- to high-intensity resistance and aerobic exercise is undertaken.84 Exercises of moderate intensity are described as those which fall in between 5-8 metabolic equivalents (METS; a procedure to quantify the energy cost of activities). These include activ- ities that take as much effort as brisk walking (5 km/h), a stationary bike with light effort and home-based exer- cises.85 Resistance exercises should alternate between up- per and lower limbs, focus on movement quality and use defined sets of repetitions. Aerobic training should be accompanied by continuous or intermittent heart rate monitoring.
+
+Recommendations
+When guided by professional experts, moderate physical exercise is safe in patients with cancer cachexia and is recommended to maintain and improve muscle mass [II, B].
+Resistance exercise two to three times per week as well as moderate aerobic (endurance) training should be offered to all patients with cachexia. The exercise pre- scription should involve a physiotherapist or an adequately trained professional and comprise a struc- tured approach, including mode (aerobic, resistance, ﬂexibility), frequency, intensity and duration as well as defined time points for reassessment [II, B].
+
+
+PHARMACOLOGICAL INTERVENTIONS
+Several drugs have been investigated for their potential use to treat or ameliorate the consequences of cancer cachexia. However, only corticosteroids and progestins have consis- tently shown beneficial effects on appetite and/or BW, though at the expense of substantial side-effects, while for other agents, the data are heterogeneous or disappointing. The following section presents drugs that are approved for clinical use and have shown some anti-cachexia effect in
+clinical trials.
+
+Corticosteroids
+Corticosteroids include several agents with variable gluco- corticoid, mineralocorticoid and anti-inﬂammatory potency. Prednisolone, methylprednisolone and dexamethasone are used most frequently. Symptomatic relief appears to be mainly achieved by their potent anti-inﬂammatory activ- ity.86 Toxicity is usually minor when used for only a few weeks, whereas during prolonged intake, corticosteroids cause a rapid loss of muscle mass, insulin resistance and increased likelihood of infections, such as candida and stomatitis, contributing to a deterioration of cachectic pa- tients.87 Corticosteroids are recommended for the control of cancer-related fatigue.88 Several RCTs investigating the effects of corticosteroids on appetite in patients with advanced cancer have been published. Most trials reported a temporary benefit in appetite and well-being, whereas
+ 
+there were no effects on BW or survival.7,89 The anti- anorectic effect of corticosteroids is transient and often disappears after a few weeks.90 There are limited data available to recommend one corticosteroid over another.
+
+Progestins
+Medroxyprogesterone acetate and megestrol acetate (MA) have been studied widely to treat weight loss and anorexia in cancer patients. In preclinical models, progestins stimu- late appetite and inhibit the synthesis of pro-inﬂammatory cytokines. A Cochrane review91 including 23 RCTs on the use of MA in patients with cancer (median duration of 8 weeks) found a significant improvement in appetite (relative risk 2.57) and weight gain (relative risk 1.55). However, no consistent improvement in QoL was observed and no data on muscle mass or physical function were reported. In the analysed trials, MA was used in doses of 160-800 mg/day
+and weight improvement appeared higher for doses >160 mg/day, while no dose effect was observed for appetite.
+Treatment with MA is associated with an increased risk of thromboembolism, ﬂuid retention, adrenal insufficiency and hypogonadism in male patients.92 While the aforemen- tioned Cochrane review reported that MA treatment was associated with an increased mortality rate,91 an update concluded that MA does not increase the rates of adverse events or death.93
+Although progestins have been studied in many RCTs, confirming modest stimulation of appetite, their clinical use is limited because of the significant risk of potentially serious side-effects.
+
+Cannabinoids
+Cannabis sativa is a medical plant containing multiple cannabinoids, including tetrahydrocannabinol (THC). Medi- cal cannabis is available in various formulations, e.g. tab- lets/capsules, vaporiser or mouth spray.
+In patients with cancer cachexia, when studied in small trials and case series, THC appeared to improve appetite and attenuate weight loss. However, larger randomised trials comparing THC with either MA94 or placebo95 could not detect a significant effect on appetite or QoL; in these trials, toxicity was low. In a small, placebo-controlled, 8- week RCT in 47 anorectic patients with advanced non- small-cell lung cancer, the synthetic THC derivative, nabilone, resulted in low toxicity but no significant effects on appetite or QoL.96 Current safety data for medical cannabis in cancer cachexia is based on only a few trials that likely under-dosed patients and so safety concerns remain.
+
+Androgens
+In cancer patients, hypogonadism is related to advanced cancer status, weight loss and, most likely, the use of opioid therapy. Anabolic-androgenic steroids have been shown to ameliorate loss of muscle mass and strength in patients with wasting associated with acquired immune deficiency
+ 
+ESMO Open	J. Arends et al.
+
+ 
+syndrome. The use of androgens has not been studied extensively in patients with cancer cachexia. In an RCT of 37 lung cancer patients, the analogue nandrolone did not improve BW compared with placebo.97 In a three-armed RCT including 496 patients with cachexia, ﬂuoxymesterone 10 mg b.i.d. was significantly inferior to MA 800 mg/day in terms of appetite improvement.98
+
+Olanzapine
+Olanzapine is an atypical antipsychotic drug acting on multiple receptors, including dopamine and serotonin re- ceptors, both of which are potentially relevant in cachexia.99 In clinical use, olanzapine causes more weight gain than other antipsychotic drugs.100 In a single arm, dose escalation study in 39 weight-losing patients with advanced cancer, olanzapine could not attenuate weight loss.101 However, in a trial randomising 80 patients with advanced cancer to receive MA or MA and olanzapine, the combi- nation arm yielded significant improvements in appetite and BW.99 In a recent RCT, olanzapine significantly reduced non-chemotherapy-induced nausea in 30 patients with advanced cancer compared with placebo.102 Thus, olanza- pine may be considered for treating chronic nausea in pa- tients with advanced cancer.
+
+Non-steroidal anti-inﬂammatory drugs
+Non-steroidal anti-inﬂammatory drugs (NSAIDs) block the cyclooxygenase pathways and reduce inﬂammation by inhibiting prostaglandin production. NSAIDs have been studied to reduce the catabolic drive of systemic inﬂam- mation in patients with advanced cancer and cachexia. In a systematic review including six controlled trials and seven observational trials,103 11 of these trials reported an in- crease or stabilisation of BW or lean body mass with few side-effects reported. The cumulative evidence, however, was weak due to the low methodological quality of the analysed trials. Thus, in cachectic patients requiring pain control, NSAIDs could be considered with the potential additional benefit of improving BW.
+
+Prokinetics
+Metoclopramide and domperidone are widely used to treat early satiety and chronic nausea104 as well as dyspepsia syndrome and gastroparesis.105 However, no large RCT has investigated the role of prokinetic agents in cachexia. While one RCT in patients with advanced cancer showed that metoclopramide may improve nausea but not appetite,106 there are no similar studies with domperidone.
+Metoclopramide and domperidone can cause serious, mainly neurological, side-effects, e.g. tardive dyskinesia, spasms, depression, dizziness and urinary retention.107
+
+Ghrelin receptor agonists
+Anamorelin has recently been approved in Japan for cancer cachexia in patients with non-small-cell lung cancer, gastric cancer, pancreatic cancer and colorectal cancer,
+ 
+but it is not approved in Europe based on findings from the ROMANO studies which showed a more modest improvement in lean body mass compared with that seen in the Japanese trials.
+
+
+Combination therapy
+Published trials investigating potential synergies among pharmacological agents like progestins, antioxidants, L- carnitine, thalidomide, n-3 fatty acids and NSAIDs were unsuccessful or unreliable due to methodological deficiencies.108,109
+
+Recommendations
+Corticosteroids may be used to increase appetite for a short period of up to 2-3 weeks. Effects on appetite usu- ally disappear with longer treatment [I, B].
+Progestins may be used to increase appetite and BW, but not muscle mass, QoL or physical function in patients with cancer cachexia [I, B]. The risk of serious side- effects, including thromboembolic events, must be considered.
+There is insufficient evidence to support the use of med- ical cannabis or its derivatives to alleviate anorexia or early satiety in patients with cancer cachexia [II, C].
+As there is evidence of no beneficial effect in terms of improvement in muscle mass, androgens are not recom- mended [II, D].
+There is moderate evidence to suggest considering the use of olanzapine to treat appetite and nausea in pa- tients with advanced cancer [II, B].
+There is insufficient evidence to recommend the use of NSAIDs alone to treat cancer cachexia [III, C].
+There is insufficient evidence to recommend the use of metoclopramide or domperidone alone to treat cancer cachexia [II, C].
+There is insufficient evidence to recommend specific combination regimens due to the lack of evidence from large, well-designed, randomised trials [II, C].
+
+
+COMMUNICATION WITH PATIENTS AND THEIR FAMILIES
+Addressing cachexia-related psychosocial distress
+In the presence of cachexia-related symptoms such as anorexia and fatigue, patients and their families experience stressful changes in eating habits and challenging social interactions.110,111 Patients report wanting and trying to eat but being unable to do so, while family members often misunderstand the complex and powerful derangements responsible for anorexia and food aversion in cachexia and pressure their relative to eat, thus increasing tension and conﬂict in the patientefamily unit.112,113 In addition, continued loss of weight and function alters the patient’s appearance with consequences on their self-image and self- esteem.113
+Early identification of psychosocial distress and the impact of cachexia allows for timely interventions to manage distressing symptoms and improve QoL.114
+
+Cachexia-centred communication
+Focus groups and semi-structured interviews with 34 Irish health care professionals revealed that doctors, nurses and dieticians tend to avoid the problem of cancer cachexia because of difficulties in communicating its complex and often irreversible nature and negative prognosis, and for fear of lowering the patient’s hope.115 A missed acknowl- edgement, however, has made family members feel mis- informed and isolated.116 Poor communication by health care professionals may weaken the confidence of patients and families in their knowledge and understanding of cachexia; thus, transparent information is clearly preferred.116 A large survey (response rate 76%) of 702 bereaved family members of cancer patients in Japan sug- gested that health care professionals may relieve psycho- logical and emotional distress by explaining the mechanisms of cancer cachexia as simply as possible.117
+Tailored information about the role of nutritional support according to the stage of cachexia (see Figure 3) is funda- mental to achieving agreement between health care professionals, patients and families on treatment goals. A systematic review including 19 studies investigating eating- related distress in patients with cachexia found that the main causes of negative psychosocial effects are a lack of knowledge regarding the nature of cancer cachexia and unsuccessful attempts to increase BW. A structured and informative intervention prevents families from feeling overwhelmed by their loved one’s disease and alone in managing weight and eating problems.118
+These findings suggest that patients and their families need honest and problem-centred communication tailored to the disease stage.
+
+Psychosocial interventions
+The aim of psychosocial interventions is to reduce the emotional burden associated with cancer cachexia by empowering patients and families to cope with the dys- functions and derangements of cachexia, thus improving QoL.118-120 Health care professionals can adopt different strategies (e.g. DVDs, stories, open questions) to help pa- tients and families to share their perspectives about food- related issues.120
+A small, randomised, exploratory trial evaluating psy- chosocial intervention on weight and eating-related distress in 50 patients with advanced cancer found that treated patients reported lower levels of distress compared with the control group.118 Qualitative analysis suggested that psychosocial intervention was helpful for carers as it provided information, reassurance and support for self-management.119 In a small, mixed-methods, qual- itative research study, a family-centred psychosocial intervention was developed and delivered by a single nurse researcher to help patients with advanced cancer
+ 
+and their families/caregivers to cope with the patient’s involuntary weight loss and worsening appetite. The intervention was delivered during face-to-face consulta- tions and 15 out of 16 patientecaregiver dyads reported benefits.120
+
+Recommendations
+Health care professionals should routinely assess pa- tients and their families to permit timely identification of any psychosocial distress [V, B].
+Health care professionals should provide tailored infor- mation according to the stage of cachexia and empower patients and their families to understand its nature, course and biological mechanisms, and to acknowledge its negative effects (e.g. weight loss, reduced appetite, early satiety), thereby promoting greater awareness about the clinical condition and the need for early multi- disciplinary intervention [IV, B].
+Psychosocial interventions should be considered as early as possible in cachexia management. They should be conducted by trained health care professionals and aim to help patients and their families to cope with involun- tary weight loss and to strengthen the dyadic coping re- sources [III, B].
+
+
+MULTIMODAL TREATMENT
+Multimodal interventions against cancer cachexia have been advocated for more than a decade based on the complex underlying pathophysiology [see Section 2 (text and Supplementary Figure S2) of the Supplementary Material, available at https://doi.org/10.1016/j.esmoop. 2021.100092] and the wealth of contributing factors impacting on BW, muscle mass, food intake and physical function.121 Components of such multimodal support may target calorific intake, physical activity, psychosocial and spiritual functions, as well as key factors in cachexia path- ophysiology, such as inﬂammation. The concept of using synergies of supportive interventions has been described to achieve ‘anabolic competence’.122 Examples of multimodal care in daily clinical practice have been assembled by Maddocks et al.123 However, so far, few trials combining separate treatment modalities have been reported; ongoing investigations primarily focus on simultaneously targeting nutritional support, muscle training and anti-inﬂammatory concepts. Importantly, in healthy subjects, bouts of phys- ical exercise significantly prolong the increase in muscle protein synthesis induced by feeding.124
+The randomised, 6-week, MENAC pilot trial compared a multimodal combination of NSAIDs, nutritional advice, oral supplements enriched in eicosapentaenoic acid and physical exercise to standard treatment in 46 patients with solid tumours starting chemotherapy.82 This trial showed that the intervention improved BW and is now being followed by a phase III trial recruiting patients with lung and pancreatic cancer. Another small trial, randomising 58 patients with advanced cancer to usual care or 12 weeks of an exercise
+ 
+ESMO Open	J. Arends et al.
+
+ 
+training programme combined with repeated nutritional counselling, showed a significant increase in protein intake and a decrease in nausea and vomiting.125 Recently, a large RCT including 328 patients with previously untreated met- astatic oesophago-gastric cancer received either standard care or additional nutritional and psychological in- terventions; combined-modality support resulted in improved OS in the intention-to-treat analysis.126
+
+Recommendation
+In patients with cachexia, combining nutritional support with exercise training and psychological support is pro- posed [II, B]. Anti-inﬂammatory interventions should also be considered [V, C].
+
+ORGANISING SUCCESSFUL CACHEXIA CARE IN MODERN ONCOLOGY
+Critical points for cachexia care are to implement screening, assessment and treatment in routine cancer care. Initiating and maintaining these efforts, including a quality control
+ 
+process, requires support by the institutional leadership. Evidence for the effectiveness of cachexia clinics is scarce due to a lack of RCTs.127 Extrapolation from pain in- terventions128 or specialised palliative care129 suggests its potential effectiveness. Typically, a registered dietician, physiotherapist, palliative care nurse, psychologist and a palliative/supportive/rehabilitative care specialistdwho ideally would also be a medical oncologist130dcould build the ‘inner circle’ of a cachexia clinic or team (Figure 6). A close integration of these professionals within the cancer clinic (e.g. case discussions, tumour boards, clinical rounds, education, clinical trials), as well as access to specialised professionals such as gastroenterologists (e.g. for vent, stent, gastrostomy, jejunostomy), head and neck specialists, logopaedic experts and invasive pain specialists, is highly recommended.
+
+
+Recommendations
+Screening for cachexia should be integrated into routine cancer care, supported by accountable professionals and
+ 
+
+linked to immediate access to cachexia care interven- tions [V, B].
+Cachexia care should be delivered utilising a combination of nutrition, physical activity, psychological, oncological, palliative/supportive/rehabilitative care and oncologist competencies [V, B].

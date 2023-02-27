@@ -1,0 +1,516 @@
+
+
+
+
+
+ SPECIAL ARTICLE	
+
+Nasopharyngeal carcinoma: ESMO-EURACAN Clinical Practice Guidelines for diagnosis, treatment and follow-upy
+P. Bossi1z, A. T. Chan2z, L. Licitra3, A. Trama4, E. Orlandi5, E. P. Hui2, J. Halámková6, S. Mattheis7, B. Baujat8, J. Hardillo9,
+L. Smeele10, C. van Herpen11, A. Castro12 & J.-P. Machiels13,14, on behalf of the ESMO Guidelines Committee* and EURACAN
+1Medical Oncology, Department of Medical and Surgical Specialties, Radiological Sciences and Public Health University of Brescia, ASST-Spedali Civili, Brescia, Italy; 2State Key Laboratory of Translational Oncology, The Chinese University of Hong Kong, Shatin, Hong Kong, Special Administrative Region, People’s Republic of China; 3Head and Neck Medical Oncology Department, Fondazione IRCCS Istituto Nazionale Tumori and University of Milan, Milan; 4Department of Research, Evaluative Epidemiology Unit, Fondazione IRCCS Istituto Nazionale Tumori, Milan; 5Radiation Oncology Clinical Department, National Center for Oncological Hadrontherapy (CNAO), Pavia, Italy; 6Department of Comprehensive Cancer Care, Masaryk Memorial Cancer Institute, Faculty of Medicine, Masaryk University, Brno, Czech Republic; 7Department of Otorhinolaryngology Head and Neck Surgery, University Hospital Essen, Essen, Germany; 8Sorbonne University, APHP, Department of ENT e Head and Neck Surgery, Tenon Hospital, Paris, France; 9Department of ENT e Head and Neck Surgery, Erasmus Medical Center Rotterdam, Rotterdam; 10Department of Head and Neck Oncology and Surgery, The Netherlands Cancer Institute, Amsterdam; 11Department of Medical Oncology, Radboud University Medical Center, Nijmegen, the Netherlands; 12Administration Board of Centro Hospitalar e Universitário do Algarve, Portugal; 13Institut Roi Albert II, Service d’Oncologie Médicale, Cliniques Universitaires Saint-Luc, Brussels; 14Institut de Recherche Clinique et Expérimentale (POLE MIRO), Université Catholique de Louvain, Brussels, Belgium
+
+Available online 25 December 2020
+
+
+
+ 
+
+INCIDENCE AND EPIDEMIOLOGY
+Nasopharyngeal carcinoma (NPC) is a disease with unique epidemiological features. The distribution of the disease demonstrates a clear regional, racial and gender prevalence. In 2018, the global age-standardised incidence rates (ASIRs) varied from 2.1 to 0.4 per 100 000 in Asia and Europe, respectively.1 The highest ASIRs per 100 000 were in East and South East Asia (e.g. seven in Singapore, the Maldives and Indonesia; six in Malaysia and Vietnam; three in China). There were more than 129 000 new cases of NPC reported in 2018, including more than 5000 in Europe.1 In recent decades (1970-2007), the incidence of NPC has declined worldwide, with substantial reductions in South and East Asia, North America and the Nordic countries.2
+NPC has several features that differ according to geographic area. For example, age distribution differs in low-incidence areas compared with endemic areas. In low- incidence areas, the incidence of NPC increases with age and has a bimodal peak: the first in adolescents and young adults and the second after 65 years of age, whereas in endemic areas, the incidence increases after 30 years of
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, CH-6900 Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+yApproved by the ESMO Guidelines Committee and EURACAN: October 2020. This publication supersedes the previously published versiondAnn Oncol. 2012;23(Suppl 7):vii83-vii85.
+z Co-primary authors.
+0923-7534/© 2020 European Society for Medical Oncology. Published by Elsevier Ltd. All rights reserved.
+ 
+
+age, peaks at 40-59 years and decreases thereafter. The maleefemale incidence ratio is 2.75.3
+In Europe, during the period of 2000-2007, the 5-year survival rate for adults with NPC was 49% (www. rarecarenet.eu). Survival rates increased during 1999-2007 in Europe, except in Eastern Europe where it declined over time.4
+In the USA, during the period of 2009-2015, the 5-year relative survival rate was 60%, with differences seen across ethnic groups.5 Asians seem to have a disease- specific survival advantage independent of gender, age at diagnosis, grade, TNM (tumourenodeemetastasis) staging and treatment.6 In addition, the hazard rate patterns for NPC-related mortality appear significantly different between histological subtypes.7
+The effect of age on survival is marked. Five-year survival rates were 72% in the youngest age group (15-45 years) and 36% in the oldest group of patients (65-74 years).8
+In general, the prognosis is better for women than men.9,10
+
+DIAGNOSIS AND PATHOLOGY/MOLECULAR BIOLOGY
+Diagnosis
+Definitive diagnosis is made by endoscopic-guided biopsy of the primary nasopharyngeal tumour [II, A]. In case of no clinical primary tumour visible at endoscopy, biopsy of nasopharyngeal tissue positive at magnetic resonance im- aging (MRI) or positron emission tomography (PET) is sug- gested.11 Since the first sign of disease is often the
+ 
+
+ 
+appearance of neck nodes, it is frequent that patients un- dergo neck biopsy and/or neck nodal dissection. This pro- cedure is not recommended since it may reduce the probability of cure and have an impact on late treatment sequelae. Nevertheless, if carried out (for example, if the primary tumour is not visible), node dissection without capsular effraction or ultrasonography-guided, trans- cutaneous tru-cut biopsy are the best options; node surgical biopsy should be avoided. Determination of Epstein-Barr virus (EBV) on the histological sample by in situ hybrid- isation (ISH) is indicated.
+
+Pathology/molecular biology
+The histological type should be classified according to the 4th edition of the World Health Organization (WHO) clas- sification (Table 1).12 The term ‘nasopharyngeal carcinoma’ refers to all squamous cell cancers which are categorised into keratinising, non-keratinising (subdivided into differ- entiated and undifferentiated) and basaloid carcinoma subtypes. Keratinising cancer is more frequent in non- endemic than endemic areas, whereas non-keratinising cancer comprises the vast majority of cases and is linked to EBV infection.
+EBV expression. EBV is considered in ‘Group 1’ by the In- ternational Agency for Research on Cancer (IARC) in respect to NPC, i.e. a virus for which there is sufficient evidence of carcinogenicity in humans.13,14 EBV is identified by ISH by the presence of EBV-encoded RNAs in NPC tissue.
+Latent EBV has been found in high-grade dysplasia and NPC cells but not in normal epithelium or low-grade dysplasia.15 EBV has also been identified in a clonal pattern in pre-invasive lesions of the nasopharynx that contain EBV RNAs characteristic of latent infection. EBV- infected cells express several latent proteins, both as EB nuclear antigens [EBNAs 1, 2, 3A, 3B and 3C and EBNA- leader proteins (LPs)] and as latent membrane proteins (LMPs 1, 2A and 2B).16 However, the EBV latent-gene expression in NPC is predominantly restricted to EBNA1, LMP2A and LMP2B. These viral proteins are considered as poorly immunogenic, partially explaining the way in which NPC may elude immune recognition.
+The role of EBV genomic variants on NPC development has not been completely clarified; however, whole genome sequencing of EBV has revealed a high variability in many genomic regions of NPC biopsy specimens.17
+EBV is almost always a necessary, even if not sufficiently causative, factor for non-keratinising NPC; its role in kera- tinising cancer is less pronounced.
+Human papillomavirus expression. In regions where NPC is endemic, p16 positivity and human papillomavirus (HPV) expression (screened using RNA probes to detect 13 high- risk and 5 low-risk HPV types) is reported in up to 8% of non-keratinising undifferentiated carcinoma, and carries a better prognosis than its EBV counterpart.18 In non- endemic areas, the presence of HPV data are limited, with a higher frequency seen in keratinising cancer; however, an
+ 
+
+Table 1. WHO classiﬁcation of nasopharyngeal carcinomas
+ICD-O code
+Non-keratinising squamous cell carcinoma	8072/3
+Keratinising squamous cell carcinoma	8071/3
+Basaloid squamous cell carcinoma	8083/3
+ICD-O, International Classification of Diseases for Oncology; WHO, World Health Organization.
+
+ 
+
+
+association with prognosis is not as clear.19 Whether HPV is involved in carcinogenesis and disease progression has yet to be established.
+Molecular analysis. Although no actionable mutations in NPC have been identified, a role for gene signature dis- covery is increasing. Molecular deciphering is beyond the scope of this guideline. However, gene expression analysis may be useful in identifying patients at higher risk of developing distant metastases.20 In addition, mutational signatures relevant to DNA repair pathways show prog- nostic value with potential clinical implications.21
+Other risk factors. Genetic susceptibility plays a clear role in the development of NPC, as witnessed by the discovery of susceptibility loci and candidate genes in NPC patients or high-risk individuals.22 Environmental factors are also causal agents, mainly related to the consumption of salted fish, while there is less evidence to support other agents or di- etary products.23
+
+Screening
+In regions where NPC is endemic, the use of plasma EBV DNA with a primer/probe assay targeting the BamHI-W region of the EBV genome, carried out in duplicate (at least 4 weeks apart) and coupled with endoscopic exami- nation and MRI, showed a sensitivity and specificity in screening NPC of 97.1% and 98.6%, respectively.24 The number of subjects needed to be screened to detect one case was 593. Its use can therefore only be recommended for detecting early asymptomatic NPC in endemic areas and is limited to those considered at higher risk (i.e. males aged 40-62 years) [III, A]. Although overall survival (OS) data for the screened population are not available, the 3-year progression-free survival (PFS) was significantly improved compared with a matched historical cohort [97% versus 70%; hazard ratio (HR) 0.10; 95% confidence interval (CI) 0.05-0.18]. One of the issues related to plasma EBV DNA is the poor standardisation between the different assays used.
+
+
+Recommendations
+Definitive diagnosis is made by endoscopic-guided biopsy of the primary nasopharyngeal tumour [II, A]; diagnostic neck biopsy and/or neck nodal dissection should be avoided.
+Determination of EBV on the histological specimen by ISH is indicated [III, B].
+ 
+
+ 
+●	In regions where NPC is endemic, the use of plasma EBV
+ 
+advanced disease [III, B].26 Moreover, a systematic review
+ 
+DNA, coupled with endoscopic examination and MRI, can be recommended for detecting early, asymptomatic NPC [III, A].
+
+
+STAGING AND RISK ASSESSMENT
+NPC is clinically staged according to the American Joint Committee on Cancer (AJCC) staging classification 8th edi- tion (Supplementary Table S1, available at https://doi.org/ 10.1016/j.annonc.2020.12.007).25 Compared with the pre- vious edition, the new classification better delineates the T2 stage to also include prevertebral muscle and medial or lateral pterygoid involvement, and the T4 stage now in- cludes parotid gland and/or infiltration beyond the lateral surface of the lateral pterygoid muscle, thus eliminating other ambiguous terminology. Nodal extension to the supraclavicular fossa has been substituted by the limit of the caudal border of the cricoid cartilage and so better delineates the ‘lower neck’ extension; N3 definition includes both the previous N3a and N3b groups. Moreover, EBV- positive cervical nodes in cancer of unknown primary are staged according to the NPC classification.
+Routine staging procedures (Table 2) include a medical history, physical examination (including cranial nerve ex- amination), complete blood count (CBC), serum biochem- istry [including liver and renal function tests and lactate dehydrogenase (LDH)], nasopharyngoscopy, computed to- mography (CT) scan or MRI of the nasopharynx and base of the skull and neck (up to the clavicle) and 18F-ﬂuorodeoxy- glucose (FDG)-PET/CT imaging. MRI is the most accurate way of defining local tumour staging as it is sensitive in depicting small mucosal thickening, parapharyngeal and masticatory space involvement and skull base and cranial nerve infiltration, and it should therefore be preferred whenever available and according to the centre’s expertise [III, B]. Accuracy of nodal involvement detection is higher with MRI compared with CT; FDG-PET adds further accuracy in nodal staging [III, B]. The best imaging for detecting distant metastases is FDG-PET in terms of sensitivity and specificity, and it is recommended at least in locally
+
+
+Table 2. Diagnostic work-up
+1.	Medical history and physical examination
+2.	CBC, serum biochemistry
+3.	Nasopharyngoscopy
+4.	Tumour biopsy (EBER by ISH [III, B])
+5.	CT scan or MRI of the nasopharynx and base of the skull and neck (to the clavicle) (MRI preferred [III, B])
+6.	18F-FDG-PET/CT imaging [III, B]
+7.	Baseline audiometric testing, dental examination, nutritional status eval- uation, ophthalmological and endocrine evaluation
+8.	Plasma EBV DNA [III, B]
+9.	QoL assessment (e.g. EORTC QLQ-C30) [III, B]
+18F-FDG, 18F-ﬂuorodeoxyglucose; CBC, complete blood count; CT, computed to- mography; EBER, Epstein-Barr virus-encoded RNA; EBV, Epstein-Barr virus; EORTC, European Organisation for Research and Treatment of Cancer; ISH, in situ hybrid- isation; MRI, magnetic resonance imaging; PET, positron emission tomography; QLQ, quality of life questionnaire; QoL, quality of life.
+
+ 
+ 
+and meta-analysis showed that baseline metabolic values of FDG-PET were able to predict survival outcomes for NPC patients.27
+Baseline audiometric testing, dental examination, nutri- tional status evaluation and ophthalmological and endo- crine evaluation should be carried out as appropriate. Pre- treatment quality of life (QoL) scales [e.g. the European Organisation for Research and Treatment of Cancer (EORTC) QoL Questionnaire (QLQ)-C30], mainly physical functioning, have been found to be a more accurate predictor of OS than performance status (PS).28 Their application in clinical practice may better delineate the individual risk and prompt medical or physical support before the start of treatment [III, B].
+Due to the variability in assessments between labora- tories, EBV DNA measurement needs further harmo- nisation.29 Both the pre- and post-treatment plasma/serum load of EBV DNA with a primer/probe set targeting the BamHI-W region of the EBV genome has shown prognostic value [III, B]. A pre-treatment cut-off value of between 1500 and 4000 copies/ml has been proposed in endemic areas.30,31 The prognostic role of pre-treatment EBV DNA has also been reported in non-endemic areas using PCR, which amplifies the gene coding for the EBNA-1 protein [IV, B].32 Incorporation of plasma EBV DNA both in the pre- and post-treatment setting may improve the prognostic capacity of the TNM staging system.33,34 At this time, however, plasma EBV DNA detection has no impact on treatment strategy.
+Biomolecular signatures with gene expression and microRNA have been shown to add prognostic value to clinical and radiological staging.35,36 Several nomograms have also been proposed to better stratify patient prognosis in endemic regions using factors such as T and N stage, age, gender, body mass index, haemoglobin, LDH, plasma EBV DNA and C-reactive protein. They may help to determine prognosis, but data are limited to support their use in choosing a treatment strategy [IV, C]. No data in this regard exist for non-endemic areas.
+
+Recommendations
+Routine staging procedures include a medical history, physical examination with cranial nerve examination, CBC, serum biochemistry (including liver and renal func- tion tests and LDH), nasopharyngoscopy and radiological imaging.
+MRI is the most accurate way of defining local and nodal tumour staging and it should be preferred whenever avail- able and according to the centre’s expertise [III, B].
+FDG-PET adds further accuracy in nodal staging, is the best imaging method for detecting distant metastases and is recommended at least in locally advanced disease [III, B].
+Baseline audiometric testing, dental examination, nutri- tional status evaluation and ophthalmological and endo- crine evaluation should be carried out as appropriate.
+ 
+
+ 
+Pre-treatment QoL scales may be suggested to better delineate the individual risk and to prompt medical or physical support before the start of treatment [III, B].
+Pre- and post-treatment plasma/serum load of EBV DNA has prognostic value [III, B].
+
+
+TREATMENT
+Management of local/locoregional disease
+Efficacy data and consequent recommendations described here are derived largely from studies in the endemic setting, where non-keratinising, EBV-related carcinomas constitute most cases. Where the evidence is lower, these data will still be considered for non-endemic carcinomas.
+The optimal treatment strategy for patients with advanced NPC should be discussed within a multidisci- plinary team (MDT). Treatment of patients in high-volume facilities is recommended as this was reported as an inde- pendent prognostic factor for improved survival, at least in areas where the disease is endemic [IV, B].37
+ 
+A proposed treatment algorithm for local and locore- gional NPC is shown in Figure 1. Radiotherapy (RT) is the mainstay of treatment and is an essential component of curative-intent treatment of non-disseminated NPC. Intensity-modulated RT (IMRT) is an important milestone in the management of NPC, providing enhanced outcomes and less severe late effects compared with previous RT techniques [conventional two-dimensional (2D) and three- dimensional (3D) by parallel improved dosimetric parame- ters]. Indeed, a meta-analysis showed a significant improvement in 5-year OS and 5-year local control (LC) favouring IMRT over other techniques [II, A].38
+Regarding late effects, a significant reduction in late xerostomia, trismus and temporal lobe injury was reported in favour of IMRT compared with older RT techniques [II, A].38 The largest Asiatic series reported that 5.1% of patients had cranial nerve palsies, 7.1% had severe hearing loss, 3% had dysphagia requiring long-term tube feeding and 0.9% had symptomatic temporal lobe necrosis (TLN) at a median follow-up of 80 months [IV, A].39 In addition, IMRT improved QoL for long-term survivors over time compared
+ 
+
+
+ 
+Figure 1. Treatment algorithm for stage I-IVA NPC.
+AC, adjuvant chemotherapy; ChT, chemotherapy; ICT, induction chemotherapy; IMRT, intensity-modulated radiotherapy; M, metastasis; N, node; NPC, nasopharyngeal cancer; T, tumour.
+ 
+
+ 
+with older techniques both in endemic and non-endemic regions [IV, A].40,41
+Although IMRT represents the current standard RT tech- nique for NPC, particle therapy, including protons and car- bon ions, is gaining popularity based on its physical and biological proprieties. In particular, to maintain a high RT dose and avoid neurological structures, proton therapy represents a promising approach for patients with locally advanced NPC. A few small studies with a relatively short follow-up have shown a benefit in terms of clinical outcome when proton therapy was added as a boost for locally advanced disease [III, C].42-44 In particular, significantly lower rates of severe (grade 3) mucositis and salivary dysfunctions were reported in NPC patients receiving IMRT followed by proton therapy boost (55.6% of whom had T4-stage disease) compared with patients receiving a full course of IMRT only (41.2% of whom had T4-stage disease).42
+Target volume definition represents a major issue during IMRT planning for NPC, as witnessed by the need for in- ternational guidelines for appropriate target contouring.45 Overall, RT is targeted according to the primary tumour and pathological nodes, but also to the adjacent regions considered at risk of microscopic spread from the tumour and generally to both sides of the neck (levels II-V and retropharyngeal nodes) because of the high incidence of occult neck node involvement.45 A total dose of 70 Gy is needed for the eradication of macroscopic disease and 50- 60 Gy for the treatment of potential at-risk sites, usually by conventional or moderately accelerated RT.46 IMRT may be applied using either a sequential boost or a simultaneous integrated boost (SIB). A recent randomised trial comparing these two techniques found no difference in terms of clin- ical outcome and toxicities. Due to the convenience of an SIB strategy, this approach can be considered the technique of choice for NPC treatment [II, B].47
+Recently, many trials have investigated the opportunity to reduce the extension of target volumes in order to reduce the toxicity burden. In node-negative NPC, upper versus whole-neck prophylactic RT led to a similar lower neck control rate, suggesting that a reduced nodal volume approach may be feasible [II, B].48
+When obtaining tumour shrinkage with induction chemotherapy (ICT), the strategy of planning IMRT with reduced primary gross tumour volume (GTV) based on post- chemotherapy (ChT) MRI scan volumes may be adopted. This approachdtested on a limited number of patientsdappears not to show any detrimental effect on LC and survival if the pre-induction tumour areas received at least an intermediate dose (64 Gy); an improvement in QoL score was shown compared with planning of GTV based on pre-ChT MRI scans [II, B].49,50
+Planning optimisation in terms of prioritisation and dose constraints for target and radiosensitive structures is fundamental in order to avoid missing tumour coverage while maintaining organs at risk at their tolerance dose levels. International guidelines on dose prioritisation and acceptance criteria with IMRT for NPC have been recently established.51
+ 
+Target volume definitions are shown in Table 3. IMRT dose prescription to target volumes and fractionation schemes are shown in Table 4. In most cases, conventional or moderate hypofractionation regimens are used to a total dose of 70 Gy in 33-35 fractions. A scheme used in a dose- escalation trial with a total dose to macroscopic primary disease of 76 Gy is also reported.52 However, extreme caution should be exercised when increasing the total dose due to the high risk of developing late toxicities (e.g. osteoradionecrosis, carotid pseudoaneurysm and neuro- logical toxicities).
+Stage I disease is treated by RT alone, whereas patients with stage II NPC benefit from concurrent chemoradiotherapy (CRT) with cisplatin 30 mg/m2/week when 2D-RT is used [II, B]53; a non-significant difference in survival outcomes was shown for CRT versus RT alone when IMRT was adopted [II, B].54
+Stage III and IVA disease are treated by CRT [I, A]. The standard agent used is cisplatin [I, A].55 This provides a benefit in terms of OS and both locoregional and distant control. The most commonly used regimen is cisplatin 100 mg/m2 every 3 weeks with concomitant RT [I, A].56 Weekly cisplatin (40 mg/m2/week) has also been shown to improve OS [II, A].57 The optimal cumulative total dose of concurrent cisplatin should be higher than 200 mg/m2 [IV, B].58 Con- current nedaplatin was found to be non-inferior to cisplatin in one randomised trial [II, B].59 Concurrent carboplatin is considered an available option but the evidence is con- ﬂicting [II, C].60,61 The addition of bevacizumab to platinum- based ChT concurrently with RT showed a substantial rate of high-grade toxicities and is not recommended [III, D]62; the role of anti-epidermal growth factor receptor (EGFR) agents (such as nimotuzumab) concurrently with RT, in addition to or instead of ChT, requires further clarification as there are no unequivocal data in this setting.
+The propensity of NPC to develop distant metastases is a major cause of treatment failure and death.63 Intensifica- tion of the systemic treatment is therefore needed for stage III-IVA non-keratinising NPC. Adjuvant ChT (AC) is generally difficult to complete, with only w60% of patients completing the planned treatment cycles and half of pa- tients require a dose reduction.64 In contrast, ICT offers the possibility of delivering an adequate dose intensity of ChT. However, as a prerequisite, ICT added to CRT should not hinder the subsequent delivery of full-dose CRT, and the time between the end of ICT and the start of RT should be kept as short as possible. Recently, a phase III trial comparing ICT with cisplatin and gemcitabine followed by CRT versus CRT alone in patients with stage III/IVB (ac- cording to AJCC 7th edition) NPC showed a benefit in favour of ICT in recurrence-free survival (RFS), OS and distant RFS, with higher acute but not late toxicities [I, A].65 Importantly, 96.7% of patients randomised to the ICT arm completed the 3 cycles of cisplatin/gemcitabine and 92% received at least 2 cycles of cisplatin 100 mg/m2 concomitantly with RT. In this study, patients with T3-4 N0 disease were excluded. Long-term results of a randomised trial of ICT with cisplatin and 5-ﬂuorouracil (5-FU) followed by CRT versus CRT alone
+ 
+
+Table 3. CTV delineation and anatomic boundaries according to International Guidelines45,102,103
+CTV deﬁnition			CTV delineation and anatomic boundaries
+Primary tumour	High-risk volume
+(full therapeutic dose)	CTVp1	GTVp þ 5mm (   whole NP)
+GTVp þ 1 mm if tumour in close proximity to brainstem and spinal cord
+Node(s)	High-risk volume
+(full therapeutic dose)	CTVn1	GTVn þ 5 mm (consider 10 mm if nodal ECE)
+Primary tumour	Intermediate-risk
+volume (prophylactic dose)	CTVp2	GTVp þ 10 mm þ whole NP
+GTVp þ 2 mm if tumour in close proximity to brainstem and spinal cord
+Nasal cavity e posterior part: at least 5 mm from choana Posterior maxillary sinuses: at least 5 mm from posterior wall (to ensure pterygopalatine fossae) coverage
+Posterior ethmoid sinus: include vomer
+Base of skull: cover foramina ovale, rotundum, lacerum and petrous tip
+Cavernous sinus: if T3/T4 (only involved side)
+Parapharyngeal spaces: full coverage
+Sphenoid sinus: inferior 1/2 if T1-2; whole if T3-4
+Clivus: anterior 1/3 if no invasion; whole if invasion
+Node(s)	Intermediate-risk volume (prophylactic dose)	CTVn2	Lymph nodes bilaterally: RP, II, III, VA, (IV, VB) for all T and N categories plus at least ipsilateral one level below the involved node levels Ipsilateral coverage of ipsilateral IB if:
+●	IB level positive (include whole level)
+●	Structures that drain to level IB as the first echelon site (oral cavity, anterior half of nasal cavity)
+●	Involvement of submandibular gland
+●	Ipsilateral level IIA LNs with ECE
+●	Consider if ipsilateral level IIA LNs with maximum nodal axial diameter greater than 2 cm
+Nodes	Low-risk volume (prophylactic dose)-optional	CTVn3	Levels IV and VB down to clavicle if VB:
+●	If nodal involvement is confined to level II nodes only
+●	Possible omission if N0 or N1 based solely on RP positivity
+CTV, clinical target volume; CTVn, nodal clinical target volume; CTVp, primary tumour clinical target volume; ECE, extracapsular extension; GTVn, nodal gross target volume; GTVp, primary tumour gross target volume; LN, lymph node; NP, nasopharynx; RP, retropharyngeal.
+Reproduced with permission.45
+
+ 
+confirmed the benefit of ICT on survival outcomes and the comparable late toxicities.66 Moreover, a recent update of an individual patient data network meta-analysis (NMA) showed that ICT with taxanes followed by concomitant CRT ranked as the best treatment in terms of OS versus con- current CRT alone or with AC.67 Long-term data from a multicentre, randomised, factorial trial showed that shifting from the concurrent-adjuvant to the induction-concurrent sequence achieved significant improvements in PFS and marginal improvements in OS without an adverse impact on late toxicity [II, B].68
+The selection of patients to receive more ChT or immu- notherapy in addition to CRT in the form of either ICT or AC is a therapeutic area that is being explored in ongoing
+ 
+randomised, controlled trials (see later for individualised risk assessment).
+Two NMAs have analysed the impact of different ChT regimens added to RT, although they do not include the most recent data from induction trials.69,70 In the first NMA, AC added to CRT proved to be the best approach for all clinical endpoints except distant control, where ICT followed by CRT was superior. In the second NMA, which was limited to studies with IMRT, ICT followed by CRT was superior for all clinical endpoints except locoregional RFS, where AC achieved better results.
+Evaluating the risk profile of each patient is a key issue. Advanced nodal and primary stage, as well as high basal EBV DNA, have been proposed as a means to select patients
+ 
+
+
+Table 4. Selected IMRT dose fractionation schedules
+	High-risk CTV Td/df/nf (Gy)	Intermediate-risk CTV Td/df/nf (Gy)	Low-risk CTV-optional Td/df/nf (Gy)
+International guidelines51
+70/2/35
+69.96/2.12/33	63-60/1.8-1.7/35
+63-59.4/1.9-1.8/33	56/1.6/35
+54/1.63/33
+RTOG62
+69.96/2.12/33	59.4/1.8/33	54.12/1.64/33
+50/2/25
+PYNEH46
+70/2.12/33
+70/2/35	59.4/1.8/33
+61.25/1.75/35	52.5/1.75/30
+DAHANCA104
+66/2/33	60/1.82/33	50/1.52/33
+PWH52
+70-76/2-2.17/35	60/2/35	NS
+INT105
+69.96/2.12/33	59.4/1.8/33	56.1/1.7/33
+CTV, clinical target volume; DAHANCA, Danish Head and Neck Cancer Group; df, dose per fraction; IMRT, intensity-modulated radiotherapy; INT, National Cancer Institute, Milan; nf, number of fractions; NS, not specified; PWH, Prince of Wales Hospital; PYNEH, Pamela Youde Nethersole Eastern Hospital; RTOG, Radiation Therapy Oncology Group; Td, total dose.
+ 
+
+ 
+for ICT in order to improve the therapeutic ratio.71 Persis- tent EBV DNA at 6-8 weeks after completion of RT or CRT is a negative prognostic factor that has been used as an in- clusion criterion for a randomised trial of AC versus obser- vation. No improvement in RFS or OS has been seen with adjuvant cisplatin and gemcitabine in this high-risk popu- lation; therefore, this approach is not recommended in clinical practice [I, E].72 In case of persistent, high EBV DNA values after definitive treatment, a personalised approach with non-cross-resistant drugs or participation in a clinical trial is suggested [V, C].
+Elderly patients have been under-represented in clinical trials testing the addition of ChT to RT. In the cited meta-analysis, unlike data from other non-nasopharyngeal subsites, no interaction was observed between treatment effect on OS and patient age, whereas for PFS, the benefit was dependent on the age range (HR 0.72; 95% CI 0.65-0.80 for patients <50 years and HR 0.84; 95% CI 0.70-1.01 for patients 60 years).55 However, as a general principle,
+concurrent ChT is not tolerated as well in elderly patients compared with younger patients and consequently dose intensity is reduced; thus, patient selection is crucial.
+
+Management of advanced/metastatic disease
+Treatment of locoregional recurrences. Small local re- currences are potentially curable.73 The main therapeutic options include nasopharyngectomy, brachytherapy, radio- surgery, stereotactic RT (SRT), IMRT or a combination of
+ 
+surgery and RT, with or without concurrent ChT. No comparative trials have been carried out to compare re- irradiation versus a surgical approach. Treatment decisions are tailored to the specific situation of each individual case, taking into consideration the volume, location/extent of the recurrent tumour, previous treatments, disease-free interval (DFI), comorbidities and any pre-existing organ dysfunction [III, A].
+A proposed treatment algorithm for recurrent and/or metastatic NPC is shown in Figure 2. For surgical salvage treatments, prognostic factors include T and N stage at recurrence, surgical approach (with a better outcome re- ported for endoscopic surgery) and feasibility of adjuvant re-irradiation [II, B].74
+Patients with local recurrences not invading the carotid artery and not extending intracranially are candidates for nasopharyngectomy; local recurrence stage rT1-rT3, might benefit more from endoscopic nasopharyngectomy than from IMRT [IV, B].75
+Lymphatic recurrences in the neck can be treated with neck dissection [III, A]. The extent of neck dissection de- pends on the nature of the recurrence (N stage and extracapsular extension) and can range from selective to radical neck dissection.
+Pre-treatment circulating EBV DNA has been shown to be a prognostic factor for distant metastasis in candidates for surgery.76
+For re-irradiation, patient selection is crucial due to the high incidence of major late complications, even with modern RT
+ 
+
+
+
+Local or regional recurrence	Metastatic disease
+
+
+
+
+Amenable to salvage surgery	Newly diagnosed? or re-irradiation?
+
+
+Yes	No	No	Yes
+
+
+
+
+
+Surgery ± IMRT or	First linea:	First line:
+IMRT ± ChT [III, A]	Cisplatin + gemcitabine [I, A]	ChT followed by
+RT on T and N sites [II, A]
+
+
+
+Second linea:
+Nivolumab, pembrolizumab, camrelizumab [III, B];
+ChT (paclitaxel, docetaxel, 5-FU, capecitabine, irinotecan, vinorelbine, ifosfamide, doxorubicin, oxaliplatin, cetuximab) [III-IV, B]
+Figure 2. Treatment algorithm for recurrent and/or metastatic NPC.
+5-	FU, 5-ﬂuorouracil; ChT, chemotherapy; IMRT, intensity-modulated radiotherapy; N, node; NPC, nasopharyngeal cancer; RT, radiotherapy; T, tumour.
+a Consider RT [III, B] or surgery [IV, C] on metastatic sites.
+ 
+
+ 
+techniques. Disease- and treatment-related prognostic factors for re-irradiated patients are: T and N stage at recurrence, tumour volume, DFI, dosimetry calculations (recurrence within the previous fields of radiation or outside), dose to target and fractionation schedule, window dose for organs at risk and RT technique (IMRT, SRT) [IV, B].77-79
+Preliminary results have shown activity and limited toxicity with proton and carbon ion therapy for locally recurrent NPC [IV, C].80,81
+Treatment of metastatic disease or locoregional re- currences not amenable to curative approaches. In meta- static NPC, palliative ChT should be considered for patients with an adequate PS. A treatment combination of cisplatin and gemcitabine is the first-line choice and improves OS [I, A].82 In patients with newly diagnosed metastatic NPC, the addition of locoregional RT to systemic therapy improves locoregional control and ultimately OS [II, A].83
+No standard second-line treatment exists. Active agents include paclitaxel, docetaxel, 5-FU, capecitabine, irinotecan, vinorelbine, ifosfamide, doxorubicin, oxaliplatin and cetux- imab, which can be used as single agents or in selected combinations [III, B].84 Poly-ChT is more active than mono- therapy [overall response rate (ORR) of 64% versus 24%] at a cost of increased and cumulative toxicities. The estimated PFS and OS with second-line therapy are around 5 and 12 months, respectively.84 In this context, treatment choice should be based on previous treatments, patient symptoms, PS, patient preference and the expected toxicity.
+Immunotherapy represents a promising strategy in this disease, especially because of the causal role of EBV and the possibility to elicit a response against its antigens. To-date, no phase III trials have been published in NPC and avail- able evidence is derived from phase II studies, mainly with checkpoint inhibitors targeting programmed cell death protein 1 (PD-1) or programmed death-ligand 1 (PD-L1), or adoptive immunotherapy. Nivolumab, pembrolizumab and camrelizumab have been shown to be safe and active as monotherapy for recurrent and/or metastatic NPC, with ORRs of 20%, 25% and 34%, respectively, with most of the best responses occurring at first radiological evaluation. However, their therapeutic positioning is still to be defined [III, B].85-87 Cytotoxic T-cell lymphocyte (CTL) adoptive immunotherapy has demonstrated activity in highly pre- treated patients [III, B].88,89
+Oligometastatic patients may achieve long-term survival after aggressive treatment, including ChT, surgery or definitive RT to the metastases [III, B].90,91
+Pre-treatment plasma EBV DNA and clearance rates are prognostic factors in metastatic patients treated with first- line ChT [III, B].92
+
+Recommendations
+The optimal treatment strategy for patients with advanced NPC should be discussed in an MDT. Patients should be treated at high-volume facilities [IV, B].
+●	IMRT is the mainstay of treatment [II, A].
+ 
+Overall, RT is targeted according to the primary tumour, pathological nodes and adjacent regions considered at risk of microscopic spread from the tumour, and generally to both sides of the neck (levels II-V and retropharyngeal nodes).
+A total dose of 70 Gy is needed for the eradication of macroscopic disease and 50-60 Gy for the treatment of potential at-risk sites.
+Planning optimisation in terms of prioritisation and dose constraints for target and radiosensitive structures is fundamental.
+Stage I-II disease is treated by RT alone; for stage II dis- ease, this approach is only used when IMRT is adopted [II, B].
+Stage III and IVA disease are treated by CRT [I, A]. The standard agent used is cisplatin [I, A].
+The most commonly used regimen is cisplatin 100 mg/m every 3 weeks concomitantly to RT [I, A]. Weekly cisplatin (40 mg/m2/week) has also been shown to improve OS [II, A]. The optimal cumulative total dose of concurrent cisplatin should be higher than 200 mg/m2 [IV, B].
+Concurrent nedaplatin was found to be non-inferior to concurrent cisplatin [II, B].
+Concurrent carboplatin is an available option but the ev- idence is conﬂicting [II, C].
+Intensification of the systemic treatment is needed for stage III-IVA non-keratinising NPC.
+ICT with cisplatin and gemcitabine followed by CRT for locally advanced NPC is associated with a benefit in RFS, OS and distant RFS, with more acute but not late tox- icities versus CRT alone [I, A].
+The selection of patients to receive more ChT in addition to CRT in the form of either ICT or AC is a therapeutic area that is being explored in ongoing randomised, controlled trials.
+In cases of persistent, high EBV DNA values after definitive treatment, a personalised approach with non-cross- resistant drugs or participation in a clinical trial is sug- gested [V, C].
+Small, local recurrences are potentially curable. The main therapeutic options include nasopharyngectomy, brachy- therapy, radiosurgery, SRT, IMRT or a combination of sur- gery and RT, with or without concurrent ChT [III, A].
+Patients with local recurrences not invading the carotid artery or extending intracranially are candidates for naso- pharyngectomy; local recurrence stage rT1-rT3 might benefit more from endoscopic nasopharyngectomy than IMRT [IV, B].
+Lymphatic recurrences in the neck can be treated with neck dissection [III, A].
+In metastatic NPC, palliative ChT should be considered for patients with an adequate PS. A treatment combination of cisplatin and gemcitabine is the first-line choice and im- proves OS [I, A].
+In patients with newly diagnosed, metastatic NPC, the addition of locoregional RT to systemic therapy improves locoregional control and ultimately OS [II, A].
+ 
+
+ 
+No standard second-line treatment exists. Active agents include paclitaxel, docetaxel, 5-FU, capecitabine, irinote- can, vinorelbine, ifosfamide, doxorubicin, oxaliplatin and cetuximab, which can be used as single agents or in selected combinations [III, B].
+Immunotherapy represents a promising strategy in this setting but its therapeutic positioning is still to be defined [III, B].
+CTL adoptive immunotherapy has demonstrated activity in highly pre-treated patients [III, B].
+Oligometastatic patients may achieve long-term survival after aggressive treatment, including ChT, surgery or definitive RT to the metastases [III, B].
+
+
+PERSONALISED MEDICINE
+EBV infection is strongly associated with NPC. Plasma EBV DNA can be used to facilitate early diagnosis and recurrence monitoring and also has prognostic value, both before and just after the end of treatment (Table 5). However, more research is needed to refine the role of plasma EBV DNA in the management of NPC and to identify additional molec- ular markers which could lead to advances in personalised medicine in NPC.
+
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND SURVIVORSHIP
+A proposed algorithm for follow-up after completion of curative treatment of NPC is shown in Figure 3.
+Documentation of complete remission in the naso- pharynx and neck through clinical and endoscopic exami- nation and/or imaging studies is important. The first radiological imaging is suggested 3 months after treatment completion. Sensitivity of MRI and metabolic imaging (i.e. PET) are similar [II, B], whereas the specificity of PET is higher and so helps to differentiate between post- irradiation changes and recurrent tumours [II, B].93 How- ever, the cost and availability of PET should be taken into account and could prevent its widespread use. Delayed clinical complete responses to IMRT at 6-9 months do not jeopardise the patient’s prognosis.94
+Risk of recurrence in the era of IMRT seems to have a bimodal behaviour: one after w1.5 years following the end of treatment (mainly in cases of T3, T4 and N2, N3 diseases)
+ 
+and one after 3.5 years (for all T stages and N2, N3 diseases).95
+Further follow-up for patients includes periodic (every 3 months in the first year, every 6 months in the second and third year and annually thereafter for the first 5 years) ex- amination of the nasopharynx and neck, cranial nerve function and evaluation of systemic complaints to identify distant metastasis [V, B]. For T2-T4 tumours, MRI might be used on a 6-monthly basis to evaluate the nasopharynx and the base of the skull at least for the first 3 years after treatment [V, B]. PET imaging may be used in cases of equivocal imaging results. Plasma EBV DNA is a promising marker for the diagnosis of recurrence [II, B]96 and should be evaluated at least every year [V, B]. Evaluation of thyroid function in patients who have received RT to the neck is recommended annually; pituitary function should also be evaluated periodically or in case of signs and/or symptoms [V, B].
+Attention should be paid to the recognition of late treatment-related toxicities, mainly consisting of xero- stomia, trismus, hearing impairment, TLN, cognitive impairment, cranial nerve injuries and second primary tu- mours possibly related to RT. The employment of IMRT instead of 2D-RT has substantially reduced these late events with the exception of TLN; significant factors affecting the risk of TLN include T stage, the addition of ChT and the maximal RT dose to the temporal lobe.97
+Long-term survivors after IMRT may experience a decline in cognitive function and in NPC-specific domains of QoL.98 More specific considerations on survivorship care plan- ning for head and neck cancer patients can be found in the American Society of Clinical Oncology Clinical Practice Guideline, which also endorsed the American Cancer Soci- ety Guideline.99 In the future, adopting a risk-based follow- up could improve the early detection of relapse and allow
+for optimisation of resources.100
+
+
+Recommendations
+The first radiological imaging is suggested 3 months after completion of curative treatment. Sensitivity of MRI and PET are similar, whereas the specificity of PET is higher and so helps to differentiate between post-irradiation changes and recurrent tumours [II, B].
+ 
+
+
+Table 5. Personalised medicine synopsis
+Biomarker	Methodology	Use	LoE, GoR
+Plasma EBV DNA	PCR	Prognostic before curative treatment	III, B (IV, Ba)
+		Prognostic role of clearance during ICT and CRT	IV, B
+		Prognostic 1-4 weeks after RT	II, B
+		Early diagnosis of recurrence during follow-up	V, B
+		Prognostic in recurrent and/or metastatic disease	III, B
+CRT, chemoradiotherapy; EBV, Epstein-Barr virus; GoR, grade of recommendation; ICT, induction chemotherapy; LoE, level of evidence; RT, radiotherapy.
+a In non-endemic areas.
+ 
+
+
+Three months after IMRT, then every 6 months up to the
+Imaging	3rd year (for T2-T4 diseases) [V, B]
+•	MRI [II, B]
+•	PET (higher specificity) [II, B]
+
+
+
+Endoscopic assessment every 3 months in the first
+Nasal examination	year, every 6 months in the second and third years and annually thereafter for the first 5 years [V, B]
+
+
+
+
+
+Plasma EBV DNA	One to four weeks after IMRT [II, B] then every year [V, B]
+
+
+
+
+
+Thyroid and pituitary	Thyroid function assessment every year [V, B] assessment	Pituitary function assessment in case of signs/
+symptoms [V, B]
+Figure 3.  Follow-up algorithm after completion of curative treatment of NPC.
+EBV, Epstein-Barr virus; IMRT, intensity-modulated radiotherapy; MRI, magnetic resonance imaging; NPC, nasopharyngeal cancer; PET, positron emission tomography.
+
+ 
+Further follow-up for patients includes periodic examina- tion of the nasopharynx and neck, cranial nerve function and evaluation of systemic complaints to identify distant metastasis [V, B]. For T2-T4 tumours, MRI might be used on a 6-monthly basis for at least the first 3 years after treatment [V, B].
+Plasma EBV DNA is a promising marker for the diagnosis of recurrence [II, B] and should be evaluated at least every year [V, B].
+Evaluation of thyroid function in patients who have received RT to the neck is recommended annually; pitui- tary function should also be evaluated according to signs/symptoms [V, B].
+
+METHODOLOGY
+These Clinical Practice Guidelines have been produced by the European Society for Medical Oncology (ESMO) in partnership with EURACAN, the European Reference Network for rare adult solid cancers. These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating procedures for Clinical Practice Guide- lines development (http://www.esmo.org/Guidelines/ ESMO-Guidelines-Methodology). They are conceived to provide a standard approach to diagnosis, treatment and survivorship of NPC. Recommended interventions are
+ 
+intended to correspond to the ‘standard’ approaches, ac- cording to current consensus among the European multi- disciplinary NPC community of experts. These are represented by the members of the ESMO NPC Faculty and experts appointed by all institutions belonging to the NPC domain of EURACAN. Experimental interventions consid- ered to be beneficial are labelled as ‘investigational’. Other non-standard approaches may be proposed to the single patient as ‘options’ for a shared patient-physician decision in conditions of uncertainty, as long as some supporting evidence (though not conclusive) is available. Algorithms accompany the text, covering the main typical pre- sentations of disease, and are meant to guide the user throughout the text.
+The relevant literature has been selected by the expert authors. Levels of evidence and grades of recommendation have been applied using the system shown in Supplementary Table S2, available at https://doi.org/10. 1016/j.annonc.2020.12.007.101 Statements without grading were considered justified standard clinical practice by the experts.
+
+ACKNOWLEDGEMENTS
+Manuscript editing support was provided by Angela Cor- storphine of Kstorfin Medical Communications Ltd; this support was funded by ESMO.
+ 
+
+ 
+FUNDING
+No external funding has been received for the preparation of these guidelines. Production costs have been covered by ESMO from central funds.
+
+DISCLOSURE
+PB reports receipt of advisory board or conference hono- raria from Merck, Sanofi, Merck Sharp & Dohme, Sun Pharma, Angelini, AstraZeneca, Bristol Myers Squibb, Hel- sinn, GlaxoSmithKline. ATC reports receipt of grants/ research support from Pfizer, Eli Lilly, Novartis, Merck Serono, Merck Sharp & Dohme; receipt of honoraria for participation in an advisory board for Merck Sharp & Dohme; receipt of honoraria for the provision of consul- tancy services for Merck Serono, Merck Sharp & Dohme, Cullinan Management Inc. LL reports receipt of honoraria or consultancy fees (for public speaking/teaching in medical meetings and/or for expert opinion in advisory boards) from AstraZeneca, Bayer, Bristol Myers Squibb, Eisai, Merck Sharp & Dohme, Merck Serono, Boehringer Ingelheim, Novartis, Roche, Debiopharm International SA, Sobi, Ipsen, Incyte Biosciences Italy srl, Doxa Pharma, Amgen, Nanobiotics Sa and GlaxoSmithKline; receipt of grants/research support (funds received by the institution for clinical studies and research activities) from AstraZeneca, Bristol Myers Squibb, Boehringer Ingelheim, Celgene International, Debiopharm International SA, Eisai, Exelixis Inc., Hoffmann-La Roche Ltd, IRX Therapeutics Inc., Medpace Inc., Merck Serono, Merck Sharp & Dohme, Novartis, Pfizer and Roche. EPH reports receipt of speaker’s honoraria from Merck Sharp & Dohme and Merck Serono; participation in a scientific advisory board for Merck Sharp & Dohme. JHal reports receipt of research support to Masaryk Memorial Cancer Institute
+from the Ministry of Health of the Czech Republic, MZ CˇR -
+RVO (MOÚ, 00209805) and CZECRIN LM2018128. BB re-
+ports receipt of honoraria for participation in scientific advisory boards for AstraZeneca, Merck Sharp & Dohme, Merck Serono. CvH reports receipt of grants/research sup- port to their institution from AstraZeneca, Bristol Myers Squibb, Merck Sharp & Dohme, Merck, Ipsen, Novartis and Sanofi; receipt of honoraria for participation in a scientific advisory board from Bayer, Bristol Myers Squibb, Ipsen, Merck Sharp & Dohme and Regeneron. AC reports receipt of grants/research support to their institution from Merck; participation in a sponsored speakers’ bureau for Merck, Bristol Myers Squibb and Merck Sharp & Dohme; receipt of honoraria for participation in a scientific advisory board from Merck, Bristol Myers Squibb and Merck Sharp & Dohme; lecture fees from Bristol Myers Squibb, Merck Sharp & Dohme and Merck. J-PM reports acting in an advisory role for Merck Serono and Merck Sharp & Dohme. AT, EO, SM, JHar and LS have declared no potential conﬂicts of interest.
+
+REFERENCES
+1.	Ferlay J, Ervik M, Lam F, et al. Global Cancer Observatory: Cancer Today. Lyon, France: International Agency for Research on Cancer;
+ 
+2018. Available at: https://gco.iarc.fr/today. Accessed August 11, 2020.
+2.	Tang LL, Chen WQ, Xue WQ, et al. Global trends in incidence and mortality of nasopharyngeal carcinoma. Cancer Lett. 2016;374(1):22- 30.
+3.	Bray F, Ferlay J, Soerjomataram I, et al. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2018;68(6):394-424.
+4.	Gatta G, Botta L, Sánchez MJ, et al. Prognoses and improvement for head and neck cancers diagnosed in Europe in early 2000s: The EUROCARE-5 population-based study. Eur J Cancer. 2015;51(15): 2130-2143.
+5.	Howlader N, Noone AM, Krapcho M, et al., eds. SEER Cancer Statistics Review, 1975-2017. Bethesda, MD: National Cancer Institute; 2019. based on November 2018 SEER data submission, posted to the SEER web site. Available at: https://seer.cancer.gov/csr/1975_2017. Accessed December 2, 2020.
+6.	Zhou L, Shen N, Li G, et al. The racial disparity of nasopharyngeal carcinoma based on the database analysis. Am J Otolaryngol. 2019;40(6):102288.
+7.	Wu SG, Lian CL, Wang J, et al. The effect of histological subtypes on survival outcome in nasopharyngeal carcinoma after extensive follow up. Ann Transl Med. 2019;7(23):768.
+8.	Chua MLK, Wee JTS, Hui EP, et al. Nasopharyngeal carcinoma. Lancet. 2016;387(10022):1012-1024.
+9.	OuYang PY, Zhang LN, Lan XW, et al. The significant survival advantage of female sex in nasopharyngeal carcinoma: a propensity-matched analysis. Br J Cancer. 2015;112(9):1554-1561.
+10.	Tang LQ, Li CF, Li J, et al. Establishment and validation of prognostic nomograms for endemic nasopharyngeal carcinoma. J Natl Cancer Inst. 2016;108(1):djv291.
+11.	King AD, Woo JKS, Ai QY, et al. Complementary roles of MRI and endoscopic examination in the early detection of nasopharyngeal carcinoma. Ann Oncol. 2019;30(6):977-982.
+12.	El-Naggar AK, Chan JKC, Grandis JR, et al., eds. WHO Classification of Head and Neck Tumours. WHO Classiﬁcation of Tumours. 4th Edition, Volume 9. Lyon: IARC Publications; 2017. https://publications.iarc.fr/ Book-And-Report-Series/Who-Classification-Of-Tumours/WHO-Classi fication-Of-Head-And-Neck-Tumours-2017.
+13.	Bouvard V, Baan R, Straif K, et al. A review of human carcinogens–Part B: biological agents. Lancet Oncol. 2009;10(4):321-322.
+14.	de Martel C, Georges D, Bray F, et al. Global burden of cancer attributable to infections in 2018: a worldwide incidence analysis. Lancet Glob Health. 2020;8(2):e180-e190.
+15.	Pathmanathan R, Prasad U, Sadler R, et al. Clonal proliferations of cells infected with Epstein-Barr virus in preinvasive lesions related to nasopharyngeal carcinoma. N Engl J Med. 1995;333(11):693-698.
+16.	Bruce JP, Yip K, Bratman SV, et al. Nasopharyngeal cancer: molecular landscape. J Clin Oncol. 2015;33(29):3346-3355.
+17.	Lin DC, Meng X, Hazawa M, et al. The genomic landscape of naso- pharyngeal carcinoma. Nat Genet. 2014;46(8):866-871.
+18.	Huang WB, Chan JYW, Liu DL. Human papillomavirus and World Health Organization type III nasopharyngeal carcinoma: multicenter study from an endemic area in Southern China. Cancer. 2018;124(3): 530-536.
+19.	Li H, Torabi SJ, Yarbrough WG, et al. Association of human papillo- mavirus status at head and neck carcinoma subsites with overall survival. JAMA Otolaryngol Head Neck Surg. 2018;144(6):519-525.
+20.	Tang XR, Li YQ, Liang SB, et al. Development and validation of a gene expression-based signature to predict distant metastasis in locore- gionally advanced nasopharyngeal carcinoma: a retrospective, multicentre, cohort study. Lancet Oncol. 2018;19(3):382-393.
+21.	Dai W, Chung DL, Chow LK, et al. Clinical outcome-related mutational signatures identified by integrative genomic analysis in nasopharyn- geal carcinoma. Clin Cancer Res. 2020;26(24):6494-6504.
+22.	Hildesheim A, Wang CP. Genetic predisposition factors and nasopha- ryngeal carcinoma risk: a review of epidemiological association studies, 2000-2011: Rosetta Stone for NPC: genetics, viral infection, and other environmental factors. Semin Cancer Biol. 2012;22(2):107-116.
+ 
+
+ 
+23.	Tsao SW, Yip YL, Tsang CM, et al. Etiological factors of nasopharyngeal carcinoma. Oral Oncol. 2014;50(5):330-338.
+24.	Chan KCA, Woo JKS, King A, et al. Analysis of plasma Epstein-Barr Virus DNA to screen for nasopharyngeal cancer. N Engl J Med. 2017;377(6):513-522.
+25.	Amin MB, Edge S, Greene F, et al. AJCC Cancer Staging Manual. 8th ed. New York: Springer International Publishing; 2017.
+26.	Chang MC, Chen JH, Liang JA, et al. Accuracy of whole-body FDG-PET and FDG-PET/CT in M staging of nasopharyngeal carcinoma: a systematic review and meta-analysis. Eur J Radiol. 2013;82(2): 366-373.
+27.	Lin J, Xie G, Liao G, et al. Prognostic value of 18F-FDG-PET/CT in patients with nasopharyngeal carcinoma: a systematic review and meta-analysis. Oncotarget. 2017;8(20):33884-33896.
+28.	Fang FM, Tsai WL, Chien CY, et al. Pretreatment quality of life as a predictor of distant metastasis and survival for patients with naso- pharyngeal carcinoma. J Clin Oncol. 2010;28(28):4384-4389.
+29.	Le QT, Zhang Q, Cao H, et al. An international collaboration to harmonize the quantitative plasma Epstein-Barr virus DNA assay for future biomarker-guided trials in nasopharyngeal carcinoma. Clin Cancer Res. 2013;19(8):2208-2215.
+30.	Chan ATC, Lo YMD, Zee B, et al. Plasma Epstein-Barr Virus DNA and residual disease after radiotherapy for undifferentiated nasopharyn- geal carcinoma. J Natl Cancer Inst. 2002;94(21):1614-1619.
+31.	Lin JC, Wang WY, Chen KY, et al. Quantification of plasma Epstein-Barr virus DNA in patients with advanced nasopharyngeal carcinoma. N Engl J Med. 2004;350:2461-2470.
+32.	Alfieri S, Iacovelli NA, Marceglia S, et al. Circulating pre-treatment Epstein-Barr virus DNA as prognostic factor in locally-advanced nasopharyngeal cancer in a non-endemic area. Oncotarget. 2017;8(29):47780-47789.
+33.	Guo R, Tang LL, Mao YP, et al. Proposed modifications and incorpo- ration of plasma Epstein-Barr virus DNA improve the TNM staging system for Epstein-Barr virus-related nasopharyngeal carcinoma. Cancer. 2019;125(1):79-89.
+34.	Hui EP, Li WF, Ma BB, et al. Integrating postradiotherapy plasma Epstein-Barr virus DNA and TNM stage for risk stratification of nasopharyngeal carcinoma to adjuvant therapy. Ann Oncol. 2020;31(6):769-779.
+35.	Wang HY, Sun BY, Zhu ZH, et al. Eight-signature classifier for prediction of nasopharyngeal [corrected] carcinoma survival. J Clin Oncol. 2011;29(34):4516-4525.
+36.	Liu N, Chen NY, Cui RX, et al. Prognostic value of a microRNA signa- ture in nasopharyngeal carcinoma: a microRNA expression analysis. Lancet Oncol. 2012;13(6):633-641.
+37.	Yoshida EJ, Luu M, David JM, et al. Facility volume and survival in nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys. 2018;100(2): 408-417.
+38.	Zhang B, Mo Z, Du W, et al. Intensity-modulated radiation therapy versus 2D-RT or 3D-CRT for the treatment of nasopharyngeal carci- noma: a systematic review and meta-analysis. Oral Oncol. 2015;51(11):1041-1046.
+39.	Au KH, Ngan RKC, Ng AWY, et al. Treatment outcomes of nasopha- ryngeal carcinoma in modern era after intensity modulated radio- therapy (IMRT) in Hong Kong: a report of 3328 patients (HKNPCSG 1301 study). Oral Oncol. 2018;77:16-21.
+40.	Huang TL, Chien CY, Tsai WL, et al. Long-term late toxicities and quality of life for survivors of nasopharyngeal carcinoma treated with intensity-modulated radiotherapy versus non-intensity-modulated radiotherapy. Head Neck. 2016;38(suppl 1):E1026-E1032.
+41.	McDowell LJ, Rock K, Xu W, et al. Long-term late toxicity, quality of life, and emotional distress in patients with nasopharyngeal carci- noma treated with intensity modulated radiation therapy. Int J Radiat Oncol Biol Phys. 2018;102(2):340-352.
+42.	Alterio D, D’Ippolito E, Vischioni B, et al. Mixed-beam approach in locally advanced nasopharyngeal carcinoma: IMRT followed by pro- ton therapy boost versus IMRT-only. Evaluation of toxicity and effi- cacy. Acta Oncol. 2020;59(5):541-548.
+43.	 
+Lewis GD, Holliday EB, Kocak-Uzel E, et al. Intensity-modulated proton therapy for nasopharyngeal carcinoma: decreased radiation dose to normal structures and encouraging clinical outcomes. Head Neck. 2016;38(suppl 1):E1886-E1895.
+44.	Beddok A, Feuvret L, Noël G, et al. Boost in proton for locally advanced nasopharyngeal carcinoma: A Curie Institute experience. Cancer Radiother. 2019;23(4):304-311.
+45.	Lee AW, Ng WT, Pan JJ, et al. International guideline for the delin- eation of the clinical target volumes (CTV) for nasopharyngeal car- cinoma. Radiother Oncol. 2018;126(1):25-36.
+46.	Ng WT, Lee MC, Hung WM, et al. Clinical outcomes and patterns of failure after intensity-modulated radiotherapy for nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys. 2011;79(2):420-428.
+47.	Lertbutsayanukul   C,    Prayongrat    A,    Kannarunimit    D,    et    al. A randomized phase III study between sequential versus simulta- neous integrated boost intensity-modulated radiation therapy in nasopharyngeal carcinoma. Strahlenther Onkol. 2018;194(5):375-385.
+48.	Li JG, Yuan X, Zhang LL, et al. A randomized clinical trial comparing prophylactic upper versus whole-neck irradiation in the treatment of patients with node-negative nasopharyngeal carcinoma. Cancer. 2013;119(17):3170-3176.
+49.	Zhao C, Miao JJ, Hua YJ, et al. Locoregional control and mild late toxicity after reducing target volumes and radiation doses in patients with locoregionally advanced nasopharyngeal carcinoma treated with induction chemotherapy (IC) followed by concurrent chemo- radiotherapy: 10-year results of a phase 2 Study. Int J Radiat Oncol Biol Phys. 2019;104(4):836-844.
+50.	Yang H, Chen X, Lin S, et al. Treatment outcomes after reduction of the target volume of intensity-modulated radiotherapy following in- duction chemotherapy in patients with locoregionally advanced nasopharyngeal carcinoma: a prospective, multi-center, randomized clinical trial. Radiother Oncol. 2018;126(1):37-42.
+51.	Lee AW, Ng WT, Pan JJ, et al. International guideline on dose priori- tization and acceptance criteria in radiation therapy planning for nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys. 2019;105(3): 567-580.
+52.	Kwong DL, Sham JS, Leung LH, et al. Preliminary results of radiation dose escalation for locally advanced nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys. 2006;64(2):374-381.
+53.	Chen QY, Wen YF, Guo L, et al. Concurrent chemoradiotherapy vs radiotherapy alone in stage II nasopharyngeal carcinoma: phase III randomized trial. J Natl Cancer Inst. 2011;103(23):1761-1770.
+54.	Xu C, Zhang LH, Chen YP, et al. Chemoradiotherapy versus radio- therapy alone in stage II nasopharyngeal carcinoma: a systemic review and meta-analysis of 2138 patients. J Cancer. 2017;8(2): 287-297.
+55.	Blanchard P, Lee A, Marguet S, et al. Chemotherapy and radiotherapy in nasopharyngeal carcinoma: an update of the MAC-NPC meta- analysis. Lancet Oncol. 2015;16(6):645-655.
+56.	Lee AWM, Tung SY, Ng WT, et al. A multicenter, phase 3, randomized trial of concurrent chemoradiotherapy plus adjuvant chemotherapy versus radiotherapy alone in patients with regionally advanced nasopharyngeal carcinoma: 10-year outcomes for efficacy and toxicity. Cancer. 2017;123(21):4147-4157.
+57.	Chan AT, Leung SF, Ngan RK, et al. Overall survival after concurrent cisplatin-radiotherapy compared with radiotherapy alone in locore- gionally advanced nasopharyngeal carcinoma. J Natl Cancer Inst. 2005;97(7):536-539.
+58.	Loong HH, Ma BB, Leung SF, et al. Prognostic significance of the total dose of cisplatin administered during concurrent chemoradiotherapy in patients with locoregionally advanced nasopharyngeal carcinoma. Radiother Oncol. 2012;104(3):300-304.
+59.	Tang LQ, Chen DP, Guo L, et al. Concurrent chemoradiotherapy with nedaplatin versus cisplatin in stage II-IVB nasopharyngeal carcinoma: an open-label, non-inferiority, randomised phase 3 trial. Lancet Oncol. 2018;19(4):461-473.
+60.	Chitapanarux I, Lorvidhaya V, Kamnerdsupaphon P, et al. Chemo- radiation comparing cisplatin versus carboplatin in locally advanced
+ 
+
+ 
+nasopharyngeal cancer: randomised, non-inferiority, open trial. Eur J Cancer. 2007;43(9):1399-1406.
+61.	Huang PY, Cao KJ, Guo X, et al. A randomized trial of induction chemotherapy plus concurrent chemoradiotherapy versus in- duction chemotherapy plus radiotherapy for locoregionally advanced nasopharyngeal carcinoma. Oral Oncol. 2012;48(10): 1038-1044.
+62.	Lee NY, Zhang Q, Pfister DG, et al. Addition of bevacizumab to standard chemoradiation for locoregionally advanced nasopharyngeal carcinoma (RTOG 0615): a phase 2 multi-institutional trial. Lancet Oncol. 2012;13(2):172-180.
+63.	Lai SZ, Li WF, Chen L, et al. How does intensity-modulated radio- therapy versus conventional two-dimensional radiotherapy inﬂuence the treatment results in nasopharyngeal carcinoma patients? Int J Radiat Oncol Biol Phys. 2011;80(3):661-668.
+64.	Chen L, Hu CS, Chen XZ, et al. Concurrent chemoradiotherapy plus adjuvant chemotherapy versus concurrent chemoradiotherapy alone in patients with locoregionally advanced nasopharyngeal carcinoma: a phase 3 multicentre randomised controlled trial. Lancet Oncol. 2012;13(2):163-171.
+65.	Zhang Y, Chen L, Hu GQ, et al. Gemcitabine and cisplatin induction chemotherapy in nasopharyngeal carcinoma. N Engl J Med. 2019;381(12):1124-1135.
+66.	Yang Q, Cao SM, Guo L, et al. Induction chemotherapy followed by concurrent chemoradiotherapy versus concurrent chemo- radiotherapy alone in locoregionally advanced nasopharyngeal car- cinoma: long-term results of a phase III multicentre randomised controlled trial. Eur J Cancer. 2019;119:87-96.
+67.	Petit C, Lee AWM, Carmel A, et al. Network-meta-analysis of chemotherapy in nasopharyngeal carcinoma (MAC-NPC): an update on 8,221 patients. J Clin Oncol. 2020;38(suppl 15):6523.
+68.	Lee AWM, Ngan RKC, Ng WT, et al. NPC-0501 trial on the value of changing chemoradiotherapy sequence, replacing 5-ﬂuorouracil with capecitabine, and altering fractionation for patients with advanced nasopharyngeal carcinoma. Cancer. 2020;126(16):3674-3688.
+69.	Ribassin-Majed L, Marguet S, Lee AWM, et al. What is the best treatment of locally advanced nasopharyngeal carcinoma? An indi- vidual patient data network meta-analysis. J Clin Oncol. 2017;35(5): 498-505.
+70.	You R, Cao YS, Huang PY, et al. The changing therapeutic role of chemo-radiotherapy for loco-regionally advanced nasopharyngeal carcinoma from two/three-dimensional radiotherapy to intensity- modulated radiotherapy: a network meta-analysis. Theranostics. 2017;7(19):4825-4835.
+71.	Xu C, Zhang S, Li WF, et al. Selection and validation of induction chemotherapy beneficiaries among patients with T3N0, T3N1, T4N0 nasopharyngeal carcinoma using Epstein-Barr virus DNA: a joint analysis of real-world and clinical trial data. Front Oncol. 2019;9: 1343.
+72.	Chan ATC, Hui EP, Ngan RKC, et al. Analysis of plasma Epstein-Barr virus DNA in nasopharyngeal cancer after chemoradiation to iden- tify high-risk patients for adjuvant chemotherapy: a randomized controlled trial. J Clin Oncol. 2018;36(31):3091-3100.
+73.	Lee AWM, Ng WT, Chan JYW, et al. Management of locally recurrent nasopharyngeal carcinoma. Cancer Treat Rev. 2019;79:101890.
+74.	Na’ara S, Amit M, Billan S, et al. Outcome of patients undergoing salvage surgery for recurrent nasopharyngeal carcinoma: a meta- analysis. Ann Surg Oncol. 2014;21(9):3056-3062.
+75.	You R, Zou X, Hua YJ, et al. Salvage endoscopic nasopharyngectomy is superior to intensity-modulated radiation therapy for local recurrence of selected T1-T3 nasopharyngeal carcinoma e a case-matched comparison. Radiother Oncol. 2015;115(3):399-406.
+76.	Chan JY, Wong ST. The role of plasma Epstein-Barr virus DNA in the management of recurrent nasopharyngeal carcinoma. Laryngoscope. 2014;124(1):126-130.
+77.	Tian YM, Tian YH, Zeng L, et al. Prognostic model for survival of local recurrent nasopharyngeal carcinoma with intensity-modulated radiotherapy. Br J Cancer. 2014;110(2):297-303.
+78.	 
+Hua YJ, Han F, Lu LX, et al. Long-term treatment outcome of recurrent nasopharyngeal carcinoma treated with salvage intensity modulated radiotherapy. Eur J Cancer. 2012;48(18):3422-3428.
+79.	Li YQ, Tian YM, Tan SH, et al. Prognostic model for stratification of radioresistant nasopharynx carcinoma to curative salvage radio- therapy. J Clin Oncol. 2018;36(9):891-899.
+80.	Leeman JE, Romesser PB, Zhou Y, et al. Proton therapy for head and neck cancer: expanding the therapeutic window. Lancet Oncol. 2017;18(5):e254-e265.
+81.	Hu J, Bao C, Gao J, et al. Salvage treatment using carbon ion radiation in patients with locoregionally recurrent nasopharyngeal carcinoma: initial results. Cancer. 2018;124(11):2427-2437.
+82.	Zhang L, Huang Y, Hong S, et al. Gemcitabine plus cisplatin versus ﬂuorouracil plus cisplatin in recurrent or metastatic nasopharyngeal carcinoma: a multicentre, randomised, open-label, phase 3 trial. Lancet. 2016;388(10054):1883-1892.
+83.	Chen M, You R, You-Ping L, et al. Chemotherapy plus local-regional radiotherapy versus chemotherapy alone in primary metastatic nasopharyngeal carcinoma: a randomized, open-label, phase 3 trial. Ann Oncol. 2019;30(suppl 5):v449-v474.
+84.	Prawira A, Oosting SF, Chen TW, et al. Systemic therapies for recur- rent or metastatic nasopharyngeal carcinoma: a systematic review. Br J Cancer. 2017;117(12):1743-1752.
+85.	Ma BBY, Lim WT, Goh BC, et al. Antitumor activity of nivolumab in recurrent and metastatic nasopharyngeal carcinoma: an interna- tional, multicenter study of the Mayo Clinic Phase 2 Consortium (NCI- 9742). J Clin Oncol. 2018;36(14):1412-1418.
+86.	Hsu C, Lee SH, Ejadi S, et al. Safety and antitumor activity of pem- brolizumab in patients with programmed death-ligand 1-positive nasopharyngeal carcinoma: results of the KEYNOTE-028 Study. J Clin Oncol. 2017;35(36):4050-4056.
+87.	Fang W, Yang Y, Ma Y, et al. Camrelizumab (SHR-1210) alone or in combination with gemcitabine plus cisplatin for nasopharyngeal carcinoma: results from two single-arm, phase 1 trials. Lancet Oncol. 2018;19(10):1338-1350.
+88.	Comoli P, Pedrazzoli P, Maccario R, et al. Cell therapy of stage IV nasopharyngeal carcinoma with autologous Epstein-Barr virus-tar- geted cytotoxic T lymphocytes. J Clin Oncol. 2005;23(35):8942-8949.
+89.	Straathof KC, Bollard CM, Popat U, et al. Treatment of nasopharyngeal carcinoma with Epstein-Barr virus–specific T lymphocytes. Blood. 2005;105(5):1898-1904.
+90.	Fandi A, Bachouchi M, Azli N, et al. Long-term disease-free survivors in metastatic undifferentiated carcinoma of nasopharyngeal type. J Clin Oncol. 2000;18(6):1324-1330.
+91.	Tian YH, Zou WH, Xiao WW, et al. Oligometastases in AJCC stage IVc nasopharyngeal carcinoma: a subset with better overall survival. Head Neck. 2016;38(8):1152-1157.
+92.	Hsu CL, Chang KP, Lin CY, et al. Plasma Epstein-Barr virus DNA concentration and clearance rate as novel prognostic factors for metastatic nasopharyngeal carcinoma. Head Neck. 2012;34(8): 1064-1070.
+93.	Wei J, Pei S, Zhu X. Comparison of 18F-FDG PET/CT, MRI and SPECT in the diagnosis of local residual/recurrent nasopharyngeal carcinoma: a meta-analysis. Oral Oncol. 2016;52:11-17.
+94.	Li WF, Zhang Y, Liu X, et al. Delayed clinical complete response to intensity-modulated radiotherapy in nasopharyngeal carcinoma. Oral Oncol. 2017;75:120-126.
+95.	Xu T, Zhou X, Shen C, et al. Suggestions for surveillance and radi- ation strategy in nasopharyngeal carcinoma treated with IMRT: based on hazard-rate and patterns of recurrence. Oral Oncol. 2018;76:61-67.
+96.	Peng H, Li Z, Long Y, et al. Clinical value of a plasma Epstein-Barr virus DNA assay in the diagnosis of recurrent or metastatic naso- pharyngeal carcinoma: a meta-analysis. Biosci Rep. 2019;39(9): BSR20190691.
+97.	Zeng L,Tian YM, Sun XM, et al. Late toxicities after intensity-modulated radiotherapy for nasopharyngeal carcinoma: patient and treatment- related risk factors. Br J Cancer. 2014;110(1):49-54.
+ 
+
+98. Kiang A, Weinberg VK, Cheung KH, et al. Long-term disease-specific
+and cognitive quality of life after intensity-modulated radiation
+102.	Grégoire V, Ang K, Budach W, et al. Delineation of the neck node
+levels for head and neck tumors: a 2013 update. DAHANCA, EORTC,
+therapy: a cross-sectional survey of nasopharyngeal carcinoma sur-
+	HKNPCSG, NCIC CTG, NCRI, RTOG, TROG consensus guidelines.
+vivors. Radiat Oncol. 2016;11(1):127.
+99. Nekhlyudov L, Lacchetti C, Davis NB, et al. Head and Neck Cancer
+
+103.	Radiother Oncol. 2014;110(1):172-181.
+Grégoire V, Levendag P, Ang KK, et al. CT-based delineation of lymph
+Survivorship Care Guideline: American Society of Clinical Oncology
+	node levels and related CTVs in the node-negative neck: DAHANCA,
+Clinical Practice Guideline endorsement of the American Cancer So-
+ciety Guideline. J Clin Oncol. 2017;35(14):1606-1621.
+	EORTC, GORTEC, NCIC, RTOG consensus guidelines. Radiother Oncol.
+2003;69(3):227-236.
+100. Zhou GQ, Wu CF, Deng B, et al. An optimal posttreatment surveillance
+104.	DAHANCA. Radiotherapy guidelines 2020. Danish head and neck
+strategy for cancer survivors based on an individualized risk-based
+	cancer group. Available at: https://www.dahanca.dk/CA_Adm_Web_
+ 
+approach. Nat Commun. 2020;11(1):3872.
+101. Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis. 2001;33(2):139-144 (adapted from: Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards for infectious dis- eases. Clin Infect Dis. 1994;18:421).
+ 
+Page?WebPageMenu 1&CA_Web_TabNummer 0; 2020. Accessed
+December 7, 2020.
+105. Iacovelli NA, Cicchetti A, Cavallo A, et al. Role of IMRT/VMAT-based dose and volume parameters in predicting 5-year local control and survival in nasopharyngeal cancer patients. Front Oncol. 2020;10(1832):518110.

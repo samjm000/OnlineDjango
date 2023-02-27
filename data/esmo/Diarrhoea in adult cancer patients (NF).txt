@@ -1,0 +1,591 @@
+
+ 
+CLINICAL PRACTICE GUIDELINES
+ 
+Annals of Oncology 29 (Supplement 4): iv126–iv142, 2018 doi:10.1093/annonc/mdy145
+Published online 21 June 2018
+ 
+
+ 
+
+ 
+
+P. Bossi1, A. Antonuzzo2, N. I. Cherny3, O. Rosengarten3, S. Pernot4, F. Trippa5, U. Schuler6, A. Snegovoy7,
+K. Jordan8 & C. I. Ripamonti9, on behalf of the ESMO Guidelines Committee*
+1Head and Neck Medical Oncology Department, Fondazione IRCCS Istituto Nazionale dei Tumori, Milano; 2U.O. Oncologia Medica 1, Polo Oncologico Azienda Ospedaliero Universitaria Pisana, Pisa, Italy; 3Oncology Institute, Shaare Zedek Medical Center, Jerusalem, Israel; 4Department of Hepato-Gastroenterology and Digestive Oncology, Georges Pompidou European Hospital, APHP, Universite´ Paris Descartes, Sorbonne Paris Cite´, Paris, France; 5Radiation Oncology Centre,  “S. Maria” Hospital, Terni, Italy; 6Department of Internal Medicine I, Palliative Care Centre, University Hospital Carl Gustav Carus, Dresden, Germany; 7N.N. Blokhin Russian Cancer Research Center, Moscow, Russia; 8Department of Medicine V, Hematology, Oncology and Rheumatology, University of Heidelberg, Heidelberg, Germany; 9Oncology-Supportive Care in Cancer Unit, Department Onco-Haematology, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, 6900 Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org
+†Approved by the ESMO Guidelines Committee: April 2018.
+
+ 
+
+ 
+Diarrhoea is defined as the frequent passage of loose stools with urgency (or more frequent passage than is normal for the individ- ual). Objectively defined, it is the passage of more than three un- formed stools in 24 hours [1]. Often the patient’s definition of
+ 
+during the past 24 hours. Stool consistency and admixture of blood, mucus or pus should be noted. It is also important to distin- guish diarrhoea from steatorrhoea, according to stool characteris- tics. Questions should cover possible causes other than cancer and oncological therapies [food and fluid intake in the last few days, re- cent travel, recent use of antibiotics, use of proton pump inhibitors
+ 
+diarrhoea varies and needs to be clarified by medical staff,
+through an adequate assessment.
+
+ 
+Diarrhoea is often seen in patients with cancer, with several po- tential causes. Prominent in this context is the association with:
+•	Certain chemotherapies (ChTs), where incidences of grade 4 toxicities up to 20% or more are seen;
+•	A variety of signal transduction inhibitors;
+•	Immunotherapeutic approaches;
+•	Radiotherapy (RT);
+•	Surgery.
+However, other causes should also be considered. Diarrhoea is reported as an issue even in long-term cancer survivors, being one of the symptoms with the highest impact on health-related quality of life (QoL) [2].
+
+ 
+Medical history and warning signs
+History includes the development of the diarrhoea over the previ- ous days and, particularly, the frequency of bowel movements
+ 
+(PPIs), contact with possibly infected persons, use of laxatives and other over-the-counter medications] and previous admission for diarrhoea. Earlier history of gastrointestinal diseases [e.g. inflam- matory bowel disease (IBD)] should also be assessed before the ini- tiation of antineoplastic therapy.
+Patients should be asked about incontinence as a factor included in the grading, as they may be reluctant to volunteer the information. Fever should be assessed, and temperature meas- ured. Other symptoms include abdominal cramps and pain, nau- sea and vomiting, dizziness and thirst. The combination of multiple symptoms (such as vomiting or fever and diarrhoea) in cancer patients is frequently linked to the toxicity of treatments; some of them may indicate a more complicated clinical condition (Table 1). The presence of these worrying symptoms, the unre- sponsiveness to treatment and/or the frailty status of the patient (due to advanced age, immunocompromised conditions and multiple comorbidities) should prompt a multidisciplinary man- agement, with the expertise of gastroenterologists, infectious dis- ease specialists, nutritionists and intensive care specialists. Oncogastroenterology has been advocated as a new discipline in the care of cancer patients suffering from gastrointestinal toxicities [3]. It focuses on the approach to pre-existing diseases which may impact on antineoplastic therapies, the early recognition and treat- ment of gastrointestinal complications due to oncological treat- ments and the identification and care of late toxicities.
+ 
+
+VC   The Author(s) 2018. Published by Oxford University Press on behalf of the European Society for Medical Oncology. All rights reserved. For permissions, please email: journals.permissions@oup.com.
+ 
+ 
+Figure 1. Algorithm for diagnostic exams of ChT-related diarrhoea.
+aIn case of neutropaenic fever, management according to ESMO guidelines on management of febrile neutropaenia [11].
+CBC, complete blood count; ChT, chemotherapy; CRP, C-reactive protein; CT, computed tomography; ESMO, European Society for Medical Oncology; PPI, proton pump inhibitor; STEC, Shiga toxin-producing Escherichia coli; US, ultrasound.
+ 
+
+ 
+
+Grading
+The most frequently used system for the grading of diarrhoea is the Common Terminology Criteria for Adverse Events (CTCAE) (Supplementary Table 1 in Supplementary Material, available at Annals of Oncology online).
+Although important, this grading system has limitations as it does not include either volume and duration or subjective com- plaints such as abdominal cramps, and does not take into account the patient’s perception about the severity of this symptom.
+As it is well known that there is low agreement between patients and physicians in reporting toxicities, with physicians underesti- mating the presence and severity of adverse events (AEs) [4, 5], it is important to collect measures of diarrhoea directly from the patients, as they provide information that can otherwise be missed [6]. In this regard, the implementation of the patient-reported outcomes (PROs) CTCAE system will allow a clearer pattern of symptoms to be collected; there is a rapid need to complement the current way of measuring diarrhoea, both in everyday practice and in clinical trials.
+It should be recognised that diarrhoea, caused by the disease it- self and as a consequence of oncological treatments, impacts greatly on the QoL of cancer patients.
+
+
+ 
+Physical examination
+Lying and standing blood pressure, heart rate, oxygen saturation, skin turgor and dry mucous membranes may help to assess the degree of dehydration. The general nutritional status [body mass index (BMI)] and overall appearance (severely ill or still compen- sated) may predict the patient’s resistance to this complication. Evaluation for fever is indicated. Abdominal auscultation should determine hyperactive, normal or absent bowel sounds. Palpation for tenderness (localised or generalised) and rebound tenderness may lead to the diagnosis of peritonitis or peritoneal
+ 
+involvement. Abdominal or rectal masses may lead to the diagno- sis of overflow diarrhoea, i.e. liquid stool passing around the ob- struction, that should be investigated with radiological imaging. Rectal examination should be performed to exclude perianal ab- scess formation. Stool rectal examination may help to detect blood or mucus, especially when the patient is unsure about the characteristics.
+
+Investigations
+It is almost impossible to devise an algorithm applicable in all cancer settings for the indication of laboratory tests, radiology and endoscopy which avoids over-diagnosis with additional costs and burden to the patient and the risks of under-diagnosis at the same time. However, specific algorithms have been developed for patients with gastrointestinal symptoms after pelvic or abdomin- al radiation; they are useful in the assessment and the treatment of diarrhoea [7–9].
+In general, the choice of the investigations to be carried out should be guided by the patient’s clinical status (with a lower threshold for laboratory and radiological exams in more compro- mised patients), the duration of the symptoms and the presence of a prominent cause.
+In patients with good performance status and with a highly sug- gestive aetiology [e.g. ChT based on 5-fluorouracil (5-FU) and/or irinotecan administration in the previous few days], microbiologic- al examinations may not be necessary, or may be deferred if the situation does not improve after initial therapeutic measures.
+Further examinations into the differential diagnosis are indi- cated if the diarrhoea takes a severe or persistent course, notably in the presence of fever, but also neutropaenia, haematochezia, steatorrhoea and other signs or symptoms not easily explained by the tumour or therapy. A broader diagnostic approach is recom- mended for patients with a history of earlier complications from diarrhoea.
+
+Laboratory and microbiological tests. A list of suggested clinical chemistry and blood count laboratory tests is provided in Table 2.
+In patients with diarrhoea without cancer, stool cultures usual- ly have a diagnostic yield of < 5%. In a situation of drug-induced diarrhoea, the yield might be even lower. On the other hand, in
+patients with cancer, direct or indirect contacts with other infected patients and the inherent immunosuppression might lead to a higher rate.
+In patients on antibiotics, a stool sample to test for Clostridium difficile may be the most important measurement. Stool samples may include Shigella, Salmonella, Campylobacter, Shiga toxin- producing Escherichia coli (STEC) O157: H7 strains, Giardia lam- blia, Cryptosporidium and Entamoeba histolytica. Tests for Clostridium difficile include enzyme immunoassays (EIAs) detecting glutamate dehydrogenase, EIAs detecting toxins A and B and nucleic acid amplification tests. Most guidelines recom- mend a two-step approach. For a detailed discussion, microbio- logical guidelines should be consulted [10].
+In patients with fever (especially in the case of manifest or developing neutropaenia), it is very important to take a min- imum of two sets of blood cultures including cultures from indwelling intravenous (i.v.) catheters and to follow the ESMO guidelines for febrile neutropaenia [11].
+ 
+
+Table 2. Suggested clinical chemistry and blood count laboratory tests
+Laboratory test
+
+WBC count and differential	Assessment
+
+Neutropaenia after ChT	Consequences
+
+Risk-stratiﬁcation in the case of fever (low/high risk of complications)
+	Leukocytosis	Possible infection as cause
+Hb	Blood-loss, bone marrow function	Transfusion
+	Haemoconcentration	Infusion
+Potassium, sodium, calcium, magnesium	Electrolyte disturbances	Composition of infusion ﬂuids Creatinine, urea	(secondary) Renal impairment	Replacement therapy prognostication
+Coagulation tests	Bleeding risk (inﬂammation)	Further studies for clariﬁcation
+CRP, PCT	Infection, inﬂammation	Need for antibiotic therapy
+Blood gases and lactate	Acidosis	Need for intensive care
+TSH	Hyperthyroidism	Rare cause of diarrhoea
+ACTH	Hypoadrenalism	Rare cause of diarrhoea
+
+ 
+ACTH, adrenocorticotropic hormone; ChT, chemotherapy; CRP, C-reactive protein; Hb, haemoglobin; PCT, procalcitonin; TSH, thyroid-stimulating hormone; WBC, white blood cell.
+
+ 
+In patients with diarrhoea after administration of checkpoint inhibitors, a microbial cause (bacterial enteropathogens and Clostridium difficile toxin) should be ruled out in every patient with significant diarrhoea (please consult the corresponding ESMO Clinical Practice Guidelines on management of toxicities from immunotherapy) [12].
+A quantitative culture of jejunal aspirates may help in the diag-
+nosis of small intestinal bacteria overgrowth syndrome (SIBO), possibly due to chronic radiation enteropathy, long-term use of PPIs or as a post-surgical consequence of colectomy with the loss of ileo-caecal valve or altered gut motility [13].
+Patients with diarrhoea after allogeneic stem cell transplanta- tions may have intestinal graft-versus-host disease (GvHD); how- ever, this is beyond the scope of these guidelines.
+
+Imaging studies and radiology. Ultrasound may be helpful to evaluate peristalsis, intestinal wall thickening and intra- abdominal tumour manifestations. In the presence of clinical signs of peritoneal involvement (local tenderness or rebound ten- derness) computed tomography (CT) is the preferred method to diagnose further complications as early as possible (perforation, malignant intestinal obstruction, enterocolitis).
+
+Indications for endoscopy. There is usually no primary indication for endoscopy, except for refractory cases or for patients with chronic diarrhoea, who should be referred to a gastroenterologist. Investigations such as duodenal biopsy [for diagnosis of cytomegalovirus (CMV), other viral infections and diagnosis of Giardia lamblia] are usually only done in the situ- ation of persistent or increasing symptoms. On sigmoidoscopy or colonoscopy, infection with Clostridium difficile may show a typical morphology. However, in neutropaenic enterocolitis, colonoscopy is not recommended, as the risk of perforation might be increased; moreover, in neutropaenic patients, the
+ 
+
+ 
+
+typical pseudomembranes cannot develop, as their formation seems to require neutrophils.
+
+
+ 
+Diarrhoea is a common symptom of presentation of several types of malignant tumours (Table 3). Gastroenteropancreatic and lung neuroendocrine tumours (NETs) and colorectal cancer are the most frequent diarrhoea-associated tumours ( 20% of the cases). NETs-related diarrhoea is mainly related to released bioactive amines (mainly serotonin) that cause carcinoid syndrome. In colorectal cancer, this symptom often presents at the same time as constipation and is linked to the primary site of presentation. Bile salt malabsorption may occur in patients with pancreatic dis- ease and cause diarrhoea. Other less frequent cancer-related diar- rhoea is seen with intestinal lymphoma and thyroid medullary
+carcinoma (5%–16% and 16%, respectively).
+
+
+ 
+Diarrhoea is a common side effect of many ChT agents. Most of the drugs induce diarrhoea that is not severe but, in some cases, it may be dose limiting and even life threatening (Table 4) [14].
+ 
+ChT regimens with bolus of i.v. 5-FU and LV. Late diarrhoea associated with irinotecan is unpredictable, noncumulative and occurs at all dose levels. It is more common with 3-weekly dose schedules than with lower weekly dosing. The median time to onset is 6–14 days.
+Risk factors: Polymorphisms that alter uridine 50-diphospho-
+glucuronosyltransferase (UGT) activities have been identified; the homozygous presence of the UGT1A1*28 polymorphism, leading to less efficient glucuronidation of SN-38, has been iden- tified as a potential risk factor for the occurrence of delayed-onset diarrhoea and grade 3–4 neutropaenia. In one study, heterozy- gote had a twofold increase of risk of severe diarrhoea.
+
+Capecitabine. Capecitabine, an oral precursor of 5-FU, when administered at usual doses (2000 mg/m2 per day for 14 of every 21 days) entails a risk of diarrhoea in 30%–40% of the patients (severe in 10%–20%) [17].
+
+Other cytotoxic drugs associated with diarrhoea
+ 
+
+Cytotoxic drugs most frequently associated with diarrhoea
+5-FU. The diarrhoea associated with 5-FU therapy may be watery or bloody. Disruption of the integrity of the gut lining may per- mit access of enteric organisms into the blood stream, with the potential for overwhelming sepsis, particularly if the granulocyte nadir coincides with diarrhoea. Severity is variable, but it may be severe and at times life-threatening [15].
+Risk factors: Diarrhoea is most commonly observed when 5-FU is co-administered with leucovorin (LV). It is slightly more com- mon with bolus rather than continuous administration of 5-FU/ LV, particularly with high-dose LV (≥ 500 mg/m2), but it occurs with all administration schedules. In the initial reports of weekly 5-FU/LV, diarrhoea was seen in up to 50% of patients, with one- half of these requiring hospitalisations for i.v. fluids and, in one study, a 5% mortality rate. Other risk factors have been identified including unresected primary tumour, previous episodes of ChT- induced diarrhoea and female gender.
+Administration of 5-FU to patients with metabolising enzyme dihydropyrimidine dehydrogenase (DPD) deficiency can lead to life-threatening complications, including severe diarrhoea, muco- sitis and pancytopaenia (see ‘Personalised medicine’ section).
+
+Irinotecan. Irinotecan may often cause acute diarrhoea (immedi- ately after drug administration) or delayed-onset diarrhoea. Immediate-onset diarrhoea is caused by acute cholinergic prop- erties and it is often accompanied by other symptoms of choliner- gic excess, including abdominal cramping, rhinitis, lacrimation and salivation. The mean duration of symptoms is 30 minutes and it usually responds rapidly to atropine [0.25–1 mg subcuta- neously (s.c.) or i.v.] and premedication with 0.5 mg atropine s.c. may prevent acute diarrhoea [16]. The delayed-onset diarrhoea usually occurs at least 24 hours after drug administration and can be potentially life-threatening, especially in combination with
+ 
+Taxanes.
+Cabazitaxel: In studies for prostate cancer, the prevalence of diarrhoea of all grades was 47%, of which 6% were ≥ grade 3. Up to 10% of patients required hospitalisation for treatment of diarrhoea.
+Docetaxel: In patients receiving neo-adjuvant treatment of breast cancer, the reported rate of diarrhoea was up to 47%, with low rates of grade 3 and 4. However, in a study using docetaxel in gynaecological malignancies, all-grade diarrhoea ranged from 19% to 47%; ≥ grade 3 ranged from 0% to 27%, with more pro- nounced effects in patients > 65 years of age.
+Paclitaxel: Different schedules of paclitaxel are associated with
+different prevalence of diarrhoea. Early studies of doses of 175– 225 mg/m2 administered over 24 hours resulted in prevalence of all-grade diarrhoea of 39%, with 3% grade 3 and 4, and weekly schedules may result in 3%–7% ≥ grade 3 diarrhoea. Cases of se- vere enteritis and colitis have been reported.
+Nab-paclitaxel (albumin-bound paclitaxel): Its gastrointestinal toxicity resembles that of paclitaxel with any grade diarrhoea, prevalence being as much as 44% but no ≥ grade 3 events.
+Anthracyclines. Diarrhoea with the regular form of anthracy- clines is not common, with all-grade occurring in 15% of patients. In contrast, for PEGylated liposomal doxorubicin the prevalence of diarrhoea may be up to 45%, grade 3 and 4 in 3% of cases, mostly in the elderly.
+
+Platinum salts.
+Cisplatin and carboplatin: Whereas the prevalence of diarrhoea is low with i.v. administration, it is somewhat higher when cisplatin is administered intraperitoneally. Hyperthermic intraperitoneal chemotherapy (HIPEC) is associated with more severe and pro- longed diarrhoea. Oxaliplatin is seldom used as a single agent and most studies reporting gastrointestinal toxicity of oxaliplatin refer to combinations with drugs that potentially contribute to diar- rhoea, such as fluoropyrimidines or irinotecan [18].
+ 
+ 
+Diarrhoea is associated with the use of several targeted therapies, mainly tyrosine kinase inhibitors (TKIs), but also monoclonal antibodies and other targeted agents [19]. Diarrhoea is observed in patients treated with vascular endothelial growth factor recep- tor (VEGFR) inhibitors, epidermal growth factor receptor (EGFR) inhibitors, (multi-targeted) TKIs, mammalian target of rapamycin (mTOR) inhibitors, cyclin-dependent kinase (CDK) 4/6 and poly(adenosine diphosphate-ribose) polymerase (PARP) inhibitors (Table 5).
+Many targeted agents studied were associated with significantly higher risks (up to eightfold) of developing diarrhoea than the conventional regimens. Patients treated with several TKIs, such as erlotinib, gefitinib, lapatinib, sorafenib and sunitinib, have a significantly higher risk of having both all-grade and high-grade diarrhoea than those receiving conventional regimens. A very high risk can be observed in patients treated with lapatinib for breast cancer. Diarrhoea is a common side effect of targeted ther- apy and these targeted drugs can cause severe diarrhoea when combined with ChT. Moreover, there is a strong association be- tween anti-EGFR TKIs and diarrhoea.
+As far as mTOR inhibitors are concerned, diarrhoea has been
+related to several alterations, such as microflora disequilibrium and malabsorption.
+However, little is known about the possible underlying mechanisms of new targeted therapies, such as CDK4/6 and PARP inhibitors, and this causes difficulties in addressing the problem properly. In fact, there is little consensus regarding the proper management and treatment of diarrhoea from new targeted therapies.
+
+
+ 
+Immune checkpoint inhibitors lead to specific immune AEs, close to auto-immune disorders, which require a specific management. Diarrhoea is one of the most frequent immune AEs, particularly with anti-cytotoxic T-lymphocyte antigen-4 (anti-CTLA-4) therapy, and shares characteristics with IBD. Colitis may occur, even if it is not a pathognomonic characteris- tic of this toxicity, as a significant proportion of patients have diarrhoea with no evidence of colitis on biopsy. For further details please consult the corresponding guidelines from ESMO on management of toxicities from immunotherapy [12].
+
+
+   Diarrhoea associated with hormonal   
+ 
+ 
+Hormonal agents are the cornerstone of the treatment of several tumours, such as breast, prostate and endometrial cancer. Older hormonal agents, such as gonadotropin-releasing hormone agonists, antiandrogens and antioestrogens, are correlated to a low and variable incidence of diarrhoea, often without clinical relevance. Aromatase inhibitors are not usually associated with gastrointestinal issues and diarrhoea is an infrequent event (i.e. for anastrozole, around 4%–6%). New
+ 
+
+hormonal agents, used in breast and prostate cancer, are often associated with mild intensity diarrhoea (see Table 6). It should be recognised that patients treated with systemic drugs may also have diarrhoea because of other causes, such as bile salt malab- sorption or pancreatic insufficiency. So, an accurate assessment and treatment of all possible causes may lead to improvement in symptoms.
+ 
+
+Table 6. Incidence of diarrhoea from new hormonal agents
+Class of drug	Drug	Incidence of	Incidence of
+		diarrhoea (%)	grade 3 and
+			4 diarrhoea (%)
+Androgen synthesis	Abiraterone	18	1
+inhibitors			
+Antiandrogens	Enzalutamide	21	1
+	Apalutamide	8–11	0
+Antioestrogens	Fulvestrant	6	0
+
+ 
+The widespread use of RT in pelvic cancer treatment (e.g. gynae- cological and gastrointestinal cancers) is related to the increasing incidence of radiation-induced side effects. The RT-induced damage can be the direct result of the energy absorption from in- cident radiation or the effect of the free radicals realised by the interaction of radiation with cellular water. Moreover, damage of stem cells within intestinal crypts during replication or differenti- ation causes a reduction or a loss of mucosal integrity and the flattening of intestinal villi. Also, a modification of the intestinal microflora and a deterioration of enzymatic activities are related to RT damage. Accordingly, a decrease of absorptive intestinal surface area and a reduction of intestinal transit time are present.
+Diarrhoea is reported in these cases, but it represents just one
+of the many symptoms (e.g. urinary, sexual, cutaneous) after pel- vic or abdominal irradiation. To better identify and treat these patients, a new term, ‘pelvic radiation disease’, is used and defined as ‘transient or longer-term problem, ranging from mild to very severe, arising in non-cancerous tissues, resulting from RT treatment to a tumour located in the pelvis’ [20]. In clinical practice, diarrhoea is defined as acute when occurring during RT or within 3 months, while it is considered as chronic when lasting for, or developing in, a longer period [21].
+
+Acute diarrhoea
+Generally, ~60% of patients have an experience of temporary mild diarrhoea during pelvic RT treatment.
+There are several risk factors that play a role in developing radiation-induced intestinal injury, which can be divided into pa- tient- and treatment-related risk factors.
+Patient-related risk factors include: low BMI, comorbid dis- eases (e.g. diabetes, hypertension, collagen vascular and IBD) and smoking history. Moreover, previous intestinal surgery may pre- dispose to acute diarrhoea for anatomical changes leading to an increase in small bowel exposure to RT field, which explains the higher incidence after postoperative rather than preoperative chemoradiotherapy (CRT). Treatment risk factors include: vol- ume of small bowel in RT field, RT dose, fractionation, technique and concomitant ChT administration. Although the probability of tumour control increases with the radiation dose, so does the damage to normal tissues. Acute side effects to the intestine occur at ~10 Gy. Because curative doses for many abdominal or pelvic
+ 
+tumours range between 50 Gy and 75 Gy, enteritis is likely to occur.
+In clinical practice, a rate of < 10% of grade 3 toxicity is regis- tered when a volume of < 120 cc of individual small bowel loops receives a dose of < 15 Gy.
+The kind of ChT concomitant to RT may influence the severity
+of intestinal toxicity. Generally, fluoropyrimidine alone or associ- ated with new agents (i.e. oxaliplatin and irinotecan) is related to an increase of acute toxicity.
+Intestinal transit may be a major factor in the pathophysiology of RT-induced diarrhoea, whereas lactose malabsorption may contribute to the severity of the diarrhoea. There is further evi- dence that lactose malabsorption develops as a side effect of pelvic RT, and that the severity of this malabsorption can be related to the small bowel area exposed to RT. Furthermore, cholerheic en- teropathy can be one of the causes of RT-induced diarrhoea, as a result of ileal dysfunction, with impaired bile salt absorption and secretion of water and electrolytes in the colon [22].
+Acute RT-induced diarrhoea may be associated with nausea, vomiting, abdominal cramping or rectal tenesmus. Patients must be evaluated regarding related symptoms that may indicate a con- comitant haemodynamic injury. Digestive and absorptive func- tions of the gastrointestinal tract are altered or damaged, resulting in malabsorption of fat, lactose, bile salts and vitamin B12. Finally, intestinal bacterial overgrowth is present in about a quarter of patients during RT treatment and may worsen the acute diarrhoea [23].
+
+Chronic diarrhoea
+The exact prevalence of chronic RT-induced diarrhoea toxicity is difficult to determine, as data mainly derive from retrospective studies. About 90% of patients who received pelvic RT may de- velop a permanent change in their bowel habit after treatment, 50% of whom may have their QoL affected by gastrointestinal symptoms (moderate or severe effect in 20%–40% of cases) [20].
+Chronic diarrhoea is only a symptom of pelvic radiation dis- ease, an expression of changes in the normal physiology of the gastroenteric tract. In fact, the inflammation that appears during and immediately after RT is replaced almost completely by pro- gressive ischaemia and fibrosis, which largely occurs not in the mucosa but in the submucosa. Subsequently, the intestinal tract shows mucosal atrophy, vascular sclerosis and progressive wall fi- brosis. So, the term ‘radiation enteropathy’ must be used to de- scribe chronic radiation damage, rather than ‘radiation enteritis’ (acute damage).
+Normal tissue responses are also influenced by the dose accu- mulation and other factors related to the RT schedule. Serious chronic diarrhoea is strongly related to the RT characteristics (i.e. total RT dose administered and intestinal volume irradiated). The dose at which 50% of patients would develop late intestinal toxicity at 5 years is 60 Gy and 55 Gy for one-third of the volume and the whole volume of the small bowel, respectively. The toler- ance for the large intestine is slightly higher: 65 Gy for one-third of the volume and 60 Gy for the whole volume of the colon irradiated.
+Unconventional (e.g. hypofractionation) or more aggressive RT regimes are usually associated with aggravation of acute reac- tions, particularly in those organ systems in which there is a
+ 
+
+
+ 
+iv132 | Bossi et al.	Volume 29 | Supplement 4 | October 2018
+ 
+barrier against mechanical and/or chemical stress. Delayed radi- ation injury may develop in the wake of severe acute injury, this phenomenon was termed ‘consequential late effects’. The concept of consequential late effects eradicated the old dogma of inde- pendence between early and delayed radiation effects. As a result, in tissues with a consequential component of the late effect (e.g. intestinal tract), an amelioration of the acute RT toxicity can be a useful approach to reduce late sequelae.
+About 5% of patients show a persistent lactose malabsorption causing chronic diarrhoea. Conversely, bile salt malabsorption is common but it causes few symptoms in most patients (e.g. onset of a mild diarrhoea after a high-fat meal). The role of bile salts and carbohydrate malabsorption in chronic diarrhoea is unclear.
+Another clinical situation possibly occurring as a late effect of RT is steatorrhea, which is usually caused by bacterial overgrowth or bile salt malabsorption or, more rarely, by the little-recognised disorder of free fatty acid or late pancreatic insufficiency after ab- dominal RT.
+Finally, other causes to be considered in chronic diarrhoea are small bowel strictures, new intestinal neoplasia and new onset or recrudescence of primary inflammatory disease.
+The symptoms associated with chronic RT-induced diarrhoea are progressive and characterised by malabsorption of nutrients and abnormal propulsion of intestinal contents. Recurrent intes- tinal bleeding, abdominal pain and, in limited cases, intestinal stenosis with tenesmus, ulcers and fistula formation can be pre- sent. In some patients, a latency period of 20–30 years after pelvic RT is not uncommon.
+
+
+   Other causes of diarrhoea in cancer patients 
+Clostridium difficile
+Clostridium difficile diarrhoea occurs when the normal intestinal flora is altered, allowing Clostridium difficile to flourish in the in- testinal tract and produce a toxin that causes a watery diarrhoea. It can be triggered by repeated enemas, prolonged nasogastric tube insertion, gastrointestinal tract surgery and the use of antibi- otics, especially penicillin (ampicillin), clindamycin and cephalo- sporins. Occasionally, however, it is reported after ChT in the absence of antibiotic therapy. The most common confirmatory study is an EIA for Clostridium difficile toxins A and B which yields results in 2–4 hours. Specificity of the assay is high (93%– 100%), but sensitivity ranges from 63% to 99% and this limited sensitivity may require two to three repeat stool samples to docu- ment   disease.   A   polymerase   chain   reaction   test   ‘XpertVR Clostridium difficile assay’ has been approved by the United States Food and Drug Administration (FDA). Limited data indicate that this test may have greater sensitivity [24].
+
+Enteral feeding
+Tube feeding, either by nasogastric tube, gastrostomy or jejunos- tomy may be associated with the development of diarrhoea [25]. This is a common problem occurring in 10%–60% of patients. Many potential factors may contribute to the problem; indeed, it is often multifactorial. Both formula osmolality and rate of deliv- ery may be associated with diarrhoea.
+ 
+Partially hydrolysed guar gum is a soluble fibre added to enteral formulas and has the largest body of evidence supporting its use in diarrhoea prevention, when compared with fibre-free formu- las. There are data from randomised, controlled trials indicating that partially hydrolysed guar gum may be preferable to insoluble fibre in this setting [II, B] [26].
+There is conflicting evidence of efficacy of probiotics in prevent-
+ing diarrhoea in patients receiving enteral nutrition, and there is no consensus regarding the use of this approach prophylactically [27]; moreover, attention should be paid to immunocompromised patients as, rarely, probiotics may cause sepsis [28].
+Contamination of the enteral formula may be a contributing
+or causative factor. Recommendations to reduce the risk of con- tamination include:
+•	proper handwashing before handling the feeding administra- tion set;
+•	use of clean gloves before working with the feeding tube and
+administration set;
+•	use of aseptic techniques in setting up and connecting the feeding administration set and related equipment;
+•	adherence to ‘hanging time’ guidelines of individual formula-
+tions and refrigerated storage of prepared bags for no longer than 96 hours until use [V, B].
+
+Coeliac plexus block
+Coeliac plexus block is commonly associated with self-limiting acute diarrhoea. Occasionally, diarrhoea may be persistent. This diarrhoea may be amenable to treatment with loperamide, drugs with anticholinergic properties (e.g. hyoscine butylbromide) or with octreotide [V, B].
+
+Diarrhoea due to surgical procedures
+Diarrhoea may result from resection of part of the digestive tract; the pathogenesis and the severity of the toxicity depend on the extent and site of surgery itself.
+For oesophageal and gastric resection, the incidence of diar- rhoea is about 15%.
+In case of intestinal resection, it is important to know the remaining length of small intestine, as this can affect the risk and severity of diarrhoea [29].
+In case of right hemicolectomy, chronic diarrhoea occurs in about 20% of patients because of bile salt malabsorption or small bowel bacterial overgrowth. Malabsorption occurs due to the dysfunction of the terminal ileum, causing an increased passage of bile in the colon. The loss of the ileocecal valve barrier may cause an increase of bacteria growth in the small bowel [30].
+Patients with rectal cancer undergoing sphincter-preserving
+rectal resection may suffer from low anterior resection syndrome (LARS) which is quite different to diarrhoea, but possibly com- prising incontinence, stool high frequency, urgency and evacua- tory dysfunctions [31].
+It has also been reported that patients with pancreatic cancer treated with neoadjuvant CRT followed by pancreatectomy with nerve plexus resection have higher rates of intractable diarrhoea. However, the causal role of radiation in such cases should also be considered.
+ 
+ 
+Neutropaenic enterocolitis
+Neutropaenic enterocolitis (also called necrotising enterocolitis or typhlitis) is an acute life-threatening complication of ChT, most commonly observed with high-dose treatments in the set- ting of myeloablative therapies. However, it is also observed with non-myeloablative therapies, particularly with taxanes.
+Neutropaenic enterocolitis may occur when the absolute neu- trophil count (ANC) falls below 500 cells/mL. Patients present with fever, abdominal pain, nausea, vomiting, diarrhoea and, not uncommonly, sepsis. Abdominal pain may be diffuse or localised to the right lower quadrant. Sometimes pain is absent, particular- ly if the patient has received steroid therapy.
+Established standardised diagnostic criteria include the presence of neutropaenia (ANC < 500 cells/mL), bowel wall thickening > 4 mm on radiographic imaging and the exclusion of other diagno- ses such as Clostridium difficile-associated colitis, GvHD or other
+abdominal syndromes [V, A].
+CT scanning is the preferred imaging modality [V, A]. CT scanning techniques can evaluate the entire abdomen for path- ology, especially in patients with distended loops of bowel and ileus for whom ultrasound would not be possible. Scans com- monly demonstrate concentric thickening of the bowel wall, a fluid filled caecum, pericolic fluid collections or abscesses, pneu-
+matosis intestinalis and free air if an underlying perforation exists. Bowel wall thickening > 3–5 mm is considered abnormal and is consistent with, but not sufficient for, the diagnosis of
+necrotising enterocolitis. Indeed, Clostridium difficile-related col- itis in neutropaenic patients may be associated with wall thicken- ing. Pneumatosis intestinalis along with caecal and colonic wall thickening is very suggestive of neutropaenic enterocolitis.
+Abdominal ultrasonography can identify thickening of the bowel wall. A study showed that the neutropaenic enterocolitis-related mortality rate was higher in patients with pathological wall thick- ening (29.5% versus 0%); moreover, a thickness >10 mm had a
+significantly higher mortality rate (60%) than those with bowel
+wall thickness ≤ 10 mm (4.2%) [32]. Ultrasound is useful as a follow-up tool to assess the gradual decrease in bowel wall thicken- ing [V, A]. Additionally, signs of pericolic fluid and intramural or abdominal free air often indicate perforation.
+
+Ischaemic colitis (non-neutropaenic enterocolitis)
+Rarely, ischaemic colitis, in the absence of neutropaenia, has been reported with docetaxel-containing regimens. Patients present 4– 10 days following administration with rapid onset of pain and ten- derness over the affected bowel, followed by the development of rec- tal bleeding or bloody diarrhoea within 24 hours of the onset of pain.
+
+
+ 
+
+With active oncological treatment (ChT, targeted agents)
+There are no specific data about the incidence of diarrhoea in eld- erly cancer patients. In a self-reported cohort study involving
+ 
+people > 65 years of age during ChT, in a 5.6 month follow-up period, 74% of patients reported diarrhoea [33].
+In this frailer population, diarrhoea could more frequently lead to dehydration, electrolyte imbalance, renal function decline, malnutrition or pressure ulcer formation.
+The most common causes of diarrhoea are ChT and targeted agents, as already reported. Older patients seem to have a moder- ately increased risk for 5-FU-associated diarrhoea and may be at higher risk with irinotecan; dose reductions for patients
+≥ 70 years of age are recommended in some countries. About
+30%–50% of elderly patients treated with capecitabine need dose reduction to improve tolerability.
+With regard to targeted agents, no greater incidence of diarrhoea in elderly patients has been reported with EGFR TKIs, multitargeted TKIs (such as sunitinib or sorafenib) or with the Bcr-Abl TKI imatinib.
+
+In the palliative setting
+There are no specific data about the incidence of diarrhoea in eld- erly cancer patients with advanced disease; however, this is a less common symptom than constipation. Less than 10% of those with cancer admitted to hospital or palliative care units have diarrhoea.
+Faecal impaction or partial bowel obstruction can manifest as alternating constipation and diarrhoea.
+In the elderly, abuse of laxatives, malabsorption or previous surgery can be responsible for altered fluid absorption in the bowel and consequent diarrhoea.
+
+
+ 
+
+General principles of management of ChT-related diarrhoea (Figure 2)
+
+Approach to uncomplicated diarrhoea. Patients with grade 1 or 2 diarrhoea with no other complicating signs or symptoms may be classified as ‘uncomplicated’ and managed conservatively with oral hydration and loperamide [V, A] [34, 35]. Initial management of mild to moderate diarrhoea should include dietary modifications (e.g. eliminating all lactose-containing products and high-osmolar dietary supplements) and the patient should be instructed to re- cord the number of stools and report symptoms of life-threatening sequelae (e.g. fever or dizziness on standing). Special attention should be given to patients who are incontinent of stool due to the risk of pressure ulcer formation. Skin barriers should be used to prevent skin irritation caused by faecal material.
+Loperamide should be started at an initial dose of 4 mg fol-
+lowed by 2 mg every 4 hours or after every unformed stool (not to exceed 16 mg/day) [V, A] [36].
+Sometimes, it may be difficult to define the threshold between complicated and uncomplicated diarrhoea. In this regard, the role of dedicated supportive care services may limit hospitalisa- tion and allow a better control of the symptoms [37, 38].
+
+Approach to complicated diarrhoea. Patients with mild to mod- erate diarrhoea, complicated by moderate to severe cramping, nausea and vomiting, diminished performance status, fever,
+ 
+ 
+
+
+
+ 
+Oral hydration Dietary modiﬁcation
+Loperamide (4 mg initially, 2 mg after
+every loose stool to maximum of 16 mg/day) Avoid skin irritation
+Notify treating physician
+ 
+
+
+
+
+
+
+Complicated diarrhoeab
+(e.g. ﬂuid depletion, vomiting, fever)
+ 
+
+
+
+
+
+
+
+ 
+Administer:
+Loperamide (4 mg initially, 2 mg after
+every loose stool to maximum of 16 mg/day)
+i.v. ﬂuids and electrolytes
+
+Daily evaluation:
+ 
+Consider octreotide: s.c.100–150 μg tid or
+i.v. 25–50 μg tid Escalation up to 500 μg tid
+ 
+Consider antibiotics: Fluoroquinolones Metronidazole Broad sprectrum
+ 
+Stool evaluation: Blood and stool microbiology testingc
+ 
+CBC
+Electrolytes Urinary output
+
+Figure 2. Algorithm for therapeutic approach.
+aTreatment setting: ambulatory and/or outpatient supportive care outpatient unit.
+bIn-hospital treatment.
+cConsider Clostridium difﬁcile, Salmonella, Campylobacter and other causes of infectious colitis. CBC, complete blood count; i.v., intravenous; s.c., subcutaneous; tid, three times a day.
+ 
+sepsis, neutropaenia, bleeding or dehydration, and patients with severe diarrhoea are classified as ‘complicated’ and should be hos- pitalised and evaluated further, monitored closely and treated ag- gressively [V, A] [34, 35].
+Intensive management of complicated cases usually necessi- tates hospital admission and involves i.v. fluids; octreotide at a starting dose of 100–150 mg s.c. three times a day (tid) or i.v. (25– 50 mg/h) if the patient is severely dehydrated, with dose escalation up to 500 mg s.c. tid until diarrhoea is controlled and administra- tion of antibiotics (e.g. fluoroquinolone) [V, A]. These patients should be evaluated with complete blood count, electrolyte profile and a stool work-up evaluating for blood, Clostridium dif- ficile, Salmonella, Escherichia coli, Campylobacter and infectious colitis [V, A].
+In cases of neutropaenia, the possibility of neutropaenic en- terocolitis should be considered.
+
+Special case—Management of neutropaenic enterocolitis: Management of neutropaenic enterocolitis is challenging and the risk of mortality is high. There are roles for both medical and sur- gical interventions [39].
+The initial treatment of neutropaenic enterocolitis is medical, with the administration of broad-spectrum antibiotics, granulo- cyte colony-stimulating factors (G-CSFs), nasogastric decompres- sion, i.v. fluids, bowel rest and serial abdominal examinations [V, A]. In most patients, these measures are sufficient and symp- toms resolve after correction of the neutropaenia.
+The administered antibiotics should cover enteric gram-negative organisms, gram-positive organisms and anaerobes [V, A]. Causative microorganisms include Pseudomonas, Staphylococcus aureus, Escherichia coli and group A Streptococcus (GAS). Reasonable initial choices include monotherapy with piperacillin- tazobactam or imipenem-cilastatin or combination therapy with cefepime or ceftazidime along with metronidazole [V, A]. In cases which do not respond to antibacterial agents, amphotericin should be considered, because fungaemia is common [V, A]. Blood transfusions may be necessary because the diarrhoea is often bloody [V, A].
+Anticholinergic, antidiarrhoeal and opioid agents should be
+avoided since they may aggravate ileus [V, A].
+The indications for and timing of surgical intervention are controversial. The mortality rate of patients who fail to respond to medical interventions is high and many patients may not be salvageable. Nonetheless, in selected patients, surgery may be helpful to avoid progressive bowel necrosis, perforation and to help control sepsis. Commonly cited indications for surgery in- clude: (i) persistent gastrointestinal bleeding after correction of thrombocytopaenia and coagulopathy; (ii) evidence of free intra- peritoneal perforation; (iii) abscess formation; (iv) clinical deteri- oration despite aggressive supportive measures; (v) to rule out other intra-abdominal processes such as bowel obstruction or acute appendicitis through radiological examinations [V, A].
+If exploratory surgery is carried out, resection of grossly
+involved bowel is necessary. All necrotic material must be removed, usually by a right hemicolectomy, ileostomy and mu- cous fistula. Failure to remove the necrotic focus in these severely immunocompromised patients is often fatal [V, A]. Primary anastomosis is not generally recommended in such severely
+ 
+immunocompromised patients because of the increased inci- dence of anastomotic leak [V, A].
+
+Treatment approaches for diarrhoea (Figure 2)
+Fluids and electrolytes. The most critical therapy in diarrhoeal ill- ness is rehydration, with solutions that contain water, salt and sugar.
+
+Oral rehydration: Oral rehydration therapy (ORT) is generally appropriate for mild diarrhoea [I, A]. Diluted fruit juices and flavoured soft drinks along with saltine crackers and broths or soups may meet the fluid and salt needs in patients with mild ill- ness. Oral rehydration solutions (ORSs), including standard World Health Organization (WHO) ORSs or commercial ORSs may be more appropriate in patients with more severe diarrhoeal disease [II, A]. In elderly patients, who represent the group with the highest risk of severe complications and death from diar- rhoea, and in all patients with grade 2 diarrhoea, an ORS is indi- cated. A well-balanced ORS should contain 65–70 mEq/L sodium and 75–90 mmol/L glucose [40]. ORSs can be combined with other types of fluids or with i.v. fluids when the patient’s compli- ance is suboptimal. The total amount of fluids that should be pre- scribed varies between 2200 and 4000 mL/day.
+ORSs can be used both to replete a volume-depleted patient
+and to maintain adequate volume status once replete. Caution should be paid to overhydration in elderly patients, especially when diagnoses of chronic heart or kidney failures are present. During the administration of fluids and/or ORSs, patients must be frequently re-assessed to ensure that signs of dehydration are not worsening.
+Rapid fluid resuscitation is not necessary in patients with mild to moderate hypovolaemia [I, A]. To avoid worsening of the vol- ume deficit, the rate of fluid administration must be greater than the rate of continued fluid losses, which is equal to the urine out- put plus estimated insensible losses (usually 30–50 mL/h) plus gastrointestinal losses [I, A].
+
+Intravenous rehydration: In grade 3 or 4 diarrhoea, or in all grades when signs of severe dehydration are present, the i.v. route for fluid replacement is preferred.
+Most patients are treated with isotonic saline or a balanced salt solution, but the choice of therapy is influenced by concurrent abnormalities in serum sodium or potassium or the presence of metabolic acidosis. If the patient has tachycardia and is potential- ly septic, an initial fluid bolus of 20 mL/kg should be given [I, A]. Concurrent potassium replacement is indicated in patients who have developed potassium depletion. Fluid replacement is con- tinued at a rapid rate until the clinical signs of hypovolaemia im- prove (e.g. low blood pressure, low urine output and/or impaired mental status) [I, A].
+Monitoring with a central venous pressure line and urinary catheter to measure urinary output should be considered but must be balanced against risks of infection and bleeding [V, B]. Fluid balance should aim for an adequate central venous pressure
+and urine output > 0.5 mL/kg/h [I, A]. Patients who develop oli- guric acute kidney injury (< 0.5 mL/kg/h) despite adequate vol- ume resuscitation, as judged by central venous pressure, are at
+risk of developing pulmonary oedema and the advice of
+ 
+intensive-care experts or nephrologists must be urgently sought [V, B].
+
+Opioids (loperamide). Loperamide is generally the opioid of choice because it has local activity in the gut and is absorbed only minimally (this accounts for the lack of systemic effects). It reduces stool weight, frequency of bowel movements, urgency and faecal incontinence in acute and chronic diarrhoea. Loperamide can be started at an initial dose of 4 mg followed by 2 mg every 2–4 hours or after every unformed stool [II, B]. The maximum daily dose of loperamide is 16 mg. One should pay at- tention to the risk of causing paralytic ileus and, even if rare, these patients need to be monitored while using high-dose loperamide. Other opioids, such as tincture of opium, morphine or codeine can be used [V, C].
+Tincture of opium is a widely used antidiarrhoeal agent. It is often recommended as an alternative to loperamide. Deodorised tincture of opium contains the equivalent of 10 mg/mL morphine and the recommended dose is 10–15 drops in water every 3–4 hours [V, C]. It is important not to confuse this with paregoric which is a camphorated (alcohol based) tincture. The latter is a less-concentrated preparation that contains the equivalent of
+0.4 mg/mL morphine. The recommended dose is 5 mL in water every 3–4 hours [V, C].
+After 48 hours, in case of absence of efficacy of opioids, admin- istration of other drugs should be considered.
+
+Somatostatin analogues (octreotide). In cases of severe or persist- ent diarrhoea, the somatostatin analogue octreotide should be considered, continuing loperamide in the first 48 hours. Octreotide has multiple antidiarrhoeal actions including: sup- pression of release of insulin, glucagon, vasoactive intestinal pep- tide and gastric acid secretion; reduction in motility and pancreatic exocrine function; and alteration of increased absorp- tion of water, electrolytes and nutrients from the gastrointestinal tract. The usual starting dose for octreotide is 100–150 mg s.c./i.v. tid [IV, B]. Since there is a dose response relationship for its anti- diarrhoeal effect, the dose can be titrated up to 500 mg s.c./i.v. tid or 25–50 mg/h by continual i.v. infusion [V, B].
+
+Uridine triacetate (for 5-FU/capecitabine-induced diarrhoea). In cases of severe diarrhoea within 96 hours of completion of treat- ment with 5-FU or capecitabine, uridine triacetate can be admin- istered. Uridine triacetate is an orally administered prodrug of uridine which is a specific pharmacological antidote to fluoropyr- imidines and it is a potentially life-saving treatment of overdoses of these agents. It is licenced for the management of early-onset, severe or life-threatening toxicity including diarrhoea and/or neutropaenia within 96 hours following the end of 5-FU or cape- citabine administration [II, B] [41].
+The recommended dose and schedule for uridine triacetate in adults is 10 g orally every 6 hours for 20 doses [II, A].
+
+Steroids. Budesonide is an orally administered, topically active steroid with high activity in IBD, a 90% first-pass effect in the liver and therefore low systemic availability. It is commonly used in the management of diarrhoea in patients with low- to medium-grade IBD. A small study demonstrated efficacy of oral budesonide in the management of ChT-induced diarrhoea that
+ 
+was refractory to loperamide [IV, C] [42]. Prophylactic budeso- nide is not recommended [II, B] [43].
+
+Antibiotics. Antibiotics are only indicated for patients with fever, hypotension, peritoneal signs, neutropaenia small intestinal bac- terial overgrowth, perianal sepsis or bloody diarrhoea suggestive of either neutropaenic enterocolitis, Clostridium difficile infection or other infective cause (see specific sections).
+
+Bile acid sequestrants. Unabsorbed bile salts cause diarrhoea by stimulating colonic secretion and motility. A multidisciplinary approach is often needed and helps in managing symptoms.
+A low-fat diet and the use of bile acid sequestrants (e.g. choles- tyramine, colestipol, colesevelam) may be an effective integrated therapy [44]. The use of bile acid sequestrants is limited because it is associated with gastrointestinal side effects, including bloat- ing, flatulence, abdominal discomfort and constipation [III, B] [45]. Among them, colesevelam appears to be better tolerated.
+
+Treatment of immunotherapy-induced diarrhoea and colitis
+A specific management algorithm has been depicted in the re- cently published ESMO Clinical Practice Guidelines for manage- ment of toxicities from immunotherapy [12]. The main topics are reported hereafter.
+Management for anti-CTLA-4 and anti-programmed cell death protein 1 (PD-1)-related diarrhoea/colitis is the same. Faster treatment, within 5 days after start of symptoms, leads to more rapid resolution or downgrading of symptoms.
+Treatment of grade 1 diarrhoea is based on symptomatic treat- ment with oral rehydration and antidiarrhoeal treatment, raceca- dotril or loperamide [III, A].
+In the case of grade 2 diarrhoea, immunotherapy treatment should be stopped. Budesonide 9 mg once a day can be added to the symptomatic treatment, if no bloody diarrhoea [V, C]. Oral corticosteroids (0.5–1 mg/kg/day prednisone equivalent) are rec- ommended in the case of diffuse ulceration or bleeding under endoscopic evaluation, or persistent symptoms after 3 days with
+symptomatic treatments 6 budesonide [III, A]. If symptoms worsen or persist for > 3–5 days with oral steroids, behaviour is the same as for grade 3–4 toxicity.
+Treatment of grade 3 and 4 diarrhoea and colitis is based on ad- ministration of 1–2 mg/kg/day prednisone equivalent, with i.v. injections first [III, A]. At this stage, loperamide and opioids should be avoided. If symptoms persist for > 3–5 days, or recur after improvement, non-steroidal immunosuppressive medica-
+tion such as infliximab, an antitumour necrosis factor antibody, 5 mg/kg once every 2 weeks until resolution is recommended [III, A]. A recent case series suggests that vedolizumab, a gut- specific immunosuppressive agent, could be an efficient and safe alternative to infliximab. Further studies would be needed to con- firm these preliminary results [V, C]. Empirical antibiotics should be considered for patients who present with fever or leukocytosis.
+Pneumocystosis antibiotic prophylaxis with oral trimetho- prim/sulfamethoxazole (400 mg once a day) should be added when immune suppression is prolonged.
+ 
+Rare cases resulting in bowel perforation may require colec- tomy. In this case, a subtotal colectomy is preferred as colonic lesions are generally extensive, with a potential flare-up in the postoperative phase.
+Resumption of immunotherapy is possible at disappearance of symptoms or when diarrhoea recovers to grade 1. Definitive dis- continuation of immunotherapy is required in the case of grade 4 or recurrent grade 3 diarrhoea, or grade 2 not resolving after 3 months despite appropriate treatment.
+
+Prevention and treatment of acute RT-induced diarrhoea
+A rigorous assessment of signs and symptoms, including dur- ation and severity, is necessary for the management of acute RT- induced diarrhoea. Diarrhoea stops only upon completion of the RT, so prompt therapy is necessary to ensure that patients com- plete the RT cycle. Dietary counselling is suggested in this treat- ment setting.
+Table 7 shows the prevention measures and treatment approaches; for additional details please refer to Supplementary Material, available at Annals of Oncology online.
+
+Treatment of chronic RT-induced diarrhoea
+Despite the relatively high prevalence of chronic diarrhoea in patients submitted to pelvic RT, there is low level of evidence for available treatments [21, 46]. In particular, there is limited evi- dence about the beneficial effects of sucralfate, amifostine, cor- ticosteroid enemas, bile acid sequestrants, famotidine and selenium. On the contrary, the use of aminosalicylates (mesala- zine, olsalazine), misoprostol suppositories, oral magnesium
+ 
+oxide and octreotide injections may worsen gastrointestinal symptoms, such as diarrhoea or rectal bleeding.
+Dietary counselling may reduce diarrhoeal symptoms in the long term with a beneficial effect on gastrointestinal symptoms and QoL. Table 8 lists the currently available approaches (for more details, refer to Supplementary Material, available at Annals of Oncology online).
+
+
+   Diarrhoea in advanced care patients not 
+   receiving oncological treatments: practical 
+ 
+ 
+The prevalence of diarrhoea in palliative care has been reported to be ~20%, at least in older patient populations [47]. Causes and possible management are reported in Table 9.
+As for patients on active treatment, patients with advanced care experiencing diarrhoea must be rehydrated either orally or, when appropriate, by parenteral infusion. In cases of large volume diar- rhoea, there is the potential for very rapid dehydration with risk of prerenal impairment or even, in extreme cases, shock. Patients may suffer electrolyte imbalance (mainly hypokalaemia).
+Special attention should be given to patients who are incontin- ent of stool, due to the risk of pressure ulcer formation. Skin bar- riers should be used to prevent skin irritation caused by faecal material.
+Diarrhoea may pose a major management issue for cancer and palliative care clinicians.
+
+
+   Role of diet: nutritional strategies during 
+ 
+ 
+
+Nutritional care
+Modification of the diet is not recommended for prophylactic purposes but can be useful when the patient is developing diarrhoea.
+
+ 
+
+ 
+
+ 
+Most of the studies on the effects of food on gastrointestinal symptoms in patients with diarrhoea have been carried out in ir- ritable bowel syndrome patients, so the following indications can only be used as general recommendations and must be further investigated in oncological patients. Spices like chili and bever- ages like coffee and alcohol have a known effect on gastrointes- tinal motility and can worsen gastrointestinal symptoms in patients with diarrhoea. Therefore, their consumption should be avoided during acute illness or, at least, limited. Reduction of in- soluble fibre intake may also be useful [V, C].
+
+Lactose
+Bowel mucosal injury associated with ChT may lead to secondary lactose intolerance whose common manifestations are abdominal pain, flatulence, diarrhoea and, in some cases, poor nutritional status. Significant increase in the frequency of hypolactasia— revealed through an oral lactose absorption test—may be present during adjuvant 5-FU-based ChT, but it is fully reversible after therapy discontinuation. There are no studies testing the effects of a lactose-free diet in adults with diarrhoea during ChT.
+In patients presenting with diarrhoea during ChT, avoidance of milk and dairy products (apart from yogurt and firm cheeses) may be a reasonable strategy to reduce the intensity and duration of symptoms [V, C].
+There is insufficient evidence to suggest a lactose-free diet in patients with RT-induced diarrhoea and in the palliative setting, except for those cases in which a clear diagnosis of lactose intoler- ance has been made.
+
+Lactose as an excipient. Lactose is also a common excipient in many pharmaceutical compounds. The majority of people who have lactose malabsorption can tolerate lactose amounts < 12 g, so medications are rarely able to induce symptoms in these sub- jects. In clinical practice, it is not rare to encounter patients com-
+plaining of gastrointestinal symptoms after the ingestion of a minimal amount of sugar (like the quantity of lactose in drugs), so lactose in drugs can be mistakenly responsible for those symp- toms. It should be noted that research on lactose-containing drugs has been conducted in non-oncological patients, therefore further studies are needed to confirm these findings in oncologic- al populations.
+Even considering the possibility of different symptom thresh- olds among patients after lactose ingestion, we recommend
+ 
+caution in de-prescribing or avoiding lactose-containing drugs in cancer patients with diarrhoea in the active setting as in the pallia- tive setting.
+
+Fermentable oligosaccharides, disaccharides, monosaccharides and polyols
+A relatively new area of research, which is in rapid expansion, is that concerning the effect of fermentable oligosaccharides, disac- charides, monosaccharides and polyols (FODMAPs) on gastro- intestinal symptoms in patients with IBD and irritable bowel disease. There is not sufficient evidence in oncological patients to consider a low FODMAP diet in the prevention or in the treat- ment of cancer-related diarrhoea and research in this direction is needed.
+
+Pharmaconutrients and probiotics
+Despite the positive effect with the use of glutamine and omega fatty acids, their use in ChT-induced diarrhoea is not recom- mended, as evidence of their effectiveness requires more studies. Specifically, glutamine was shown to reduce duration of diar- rhoea but not its severity [II, C] [48]. The use of probiotics for the prevention of diarrhoea is also a controversial issue: if on one hand, they may create a protective barrier reducing diarrhoea and abdominal discomfort, on the other, they could put the immuno- compromised patient at higher risk of severe infections.
+
+
+   Personalised medicine: research and 
+ 
+ 
+A large panel of sera markers, polymorphisms or variation of microbiome are under investigation for prediction of diarrhoea under targeted therapies, ChT or immunotherapy. Homozygous UGT1A1*28 phenotype increases the risk of irinotecan-induced toxicity including, but not restricted to, diarrhoea and the dose should be reduced for the first administration of a high-dose regi- men (250 mg/m2). Partial or complete DPD deficiency caused by non-functional DPYD variants can lead to increased risk of tox- icity including diarrhoea with the use of 5-FU, and a dose reduc- tion of at least 50% of the starting dose is recommended in the case of partial deficiency. However, DPD or UGT (UGT1A1) test- ing are not yet widely used before starting therapy. Additional re- search concerning predictors of diarrhoea caused by antitumour
+ 
+Table 10. Summary of recommendations
+
+General principles of management
+•	Patients with grade 1 or 2 diarrhoea with no other complicating signs or symptoms may be managed conservatively with oral hydration and lopera- mide [V, A]
+•	Patients with mild to moderate diarrhoea complicated by moderate to severe cramping, nausea and vomiting, diminished performance status, fever, sepsis, neutropaenia, bleeding or dehydration, and patients with severe diarrhoea should be hospitalised and evaluated further, monitored closely and intensively treated [V, A]. These patients should be evaluated by a multidisciplinary team including the expertise of gastroenterologists
+Management of neutropaenic enterocolitis
+•	The initial treatment of neutropaenic enterocolitis is medical, with the administration of broad-spectrum antibiotics, G-CSFs, nasogastric decompression, i.v. ﬂuids, bowel rest and serial abdominal examinations [V, A]
+•	The administered antibiotics should cover enteric gram-negative organisms, gram-positive organisms and anaerobes [V, A]
+•	Reasonable initial choices include monotherapy with piperacillin-tazobactam or imipenem-cilastatin or combination therapy with cefepime or ceftazidime along with metronidazole [V, A]. In cases which do not respond to antibacterial agents, amphotericin should be considered, because fungaemia is common [V, A]
+•	Blood transfusions may be necessary because the diarrhoea is often bloody [V, A]
+•	Anticholinergic, antidiarrhoeal and opioid agents should be avoided since they may aggravate ileus [V, A]
+•	Indications for surgery include: (i) persistent gastrointestinal bleeding after correction of thrombocytopaenia and coagulopathy; (ii) evidence of free intraperitoneal perforation; (iii) abscess formation; (iv) clinical deterioration despite aggressive supportive measures; (v) to rule out other intra- abdominal processes such as bowel obstruction or acute appendicitis through radiological examinations [V, A]
+•	Failure to remove the necrotic focus in these severely immunocompromised patients is often fatal [V, A]. Primary anastomosis is not generally recommended in such severely immunocompromised patients because of the increased incidence of anastomotic leak [V, A]
+
+Treatment approachesa
+•	ORT is generally appropriate for mild diarrhoea [I, A]. ORSs, including standard WHO ORSs or commercial ORSs may be more appropriate in patients with more severe diarrhoeal disease [II, A]
+•	Rapid ﬂuid resuscitation is not necessary in patients with mild to moderate hypovolaemia [I, A]. The rate of ﬂuid administration must be greater than the rate of continued ﬂuid losses, which is equal to the urine output plus estimated insensible losses (usually 30–50 mL/h) plus gastrointestinal losses [I, A]
+•	If the patient has tachycardia and is potentially septic, an initial ﬂuid bolus of 20 mL/kg should be given [I, A]
+•	Fluid replacement is continued at a rapid rate until the clinical signs of hypovolaemia improve [I, A]
+•	Fluid balance should aim for an adequate central venous pressure and urine output > 0.5 mL/kg/h [I, A]. Patients who develop oliguric acute kidney injury (< 0.5 mL/kg/h) despite adequate volume resuscitation, as judged by central venous pressure, are at risk of developing pulmonary
+oedema and the advice of intensive-care experts or nephrologists must be urgently sought [V, B]
+•	Loperamide can be started at an initial dose of 4 mg followed by 2 mg every 2–4 h or after every unformed stool [II, B]. The maximum daily dose of loperamide is 16 mg
+•	Other opioids, such as tincture of opium, morphine or codeine can be used [V, C]
+•	The usual starting dose for octreotide is 100–150 lg s.c./i.v. tid [IV, B]. The dose can be titrated up to 500 mg s.c./i.v. tid or 25–50 mg/h by continual i.v. infusion [V, B]
+•	Uridine triacetate (dose of 10 g orally every 6 h for 20 doses) is indicated for the management of early-onset, severe or life-threatening toxicity including diarrhoea within 96 h following the end of 5-FU or capecitabine administration [II, B]
+•	Oral budesonide may be suggested for treatment of ChT-induced diarrhoea that was refractory to loperamide [IV, C]. Prophylactic use of budesonide is not recommended [II, B]
+•	In the case of bile salt malabsorption, bile acid sequestrants (e.g. cholestyramine, colestipol, colesevelam) may be an active adjuvant therapy [III, B]
+•	Immunotherapy-induced diarrhoea:
+O Grade 1: symptomatic treatment with oral rehydration and antidiarrhoeal treatment, racecadotril or loperamide [III, A]
+O Grade 2: budesonide 9 mg once a day can be added to the symptomatic treatment, if no bloody diarrhoea [V, C]; oral corticosteroids (0.5–1 mg/kg/ day prednisone equivalent) are recommended in the case of diffuse ulceration or bleeding, or persistent symptoms after 3 days with symptomatic treatments 6 budesonide [III, A]
+O  Grade 3 and 4: 1–2 mg/kg/day prednisone equivalent, with i.v. injections ﬁrst [III, A]. Loperamide and opioids should be avoided. If symptoms persist
+for > 3–5 days, inﬂiximab 5 mg/kg once every 2 weeks until resolution is recommended [III, A]. Vedolizumab could be an efﬁcient and safe alternative to inﬂiximab [V, C].
+
+Role of diet
+•	Spices and beverages such as coffee and alcohol should be avoided and reduction of insoluble ﬁbre intake may also be useful [V, C].
+•	In patients presenting with diarrhoea during ChT, avoidance of milk and dairy products (apart from yogurt and ﬁrm cheeses) may be a reasonable strategy to reduce the intensity and duration of symptoms [V, C].
+
+aFor treatment of acute and chronic RT-induced diarrhoea, see Tables 7 and 8.
+5-FU, 5-ﬂuorouracil; ChT, chemotherapy; G-CSF, granulocyte colony-stimulating factor; i.v., intravenous; ORS, oral rehydration solution; ORT, oral rehydration therapy; RT, radiotherapy; s.c., subcutaneous; tid, three times a day; WHO, World Health Organization.
+ 
+
+ 
+
+ 
+treatment will probably allow the clinician to individualise the therapeutic approach for each patient.
+DPD deficiency is relatively common among Caucasians (3%– 5%). Although the diagnosis can be made by radioimmunomet- ric assay for the DPD enzyme, this test is not readily available. More recently, a simple breath test has been developed and this may provide an effective screening tool.
+ 
+Table 10. Levels of evidence and grades of recommendation have been applied using the system shown in Table 11. Statements with- out grading were considered justified standard clinical practice by the experts and the ESMO Faculty. This manuscript has been sub- jected to an anonymous peer review process.
+ 
+
+ 
+ 
+
+ 
+ 
+Some other aspects of the association of diarrhoea-neoplastic dis- ease and/or treatment are not covered in this guideline, especially the evaluation in the context of GvHD and/or infection after allo- geneic stem cell transplantation, where specific literature over- views already exist [49].
+ 
+PB has reported honoraria from Roche, Merck, Mundipharma, Kyowa Kirin Pharmaceutical Development and AstraZeneca; KJ has reported advisory boards and/or honoraria for presentations for Merck, Merck Sharp & Dohme, Helsinn, Tesaro, Amgen, Hexal and Pfizer; AA, NC, OR, SP, FT, US, AS and CIR have reported no conflicts of interest.
+ 
+
+ 
+ 
+
+ 
+Diarrhoea in cancer patients is a symptom with high impact on QoL and social functioning. The clinical approach should follow the correct identification of pathogenesis of this symptom, to tai- lor the therapies according to the underlying causes. Prevention of associated complications is one of the pillars of the therapeutic strategy. In the future, identification of patients at higher risk of developing diarrhoea following specific treatments will allow for selection of personalised programmes to reduce the severity and duration of this symptom.
+
+
+ 
+These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating procedures for Clinical Practice Guidelines development http://www.esmo.org/Guidelines/ESMO- Guidelines-Methodology. The relevant literature has been selected by the expert authors. A summary of recommendations is shown in
+ 
+ 
+1.	Diarrhoeal  Disease.  Fact  sheet  N◦ 330.  World  Health  Organization. Updated May 2017. http://www.who.int/mediacentre/factsheets/fs330/ en/ (7 May 2018, date last accessed).
+2.	Verhaar S, Vissers PA, Maas H et al. Treatment-related differences in health related quality of life and disease specific symptoms among colon cancer survivors: results from the population-based PROFILES registry. Eur J Cancer 2015; 51: 1263–1273.
+3.	Grover S, Lim RM, Blumberg RS. Oncogastroenterology. J Clin Oncol 2016; 34: 1154–1155.
+4.	Fromme EK, Eilers KM, Mori M et al. How accurate is clinician reporting of chemotherapy adverse effects? A comparison with patient-reported symptoms from the Quality-of-Life Questionnaire C30. J Clin Oncol 2004; 22: 3485–3490.
+5.	Trotti A, Colevas AD, Setser A, Basch E. Patient-reported outcomes and the evolution of adverse event reporting in oncology. J Clin Oncol 2007; 25: 5121–5127.
+6.	Chen RC, Mamon HJ, Chen YH et al. Patient-reported acute gastrointes- tinal symptoms during concurrent chemoradiation treatment for rectal cancer. Cancer 2010; 116: 1879–1886.
+7.	Benton B, Norton C, Lindsay JO et al. Can nurses manage gastrointes- tinal symptoms arising from pelvic radiation disease? Clin Oncol (R Coll Radiol) 2011; 23: 538–551.
+ 
+8.	Andreyev HJ, Benton BE, Lalji A et al. Algorithm-based management of patients with gastrointestinal symptoms in patients after pelvic radiation treatment (ORBIT): a randomised controlled trial. Lancet 2013; 382: 2084–2092.
+9.	Andreyev J, Ross P, Donnellan C et al. Guidance on the management of diar- rhoea during cancer chemotherapy. Lancet Oncol 2014; 15: e447–e460.
+10.	Crobach MJ, Planche T, Eckert C et al. European Society of Clinical Microbiology and Infectious Diseases: update of the diagnostic guidance document for Clostridium difficile infection. Clin Microbiol Infect 2016; 22(Suppl 4): S63–S81.
+11.	Klastersky J, de Naurois J, Rolston K et al. Management of febrile neutro- paenia: ESMO Clinical Practice Guidelines. Ann Oncol 2016; 27(Suppl 5): v111–v118.
+12.	Haanen JBAG, Carbonnel F, Robert C et al. Management of toxicities from immunotherapy: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2017; 28(Suppl. 4): iv119–iv142.
+13.	Sachdev AH, Pimentel M. Gastrointestinal bacterial overgrowth: pathogen- esis and clinical significance. Ther Adv Chronic Dis 2013; 4: 223–231.
+14.	Boussios S, Pentheroudakis G, Katsanos K, Pavlidis N. Systemic treatment-induced gastrointestinal toxicity: incidence, clinical presenta- tion and management. Ann Gastroenterol 2012; 25: 106–118.
+15.	Meta-Analysis Group In Cancer, Le´vy E, Piedbois P  et al. Toxicity of fluo- rouracil in patients with advanced colorectal cancer: effect of administra- tion schedule and prognostic factors. J Clin Oncol 1998; 16: 3537–3541.
+16.	Yumuk PF, Aydin SZ, Dane F et al. The absence of early diarrhea with at- ropine premedication during irinotecan therapy in metastatic colorectal patients. Int J Colorectal Dis 2004; 19: 609–610.
+17.	Van Cutsem E, Findlay M, Osterwalder B et al. Capecitabine, an oral fluoro- pyrimidine carbamate with substantial activity in advanced colorectal can- cer: results of a randomized phase II study. J Clin Oncol 2000; 18: 1337–1345.
+18.	Baratelli C, Zichi C, Di Maio M et al. A systematic review of the safety profile of the different combinations of fluoropyrimidines and oxalipla- tin in the treatment of colorectal cancer patients. Crit Rev Oncol Hematol 2018; 122: 21–29.
+19.	Pessi MA, Zilembo N, Haspinger ER et al. Targeted therapy-induced diarrhea: a review of the literature. Crit Rev Oncol Hematol 2014; 90: 165–179.
+20.	Andreyev HJ, Wotherspoon A, Denham JW, Hauer-Jensen M. “Pelvic ra- diation disease”: new understanding and new solutions for a new disease in the era of cancer survivorship. Scand J Gastroenterol 2011; 46: 389–397.
+21.	Harb AH, Abou Fadel C, Sharara AI. Radiation enteritis. Curr Gastroenterol Rep 2014; 16: 383.
+22.	Ferna´ndez-Ban~ares F, Villa´ S, Esteve M et al. Acute effects of abdomino-
+pelvic irradiation on the orocecal transit time: its relation to clinical symptoms, and bile salt and lactose malabsorption. Am J Gastroenterol 1991; 86: 1771–1777.
+23.	Liu MM, Li ST, Shu Y, Zhan HQ. Probiotics for prevention of radiation- induced diarrhea: a meta-analysis of randomized controlled trials. PLoS One 2017; 12: e0178870.
+24.	Huang H, Weintraub A, Fang H, Nord CE. Comparison of a commercial multiplex real-time PCR to the cell cytotoxicity neutralization assay for diagnosis of clostridium difficile infections. J Clin Microbiol 2009; 47: 3729–3731.
+25.	Whelan K, Schneider SM. Mechanisms, prevention, and management of diarrhea in enteral nutrition. Curr Opin Gastroenterol 2011; 27: 152–159.
+26.	Spapen H, Diltoer M, Van Malderen C et al. Soluble fiber reduces the in- cidence of diarrhea in septic patients receiving total enteral nutrition: a prospective, double-blind, randomized, and controlled trial. Clin Nutr 2001; 20: 301–305.
+27.	Boullata JI, Carrera AL, Harvey L et al. ASPEN safe practices for enteral nutrition therapy. JPEN J Parenter Enteral Nutr 2017; 41: 15–103.
+28.	Redman MG, Ward EJ, Phillips RS. The efficacy and safety of probiotics in people with cancer: a systematic review. Ann Oncol 2014; 25: 1919–1929.
+ 
+29.	Nightingale J, Woodward JM. Guidelines for management of patients with a short bowel. Gut 2006; 55(Suppl 4): iv1–iv12.
+30.	Phillips F, Muls AC, Lalji A, Andreyev HJ. Are bile acid malabsorption and bile acid diarrhoea important causes of loose stool complicating can- cer therapy? Colorectal Dis 2015; 17: 730–734.
+31.	Keane C, Wells C, O’Grady G, Bissett IP. Defining low anterior resection syndrome: a systematic review of the literature. Colorectal Dis 2017; 19: 713–722.
+32.	Cartoni C, Dragoni F, Micozzi A et al. Neutropenic enterocolitis in patients with acute leukemia: prognostic significance of bowel wall thickening detected by ultrasonography. J Clin Oncol 2001; 19: 756–761.
+33.	Pearce A, Haas M, Viney R et al. Incidence and severity of self-reported chemotherapy side effects in routine care: a prospective cohort study. PLoS One 2017; 12: e0184360.
+34.	Benson AB, 3rd, Ajani JA, Catalano RB et al. Recommended guidelines for the treatment of cancer treatment-induced diarrhea. J Clin Oncol 2004; 22: 2918–2926.
+35.	Cherny NI. Evaluation and management of treatment-related diarrhea in patients with advanced cancer: a review. J Pain Symptom Manage 2008; 36: 413–423.
+36.	Hanauer SB. The role of loperamide in gastrointestinal disorders. Rev Gastroenterol Disord 2008; 8: 15–20.
+37.	Antonuzzo A, Lucchesi M, Brunetti IM et al. Supportive care and not only palliative care in the route of cancer patients. Support Care Cancer 2013; 21: 657–658.
+38.	Ripamonti CI, Pessi MA, Boldini S. Supportive Care in Cancer Unit (SCCU) at the National Cancer Institute of Milan: a new integrated model of medicine in oncology. Curr Opin Oncol 2012; 24: 391–396.
+39.	Nesher L, Rolston KV. Neutropenic enterocolitis, a growing concern in the era of widespread use of aggressive chemotherapy. Clin Infect Dis 2013; 56: 711–717.
+40.	Duggan C, Fontaine O, Pierce NF et al. Scientific rationale for a change in the composition of oral rehydration solution. JAMA 2004; 291: 2628–2631.
+41.	Ma WW, Saif MW, El-Rayes BF et al. Emergency use of uridine triacetate for the prevention and treatment of life-threatening 5-fluorouracil and capecitabine toxicity. Cancer 2017; 123: 345–356.
+42.	Lenfers BH, Loeffler TM, Droege CM, Hausamen TU. Substantial activ- ity of budesonide in patients with irinotecan (CPT-11) and 5-fluoroura- cil induced diarrhea and failure of loperamide treatment. Ann Oncol 1999; 10: 1251–1253.
+43.	Karthaus M, Ballo H, Abenhardt W et al. Prospective, double-blind, pla- cebo-controlled, multicenter, randomized phase III study with orally administered budesonide for prevention of irinotecan (CPT-11)-induced diarrhea in patients with advanced colorectal cancer. Oncology 2005; 68: 326–332.
+44.	Gupta A, Muls AC, Lalji A et al. Outcomes from treating bile acid malab- sorption using a multidisciplinary approach. Support Care Cancer 2015; 23: 2881–2890.
+45.	Walters JR, Pattni SS. Managing bile acid diarrhoea. Therap Adv Gastroenterol 2010; 3: 349–357.
+46.	Lawrie TA, Green JT, Beresford M et al. Interventions to reduce acute and late adverse gastrointestinal effects of pelvic radiotherapy for pri- mary pelvic cancers. Cochrane Database Syst Rev 2018; 1: CD012529.
+47.	Van Lancker A, Velghe A, Van Hecke A et al. Prevalence of symptoms in older cancer patients receiving palliative care: a systematic review and meta-analysis. J Pain Symptom Manage 2014; 47: 90–104.
+48.	Sun J, Wang H, Hu H. Glutamine for chemotherapy induced diarrhea: a meta-analysis. Asia Pac J Clin Nutr 2012; 21: 380–385.
+49.	Robak K, Zambonelli J, Bilinski J, Basak GW. Diarrhea after allogeneic stem cell transplantation: beyond graft-versus-host disease. Eur J Gastroenterol Hepatol 2017; 29: 495–502.
+50.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33: 139–144.

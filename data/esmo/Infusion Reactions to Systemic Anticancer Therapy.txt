@@ -1,0 +1,1188 @@
+
+ 
+CLINICAL PRACTICE GUIDELINES
+ 
+Annals of Oncology 28 (Supplement 4): iv100–iv118, 2017 doi:10.1093/annonc/mdx216
+ 
+
+ 
+
+ 
+
+S. Rosello´1, I. Blasco1, L. Garc´ıa Fabregat1, A. Cervantes1 & K. Jordan2, on behalf of the ESMO Guidelines Committee*
+1Medical Oncology Department, CIBERONC, Biomedical Research Institute INCLIVA, Valencia, Spain; 2Department of Medicine V, Hematology, Oncology and Rheumatology, University Hospital of Heidelberg, Heidelberg, Germany
+
+†Approved by the ESMO Guidelines Committee: May 2017.
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via, L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org
+
+
+ 
+
+ 
+ 
+Most anticancer treatments carry a risk for infusion reactions (IRs); incidence may increase when different agents are adminis- tered concomitantly. IRs are either allergic reactions to foreign proteins [generally immunoglobulin E (IgE)-mediated allergic responses] or non-immune-mediated reactions [1]. Most IRs are mild with symptoms such as chills, fever, nausea, headache, skin rash, pruritus, etc. Severe reactions are less frequent and may be fatal without appropriate intervention.
+It is difficult to evaluate these reactions through prospective randomised studies because of the unexpected nature of these events. There is a lack of consensus in the terminology or grading of the severity of an IR in the medical literature [2].
+
+
+ 
+There are few published articles addressing IRs in the medical lit- erature, and there is no consensus on the terminology used to de- scribe these reactions [3]. In 1972, the World Health Organization (WHO) defined an ‘adverse reaction to a drug’ as one that is noxious, unintended and occurs at doses normally used in humans [4]. An adverse drug reaction (ADR) is defined by the United States Food and Drug Administration (FDA) as ‘any undesirable experience associated with the use of a medical product in a patient’ [5]. The European Medicines Agency (EMA) defines an ADR as a response to a medicinal product which is noxious and unintended and which occurs at doses nor- mally used in humans for the prophylaxis, diagnosis or therapy of disease or for the restoration, correction or modification of physiological function [6]. An ADR may be classified as:
+•	A, Augmented pharmacological effects;
+•	B, Bizarre;
+ 
+•	C, Chronic effects;
+•	D, Delayed effects;
+•	E, End-of-treatment effects;
+•	F, Failure of therapy; or
+•	G, Genetic reactions.
+IRs are ‘Type B’ reactions: non-dose related, unpredictable, generally unrelated to the drug’s pharmacological activity and they usually resolve when treatment is terminated [7, 8]. These reactions are divided into true allergic responses (immune-medi- ated, such as anaphylactic reactions) and non-allergic (non-im- mune) sensitivities. Gell and Coombs defined a classification of Type B adverse reactions to therapeutic agents as four true hyper- sensitivity states (Table 1). Type B adverse non-immune reac- tions include: pseudo-allergic [anaphylactoid reactions which resemble true Type I reactions with direct mast cell degranulation like the cytokine-release syndrome (CRS)], idiosyncratic reac- tions (uncommon, unpredictable, unrelated to the drug’s pharmacological action) and intolerances.
+In 2001, the European Academy of Allergy and Clinical Immunology (EAACI) published a report trying to standardise the nomenclature of allergy. The World Allergy Organization (WAO) created a Nomenclature Review Committee to review the EAACI Nomenclature Position Statement and to present a glo- bally acceptable nomenclature for allergic diseases [9]. The term ‘hypersensitivity’ should be used to describe objectively reprodu- cible symptoms or signs initiated by exposure to a defined stimu- lus at a dose tolerated by normal persons. ‘Allergy’ is a hypersensitivity reaction (HSR) initiated by specific immunolo- gical mechanisms. ‘Anaphylaxis’ is a severe, life-threatening, generalised or systemic HSR. The term ‘allergic anaphylaxis’ should be used when an immunological mechanism mediates the reaction. Anaphylaxis from any non-immunological cause should be referred to as ‘non-allergic anaphylaxis’ or
+ 
+
+VC   The Author 2017. Published by Oxford University Press on behalf of the European Society for Medical Oncology. All rights reserved. For permissions, please email: journals.permissions@oup.com.
+ 
+tachycardia, hypotension, rash and shortness of breath, caused by the release of cytokines from the cells [14].
+All these definitions may help to standardise the definition of an IR event, allowing accurate documentation and guiding deci- sions on the safety of rechallenge.
+
+
+ 
+When delivering anticancer drugs, apart from being aware of the potential risk of an IR of a specific drug, and during which course it is most likely to happen, other risk factors should be considered by the medical staff [V, C] [2]. Known risk factors for developing an anaphylactic reaction are: age-related fac- tors, concomitant diseases such as chronic respiratory dis- eases, cardiovascular diseases, mastocytosis or clonal mast cell disorders and severe atopic disease [V, C] [15]. Some concur- rent medications such as b-adrenergic blockers and angiotensin-converting enzyme inhibitors might also increase the risk.
+In malignancies with a high tumour burden and at risk of a rapid tumour lysis or shrinkage at initiation of chemotherapy and/or targeted therapies, the addition of rasburicase, increased hydration [I, A] [16] and delivery of MoAbs in a fractionated way should be considered [III, B] [17].
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+‘anaphylactoid reaction’. Anaphylaxis diagnosis is based upon clinical signs and symptoms (Table 2) [10].
+The European Network for Drug Allergy (ENDA) has categorised HSRs into two types, according to the onset of symp- toms after drug exposure [11, 12]:
+•	Immediate: HSR onset within 1–6 h after the last drug ad- ministration; typically IgE-mediated.
+•	Non-immediate: they may occur at any time, from 1 h after the initial drug administration, commonly after many days. They are often associated with a delayed T cell-dependent type of allergic mechanism.
+A CRS is typically observed after initial treatment with mono-
+clonal antibodies (MoAbs) and consists of a non-allergic, cytokine-mediated HSR within the first hours after infusion [13]. According to the National Cancer Institute Common Terminology Criteria for Adverse Events (CTCAE) version 4.03, a CRS is a disorder characterised by nausea, headache,
+ 
+ 
+Signs and symptoms vary from patient to patient. Typical mani- festations include mucocutaneous symptoms in up to 90% of pa- tients (flushing, urticaria, pruritus), respiratory in 40% (wheezing), circulatory in 30%–35% (hypotension) and abdom- inal symptoms (nausea, vomiting, cramps, diarrhoea), minutes to hours after exposure to the drug [18–20]. The more rapidly a reaction develops, the more severe it is likely to be. The CRS has a similar appearance to a type I HSR and may be clinically indistin- guishable. Most reactions are mild to moderate, with ‘influenza- like’ symptoms (fever, chills, muscular pain, rash, fatigue, head- ache, etc.) and appear within the first couple of hours, most often with the first infusion [21]. A characteristic side-effect of oxali- platin is acute laryngopharyngeal dysaesthesia, a cold-related sen- sation of dyspnoea, difficulty in swallowing or talking, jaw tightness and odd sensations in the tongue and/or pharynx, dur- ing or after oxaliplatin infusion. Irinotecan-related cholinergic syndrome occurs within the first 24 h of its administration and is characterised by diarrhoea, emesis, diaphoresis, abdominal cramping and, less commonly, hyperlacrimation and rhinor- rhoea [22].
+The CTCAE version 4.03 distinguishes between infusion- related reactions and CRS (Table 3) [14]. Grading adverse reac- tions in a standardised way is essential to evaluate the severity of an IR [V, C].
+
+
+ 
+Biochemical mediators released during the degranulation of mast cells and basophils can be measured [19]. Plasma hista- mine begins to rise within 5 min and remains elevated for 15–
+ 
+
+
+ 
+Volume 28 | Supplement 4 | August 2017	doi:10.1093/annonc/mdx216 | iv101
+ 
+Table 3. Common Terminology Criteria for Adverse Events (CTCAE), version 4.03
+ 
+
+
+Grade
+ 
+
+1	2	3	4	5
+
+ 
+Infusion-related reactiona
+ 
+Mild-transient reaction; in- fusion interruption not indicated; intervention not indicated
+ 
+Therapy or infusion inter- ruption indicated but responds promptly to symptomatic treatment; prophylactic medica- tions indicated for
+≤ 24 h
+ 
+Prolonged (not rapidly re- sponsive to symptomatic medication and/or brief interruption of infusion); re- currence of symptoms fol- lowing initial improvement; hospitalisation indicated for clinical sequelae
+ 
+Life-threatening conse- quences; urgent inter- vention indicated
+ 
+Death
+ 
+
+ 
+Cytokine release syndromeb
+ 
+Mild reaction; infusion interruption not indi- cated; intervention not indicated
+ 
+Therapy or infusion inter- ruption indicated but responds promptly to symptomatic treatment; prophylactic medica- tions indicated for
+≤ 24 h
+ 
+Prolonged (not rapidly re- sponsive to symptomatic medication and/or brief interruption of infusion); re- currence of symptoms fol- lowing initial improvement; hospitalisation indicated for clinical sequelae
+ 
+Life-threatening conse- quences; pressor or ventilatory support indicated
+ 
+Death
+ 
+
+ 
+Allergic
+reactionc
+ 
+Transient ﬂushing or rash, drug fever <38 ◦C; intervention not indicated
+ 
+Intervention or infusion interruption indicated; responds promptly to symptomatic treatment; prophylactic medica- tions indicated for
+≤ 24 h
+ 
+Prolonged (not rapidly re- sponsive to symptomatic medication and/or brief interruption of infusion); re- currence of symptoms fol- lowing initial improvement; hospitalisation indicated for clinical sequelae
+ 
+Life-threatening conse- quences; urgent inter- vention indicated
+ 
+Death
+ 
+
+Anaphylaxisd
+ 
+
+Symptomatic bronchospasm, with or without urticaria; parenteral intervention indicated; allergy-related oedema/angioedema; hypotension
+ 
+
+Life-threatening conse- quences; urgent inter- vention indicated
+ 
+
+Death
+ 
+
+aInfusion-related reaction deﬁnition: a disorder characterised by adverse reaction to the infusion of pharmacological or biological substances.
+bCytokine-release syndrome deﬁnition: a disorder characterised by nausea, headache, tachycardia, hypotention, rash and shortness of breath; it is caused by the release of cytokines from the cells.
+cAllergic reaction deﬁnition: a disorder characterised by an adverse local or general response from exposure to an allergen.
+dAnaphylaxis deﬁnition: a disorder characterised by an acute inﬂammatory reaction resulting from the release of histamine and histamine-like substances from mast cells, causing a hypersensitivity immune response. Clinically, it presents with breathing difﬁculty, dizziness, hypotension, cyanosis and loss of consciousness and may lead to death.
+
+
+
+ 
+
+60 min. Urinary histamine metabolites, including methylhist- amine, may be found for up to 24 h after onset of anaphylaxis [23]. Blood samples for measurement of tryptase levels are opti- mally obtained 15 min to 3h after symptom onset [21, 24]. A serial measurement of tryptase levels during an anaphylactic episode followed by a baseline tryptase level after recovery of the event is more useful than a single measurement. However, nor- mal levels of either tryptase or histamine do not rule out the clinical diagnosis of anaphylaxis [15]. Besides, these tests are not universally available, not carried out on an emergency basis and not specific for anaphylaxis [V, C].
+ 
+
+ 
+Preparation:
+•	Before the administration of any drug, the patient should be asked about medical history, previous allergic disorders, atopic status and concomitant treatments [V, C] [24].
+•	If premedications are to be taken orally, oncology nurses should check that the patient  has  actually  taken  them [V, C].
+•	An updated protocol for the management of IRs should be at hand as well as the medical equipment needed for resus- citation (see Figure 1) [V, C].
+ 
+
+
+ 
+iv102 | Rosello´ et al.	Volume 28 | Supplement 4 | August 2017
+ 
+
+ 
+
+Figure 1. Management of infusion reactions.
+DW, dextrose water; HSR, hypersensitivity reaction; IM, intramuscular; i.v., intravenous; NS, normal saline; U, units.
+
+ 
+Observation:
+•	Prompt recognition and immediate medical attention are essential.
+•	Before an IR, some patients feel odd or uncomfortable or express a need to urinate or defecate [19]. Those symptoms should be taken seriously and the patient should be eval- uated by measuring blood pressure and pulse rate [V, C].
+Management:
+•	Stop the administration of medication [V, C].
+•	Maintain the intravenous (i.v.) access [V, C]. Assess the ‘ABCs’ (Airway, Breathing and Circulation) and the patient’s level of consciousness [V, C] [25].
+•	Position: in the case of hypotension, the patient should be placed in the Trendelenburg position; in the case of re- spiratory distress, the patient should be sitting up; and, if unconscious, the patient should be placed in a recovery position [V, C].
+•	Administrate oxygen, if needed [V, C].
+•	Call for medical assistance as soon as possible [V, C].
+•	When a patient fulﬁls any of the three criteria of anaphy- laxis (see Table 2), epinephrine (adrenaline) must be de- livered immediately at a dose of 0.01 mg/kg (1 mg/mL dilution, to a maximum total dose of 0.5 mL) intramuscu- larly into the lateral thigh muscle [IV, B] [26]. This can be
+ 
+repeated every 5–15 min [V, C] [10, 19, 25, 26]. Failure of a prompt response with severe hypotension or cardiac ar- rest should be followed by administration of i.v. epineph- rine [IV, B].
+•	Fluid resuscitation: a rapid infusion of 1–2 litres of normal saline at a rate of 5–10 mL/kg in the ﬁrst 5 min is recom- mended [IV, B] [25]. Crystalloids or colloids should be given in boluses of 20 mL/kg, followed by slow infusion [IV, B] [10, 26, 27].
+•	Antihistamines: the combined use of H1 and H2 antagon- ists is superior to the use of H1 (diphenhydramine) or H2 antagonists (ranitidine, cimetidine) alone [I, B] [28]. Diphenhydramine (1–2 mg/kg or 25–50 mg) may be given slowly via i.v. in combination with ranitidine (50 mg diluted in 5% dextrose water to a total volume of 20 mL) injected i.v. over 5 min [V, C] [2, 25].
+•	Bradycardia must be treated with atropine 600 mg i.v. [V,
+C] [19].
+•	Glucagon 1–5 mg i.v. infusion over 5 min and followed by an infusion (5–15 mg/min) titrated to clinical response may be useful for treating refractory cardiovascular effects in patients receiving b-blockers [V, C] [2, 10, 29].
+•	Vasopressors: dopamine (400 mg in 500 mL of 5% dextrose water) administered at 2–20 mg/kg/min and titrated to
+ 
+
+
+ 
+Volume 28 | Supplement 4 | August 2017	doi:10.1093/annonc/mdx216 | iv103
+ 
+increase systolic blood pressure might be required if epi- nephrine and ﬂuid resuscitation have failed to alleviate hypotension [IV, D] [25]. Vasopressin and norepinephrine may also be used in anaphylaxis that is unresponsive to epinephrine, although the only evidence of efﬁcacy in ana- phylaxis is based on clinical case reports [IV, D] [30]. Vasopressin usual concentration is 25 units (U) in 250 mL of 5% dextrose water or normal saline (0.1 U/mL), with a dose range of 0.01–0.04 U/min [31].
+•	Corticosteroids are effective in preventing biphasic reactions, but are not critical in the management of anaphylaxis [V, D]. If given, the dosing of i.v. corticosteroids should be equivalent to 1–2 mg/kg of (methyl)prednisolone every 6 h [V, C] [10].
+Post-reaction:
+•	Vital signs should be monitored and recurrence symptoms should be controlled [V, C].
+•	After a severe reaction, close observation for 24 h is recom- mended [V, C].
+A CRS differs from other infusion-related reactions and can be managed by:
+•	Short-term cessation of the infusion and
+•	Symptomatic treatment:
+–	histamine blockers;
+–	corticosteroids;
+–	antipyretics.
+•	After resolution of symptoms, the infusion can be restarted at half the rate and titrated to tolerance [IV, B] [2].
+
+
+ 
+Accurate documentation of the IR episode is critical, and should include pre-infusion assessments, an appropriate description and grading of the IR (according to accepted classifications such as CTCAE) and how it was managed [V, B] [25]. A protocol of man- agement and documentation of IRs was developed at Memorial Sloan Kettering Cancer Center [32]. Those chemotherapy and bio- logical agents with the highest incidence of IRs were identified. A multidisciplinary team established standardised guidelines and treatments to be used in the case of an IR. At the first sign of an IR, the protocol of management was activated and the IR was regis- tered. A checklist was used to document which medications were used for the management of the IR. This initiative increased the re- porting of IRs secondary to chemotherapy/biological therapies by 88%. An example of how to document an IR is shown in Table 4.
+
+
+ 
+The severity and nature of the reaction will determine the deci- sion to restart the treatment based on clinical factors such as the risk of a serious recurrent reaction and the potential clinical bene- fit of further treatment [V, C] [3]. After all symptoms have resolved, rechallenge with a reduced infusion rate and additional premedication (such as corticosteroids and antihistamines) is usually successful [V, C]. However, rechallenge in IRs with CTCAE severity grade 3 or higher or in true anaphylaxis should not be attempted [V, B].
+ 
+
+ 
+
+
+
+For patients who have recurrent IRs despite premedication, de- sensitisation protocols have been used with certain drugs with varying success in experienced centres. In desensitisation proto- cols, an initial small diluted dose of the agent with a prolonged in- fusion time and gradual escalation of the dose is administered. Desensitisation induces tolerance to a drug only temporarily, de- pendent on continuous exposure [33]. Once the drug is cleared, the state of tolerance is lost. Patients remain allergic to the drug and must be desensitised for every course of treatment. No stand- ard desensitisation protocol exists and they are not widely ac- cepted as they are time consuming.
+
+
+ 
+Chemotherapy
+
+Acute HSRs to chemotherapeutics are infrequent and usually mild, but certain drugs such as platinum, taxanes and others still have a significant incidence of IRs. The physiopathology, clinical mani- festations, onset and management are variable. Chemotherapy schemes combining different drugs are very common in oncology and it is crucial to recognise the features of an IR to determine which drug is most likely to have caused it and act accordingly. Examples of the characteristics and management of IRs in different chemotherapy drugs are summarised in Table 5.
+
+Anthracyclines. Anthracyclines rarely cause IRs and most reac- tions are mild. The incidence of IRs is higher with PEGylated lip- osomal doxorubicin and daunorubicin at 7%–11% of patients [34, 35]. Complement activation may play a key role in HSR to PEGylated liposomal doxorubicin [36]. HSRs with IgE mediation are rarely reported.
+ 
+
+
+ 
+iv104 | Rosello´ et al.	Volume 28 | Supplement 4 | August 2017
+ 
+Table 5. Characteristics and management of IRs with some chemotherapy drugs
+Drug	Incidence of IRs	Onset	Signs/symptoms	Prophylaxis	Management of IRs
+
+ 
+Anthracyclines [12, 33–35]
+
+
+
+
+
+
+
+Asparaginase [3, 42, 64]
+ 
+7%–11% with PEGylated liposo- mal doxorubicin and daunorubicin.
+
+
+
+
+60% HSRs.
+10% severe reactions.
+ 
+The majority of IRs occur on the ﬁrst infusion.
+
+
+
+
+
+Usually after several doses, within 1 h of drug administration. Caution in retreatments.
+ 
+Chest pain, pruritus, syn- cope, ﬂushing, chills, fever, urticaria, angioedema, rash, tachycardia, hypoten- sion, dyspnoea, nau- sea, vomiting, headache, back pain.
+Pruritus, dyspnoea, rash, urticaria, abdominal pain, bronchospasm, hypotension, angioe- dema, laryngospasm.
+ 
+Slow infusion rate. Premedication not rou-
+tinely recommended
+[IV, B].
+
+
+
+
+
+Corticosteroids and anti- histamines [IV, B].
+ 
+Grade 1/2: stop or slow the infusion rate.
+Symptomatic treatment.
+Grade 3/4: stop treatment and aggressive symptomatic therapy. Consider desensitisation.
+[IV, B]
+Grade 1/2: stop or slow the infusion rate.
+Symptomatic treatment. Grade 3/4: stop treatment and aggressive sympto-
+matic therapy.
+[IV, B]
+ 
+
+
+
+
+
+
+Bleomycin [65]
+
+
+
+
+
+
+
+
+Carboplatin
+[3, 12, 37–39,
+42]
+ 
+
+
+
+
+
+
+1%	Immediate or delayed for several hours, usually after the ﬁrst or second dose.
+
+
+
+
+
+HSRs 12%	Highly variable (minutes to hours). The risk increases with cumulative doses. Highest inci- dence 8th course.
+ 
+
+
+
+
+
+
+Hypotension, mental confusion, fever, chills, wheezing.
+
+
+
+
+
+
+
+Rash, itching, erythema on palms and soles, abdominal cramps, facial oedema, bron- chospasm, hypoten- sion, tachycardia, dyspnoea, chest pain.
+ 
+
+
+
+
+
+
+Because of the possibility of an anaphylactoid reac- tion, lymphoma patients should be treated with
+2 units or less for the ﬁrst 2 doses. If no IR occurs, then the regular dosage schedule may be fol- lowed [IV, B].
+Corticosteroids and H1/H2 antagonists not routinely recommended. Consider in high-risk patients.
+Premedication may not prevent an IR.
+[IV, B]
+ 
+Switch to PEGasparaginase, the least immunogenic drug formulation
+[IV, B].
+Grade 1/2: stop or slow the infusion rate.
+Symptomatic treatment. Grade 3/4: stop treatment and aggressive sympto-
+matic therapy.
+[IV, B]
+
+
+Grade 1/2: stop or slow the infusion rate.
+Symptomatic treatment. Grade 3/4: stop treatment and aggressive sympto-
+matic therapy.
+Consider desensitisation. [IV, B]
+ 
+Docetaxel
+[3, 12, 33, 34,
+42, 51]
+
+
+
+
+
+
+
+
+Etoposide
+[12, 34, 42, 66]
+ 
+30% IRs without premedication.
+2% severe reactions with premedication.
+
+
+
+
+
+
+
+Anaphylactic reactions 1%–3%.
+ 
+First or second dose, within the ﬁrst
+10 min of infusion.
+
+
+
+
+
+
+
+
+Usually after ﬁrst doses.
+ 
+Hypotension, dyspnoea, bronchospasm, urti- caria, skin reactions, angioedema, ﬂushing, pruritus, tachycardia, chest or back pain.
+
+
+
+
+Hypotension, fever, chills, urticaria, bron- chospasm, angioe- dema, chest discomfort.
+ 
+Breast, NSCLC, HNC, gastric cancer: oral dexametha- sone 8 mg bid for 3 days (starting 1 day before docetaxel administration).
+Prostate cancer: oral dexame- thasone 8 mg, 12, 3 and
+1 h before the infusion.
+[IV, B]
+Slow infusion over 30–60 min.
+Corticosteroids and anti- histamines. [IV, B].
+ 
+Grade 1/2: stop or slow the infusion rate.
+Symptomatic treatment. Grade 3/4: stop treatment and aggressive sympto-
+matic therapy.
+Consider desensitisation. [IV, B]
+
+
+Grade 1/2: stop or slow the infusion rate.
+Symptomatic treatment. Grade 3/4: stop treatment and aggressive sympto-
+matic therapy.
+Consider desensitisation. [IV, B]
+Continued
+ 
+
+ 
+Volume 28 | Supplement 4 | August 2017	doi:10.1093/annonc/mdx216 | iv105
+ 
+
+Table 5. Continued
+Drug	Incidence of IRs	Onset	Signs/symptoms	Prophylaxis	Management of IRs
+Oxaliplatin	HSR 0.5%–25%.	Within 60 min after	Sweating, watering, pru-	Corticosteroids and H1/H2	Grade 1/2: stop or slow
+[3, 12, 41,
+Severe reactions <1%.	the start of infusion	ritus, rash, back or	antagonists not routinely	the infusion rate.
+42, 67]
+	(typically 5–10 min).	chest pain, laryngo-	recommended.	Symptomatic treatment.
+		Highest incidence sev-	spasm, dyspnoea,	Consider in high-risk	Grade 3/4: stop treatment
+		enth to eighth	fever, urticaria, bron-	patients.	and aggressive sympto-
+		course.	chospasm,	Premedication may not	matic therapy.
+			hypotension.	prevent an IR.	Consider desensitisation.
+				[IV, B]	[IV, B]
+					If acute laryngopharyng-
+					eal dysaesthesia, warm
+					up the air the patient is
+					breathing; does not
+					require i.v. treatments;
+					oxaliplatin should be
+					administered over 6 h
+					[IV, B].
+Paclitaxel	30% IRs without pre-	First or second dose,	Flushing, skin reactions,	One dose of i.v. dexame-	Grade 1/2: stop or slow
+[3, 12, 34,
+medication. Severe	within the ﬁrst	dyspnoea,	thasone plus diphen-	the infusion rate.
+42–46]
+anaphylactic reac-	10 min of infusion.	Hypotension, tachy-	hydramine (50 mg i.v.)	Symptomatic treatment.
+	tions in 2%–4%.		cardia, broncho-	and a H2 receptor antag-	Grade 3/4: stop treatment
+			spasm, angioedema,	onist (ranitidine 50 mg	and aggressive sympto-
+			urticaria.	or cimetidine 300 mg	matic therapy.
+				i.v.) 30 min before pacli-	After an IR, despite
+				taxel infusion [II, A].	adequate premedica-
+					tion, about 1%–2% will
+					experience severe an
+					HSR.
+					Consider desensitisation.
+					[IV, B]
+Procarbazine	6%–18%.	The majority occur in	Fever, maculopapular	Once HSR occurs, premedi-	Grade 1/2: symptomatic
+[12, 34, 42, 68]
+Higher with concomi-	the ﬁrst courses of	rash, urticaria, angioe-	cation with oral cortico-	treatment.
+	tant use of	treatment.	dema, fever, toxic epi-	steroids is usually not	Grade 3/4: stop treatment
+	anticonvulsant.		dermal necrolysis.	successful [IV, B].	and aggressive sympto-
+					matic therapy.
+					[IV, B]
+bid, twice a day; HNC, head and neck cancer; HSR, hypersensitivity reaction; IR, infusion reaction; i.v., intravenous; NSCLC, non-small cell lung cancer.
+
+
+
+ 
+Platinum derivatives. IRs to platinum compounds are generally consistent with Type I IgE-mediated HSRs associated with re- peated exposure to the agent [3]. A high frequency of anaphylactic-like reactions has been reported (10%–27%) [34, 37]. Type IV reactions have also been described with platinum drugs [38]. The incidence of an HSR with carboplatin is about 12%, and it develops mainly in patients who have been exten- sively pretreated with this agent (e.g. ovarian cancer patients)
+[38, 39]. A retreatment interval > 2 years increases the risk of de- veloping an HSR. In patients receiving their eighth course of car-
+boplatin, or the second dose after reintroduction of the agent, particular caution is advised [39]. Oxaliplatin causes acute HSRs in 0.5%–25% of cases and maximum incidence happens at the seventh to eighth administration [12]. Skin tests may predict
+ 
+reactions to carboplatin. A negative skin test seems to predict, with reasonable reliability, for the absence of a severe HSR with the subsequent drug infusion [40]. The first IR with oxaliplatin is usually mild but it may become more severe at rechallenge [12]. Approximately 50% of patients rechallenged with platinum com- pounds experience recurrent HSRs despite premedication [3, 41]. Desensitisation protocols are an option [42].
+For patients who develop acute laryngopharyngeal dysaesthesia during or after oxaliplatin infusion, management by warming up the air the patient is breathing is sufficient to improve the symp- toms and no other measures are needed [IV, C] [41].
+
+Taxanes. IRs with paclitaxel occur in up to 30% of patients but a prolonged drug infusion and premedication has reduced the rate
+ 
+
+
+ 
+iv106 | Rosello´ et al.	Volume 28 | Supplement 4 | August 2017
+ 
+of severe reactions to 2%–4% [42, 43]. Reactions to taxanes are believed to be anaphylactoid, not mediated by IgE, probably due to a direct release of mast cell mediators such as histamine and tryptase [2, 3]. It is unclear whether paclitaxel reactions result from a non-immune effect of the drug or from the excipient kolli- phor EL (formerly known as cremophor EL) added to solubilise the drug. The incomplete mixing of paclitaxel and kolliphor EL before administration may lead to complement activation and account for the variable and characteristically rapid first exposure reactivity [44]. For docetaxel, it has been suggested that this may be caused by the drug vehicle polysorbate-80.
+All patients should receive premedication with corticosteroids plus antihistamines before taxane administration [IV, A] [34]. A randomised trial compared the efficacy and side effects of pre- medication with oral versus i.v. dexamethasone prior to a first cycle of paclitaxel [45]. There was no difference in paclitaxel- associated HSR rate between groups, nor in the incidence of a severe IR. However, short-term i.v. dexamethasone was associ- ated with fewer side-effects than oral dexamethasone [II, A]. After an IR, despite adequate premedication with antihistamines and corticosteroids, about 40% of patients suffer from mild HSRs and about 1%–2% of patients develop severe potentially life- threatening HSRs [46]. Research in the database of the US project Medical Research on Adverse Drug Events and Reports showed six cases of severe anaphylactic reactions under treatment of adju- vant breast cancer with paclitaxel solubilised in kolliphor EL [47]. Reasons are the presence of oxethylated oleic acid in kolliphor EL, which leads to the release of histamines, and a kolliphor EL- mediated complement activation, which has been described as concentration-dependent [48, 49]. Because of this aspect kolli- phor EL nests in the infusion solution are to be avoided, which might be caused by an insufficient mixing of the strongly viscous formulation of paclitaxel in kolliphor EL [50].
+Patients who experience severe HSR to taxanes should not be rechallenged with these drugs [43, 51]. Successful desensitisation protocols have been developed [33, 42].
+
+Monoclonal antibodies
+MoAbs are non-endogenous proteins which can provoke all four types of HSRs. Chimeric MoAbs are structural chimeras contain- ing murine variable regions, which target the antigen of interest, and human Fc Ig components, which reduce the immunogenicity of the antibody. In humanised antibodies, the human portion represents more than 90% of the antibody. Fully human antibod- ies are 100% human [52]. Although the development of humanised MoAb has reduced the occurrence of human anti- mouse antibodies in patients, human anti-human antibodies (HAHAs) can develop and IRs can still occur. However, a correl- ation between IRs and human anti-chimeric antibodies or HAHAs has not been demonstrated [3]. The potential immuno- genicity of MoAb persists at least to some degree.
+The incidence of an IR during the first drug administration of a MoAb varies from 77% with rituximab, 40% with trastuzumab to 15% with cetuximab [8]. The likelihood of an IR declines with each subsequent course of therapy. A distinctive side-effect of MoAbs is the potential for non-allergic IRs caused by cytokine re- lease within the first hours after infusion [2]. It is thought that the MoAbs target interaction may lead to release of cytokines that
+ 
+produce a range of symptoms similar to those seen in Type I aller- gic responses [8]. Unlike Type I reactions, symptoms appear to subside with each subsequent dose [12]. Less frequently, MoAbs can cause allergic IRs. Examples of characteristics and manage- ment of IRs in different MoAbs are summarised in Table 6.
+
+Cetuximab. Cetuximab is a chimeric MoAb IgG1 targeting the epi- dermal growth factor receptor (EGFR). Reactions may be anaphyl- actic or anaphylactoid in nature or represent a CRS [53]. The incidence of anaphylactic reactions is quite small. Cetuximab- reactive IgE antibodies found in the serum of patients with ana- phylaxis are specific for the disaccharide a-1-3-galactose present on the heavy chain of the Fab fragment of recombinant cetuximab [54]. Most patients who reacted already had the antibodies in their serum before receiving the drug.
+The first dose should be administered slowly while all vital signs are closely monitored for at least 2 h [IV, A] [53]. Premedication with corticosteroids plus antihistamines reduce grade 3 or 4 reactions to only 1%, compared with an incidence of 4.7% for those receiving antihistamines alone [55].
+
+Rituximab. Rituximab is a chimeric MoAb IgG1 that specifically targets B lymphocytes by recognising the antigen CD20 on their surface. Rituximab is associated with infusion-related reactions, which may be related to cytokine release from the lymphocytes, tu- mour lysis syndrome and anaphylactic HSRs [17]. The incidence of IRs in the first administration of rituximab is 77% and decreases in subsequent infusions [12]. Severe reactions happen in 10% of patients (80% in the first rituximab infusion), and typically occur in patients with high numbers of circulating lymphocytes; they are usually reversible with appropriate interventions [1].
+A slow initial rate of infusion is recommended to reduce the risk of IRs [2]. Premedication consisting of an antipyretic and an antihistamine should always be given [IV, A]. Patients with a high tumour burden may be at higher risk of severe CRS. Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients or split dosing over 2 days during the first cycle and any subsequent cycles if the
+lymphocyte count is still > 25 ×109/L [IV, A] [13, 17].
+Trastuzumab. Trastuzumab is a humanised MoAb IgG1 targeting the human EGFR2 (HER2) [8, 56]. Most IRs are mild and occur on the first infusion. IR incidence decreases in subsequent infu- sions. Severe IRs, including anaphylaxis, are rare [1]. In grade 1 or 2 reactions, after resolution of symptoms, further infusions of trastuzumab can be given.
+
+Immunotherapy
+Immunotherapy has emerged recently as a new anti-cancer treat- ment alternative. These drugs have a low incidence of IRs, and most of them are mild to moderate. IRs with agents that target the programmed death protein 1 and its ligand (PD-1/PD-L1 path-
+way) comprise < 1% of adverse events (AEs) in phase III studies [57], but when a peptide vaccine was added to nivolumab, the rate
+of IRs increased to more than 20% [58, 59]. A cytokine release and non-specific activation of an immune response are thought to be the cause of these reactions. There are very few publications avail- able (in the form of case reports) regarding these AEs. A
+ 
+
+
+ 
+Volume 28 | Supplement 4 | August 2017	doi:10.1093/annonc/mdx216 | iv107
+ 
+Table 6. Characteristics and management of IRs with some monoclonal antibodies
+ 
+Drug	Type of
+antibody
+ 
+Mechanism of action
+ 
+Incidence of IRs	Signs/symptoms	Prophylaxis	Management of IRs
+ 
+
+Alemtuzumab [12, 69, 70]
+
+
+
+
+
+
+
+Atezolizumab [71]
+ 
+
+Humanised	Anti-CD52	Serious reactions in 3%.	Headache, rash, pyrexia, nau-
+sea, urticaria, pruritus, insomnia, chills, ﬂushing, fatigue, dyspnoea, dysgeu- sia, chest discomfort, tachy- cardia, dizziness, pain.
+
+
+Humanised	Anti-PD-L1	1%–2%.	Chills, itching, ﬂushing, short- ness of breath, swelling, dizziness, fever, pain.
+ 
+
+Alemtuzumab may be administrated in a fractionated way to avoid CRS.
+Premedication: corticosteroids [(methyl)prednisolone 1 g] on the ﬁrst 3 days.
+Consider use of antihistamines and/ or antipyretics.
+[IV, B]
+Premedication is not recommended [IV, B].
+ 
+
+Grade 1/2: stop or slow the infusion rate. Symptomatic treatment.
+Grade 3/4: stop the infusion. Aggressive symptomatic treatment. After resolution of all symptoms, treatment can be resumed at slower rate, unless severe reaction.
+[IV, B]
+Grade 1/2: stop or slow the infusion rate. Symptomatic treatment.
+Grade 3/4: stop the infusion. Aggressive symptomatic treat- ment. Permanently discontinue.
+[IV, B]
+ 
+Bevacizumab [72]
+ 
+Humanised	Anti-VEGF	IRs < 3% during the ﬁrst
+infusion. Severe in < 1%.
+ 
+Dyspnoea, ﬂushing, rash, blood pressure changes, chest pain, rigours, nausea, vomiting.
+ 
+First dose in 90 min. Subsequent doses in 30–60 min.
+Premedication is not recommended. [IV, B]
+ 
+Grade 1/2: stop or slow the infusion rate. Symptomatic treatment.
+Grade 3/4: stop the infusion. Aggressive symptomatic treatment. After resolution of all symptoms, treatment can be resumed at slower rate, unless severe reaction.
+[IV, B]
+ 
+Blinatumomab [73, 74]
+ 
+Bispeciﬁc T cell- engaging antibody
+ 
+Anti-CD19/ CD3
+ 
+IRs in 44%–67%.
+Serious reactions 0.5%. Median time to onset of a CRS event 2 days.
+A signature composed of three cytokines could accu- rately predict which patients would develop severe CRS.
+ 
+Pyrexia, asthenia, headache, hypotension, nausea, disse- minated intravascular coag- ulation, capillary leak syndrome.
+ 
+Dexamethasone 20 mg i.v. 1 h before infusion.
+Antipyretic is recommended during the ﬁrst 48 h of each cycle.
+[IV, B]
+ 
+Grade 1/2: stop or slow the infusion rate. Symptomatic treatment.
+Grade 3: stop the infusion. Aggressive symptomatic treatment. After reso- lution of all symptoms, treatment can be resumed at 9 lg/day.
+Escalate to 28 lg/day after 7 days if the toxicity does not recur.
+Grade 4: Permanently discontinue.
+[IV, B]
+ 
+Brentuximab vedotin [75]
+ 
+Chimeric	Anti-CD30	11%–15%, mostly grade 1/2.	Headache, rash, back pain,
+vomiting, chills, nausea, dyspnoea, pruritus, cough.
+ 
+Premedication if prior IR may include: paracetamol, an antihistamine and corticosteroid [IV, B].
+ 
+Grade 1/2: stop or slow the infusion rate; symptomatic treatment.
+Grade 3: stop the infusion. Aggressive symptomatic treat- ment. The infusion may be restarted at a slower rate after symptom resolution.
+Grade 4: permanently discontinue.
+[IV, B]
+
+Continued
+ 
+
+
+ 
+Table 6. Continued
+Drug	Type of
+antibody
+ 
+
+
+Mechanism of action
+ 
+
+
+Incidence of IRs	Signs/symptoms	Prophylaxis	Management of IRs
+ 
+
+Cetuximab
+[1, 3, 8, 53, 55,
+76]
+ 
+
+Chimeric	Anti-EGFR	90% on the ﬁrst infusion.
+Severe 2%–5%.
+ 
+
+Flushing, rash, fever, urticaria, chills, bronchospasm, dysp- noea, nausea, vomiting, blood pressure changes, angina, myocardial infarction.
+ 
+
+First dose slow infusion rate.
+Premedication with corticosteroids plus antihistamines [IV, B].
+Premedication can be discontinued after the second infusion if no IR is observed [IV, B].
+ 
+
+Grade 1/2: stop or slow the infusion rate. Symptomatic treatment.
+Grade 3/4: stop the infusion. Aggressive symptomatic treat- ment. After resolution of all symp- toms, treatment can be resumed at slower rate, unless severe reac- tion.
+ 
+
+Daratumumab [77, 78]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ipilimumab [60, 79, 80]
+ 
+
+Human	Anti-CD38	IRs 40%–50%, most mild to moderate in severity.
+82%–95% on the ﬁrst infusion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Human	Anti-CTLA-4	2%–5%, the majority grade 2 IRs.
+More common after the ﬁrst dose.
+ 
+
+Nasal congestion, chills, cough, allergic rhinitis, throat irritation, dyspnoea and nausea.
+Less frequent: bronchospasm, hypertension and hypoxia.
+
+
+
+
+
+
+
+
+
+
+
+Pruritus, maculopapular rash, cough, shortness of breath, chills, rigors, facial ﬂushing, chest, abdominal or back pain.
+ 
+
+Premedication 1 h before every infu- sion: i.v. corticosteroid [(methyl)- prednisolone 100 mg, or equivalent], oral antipyretics (para- cetamol 650–1000 mg) and oral or
+i.v. antihistamine (diphenhydramine 25–50 mg or equivalent).
+Following the second infusion, the dose of i.v. corticosteroid may be reduced [(methyl)prednisolone 60 mg].
+Post-infusion medication: oral corticosteroid [20 mg (methyl)pred- nisolone or equivalent] on each of the 2 days following all infusions.
+[IV, B]
+Premedication with antipyretic and antihistamines may be considered.
+It may be reasonable to observe patients for a short period of time after the infusion because of the risk of IRs.
+[IV, B]
+ 
+[IV, B]
+Grade 1/2: stop or slow the infusion rate. Symptomatic treatment.
+Once the patient is stable, the infusion should be resumed at half the rate, and titrated to tolerance.
+Grade 3: stop the infusion. Aggressive symptomatic treat- ment. If IR improves to ≤ grade 2,
+treatment can be resumed at half
+the rate and titrated to tolerance. If ≥ grade 3 at the subsequent infu- sion, permanently discontinue.
+Grade 4: permanently discontinue.
+[IV, B]
+
+
+Grade 1/2: stop or slow the infusion rate. Symptomatic treatment.
+Restart infusion with close monitoring.
+Grade 3/4: stop the infusion. Aggressive symptomatic treat- ment (including corticosteroids). Permanently discontinue.
+[IV, B]
+ 
+Continued
+ 
+
+
+Table 6. Continued
+Drug	Type of antibody	Mechanism of action	Incidence of IRs	Signs/symptoms	Prophylaxis	Management of IRs
+Nivolumab [81, 82]
+Human	Anti-PD-1	5%, including grade 3–4 IRs.	Facial ﬂushing, hives, angioedema	In the case of an IR, premedication with antipyretics and antihistamines may be considered [IV, B].	Grade 1/2: stop or slow the infusion rate. Symptomatic treatment.
+Grade 3/4: aggressive symptomatic
+treatment. Permanently discontinue.
+[IV, B]
+Ofatumumab
+[83, 84]
+Human	Anti-CD20	61%, the majority grade 1/2.
+More frequent on the ﬁrst	Bronchospasm, cardiac
+events, chills, rigors, cough,	Premedication 30 min to 2 h
+before ofatumumab: oral	Grade 1/2: stop or slow the infusion
+rate. Symptomatic treatment.
+infusion.	diarrhoea, dyspnoea,	paracetamol 1 g, oral or i.v. antihist-	Restart at half the infusion rate
+fatigue, ﬂushing, hyperten-	amine (e.g. diphenhydramine		and titrate to tolerance. sion, hypotension, nausea,	50 mg or cetirizine 10 mg), i.v. corti-	Grade 3: stop the infusion.
+pain, pulmonary oedema,	costeroid (prednisolone: in previ-	Aggressive symptomatic treat- pruritus, pyrexia, rash.	ously untreated or relapsed CLL	ment. Restart at 12 mL/h and
+50 mg and in refractory CLL	titrate to tolerance.
+100 mg).	Grade 4: permanently discontinue. If the patient does not experience an		[IV, B]
+IR in the ﬁrst and second infusion, corticosteroid may be reduced or omitted.
+Before ninth infusion (ﬁrst monthly
+infusion), full dose of premedication agents. If no IR, prednisolone may
+					be reduced to 50 mg.
+[IV, B]	
+Panitumumab [1, 85, 86]
+Humanised	Anti-EGFR	IRs in 4% of patients. Severe in < 1%.	Chills, dyspnoea, ﬂushing, blood pressure changes, pyrexia, tachycardia, vomit- ing, anaphylaxis, angioe- dema, bronchospasm.	First dose in 60–90 min. Subsequent doses in 30 min.
+Premedication is not recommended. [IV, B]	Grade 1/2: stop or slow the infusion rate. Symptomatic treatment.
+Restart at half the infusion rate. Grade 3/4: permanently discontinue.
+[IV, B]
+Pembrolizumab	Humanised	Anti-PD-1	3% IRs.	Pyrexia, chills	Premedication with antipyretic and	Grade 1/2: stop or slow the infusion
+[57, 87, 88]	Grade ≥ 3 < 1%.	antihistamine may be considered	rate. Symptomatic treatment.
+[IV, B].	Grade 3/4: permanently discontinue. [IV, B]
+ 
+Continued
+ 
+
+
+
+
+
+
+Table 6. Continued
+Drug	Type of	Mechanism	Incidence of IRs	Signs/symptoms	Prophylaxis	Management of IRs
+	antibody	of action				
+Rituximab	Chimeric	Anti-CD20	77% on the ﬁrst infusion.	Fever, chills, rash, dyspnoea,	A slow initial rate of infusion is	Grade 1/2: stop or slow the infusion
+[1, 2, 8, 12, 17]
+		Severe reactions 10%.	hypotension, nausea, rhini-	recommended.	rate. Symptomatic treatment.
+				tis, urticaria, pruritus, asthe-	Premedication: antipyretic and anti-	Grade 3/4: stop the infusion.
+				nia, angioedema,	histaminic (e.g. paracetamol and	Aggressive symptomatic treat-
+				bronchospasm.	diphenhydramine).	ment. After resolution of all symp-
+				May be associated with fea-	Glucocorticoids should be considered	toms, treatment can be resumed
+				tures of tumour lysis	in non-Hodgkin’s lymphoma and	at half the previous rate, unless
+				syndrome.	CLL [IV, B].	severe reaction.
+					If high tumour burden, consider a	[IV, B]
+					reduced infusion rate for the ﬁrst	
+					infusion or split dosing over 2 days	
+					[IV, B].	
+Trastuzumab	Humanised	Anti-HER2	20%–40% on the ﬁrst infusion.	Chills, fever, blood pressure	Loading dose in 90 min. Subsequent	Grade 1/2: stop or slow the infusion
+[1, 56, 89, 90]
+		Severe reactions <1%.	changes, bronchospasm,	doses in 30 min.	rate. Symptomatic treatment.
+				itching, dyspnoea, wheez-	Premedication is not recommended.	Meperidine for chills and rigours.
+				ing, arrhythmia,	[IV, B]	Grade 3/4: stop the infusion.
+				angioedema.		Aggressive symptomatic treat-
+						ment. After resolution of all symp-
+						toms, treatment can be resumed
+						at slower rate, unless severe reac-
+						tion.
+						[IV, B]
+CLL, chronic lymphocytic leukaemia; CRS, cytokine-release syndrome; EGFR, epidermal growth factor receptor; HER2, human epidermal growth factor receptor 2; IR, infusion reaction; i.v., intravenous; PD-1, programmed death 1; PD-L1, programmed death-ligand 1; VEGF, vascular endothelial growth factor.
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 2. Selection of articles using PRISMA statement [63].
+IRs, infusion reactions; PRISMA, preferred reporting items for systematic reviews and meta-analyses.
+
+ 
+retrospective study comparing the incidence of infusion-related re- actions to CTLA-4-blocking antibody ipilimumab in patients receiving doses of either 3 or 10 mg/kg infused over 90 or 30 min, showed that IRs to ipilimumab happen more frequently after the first dose, suggesting that the first dose is a sensitising one [60]. Table 6 shows examples of some of immunotherapy drug charac- teristics and recommendations for management of IRs.
+
+
+ 
+Following any IR episode, the clinician should attempt to estab- lish, based on the precipitating drug and the characteristics of the event, the steps that could be taken to prevent future episodes [V,
+ 
+C]. After the treatment of an anaphylactic reaction, an observa- tion period should be considered for all patients because of the risk of a biphasic reaction [V, B] [10]. There are no reliable pre- dictors of biphasic reactions, but it seems that they are more likely in patients  who present initially with severe symptoms [25]. Observation periods should be individualised on the basis of the severity of the initial reaction, reliability of the patient and prox- imity to an emergency facility, with prolonged observation times or hospital admission for patients with severe or refractory symp- toms [V, C]. If the nature of the reaction is highly suspicious of an anaphylactic reaction, consultation with an allergist/immun- ologist is warranted [V, B]. An IR event often generates psycho- logical distress to the patients and caregivers [26, 61]. Psychological intervention should be provided to alleviate
+ 
+
+
+ 
+iv112 | Rosello´ et al.	Volume 28 | Supplement 4 | August 2017
+ 
+Table 7. Summary of key information
+Deﬁnitions
+Adverse drug reaction:
+•	The WHO deﬁned an ADR as one that is noxious, unintended and occurs at doses normally used in humans.
+•	The FDA deﬁned an ADR as any undesirable experience associated with the use of a medical product in a patient.
+•	The EMA deﬁnes an ADR as a response to a medicinal product which is noxious and unintended and which occurs at doses normally used in humans for the prophylaxis, diagnosis or therapy of disease or for the restoration, correction or modiﬁcation of physiological function.
+•	ADRs may be classiﬁed as:
+-	A, Augmented pharmacological effects;
+-	B, Bizarre;
+-	C, Chronic effects;
+-	D, Delayed effects;
+-	E, End-of-treatment effects;
+-	F, Failure of therapy; and
+-	G, Genetic reactions.
+•	IRs are Type B reactions:
+-	Non-dose related, unpredictable, unrelated to the drugs’ pharmacological activity and usually resolve when treatment is terminated.
+-	Divided into:
+●	True allergic responses (immune-mediated) and
+●	Non-allergic (non-immune) sensitivities. World Allergy Organization Nomenclature:
+•	The WAO created a Committee to review the EAACI nomenclature position statement and presented a globally acceptable nomenclature for allergic diseases.
+•	Hypersensitivity should be used to describe objectively reproducible symptoms or signs initiated by exposure to a deﬁned stimulus at a dose tolerated by normal persons.
+•	Allergy is an HSR initiated by speciﬁc immunological mechanisms.
+•	Anaphylaxis is a severe, life-threatening, generalised or systemic HSR.
+-	The term allergic anaphylaxis should be used when an immunological mechanism mediates the reaction.
+-	Anaphylaxis from any non-immunological cause should be referred to as non-allergic anaphylaxis or anaphylactoid reaction.
+-	Anaphylaxis diagnosis is based upon clinical signs and symptoms (see Table 2).
+Classiﬁcation of HSRs by the European Network for Drug Allergy:
+•	The ENDA has categorised HSRs into two types, according to the onset of symptoms after drug exposure:
+-	Immediate: HSR onset within 1–6 h after the last drug administration; typically IgE-mediated.
+-	Non-immediate: they may occur at any time, from 1 h after the initial drug administration, commonly after many days. They are often associated with a delayed T-cell-dependent type of allergic mechanism.
+Cytokine-release syndrome deﬁnition:
+•	A CRS deﬁnition by the CTCAE version 4.03 is a disorder characterised by nausea, headache, tachycardia, hypotension, rash and shortness of breath, caused by the release of cytokines from the cells.
+Risk assessment
+•	It is important to be aware of the potential risk of an IR to a concrete drug, and during which course it is most likely to happen [IV, C].
+•	Known risk factors for developing an anaphylactic reaction are [V, C]:
+-	Age-related factors.
+-	Concomitant diseases (e.g. chronic respiratory diseases, cardiovascular diseases, mastocytosis or clonal mast cell disorders).
+-	Severe atopic disease.
+-	Concurrent medications which increase the risk (e.g. b-adrenergic blockers, angiotensin-converting enzyme inhibitors).
+•	If there is a high risk of a rapid tumour lysis at initiation of chemotherapy and/or targeted therapies, in malignancies with a high tumour burden, consider:
+-	Addition of rasburicase and increased hydration [I, A].
+-	Delivering MoAbs in a fractionated way [III, B].
+Signs and symptoms
+•	The National Cancer Institute CTCAE version 4.03 distinguishes between infusion-related reactions and CRS (see Table 3).
+•	Grading adverse reactions in a standardised way is essential to evaluate the severity of an IR [V, C].
+Diagnosis
+•	Measurement of biochemical mediators released during the degranulation of mast cells and basophils:
+-	Histamine:
+●	Plasma histamine begins to rise within 5 min and remains elevated for 15–60 min.
+●	Urinary histamine metabolites, including methylhistamine, may be found for up to 24 h after onset of anaphylaxis.
+-	Tryptase:
+●	Blood samples for measurement of tryptase levels are optimally obtained 15 min to 3 h after onset of an IR.
+●	A serial measurement of tryptase levels during an anaphylactic episode followed by a baseline tryptase level after recovery of the event is more useful than a single measurement.
+●	Normal levels of either tryptase or histamine do not rule out the clinical diagnosis of anaphylaxis. These tests are not universally available, not car- ried out on an emergency basis and not speciﬁc for anaphylaxis [V, C].
+Continued
+
+Volume 28 | Supplement 4 | August 2017	doi:10.1093/annonc/mdx216 | iv113
+ 
+Table 7. Contiuned
+Management
+Preparation:
+•	Before the administration of any drug, the patient should be asked about his/her medical background [V, C].
+•	Medical staff should ensure that the patient has taken oral premedication appropriately, if applicable [V, C].
+•	An updated protocol of management of IRs should be at hand as well as the medical equipment needed for resuscitation (see Figure 1) [V, C]. Observation:
+•	Prompt recognition and immediate medical attention are essential.
+•	During the infusion of an anti-cancer drug, any symptom experienced by the patient should be taken seriously and his/her vital signs should be evaluated [V, C].
+Management:
+•	Stop the administration of medication [V, C].
+•	Maintain the i.v. access [V, C].
+•	Assess the ABCs and the patient`s level of consciousness [V, C].
+•	Position [V, C]:
+-	In the case of hypotension, the patient should be placed in the Trendelenburg position.
+-	In the case of respiratory distress, sitting up.
+-	If unconscious, in recovery position.
+•	Administrate oxygen, if needed [V, C].
+•	Call for medical assistance as soon as possible [V, C].
+•	When a patient fulﬁls any of the three criteria of anaphylaxis (see Table 2):
+-	Epinephrine (adrenaline) must be delivered immediately at a dose of 0.01 mg/kg (1mg/mL dilution, to a maximum total dose of 0.5 mL) intra- muscularly into the lateral thigh muscle [IV, B].
+-	This can be repeated every 5–15 min [V, C].
+-	Failure of a prompt response should be followed by administration of i.v. epinephrine [IV, B].
+•	Fluid resuscitation:
+-	A rapid infusion of 1–2 litres of normal saline at a rate of 5–10 mL/kg in the ﬁrst 5 min is recommended [IV, B].
+-	Crystalloids or colloids should be given in boluses of 20 mL/kg, followed by slow infusion [IV, B].
+•	Antihistamines:
+-	The combined use of H1 and H2 antagonists is superior to the use of H1 (diphenhydramine) or H2 antagonists (ranitidine, cimetidine) alone [I, B].
+-	Diphenhydramine (1–2 mg/kg or 25–50 mg) may be given slowly via i.v. in combination with ranitidine (50 mg diluted in 5% dextrose to a total volume of 20 mL) injected i.v. over 5 min [V, C].
+•	Bradycardia must be treated with atropine 600 lg i.v. [V, C].
+•	Patients receiving b-blockers: Glucagon 1–5 mg i.v. infusion over 5 min and followed by an infusion (5–15 mg/min) titrated to clinical response may be useful for treating refractory cardiovascular effects [V, C].
+•	Vasopressors:
+-	Dopamine (400 mg in 500 mL of 5% dextrose water) administered at 2–20 mg/kg/min and titrated to increase systolic blood pressure might
+be required if epinephrine and ﬂuid resuscitation have failed to alleviate hypotension [IV, D].
+-	Vasopressin and norepinephrine may also be used in anaphylaxis that is unresponsive to epinephrine [IV, D].
+-	Vasopressin usual concentration is 25 U/250 mL of 5% dextrose water or normal saline (0.1 U/mL), with a dose range of 0.01–0.04 U/min.
+•	Corticosteroids:
+-	Effective in preventing biphasic reactions, but are not critical in the management of anaphylaxis [V, D].
+-	If given, the dosing of i.v. corticosteroids should be equivalent to 1–2 mg/kg of (methyl)prednisolone every 6 h [V, C].
+Post-reaction:
+•	Vital signs should be monitored and recurrence symptoms should be controlled [V, C].
+•	After a severe reaction, close observation for 24 h is recommended [V, C]. A CRS differs from other infusion-related reactions and can be managed by:
+•	Short-term cessation of the infusion and
+•	Symptomatic treatment:
+-	Histamine blockers.
+-	Corticosteroids.
+-	Antipyretics.
+•	After resolution of symptoms, the infusion can be restarted at half the rate and titrated to tolerance [IV, B].
+How to document an IR
+•	Accurate documentation of the IR episode including pre-infusion assessments, an appropriate description and grading of the IR and how it was managed is recommended [V, B].
+•	An example of how to document an IR is shown in Table 4.
+Continued
+
+
+
+iv114 | Rosello´ et al.	Volume 28 | Supplement 4 | August 2017
+ 
+Table 7. Contiuned
+Rechallenge
+•	The severity and nature of the reaction will determine the decision to restart the treatment based on clinical factors such as the risk of a serious recurrent reaction and the potential clinical beneﬁt of further treatment [V, C].
+•	After all symptoms have resolved, rechallenge with a reduced infusion rate and additional premedication (such as corticosteroids and antihistamines) is
+usually successful [V, C].
+•	Rechallenge in IRs with CTCAE severity grade 3 or higher or in true anaphylaxis should not be attempted [V, B].
+•	Desensitisation protocols have been used in experienced centres with certain drugs with varying success.
+Follow-up
+•	Following any IR episode, the clinician should attempt to establish, based on the precipitating drug and the characteristics of the event, the steps that could be taken to prevent future episodes [V, C].
+•	After the treatment of an anaphylactic reaction, an observation period should be considered because of the risk of a biphasic reaction [V, B].
+•	Observation periods should be individualised based on the severity of the reaction, reliability of the patient and proximity to an emergency facility, with prolonged observation times or hospital admission for patients with severe or refractory symptoms [V, C].
+•	If the nature of the reaction is highly suspicious of an anaphylactic reaction, consultation with an allergist/immunologist is warranted [V, B].
+•	Psychological intervention should be provided to alleviate symptoms of uncertainty related to a potential IR with anti-cancer drugs [V, B].
+•	It’s important to provide psychological support and to have a complete, informative discussion with the patient about the potential beneﬁts of continuing with the drug and the risk of IR recurrence [V, B].
+
+ABCs, Airway, Breathing and Circulation; ADR, adverse drug reaction; CRS, cytokine-release syndrome; CTCAE, Common Terminology Criteria for Adverse Events; EAACI, European Academy of Allergy and Clinical Immunology; EMA, European Medicines Agency; ENDA, European Network for Drug Allergy; FDA, United States Food and Drug Administration; HSR, hypersensitivity reaction; IgE, immunoglobulin E; IR, infusion reaction; i.v., intravenous; MoAb, monoclonal antibody; U, units; WAO, World Allergy Organization; WHO, World Health Organization.
+
+
+
+
+patient education intervention on knowledge, emergency man- agement skills and psychological parameters in patients with pre- vious episodes of anaphylaxis and caregivers of affected children [62]. In comparison with the control group who received stand- ard auto-injector training only, the educational intervention led to a significant improvement of knowledge from baseline to 3- month follow-up, and to a significant reduction of caregiver anxiety. This underlines the importance of providing psychologi- cal support and having a complete, informative discussion with the patient about the potential benefits of continuing with the drug and the risk of IR recurrence [V, B].
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+symptoms of uncertainty related to a potential IR with anti-can- cer drugs [V, B]. A study investigated the effects of structured
+ 
+ 
+After a systematic search on December 2014, in several medical search engines (PubMed and ISI Web of Knowledge) of the terms: ‘allergic reaction chemotherapy’, ‘allergic reaction mono- clonal antibody’, ‘infusion related reaction chemotherapy’, ‘infu- sion related reaction monoclonal antibody’, ‘allergy reaction cancer’, and ‘infusion related reaction’, 2785 publications were found related to these terms. Figure 2 shows a PRISMA statement Flow Diagram to explain the articles selection. A total of 2503 art- icles were eliminated for the following reasons: no anticancer drugs, articles not specifically about IRs, articles not written in English, repeated articles or with no abstract available. Eighty-five full-text articles were reviewed, selecting 20 of them, and exclud- ing 65 articles because they were review articles with very similar contents or articles related to drugs not included in the guide- lines. The 20 articles were reviewed adding from their references some more articles, plus other articles obtained from other sour- ces and the summary of product characteristics of the different
+ 
+
+
+ 
+Volume 28 | Supplement 4 | August 2017	doi:10.1093/annonc/mdx216 | iv115
+ 
+drugs included in these guidelines. A new search on PubMed of the same terms was performed in May 2017 to obtain more recent articles related to IRs. Only articles from December 2014 to present, about clinical trials performed on humans, and with abstract available, were selected. Review articles were excluded. A total of 67 articles were identified. Most of them were not related to anti-cancer drugs, and others were not specifically about IRs. Following this search, only five articles were identified, and only two of them were added to these guidelines. These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating procedures for Clinical Practice Guidelines de- velopment http://www.esmo.org/Guidelines/ESMO-Guidelines- Methodology. A summary of key information is shown in Table 7. Levels of evidence and grades of recommendation have been applied using the system shown in Table 8. Statements without grading were considered justified standard clinical practice by the experts and the ESMO Faculty. This manuscript has been sub- jected to an anonymous peer review process.
+
+
+ 
+AC has reported advisory boards from Merck Serono, Amgen, Roche, Servier, Lilly, Novartis, Takeda and research support from Merck Serono, Roche and Servier; KJ has reported honoraria from Amgen, Merck, MSD, Helsinn, Tesaro, and Hexaland and being a member of the advisory board of Merck, MSD, Helsinn, and Tesaro; SR, IB and LGF have declared no conflicts of interest.
+
+ 
+1.	Chung CH. Managing premedications and the risk for reactions to infu- sional monoclonal antibody therapy. Oncologist 2008; 13: 725–732.
+2.	Vogel WH. Infusion reactions: diagnosis, assessment, and management. Clin J Oncol Nurs 2010; 14: E10–E21.
+3.	Lenz HJ. Management and preparedness for infusion and hypersensitiv- ity reactions. Oncologist 2007; 12: 601–609.
+4.	World Health Organization. International drug monitoring: the role of national centres, report of a WHO meeting [held in Geneva from 20 to 25 September 1971], 1972.
+5.	Commissioner O of the. Reporting Serious Problems to FDA - What is a Serious Adverse Event? [Internet] (09 May 2017, date last accessed). http://www.fda.gov/Safety/MedWatch/HowToReport/ucm053087.htm
+6.	EMA ADR.pdf [Internet]. (09 May 2017, date last accessed). http://www. ema.europa.eu/docs/en_GB/document_library/Regulatory_and_proce dural_guideline/2009/10/WC500004481.pdf.
+7.	Edwards IR, Aronson JK. Adverse drug reactions: definitions, diagnosis, and management. Lancet 2000; 356: 1255–1259.
+8.	Baldo BA. Adverse events to monoclonal antibodies used for cancer therapy: focus on hypersensitivity responses. Oncoimmunology 2013; 2: e26333.
+9.	Johansson SG, Bieber T, Dahl R et al. Revised nomenclature for allergy for global use: Report of the Nomenclature Review Committee of the World Allergy Organization, October 2003. J Allergy Clin Immunol 2004; 113: 832–836.
+10.	Sampson HA, Mun~oz-Furlong A, Campbell RL et al. Second symposium on the definition and management of anaphylaxis: summary report— second National Institute of Allergy and Infectious Disease/Food Allergy and Anaphylaxis Network symposium. Ann Emerg Med 2006; 47: 373–380.
+11.	Demoly P, Adkinson NF, Brockow K et al. International Consensus on drug allergy. Allergy 2014; 69: 420–437.
+12.	Joerger M. Prevention and handling of acute allergic and infusion reac- tions in oncology. Ann Oncol 2012; 23(Suppl 10): x313–x319.
+ 
+13.	Winkler U, Jensen M, Manzke O et al. Cytokine-release syndrome in pa- tients with B-cell chronic lymphocytic leukemia and high lymphocyte counts after treatment with an anti-CD20 monoclonal antibody (rituxi- mab, IDEC-C2B8). Blood 1999; 94: 2217–2224.
+14.	CTCAE_4.03_2010-06-14_QuickReference_5x7.pdf [Internet]. (09 May 2017, date last accessed) https://evs.nci.nih.gov/ftp1/CTCAE/CTCAE_4. 03_2010-06-14_QuickReference_5x7.pdf
+15.	Simons FE, Ardusso LR, Bilo` MB et al. World allergy organization guide- lines for the assessment and management of anaphylaxis. World Allergy Organ J 2011; 4: 13–37.
+16.	Cortes J, Moore JO, Maziarz RT et al. Control of plasma uric acid in adults at risk for tumor lysis syndrome: efficacy and safety of rasburicase alone and rasburicase followed by allopurinol compared with allopurinol alone—results of a multicenter phase III study. J Clin Oncol 2010; 28: 4207–4213.
+17.	Rituximab.pdf [Internet]. (09 May 2017, date last accessed). http://www. ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/000165/WC500025821.pdf
+18.	Peavy RD, Metcalfe DD. Understanding the mechanisms of anaphylaxis. Curr Opin Allergy Clin Immunol 2008; 8: 310–315.
+19.	Gleich GJ, Leiferman KM. Anaphylaxis: implications of monoclonal antibody use in oncology. Oncol (Williston Park) 2009; 23(2 Suppl 1): 7–13.
+20.	Vultaggio A, Castells MC. Hypersensitivity reactions to biologic agents. Immunol Allergy Clin North Am 2014; 34: 615–632.
+21.	Maggi E, Vultaggio A, Matucci A. Acute infusion reactions induced by monoclonal antibody therapy. Expert Rev Clin Immunol 2011; 7: 55–63.
+22.	Hecht J. Gastrointestinal toxicity or irinotecan. Oncol (Williston Park) NY 1998; 12(8 Suppl 6): 72–78.
+23.	Ogawa Y, Grant JA. Mediators of anaphylaxis. Immunol Allergy Clin North Am 2007; 27: 249–260.
+24.	Scarlet C. Anaphylaxis. J Infus Nurs [Internet]. (09 May 2017, date last accessed) 2006; 29(1). http://journals.lww.com/journalofinfusionnursing/ Fulltext/2006/01000/Anaphylaxis.8.aspx.
+25.	Lieberman P, Nicklas RA, Oppenheimer J et al. The diagnosis and man- agement of anaphylaxis practice parameter: 2010 update. J Allergy Clin Immunol 2010; 126: 477–480.
+26.	Muraro A, Roberts G, Worm M et al. Anaphylaxis: guidelines from the European Academy of Allergy and Clinical Immunology. Allergy 2014; 69: 1026–1045.
+27.	Perel P, Roberts I, Ker K. Colloids versus crystalloids for fluid resuscitation in critically ill patients. Cochrane Database Syst Rev 2013; 28: CD000567.
+28.	Lin RY, Curry A, Pesola GR et al. Improved outcomes in patients with acute allergic syndromes who are treated with combined H1 and H2 an- tagonists. Ann Emerg Med 2000; 36: 462–468.
+29.	Thomas M, Crawford I. Best evidence topic report. Glucagon infusion in refractory anaphylactic shock in patients on beta-blockers. Emerg Med J 2005; 22: 272–273.
+30.	Kill C, Wranze E, Wulf H. Successful treatment of severe anaphylactic
+shock with vasopressin. Two case reports. Int Arch Allergy Immunol 2004; 134: 260–261.
+31.	Hollenberg SM. Vasoactive drugs in circulatory shock. Am J Respir Crit Care Med 2011; 183: 847–855.
+32.	Timoney JP, Eagan MM, Sklarin NT. Establishing clinical guidelines
+for the management of acute hypersensitivity reactions secondary to the administration of chemotherapy/biologic therapy. J Nurs Care Qual [Internet]. (09 May 2017, date last accessed) 2003; 18(1). http://journals. lww.com/jncqjournal/Fulltext/2003/01000/Establishing_Clinical_Guidelines_ for_the.11.aspx.
+33.	Castells MC, Tennant NM, Sloane DE et al. Hypersensitivity reactions to chemotherapy: outcomes and safety of rapid desensitization in 413 cases. J Allergy Clin Immunol 2008; 122: 574–580.
+34.	Shepherd GM. Hypersensitivity reactions to chemotherapeutic drugs. Clin Rev Allergy Immunol 2003; 24: 253–262.
+35.	Doxil.pdf [Internet]. (09 May 2017, date last accessed). http://www. accessdata.fda.gov/drugsatfda_docs/label/2007/050718s029lbl.pdf.
+36.	Chanan-Khan A, Szebeni J, Savay S et al. Complement activation follow- ing first exposure to pegylated liposomal doxorubicin (DoxilVR ): possible role in hypersensitivity reactions. Ann Oncol 2003; 14: 1430–1437.
+ 
+
+
+ 
+iv116 | Rosello´ et al.	Volume 28 | Supplement 4 | August 2017
+ 
+37.	Carboplatin.pdf [Internet]. (09 May 2017, date last accessed). http:// www.mhra.gov.uk/home/groups/par/documents/websiteresources/ con2025642.pdf.
+38.	Navo M, Kunthur A, Badell ML et al. Evaluation of the incidence of car- boplatin hypersensitivity reactions in cancer patients. Gynecol Oncol 2006; 103: 608–613.
+39.	Markman M, Kennedy A, Webster K et al. Clinical features of hypersensi- tivity reactions to carboplatin. J Clin Oncol 1999; 17: 1141.
+40.	Markman M, Zanotti K, Peterson G et al. Expanded experience with an intradermal skin test to predict for the presence or absence of carboplatin hypersensitivity. J Clin Oncol 2003; 21: 4611–4614.
+41.	Oxaliplatin.pdf [Internet]. (09 May 2017, date last accessed). http:// www.mhra.gov.uk/home/groups/par/documents/websiteresources/ con041327.pdf
+42.	Lee C, Gianos M, Klaustermeyer WB. Diagnosis and management of
+hypersensitivity reactions related to common cancer chemotherapy agents. Ann Allergy Asthma Immunol 2009; 102: 179–187.
+43.	Paclitaxel.pdf [Internet]. (09 May 2017, date last accessed). http://www. accessdata.fda.gov/drugsatfda_docs/label/2011/020262s049lbl.pdf
+44.	Price KS, Castells MC. Taxol Reactions. Allergy Asthma Proc 2002, 23:
+205–208.
+45.	Yanaranop M, Chaithongwongwatthana S. Intravenous versus oral dexa- methasone for prophylaxis of paclitaxel-associated hypersensitivity reac- tion in patients with primary ovarian, fallopian tube and peritoneal cancer: A double-blind randomized controlled trial. Asia Pac J Clin Oncol 2016; 12: 289–99.
+46.	Weiss RB, Donehower RC, Wiernik PH et al. Hypersensitivity reactions from taxol. J Clin Oncol 1990; 8: 1263–1268.
+47.	Bennett CL, Adegboro OS, Calhoun EA, Raisch D. Beyond the black box: drug-and device-associated hypersensitivity events. Drug Healthc Patient Saf 2010; 2: 1–5.
+48.	Lorenz W, Reimann HJ, Schmal A et al. Histamine release in dogs by Cremophor ELVR   and its derivatives: Oxethylated oleic acid is the most ef- fective constituent. Agents Actions 1977; 7: 63–67.
+49.	van Zuylen L, Gianni L, Verweij J et al. Inter-relationships of paclitaxel disposition, infusion duration and cremophor EL kinetics in cancer pa- tients. Anticancer Drugs 2000; 11: 331–337.
+50.	Theis JG, Liau-Chu M, Chan HS et al. Anaphylactoid reactions in chil- dren receiving high-dose intravenous cyclosporine for reversal of tumor resistance: the causative role of improper dissolution of Cremophor EL. J Clin Oncol 1995; 13: 2508–2516.
+51.	Docetaxel.pdf [Internet]. (09 May 2017, date last accessed). http://www. ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/000073/WC500035264.pdf.
+52.	Liossis SN, Tsokos GC. Monoclonal antibodies and fusion proteins in medicine. J Allergy Clin Immunol 2005; 116: 721–729.
+53.	Cetuximab.pdf [Internet]. (09 May 2017, date last accessed). http://www. ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/000558/WC500029119.pdf
+54.	Chung CH, Mirakhur B, Chan E et al. Cetuximab-induced anaphylaxis and IgE specific for galactose-a-1,3-galactose. N Engl J Med 2008; 358: 1109–1117.
+55.	Siena S, Glynne-Jones R, Adenis A et al. Reduced incidence of infusion-
+related reactions in metastatic colorectal cancer during treatment with cetuximab plus irinotecan with combined corticosteroid and antihista- mine premedication. Cancer 2010; 116: 1827–1837.
+56.	Trastuzumab.pdf [Internet]. (09 May 2017, date last accessed). http:// www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/000278/WC500074922.pdf
+57.	Naidoo J, Page DB, Li BT et al. Toxicities of the anti-PD-1 and anti-PD- L1 immune checkpoint antibodies. Ann Oncol 2015; 26: 2375–2391.
+58.	Gibney GT, Kudchadkar RR, DeConti RC et al. Safety, correlative markers, and clinical results of adjuvant nivolumab in combination with vaccine in resected high-risk metastatic melanoma. Clin Cancer Res 2015; 21: 712–720.
+59.	Weber JS, Kudchadkar RR, Yu B et al. Safety, efficacy, and biomarkers of nivolumab with vaccine in ipilimumab-refractory or -naive melanoma. J Clin Oncol 2013; 31: 4311–4318.
+ 
+60.	Momtaz P, Park V, Panageas KS et al. Safety of infusing ipilimumab over 30 minutes. J Clin Oncol 2015; 33: 3454–3458.
+61.	Chadda S, Larkin M, Jones C et al. The impact of infusion reactions asso- ciated with monoclonal antibodies in metastatic colorectal cancer: A European perspective. J Oncol Pharm Pract 2013; 19: 38–47.
+62.	Brockow K, Schallmayer S, Beyer K et al. Effects of a structured educa- tional intervention on knowledge and emergency management in patients at risk for anaphylaxis. Allergy 2015; 70: 227–35.
+63.	Moher D, Liberati A, Tetzlaff J, Altman DG. The PRISMA Group. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med 2009; 6: e1000097.
+64.	Strullu M, Corradini N, Audrain M et al. Silent hypersensitivity to Escherichia coli asparaginase in children with acute lymphoblastic leuke- mia. Leuk Lymphoma 2010; 51: 1464–1472.
+65.	Bleomycin.pdf [Internet]. (09 May 2017, date last accessed). https://
+www.accessdata.fda.gov/drugsatfda_docs/label/2010/050443s036lbl.pdf
+66.	Etoposide.pdf [Internet]. (09 May 2017, date last accessed). http://www. mhra.gov.uk/home/groups/par/documents/websiteresources/ con102880.pdf.
+67.	Kidera Y, Satoh T, Ueda S, et al. High-dose dexamethasone plus antihist- amine prevents colorectal cancer patients treated with modified FOLFOX6 from hypersensitivity reactions induced by oxaliplatin. Int J Clin Oncol 2011; 16: 244–249.
+68.	Lehmann DF, Hurteau TE, Newman N, Coyle TE. Anticonvulsant usage is associated with an increased risk of procarbazine hypersensitivity reac- tions in patients with brain tumors. Clin Pharmacol Ther 1997; 62: 225–229.
+69.	Alemtuzumab.pdf [Internet]. (09 May 2017, date last accessed). http:// ec.europa.eu/health/documents/community-register/2014/20141215130 524/anx_130524_en.pdf
+70.	Keating MJ, Flinn I, Jain V et al. Therapeutic role of alemtuzumab (Campath-1H) in patients who have failed fludarabine: results of a large international study. Blood 2002; 99: 3554–3561.
+71.	Atezolizumab.pdf [Internet]. (09 May 2017, date last accessed). https:// www.accessdata.fda.gov/drugsatfda_docs/label/2016/761041lbl.pdf.
+72.	Bevacizumab.pdf [Internet]. (09 May 2017, date last accessed). http:// www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/000582/WC500029271.pdf.
+73.	Teachey DT, Lacey SF, Shaw PA et al. Identification of predictive bio- markers for cytokine release syndrome after chimeric antigen receptor T cell therapy for acute lymphoblastic leukemia. Cancer Discov [Internet] 2016. (09 May 2017, date last accessed) http://cancerdiscov ery.aacrjournals.org/content/early/2016/04/13/2159-8290.CD-16-0040. abstract.
+74.	Blinatumomab.pdf [Internet]. (09 May 2017, date last accessed). http:// www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/003731/WC500198228.pdf
+75.	Brentuximab.pdf [Internet]. (09 May 2017, date last accessed). http:// www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/002455/WC500135055.pdf
+76.	Timoney J, Chung KY, Park V et al. Cetuximab use without chronic anti-
+histamine premedication. J Clin Oncol 2006; (Suppl): abstr 13521.
+77.	Voorhees PM, Weiss B, Usmani S et al. Management of infusion-related reactions following daratumumab monotherapy in patients with at least 3 lines of prior therapy or double refractory multiple myeloma (MM): 54767414MMY2002 (Sirius). Blood 2015; 126: 1829.
+78.	Daratumumab.pdf [Internet]. (09 May 2017, date last accessed). http:// www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/004077/WC500207296.pdf.
+79.	Lipson EJ, Drake CG. Ipilimumab: an anti-CTLA-4 antibody for meta- static melanoma. Clin Cancer Res 2011; 17: 6958–6962.
+80.	Ipilimumab.pdf [Internet]. (09 May 2017, date last accessed). http:// www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/002213/WC500109299.pdf.
+81.	S´aenz  de  Santa  Mar´ıa  Garc´ıa  M,  Noguerado-Mellado  B,  Rojas-Pe´rez- Ezquerra P et al. First case of allergy to nivolumab. J Allergy Clin Immunol Pract [Internet] (09 May 2017, date last accessed) http://www. sciencedirect.com/science/article/pii/S2213219817300272.
+ 
+
+
+ 
+Volume 28 | Supplement 4 | August 2017	doi:10.1093/annonc/mdx216 | iv117
+ 
+82.	Nivolumab.pdf [Internet]. (09 May 2017, date last accessed). http:// www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/003985/WC500189765.pdf.
+83.	Ofatumumab.pdf [Internet]. (09 May 2017, date last accessed). http:// www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/001131/WC500093091.pdf.
+84.	Galv~ao VR, Castells MC. Hypersensitivity to biological agents—updated diagnosis, management, and treatment. J Allergy Clin Immunol Pract 2015; 3: 175–185.
+85.	Van Cutsem E, Peeters M, Siena S et al. Open-label phase III trial of pani- tumumab plus best supportive care compared with best supportive care alone in patients with chemotherapy-refractory metastatic colorectal cancer. J Clin Oncol 2007; 25: 1658–1664.
+86.	Panitumumab.pdf [Internet]. (09 May 2017, date last accessed). http:// www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/000741/WC500047710.pdf
+ 
+87.	Pembrolizumab.pdf [Internet]. (09 May 2017, date last accessed). http:// www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_ Information/human/003820/WC500190990.pdf.
+88.	Garon EB, Rizvi NA, Hui R et al. Pembrolizumab for the treatment of non–small-cell lung cancer. N Engl J Med 2015; 372: 2018–2028.
+89.	Slamon DJ, Leyland-Jones B, Shak S et al. Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2. N Engl J Med 2001; 344: 783–792.
+90.	Cobleigh MA, Vogel CL, Tripathy D et al. Multinational study of the effi- cacy and safety of humanized anti-HER2 monoclonal antibody in women who have HER2-overexpressing metastatic breast cancer that has progressed after chemotherapy for metastatic disease. J Clin Oncol 1999; 17: 2639.
+91.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33: 139–144.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+iv118 | Rosello´ et al.	Volume 28 | Supplement 4 | August 2017

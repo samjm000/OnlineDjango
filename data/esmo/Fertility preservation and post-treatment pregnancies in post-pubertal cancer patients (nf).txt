@@ -1,0 +1,524 @@
+
+
+
+
+
+ SPECIAL ARTICLE	
+
+Fertility preservation and post-treatment pregnancies in post-pubertal cancer patients: ESMO Clinical Practice Guidelinesy
+M. Lambertini1,2, F. A. Peccatori3, I. Demeestere4, F. Amant5,6, C. Wyns7, J.-B. Stukenborg8, S. Paluch-Shimon9,
+M. J. Halaska10, C. Uzan11, J. Meissner12, M. von Wolff13, R. A. Anderson14 & K. Jordan12, on behalf of the ESMO Guidelines Committee*
+1Department of Internal Medicine and Medical Specialties (DiMI), School of Medicine, University of Genoa, Genoa; 2Department of Medical Oncology, UOC Clinica di Oncologia Medica, IRCCS Ospedale Policlinico San Martino, Genoa; 3Fertility and Procreation Unit, Division of Gynecologic Oncology, European Institute of Oncology IRCCS, Milan, Italy; 4Research Laboratory on Human Reproduction, Fertility Clinic, CUB-Hôpital Erasme, Université libre de Bruxelles (ULB), Brussels, Belgium; 5Center for Gynecologic Oncology Amsterdam, Netherlands Cancer Institute/Antoni van Leeuwenhoek and Amsterdam University Medical Centers, Amsterdam, The Netherlands; 6Department of Oncology, KU Leuven, Leuven; 7Department of Gynecology and Andrology, Cliniques Universitaires Saint-Luc, Université Catholique de Louvain, Brussels, Belgium; 8NORDFERTIL Research Lab Stockholm, Childhood Cancer Research Unit, Department of Women’s and Children’s Health, Karolinska Institutet and Karolinska University Hospital, Solna, Sweden; 9Division of Oncology, Sharrett Institute of Oncology, Hadassah University Hospital, Jerusalem, Israel; 10Department of OB/GYN, 3rd Medical Faculty, Charles University and Faculty Hospital Kralovske Vinohrady, Prague, Czech Republic; 11Department of Breast and Gynecologic Surgery, APHP, Hospital Pitié Salpêtrière, Sorbonne Université, Paris, France; 12Department of Medicine V, Hematology, Oncology and Rheumatology, University of Heidelberg, Germany; 13University Women’s Hospital, Division of Gynecological Endocrinology and Reproductive Medicine, Bern, Switzerland; 14MRC Centre for Reproductive Health, Queen’s Medical Research Institute, University of Edinburgh, Edinburgh, UK
+
+
+Available online 22 September 2020
+
+
+
+ 
+
+INTRODUCTION
+Cancer remains a public health problem worldwide that also includes young adults.1 Given the ongoing improvements in survival for most malignancies, a significant proportion of people affected by cancer face the consequences of treatment-related late effects, making survivorship an area of crucial importance.2
+At the time of diagnosis, a significant proportion of young patients are concerned about the possible impact of anti- cancer treatments on their fertility and future chances of conception.3,4 Failure to address these concerns may nega- tively inﬂuence their choices and adherence to the proposed anticancer treatments. Considering the rising trend in delaying childbearing and the higher number of patients who have not completed their family planning at the time of diagnosis, the demand for fertility preservation and infor- mation about the feasibility and safety of pregnancy following treatment completion is expected to increase.
+These guidelines provide a framework for fertility pres- ervation and post-treatment pregnancies in post-pubertal cancer patients and include new topics beyond the previous European Society for Medical Oncology (ESMO)
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, CH-6900 Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+yApproved by the ESMO Guidelines Committee: June 2020.
+0923-7534/© 2020 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+ 
+
+recommendations published in 2013.5 The specific issues faced by prepubertal patients, indications for fertility- sparing surgery and management of cancer diagnosed during pregnancy are beyond the scope of these guidelines.
+
+ASSESSMENT OF GONADOTOXICITY
+Oncofertility counselling
+All cancer patients of reproductive age should receive complete oncofertility counselling as early as possible in the treatment planning process, irrespective of type and stage of disease. This should include discussion of the patients’ current or future family desire, their health and prognosis, the potential impact of the disease and/or proposed anti- cancer treatment on their fertility and gonadal function, chances of future conception, pregnancy outcomes and offspring, as well as the need for effective contraception in the context of systemic anticancer treatment.6 To ensure that patients fully understand the risk of treatment-related gonadotoxicity, they should be offered complete onco- fertility counselling even if there is no interest in future children at the time of diagnosis.
+Oncofertility counselling should be individualised based on patient/couple- and disease/treatment-related factors, with patient interest and age as well as type of treatment being the most important (Table 1). Written information and/or online resources should be provided to all patients, whenever possible, and should be documented in the
+ 
+
+Table 1. Patient/couple- and disease/treatment-related factors to be considered during oncofertility counselling at the time of diagnosis
+Patient/couple-related factors	Disease/treatment-related factors
+Sex	Type of cancer (prognosis and risk of
+Age	gonadal involvement by the tumour)
+BMI	Urgency of treatment
+Smoking	Type of treatment:
+Presence of a partner	ChT:
+Medical history		B Regimen Ovarian reserve markers (female)		B Dose Previous treatment for infertility	RT:
+Prior treatment with potential
+B  Location of the RT field
+negative impact on fertility
+B Dose and fractionation
+Contraindications to medical
+or surgical fertility preservation	Endocrine therapy options	Surgery
+Hereditary conditions	Duration of treatment
+BMI, body mass index; ChT, chemotherapy; RT, radiotherapy.
+
+
+medical record.7 It is also important to offer psychosocial support services, and ethical review may be needed regarding these difficult issues.8
+All patients with a potential interest in fertility preser- vation should be referred immediately to an appropriate fertility specialist or fertility unit. Coordination of fertility preservation requires the creation of a local/regional multidisciplinary team of oncologists/haematologists and fertility specialists. Whenever possible, to optimise patient management and cost-effectiveness, a ‘hub and spoke’ model should be implemented, with several oncology/ haematology units efficiently referring patients interested in fertility preservation to fewer, more experienced fertility units.
+Considering the limited evidence available in many areas of oncofertility, patients should be encouraged to partici- pate in clinical trials or prospective studies.
+To guarantee access to fertility preservation for every cancer patient, universal insurance coverage should be implemented.
+
+ 
+
+Gonadotoxicity of anticancer treatments
+Both the proposed anticancer therapies, as well as the type of cancer, and the overall condition of the patient may induce treatment-related gonadal failure and infertility (defined as an impairment of a person’s capacity to reproduce).9
+The risk of treatment-related azoospermia or amenorrhoea according to different anticancer treatments is summarised in Tables 2 and 3, respectively (updated from Lee et al.10).
+Male patients. Male causes of infertility encompass abnormal semen parameters; anatomical, endocrine, gen- etic, functional or immunological abnormalities of the reproductive system; chronic illness and sexual conditions incompatible with the ability to deposit semen in the vagina.11
+Spermatogonia are the most important target of cyto- toxic treatments. The damaging effect depends on the drug concentration or the radiotherapy (RT) dose.12 Suppression
+ 
+
+
+
+
+
+
+BMT, bone marrow transplantation; CED, cyclophosphamide equivalent dose; ChT, chemotherapy; FSH, follicle-stimulating hormone; RT, radiotherapy.
+a Adapted from Lee et al.10 Table contains examples and is not a complete list.
+
+ 
+
+of gonadotropin release following cranial RT may also impact on spermatogenesis, although this may be corrected by exogenous gonadotropin administration.
+While low doses of chemotherapy (ChT) reduce the pool of actively dividing spermatogonia, reserve sper- matogonial stem cells might survive and remain able to differentiate. Treatment-related gonadotoxicity can also be caused indirectly by a depletion and impairment of Sertoli and Leydig cells.12 The most severe damage to spermatogonia and germinal epithelium is induced by alkylating agents, platinum compounds and long-term hydroxyurea treatment.10,13
+ 
+
+Table 3. Risks of treatment-related amenorrhoea in female patientsa
+Degree of risk	Treatment type/regimen	Comments
+High risk (>80%)	Haematopoietic stem cell transplantation (especially alkylating agent-based myeloablative conditioning with cyclophosphamide, busulfan, melphalan
+or total body RT)	
+EBRT >6 Gy to a field including the ovaries
+	6 cycles of CMF, CEF, CAF or TAC in women of ≥40 years	Significant decline in AMH levels after treatment Early menopause
+	6e8 cycles of escalated BEACOPP in women of ≥30 years	Significant decline in AMH levels after treatment
+Intermediate risk (20%e80%)	6 cycles of CMF, CEF, CAF or TAC in women of 30e39 years	Significant decline in AMH levels after treatment Early menopause
+	4 cycles of AC in women of ≥40 years	Significant decline in AMH levels after treatment
+	4 cycles of AC/EC / taxane	Significant decline in AMH levels after treatment
+4 cycles of dd (F)EC / dd taxane
+	6e8 cycles of escalated BEACOPP in women of <30 years	Significant decline in AMH levels after treatment
+	6 cycles of CHOP in women of ≥35 years	Early menopause
+	6 cycles of DA-EPOCH in women of ≥35 years	Significant decline in AMH levels after treatment
+FOLFOX in women of ≥40 years
+Low risk (<20%)	6 cycles of CMF, CEF, CAF or TAC in women of <30 years	Significant decline in AMH levels after treatment Early menopause
+	4 cycles of AC in women of <40 years	Significant decline in AMH levels after treatment
+	2 cycles of escalated BEACOPP	Significant decline in AMH levels after treatment
+	ABVD	Insignificant decline in AMH levels after treatment
+	6 cycles of CHOP in women of <35 years	Early menopause
+	6 cycles of DA-EPOCH in women of <35 years	Significant decline in AMH levels after treatment
+	AML therapy (anthracycline/cytarabine)	Insignificant decline in AMH levels after treatment
+	ALL therapy (multi-agent)	Insignificant decline in AMH levels after treatment
+Multi-agent ChT for osteosarcoma (doxorubicin, cisplatin, methotrexate,
+ifosfamide) in women of <35 years
+Multi-agent ChT for Ewing’s sarcoma (doxorubicin, vincristine, dactinomycin,
+cyclophosphamide, ifosfamide, etoposide) in women of <35 years
+FOLFOX in women of ≤40 years
+Antimetabolites and vinca alkaloids
+BEP or EP in women of <30 years
+	Radioactive iodine (I-131)	Decline in AMH levels after treatment
+Bevacizumab
+Unknown risk	Platinum- and taxane-based ChT	
+Most targeted therapies (including monoclonal antibodies and small molecules)
+Immunotherapy
+ABVD, doxorubicin, bleomycin, vinblastine, dacarbazine; AC, doxorubicin, cyclophosphamide; ALL, acute lymphoid leukaemia; AMH, anti-Müllerian hormone; AML, acute myeloid leukaemia; BEACOPP, bleomycin, etoposide, doxorubicin, cyclophosphamide, vincristine, prednisone, procarbazine; BEP, bleomycin, etoposide, cisplatin; CAF, cyclophosphamide, doxorubicin, 5-ﬂuorouracil; CEF, cyclophosphamide, epirubicin, 5-ﬂuorouracil; CHOP, cyclophosphamide, doxorubicin, vincristine, prednisone; ChT, chemotherapy; CMF, cyclo- phosphamide, methotrexate, 5-ﬂuorouracil; DA-EPOCH; dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin; dd, dose dense; EBRT, external beam radiotherapy; EC, epirubicin, cyclophosphamide; EP, etoposide, cisplatin; F, ﬂuorouracil; FOLFOX, folinic acid, 5-ﬂuorouracil, oxaliplatin; Gy, Gray; RT, radiotherapy; TAC, docetaxel, doxorubicin, cyclophosphamide.
+a Adapted from Lee et al.10 Table contains examples and is not a complete list.
+
+ 
+The germinal epithelium is highly susceptible to RT- related damage.13 Spermatogonia are sensitive to RT, with doses as low as 0.1 Gy leading to short-term cessation of spermatogenesis. Doses of 2-3 Gy also affect spermatogonial stem cells and cause long-term azoospermia. Doses of 6 Gy (e.g. total body RT with 10 or 13 Gy) deplete the spermato- gonial stem cell pool and cause long-term or permanent infertility. Leydig cell insufficiency and testosterone deficiency have been described with RT doses of 20-24 Gy.13
+A potential negative impact of cancer on semen param- eters has been described for patients with testicular tu- mours14 and Hodgkin’s lymphoma.15
+
+Female patients. Cancer and anticancer treatments may affect post-treatment ovarian function by a reduction in ovarian reserve (i.e. the primordial follicle pool); a disturbed hormonal balance; or by anatomical or functional changes to the ovaries, uterus, cervix or vagina. Reduced ovarian function may result in infertility and premature ovarian insufficiency [POI; defined as oligo/amenorrhoea for
+ 
+4 months and follicle-stimulating hormone (FSH) levels of
+>25 IU/l on two occasions, 4 weeks apart, before the age of 40 years].16 Notably, in cancer patients, menstrual function can resume many months after completion of treatment; in addition, infertility and POI may occur despite temporary resumption of menses.17 Ovarian reserve can be estimated
+by measuring serum anti-Müllerian hormone (AMH) levels (low levels represent low ovarian reserve) and/or antral follicle count.18 However, their clinical utility, particularly in predicting future fertility and reproductive lifespan, is unclear.
+ChT-related amenorrhoea is mainly due to damage to growing follicles that occurs within weeks after ChT initiation and is often transient.19 Depending on age, pretreatment ovarian reserve and type of treatment, exhaustion of the primordial follicle pool may occur with subsequent POI. Because of their cell-cycle nonspecific mode of action, alkylating agents induce the greatest damage, not only to growing follicles but also to oocytes, resulting in a striking reduction of the primordial follicle pool.19
+ 
+
+ 
+The impact of most targeted agents (including mono- clonal antibodies and small molecules) and immunotherapy is largely unknown. Limited data for the anti-human epidermal growth factor receptor 2 (HER2) agents trastu- zumab and/or lapatinib indicate no apparent gonadotox- icity.20 An increased risk of ovarian dysfunction in patients treated with bevacizumab cannot be excluded.21
+Endocrine treatments may have an indirect effect on fertility by delaying time to pregnancy. A higher risk of treatment-related amenorrhoea with the use of tamoxifen following ChT has been described in several studies.22 Nonetheless, no impact on AMH levels has been shown.23 RT exposure causes a reduction in the number of ovarian follicles and has an adverse effect on uterine and endometrial function; the gonadotoxic effect of RT is dependent on the RT field, dose and fractionation schedule, with single doses more toxic than multiple fractions.24 RT-related ovarian follicle loss
+already occurs at doses of <2 Gy. The effective sterilising dose at which 97.5% of patients are expected to develop imme-
+diate POI decreases with increasing age at the time of treat- ment, ranging from 16 Gy at 20 years to 14 Gy at 30 years.24 RT also induces loss of uterine elasticity in a dose-dependent manner. This interferes with uterine distension, with increased risk throughout pregnancy.25
+A potential negative impact of cancer on ovarian reserve has been described for young women with lymphoma but not for patients with other malignancies.26
+
+Recommendations
+
+All cancer patients of reproductive age should receive complete oncofertility counselling as early as possible in the treatment planning process, irrespective of the type and stage of disease [III, A].
+Oncofertility counselling should be individualised based on patient/couple- and disease/treatment-related factors, with patient interest and age as well as type of treatment being the most important [V, A].
+Written information and/or online resources during oncofertility counselling should be provided to patients whenever possible [V, A].
+All patients with a potential interest in fertility preserva- tion should be referred immediately to an appropriate fertility specialist/unit [III, A].
+As there is no absolute threshold of exposure to anticancer therapies that determines gonadal failure and infertility, every patient should be considered as being at potential risk of developing treatment-related gonadotoxicity [V, A].
+
+
+FERTILITY PRESERVATION: MALE PATIENTS
+A management ﬂowchart for fertility preservation in male patients is shown in Figure 1.
+
+Sperm cryopreservation
+Sperm cryopreservation is a widely available and standard method to preserve an individual’s reproductive potential.
+ 
+This strategy relies on the survival and fertilisation capacity of spermatozoa after semen freezing, mostly in liquid ni- trogen vapour or following controlled slow freezing.27,28 Since the introduction of intracytoplasmic sperm injection, freezing of a single semen sample containing mature sperm may be sufficient to attempt future fatherhood.
+Success using cryopreserved sperm from cancer patients shows an aggregate rate for parenthood of 49% [95% confidence interval (CI) 44%-53%].28 Long-term storage of cryopreserved sperm does not correlate with worse out- comes or thawed semen quality.29
+Sperm cryopreservation is indicated for adults and teen- agers from Tanner pubertal stages II-III. If the patient is not able to ejaculate by masturbation, assisted ejaculation tech- niques such as penile vibratory stimulation or electro- ejaculation may be proposed.30 In case no sperm can be found in the semen sample, conventional testicular sperm extraction (TESE) or microsurgical TESE (microTESE) might be applied to extract sperm present in the testicular tissue. Sperm cryo- preservation should be offered before treatment initiation because of potential genetic abnormalities in sperm after exposure to ChT or RT.31
+Data from longitudinal, prospective cohort studies are awaited to provide further evidence on the potential risk of congenital abnormalities.
+
+Gonadal shielding during RT
+Gonadal shielding during total-body RT protects the germinal epithelium. Adolescent (and childhood) patients who did not have testicular shielding had a significantly smaller testicular volume in adulthood compared with those who received testicular shielding.32 Diminished testosterone/luteinising hormone ratio was also reported without testicular shielding.
+
+Medical gonadoprotection
+Hormone suppression treatments such as a gonadotropin- releasing hormone agonist (GnRHa), with or without an- drogens, antiandrogens or progestins, are not protective in male cancer patients.33
+So far, other molecules have been tested in animals or in vitro, showing only partial effects, and none of them are in clinical use for this indication (supplementary Table S1, available at https://doi.org/10.1016/j.annonc. 2020.09.006).
+
+Other experimental options
+Information regarding other experimental options can be found in Section 1 of the supplementary Material, available at https://doi.org/10.1016/j.annonc.2020.09.006.
+
+Recommendations
+Sperm cryopreservation before initiation of anticancer treatments (ChT, RT or surgery) is standard of care and should be discussed with any male cancer patient at risk of infertility [III, A].
+ 
+
+
+
+Male patients
+
+
+
+
+
+Evaluation of gonadotoxicity risk
+
+
+
+
+Wish to preserve fertility
+
+
+
+Yes	No
+
+
+
+ 
+
+Able to ejaculate by masturbation
+ 
+
+Not able to ejaculate by masturbation
+ 
+
+No treatment
+ 
+
+
+Assisted ejaculation technique
+
+
+
+
+Sperm in the semen	No sperm in the semen	Sperm in the semen
+
+
+After exclusion of hypogonadotrophic hypogonadism
+
+
+TESE/microTESE
+
+
+
+
+
+
+Sperm cryopreservation
+
+Figure 1. Management ﬂowchart for fertility preservation in male patients.
+microTESE, microsurgical testicular sperm extraction; TESE, testicular sperm extraction.
+
+ 
+To reduce the risk of infertility, reducing RT exposure by shielding or removing the testes from the radiation field should be applied whenever possible [IV, A].
+ 
+Medical gonadoprotection (GnRHa with or without andro- gens, antiandrogens or progestins) should not be offered for fertility preservation in male cancer patients [III, D].
+ 
+
+ 
+FERTILITY PRESERVATION: FEMALE PATIENTS
+A management ﬂowchart for ovarian function and/or fertility preservation in female patients is shown in Figure 2.
+
+Oocyte and embryo cryopreservation
+Oocytes and embryos can be safely and efficiently cryopreserved before the initiation of anticancer treat- ments. While embryo cryopreservation is an established and reproducible technology, it requires the use of sperm and the presence of a partner or donor. Conversely, oocyte cryopreservation can be carried out without a partner and so it is the preferred option for most post-pubertal women. The ability to cryopreserve oocytes has become much more successful in recent years since the development of ultra- rapid freezing (vitrification).34
+For oocyte and embryo cryopreservation, w2 weeks of ovarian stimulation with gonadotropins is required, fol- lowed by follicle aspiration. Ovarian stimulation can be started at any time of the menstrual cycle (‘random start stimulation’).35 Developments in ovarian stimulation pro- tocols allow more rapid completion of the process than previously, without affecting their efficacy. However, timing is a crucial factor as the procedure must be completed before initiation of any ChT. In women with a low ovarian reserve and without an urgent need to initiate anticancer treatments, double stimulation can be considered; this re- quires 4 weeks of treatment and approximately doubles the number of oocytes retrieved.36
+The efficacy of oocyte and embryo cryopreservation to generate a subsequent pregnancy is tightly connected to the number of mature oocytes retrieved after ovarian stimulation. The number of retrieved oocytes is reduced in women with poor ovarian reserve (i.e. low AMH level due to ovarian surgery or age). The number of collected oocytes is age dependent, varying from 15.4 8.8 in women <26 years of age to 9.9 8.0 in women 36-40 years of age.37 Recent data reported a cumulative live birth rate of 61.9%
+if 12 oocytes were cryopreserved in women   35 years of age and 43.4% if 10 oocytes were cryopreserved in women
+>35 years of age.38 While some studies have reported that the number of recovered oocytes in women with cancer is
+not reduced,37 others have found a reduction (particularly in lymphoma patients), with reduced fertilisation and implantation rates, resulting in a lower live birth rate compared with a noncancer population.38
+Ovarian stimulation can lead to side-effects caused by the medication as well as complications during the oocyte pick- up, including bleeding from the ovary and pelvic infection. Severe ovarian hyperstimulation syndrome, clinically rele- vant bleeding or inﬂammation/infections after follicular aspiration in women with normal haematopoiesis are rare in the general infertility population and in cancer pa- tients.39,40 An increased risk of bleeding or infection may be present in women with impaired haematopoiesis (i.e. neutropenic or with low platelet count), such as those with some haematological malignancies, and should be taken
+ 
+into account. In estrogen-sensitive tumours, reduction of estradiol concentration is recommended during ovarian stimulation and can be achieved by co-treatment with aromatase inhibitors (e.g. letrozole 2 2.5 mg/day), which reduces estrogen serum concentration by more than 50%.41 The use of letrozole does not reduce the number of mature oocytes obtained or their fertilisation capacity; in addition, no effect on congenital abnormality rates in children has been observed.42 Tamoxifen can also be used to antagonise the effects of high estrogen levels but data are less robust.43 Although numbers remain small, there is no evidence that ovarian stimulation for fertility preservation has an adverse effect on survival in women with breast cancer43 or other malignancies.44
+It has been proposed that ovarian stimulation can be combined with cryopreservation of ovarian tissue to in- crease the success rate in women receiving highly gona- dotoxic treatments.45 Half of an ovary is removed laparoscopically and ovarian stimulation is started 1-2 days later. Although data are very limited, the number of oocytes obtained does not appear to be significantly reduced after removal of ovarian tissue. The time required for the com- bination of both treatments is w2.5 weeks.45
+Oocyte or embryo cryopreservation is indicated for women preferably 40 years of age who will be exposed to gonadotoxic anticancer therapies and who want to preserve their fertility. It is not indicated in women with serious coagulation defects or high risk of infections. Trans- abdominal monitoring and oocyte recovery may be possible in those for whom vaginal procedures are not possible or acceptable. Women choosing to store embryos created with their partner’s sperm should be advised that the embryos will be the joint property of the couple; in the event of the relationship not continuing, there may be issues in using the embryos. An established collaboration between oncology and fertility units is crucial.
+There is a need for data on all aspects of oocyte cryo- preservation from larger series of women to clarify whether certain diagnoses may benefit from particular stimulation protocols, the effects on oocyte quality and most impor- tantly, cumulative live birth rates. Future studies are also needed to investigate the benefits of combining different fertility-preservation methods to increase pregnancy rates.
+
+Ovarian tissue cryopreservation
+Ovarian tissue cryopreservation is an alternative approach for preserving fertility before gonadotoxic treatments.46,47 While it is still regarded as experimental in some coun- tries, the American Society for Reproductive Medicine suggests that it should be considered as an established procedure to be offered to carefully selected patients.48
+Biopsies of the ovarian cortex or unilateral ovariectomy are usually carried out by laparoscopy under general anaesthesia. No pretreatment is required so the process can be carried out in a short timeframe and ChT started the following day, if required. Although vitrification is quicker and less expensive,
+ 
+
+ 
+Figure 2. Management ﬂowchart for ovarian function and/or fertility preservation in female patients.
+ChT, chemotherapy; GnRHa, gonadotropin-releasing hormone agonist.
+aTo be offered preferably in women    36 years of age and to be considered with particular caution in cases of acute leukaemia, or any solid tumour or haematological disease with pelvic involvement.
+
+
+ 
+slow freezing remains the standard of care because almost all pregnancies achieved after transplantation have been ob- tained using this procedure.49 Ovarian tissue cryopreserva- tion should be offered only in laboratories with specific expertise and facilities to support safe tissue cryopreservation and storage for subsequent autologous transplantation, with necessary regulation. The ‘hub and spoke’ model, with ovarian surgery carried out locally and tissue transported to a central laboratory, may be preferred.
+ 
+Transplantation, either orthotopic or heterotopic, is currently the only method available in clinical practice to restore ovarian function and fertility using cryopreserved ovarian tissue. More than 300 women worldwide have un- dergone the procedure and ovarian function restoration was achieved in 95% of cases within 4-9 months.49 To date, more than 180 babies have been born using this procedure. Approximately 85% of the women receiving ovarian trans- plants were cancer survivors. The live birth rate per patient
+ 
+
+ 
+was w40%, half of which were from natural conceptions, thus avoiding the need for further medical intervention.49 As with oocyte and embryo cryopreservation, the main factor affecting success rate is age: women of younger age at ovarian tissue cryopreservation have better fertility outcomes after ovarian tissue transplantation than older women, with only a few pregnancies achieved in women over 36 years of age.50 Ovarian tissue collection and transplantation are usually carried out by laparoscopy. Surgical risk is considered low and complications (e.g. conversion laparotomy, bleeding, reintervention for cutaneous infection, bladder lesion or minor complications) are rare (0.2%-1.4%).51 The procedure should not be proposed to patients with high surgical/ anaesthesia risks related to their disease and ideally should be done at the same time as other procedures that require anaesthesia. The risk of disease transmission during trans- plantation due to residual neoplastic cells within the ovarian cortex is one of the major safety concerns, espe- cially in pelvic cancers or systemic diseases such as leukaemia. Several diseases at advanced stages, such as Burkitt’s lymphoma, non-Hodgkin’s lymphoma, breast can- cer and sarcoma, might also carry a risk of ovarian involvement.52 In a recent review, 9 out of 230 cancer pa- tients who underwent ovarian tissue transplantation expe- rienced recurrence of their disease but none were related to the transplantation procedure.49 Nevertheless, ovarian tissue should always be carefully analysed before grafting using all available technologies, such as immunohisto- chemistry and molecular markers, according to the disease. Xenografting has also been used in this context. Data on children are reassuring as no congenital malformations have
+been reported.
+Ovarian tissue cryopreservation is appropriate when the time available before starting anticancer treatments is too short for ovarian stimulation and oocyte or embryo cryo- preservation. Although there is no clear consensus on the maximum age for ovarian tissue cryopreservation, it is usu- ally recommended to offer this procedure only to women 36 years of age.	Ovarian tissue cryopreservation can also be carried out after an initial, low-intensity gonadotoxic treatment regimen in order to reduce the risk of neoplastic cells being present in the ovary (i.e. in leukaemia patients) or when the patient’s initial health condition contraindicates an immediate procedure.54 Although the procedure has recently been carried out with success in a patient affected by acute myeloid leukaemia,55 the risk of tissue contami- nation remains a major concern in such patients and there is a need for very careful evaluation in each individual case. While normal oocytes can develop from cryopreserved ovarian tissue after ChT administration, there are no robust data regarding the impact of different regimens and time interval between last treatment dose and ovarian tissue cryopreservation on the subsequent reproductive outcomes. The ischaemic process after transplantation of ovarian cortex induces major follicular loss, reducing the lifespan of graft function. Restoration of ovarian function after grafting oc- curs in most women, but is very variable in duration, lasting from just a few months to several years in some cases. For
+ 
+some women, two or three graft procedures are required to achieve a pregnancy.49
+Research is ongoing to improve tissue function after grafting using several tools, including human adipose tissue- derived stem cells, mesenchymal stem cells and decellu- larised scaffolds.
+
+Ovarian transposition and gonadal shielding during RT
+Two options exist for protecting ovaries from RT: trans- position of the ovaries before RT and gonadal shielding during RT.
+Ovarian transposition outside the planned RT field is a routinely used technique to minimise ovarian follicle RT exposure. Although both laparotomic and laparoscopic ap- proaches are possible, the procedure is mostly carried out by laparoscopy to accelerate recovery and avoid postponing RT.56 The ovary is mobilised with its vascular pedicle and the location is marked with radio-opaque clips to allow identi- fication of the transposed ovary. It is possible to transpose only one ovary, but better results are achieved with a bilateral procedure. Transposition of the ovary into subcu- taneous tissue is another option but it is associated with a higher risk of cyst formation.56 Transposed ovaries can be safely punctured for oocyte retrieval.57 In certain cases, ovaries can be returned to their original location after RT. The rate of retained ovarian function is approximately 65% in patients undergoing surgery and RT.58 Reasons for failure include necrosis related to vascular impairment and migration after insufficient fixation. Success rate is inﬂuenced by the method of evaluation (presence of menstrual cycle, FSH levels, AMH levels) and the duration of follow-up (as ovarian function decreases over time). Very few data are available for pregnancy rates, which seem to vary between 0% and 50%, and these rates are also dependent on the target irradiated organ.56 The surgical risk of ovarian transposition is similar to other gynaecological procedures (i.e. risk of bowel and vessel injury). Risk of developing ovarian carcinoma in a transposed ovary is extremely low.58 This could be reduced even further when fallopian tubes are resected during the surgical procedure. Gonadal shielding during RT by lead blocks reduces the expected RT dose to 4-5 Gy.59 The minimum free margin should be 2 cm in order to reduce the risk of  gonadal
+irradiation due to inner organ movement.
+Ovarian transposition and gonadal shielding are indicated in women 40 years of age who are scheduled to receive pelvic RT for cervical (if there is a low risk of ovarian metastasis or recurrence), vaginal, rectal or anal cancers, Hodgkin’s or non-Hodgkin’s lymphoma in the pelvis or Ewing’s sarcoma of the pelvis.
+Long-term follow-up evaluating the risks of transposition and fertility rates after RT completion is needed.
+
+Medical gonadoprotection
+The aim of medical gonadoprotection during ChT is to reduce the risk of POI and its associated fertility and endocrine-related consequences. Therefore, this strategy
+ 
+
+ 
+may also be of value in patients without a desire for preg- nancy and not interested in fertility preservation. Potential advantages are its suitability for premenopausal patients of all ages, non-invasive nature, low health risk and possible use in conjunction with fertility-preservation strategies.60 The potential disadvantages of medical gonadoprotection are the possible interference with anticancer therapies, risk of damaging the oocytes and the need for administering these agents before and during anticancer treatment.60
+Temporary ovarian suppression during ChT achieved by administering a GnRHa (starting at least 1 week before the initiation of systemic cytotoxic therapy and continued for the duration of therapy) is the only strategy that has entered clinical use. Several potential new methods of medical gonadoprotection with hormonal and non-hormonal agents are currently under investigation (supplementary Table S2, available at https://doi.org/10.1016/j.annonc. 2020.09.006).19
+In cancer patients, most of the available randomised trials assessing the use of GnRHa during ChT have been conducted in premenopausal breast cancer patients, but evidence also exists in women with haematological malig- nancies; there are limited data to counsel cancer patients diagnosed with other solid tumours. Notably, in most of the trials, the primary end point was POI (defined as amenor- rhoea at different time points following ChT completion, with few trials using composite end points of amenorrhoea and postmenopausal hormonal levels). A small number of studies reported on post-treatment pregnancies.
+In premenopausal breast cancer patients, 14 randomised trials investigated the efficacy of this strategy: all but four studies showed a statistically significant reduction in POI risk with concurrent administration of a GnRHa during systemic cytotoxic therapy.61 In an individual patient-level meta- analysis including the five major breast cancer trials (N 873), the administration of a GnRHa during ChT was asso- ciated with a significant reduction in POI rates [from 30.9% to 14.1%; adjusted odds ratio (OR) 0.38; 95% CI 0.26-0.57; P < 0.001] and a higher number of post-treatment preg-
+nancies [37 versus 20; incidence rate ratio (IRR) 1.83; 95% CI
+1.06-3.15].62 Treatment effect in reducing POI risk was observed in both patients with hormone receptor-positive and -negative disease and was irrespective of patient age at the time of treatment, type and duration of ChT.62
+In premenopausal women with haematological malig- nancies, four randomised trials investigated the efficacy of this strategy but none showed a protective effect with the use of a GnRHa during ChT.61 A recent meta-analysis included three trials (N 109 patients) and showed no significant difference in POI rates [18.9% versus 32.1%; risk ratio (RR) 0.70; 95% CI 0.20-2.47] or post-treatment preg-
+nancies (17 versus 18; RR 1.13; 95% CI 0.66-1.93) between patients that received ChT alone and those with concurrent GnRHa administration.63
+In premenopausal women with other solid tumours, only one randomised trial including 30 patients with ovarian cancer is available.64 A significant reduction in POI rates (from 33.3% to 0.0%; P ¼ 0.02) was observed with the use
+ 
+of a GnRHa during ChT; no data on post-treatment preg- nancies were reported.
+In terms of safety, concurrent use of a GnRHa during ChT is associated with a higher incidence of menopausal symptoms (mainly hot ﬂushes and sweating) that are of low severity grade in the majority of cases and are reversible.62 In women with hormone receptor-positive breast cancer, concurrent administration of a GnRHa during ChT is not associated with detrimental survival outcomes;62,65 subsequent ovarian function suppression should be considered as part of the adjuvant endocrine treatment in these patients.66
+Based on the available evidence, temporary ovarian suppression with a GnRHa during ChT should be consid- ered a standard option for ovarian function preservation in premenopausal breast cancer patients undergoing (neo)adjuvant systemic cytotoxic therapy. In premeno- pausal women with other malignancies who are candi- dates to receive ChT, despite the limited available data, use of a GnRHa may be   discussed   considering   its other potential medical effects, including menstrual cycle control and prevention of menometrorrhagia risk. Importantly, for patients interested in fertility preserva- tion, temporary ovarian suppression with a GnRHa during ChT should not be considered as an alternative to cryopreservation techniques. In this setting, a GnRHa can be offered but only following cryopreservation procedures or when these surgical options are not accessible (for logistical, timing, cost or personal ethical reasons).
+Further research efforts are needed to collect long-term follow-up data (including post-treatment pregnancies and age at menopause) from existing randomised trials. Pro- spective studies are warranted to better investigate the protective gonadal effect of a GnRHa during ChT using more sensitive markers of ovarian reserve, including AMH levels and antral follicle count.
+
+
+Other experimental options
+Information regarding other experimental options for fe- male fertility preservation can be found in Section 2 of the supplementary Material, available at https://doi.org/10. 1016/j.annonc.2020.09.006.
+
+
+Recommendations
+When a 2-week treatment delay is feasible, oocytes or embryos can be safely and efficiently cryopreserved before the initiation of anticancer therapies [III, A].
+Close links with reproductive medicine centres are required to allow timely referral for counselling and ac- cess to oocyte and embryo cryopreservation [V, A].
+Random start ovarian stimulation protocols should be applied to limit the delay in starting anticancer treat- ments [III, A].
+As age is a major determinant of the likelihood of suc- cess, women should be clearly advised of their age- related chance of achieving a successful pregnancy [III, A].
+ 
+
+ 
+Aromatase inhibitors can be given to prevent supraphy- siological estrogen concentrations during ovarian stimu- lation in women with estrogen-sensitive tumours [III, C]. Ovarian tissue cryopreservation is an alternative procedure when oocyte or embryo cryopreservation are not feasible [III, A] with the following considerations: B Ovarian tissue cryopreservation should not be offered to older women: current evidence supports 36 years
+as an age limit [III, B].
+B Fragments of ovarian tissue (medulla and/or cortex) should always be analysed for the presence of neoplastic cells with appropriate techniques before transplantation [III, A]. Transplantation should be considered with particular caution in cases of acute leukaemia, or any solid tumour or haematological dis- ease with pelvic involvement [III, A].
+B Ovarian tissue cryopreservation can be carried out af- ter exposure to induction or a few low-intensity gona- dotoxic ChT cycles [IV, B]. This approach might be of interest in patients with systemic diseases, such as leukaemia, to reduce the risk of transplanting residual malignant cells that were within the ovary before cryo- preservation [V, C].
+Ovarian transposition should be considered in order to try to preserve ovarian function in women 40 years of age with an indication for pelvic RT [IV, A].
+Ovarian transposition should be carried out by experienced laparoscopists to minimise complications and maximise the chances of ovarian function preservation [IV, A].
+Gonadal shielding may be an alternative strategy to ovarian transposition, not requiring a surgical interven- tion [IV, C].
+●	For premenopausal breast cancer patients undergoing
+ 
+Post-treatment pregnancy rates are highly dependent on the type of cancer, with the lowest rates reported for men with a history of acute leukaemia or non-Hodgkin’s lymphoma and for women with a history of breast or cervical cancer.
+When counselling adult cancer survivors inquiring into the feasibility and safety of post-treatment pregnancies, both patient/couple- and disease/treatment-related factors should be taken into consideration (Table 4). The potential negative inﬂuence of prior exposure to anticancer treat- ments on the occurrence of congenital abnormalities or obstetric and birth complications, and the possibility that a pregnancy might have a detrimental prognostic effect for the patient, particularly in the case of hormone-driven tu- mours, are two major concerns shared by both adult cancer survivors and their treating physicians.
+While no difference has been shown for female partners of male cancer survivors,68 there is an increased risk of developing obstetric and birth complications for female cancer survivors in terms of increased risk of prematurity (RR 1.56; 95% CI 1.37-1.77), low birth weight (RR 1.47; 95%
+CI 1.24-1.73), elective (RR 1.38; 95% CI 1.13-1.70) and
+emergency caesarean section (RR 1.22; 95% CI 1.15-1.30),
+assisted vaginal delivery (RR 1.10; 95% CI 1.02-1.18) and
+postpartum haemorrhage (RR 1.18; 95% CI 1.02-1.36).69 The risk of these complications appears to be higher when the interval between the end of treatment and conception is short.70 Therefore, close monitoring of post- treatment pregnancies and an interval of at least 1 year following completion of ChT is recommended in cancer survivors. In patients receiving other anticancer treatments, a specific wash-out period should be considered before conception (e.g. 3 months for tamoxifen71 and 7 months for
+ 
+(neo)adjuvant ChT, temporary ovarian suppression with a GnRHa is recommended for ovarian function preserva- tion, irrespective of tumour subtype [I, A].
+For premenopausal women with malignancies other than breast cancer, temporary ovarian suppression with a GnRHa during ChT may be considered as an option to potentially reduce POI risk and menometrorrhagia, but the limited and controversial evidence should be dis- cussed with the patient [II, C].
+For young cancer patients interested in fertility preserva- tion, temporary ovarian suppression with a GnRHa dur- ing ChT should not be considered as an alternative to oocyte or embryo cryopreservation, but it may be offered as an additional option following cryopreserva- tion strategies or when they are not accessible [V, C].
+
+
+POST-TREATMENT PREGNANCIES IN CANCER SURVIVORS
+At the time of diagnosis, a significant proportion of post-pubertal patients have not completed their family planning and express a desire for pregnancy after treat- ment.3 Nevertheless, male and female cancer survivors have significantly reduced chances of post-treatment pregnancies compared with the general population.67
+ 
+the anti-HER2 monoclonal antibody trastuzumab72).
+Neonatal outcomes of pregnancies in men or women with prior exposure to anticancer treatments appear to be comparable to those of the general population. Although the literature is controversial and relies on register-based studies, a slightly increased risk of congenital
+
+
+Table 4. Patient/couple- and disease/treatment-related factors to be considered during the counselling of post-pubertal cancer survivors inquiring into the feasibility and safety of post-treatment pregnancies
+Patient/couple-related factors Disease/treatment-related factors
+Sex	Type of cancer (prognosis and biology)
+Age	Type, dose and duration of prior treatment
+Personal status	(ChT, RT, endocrine therapy, surgery)
+BMI	Interval since treatment completion
+Smoking	Need for additional treatment
+Presence of a partner	Potential risk associated with treatment
+Medical history	interruption
+Previous treatment for
+infertility
+Prior treatment with potential
+negative impact on fertility
+Prior access to fertility-
+preservation options
+Contraindications to pregnancy
+Hereditary conditions
+BMI, body mass index; ChT, chemotherapy; RT, radiotherapy.
+
+ 
+ 
+
+ 
+abnormalities has been reported in offspring of male cancer survivors (3.7% versus 3.2%; RR 1.17; 95% CI 1.05-1.31) when either cryopreserved sperm or fresh post-treatment sperm was used.73 A slightly increased risk of congenital anomalies has also been described in female patients (RR 1.10; 95% CI 1.02-1.20) but this was interpreted as an artefact of the analysis.69
+A growing amount of data (derived mostly from retro- spective studies) supports the safety of conceiving following adequate treatment and follow-up of patients with breast cancer,74 including those with prior estrogen receptor- positive disease.75 Abortion, time to pregnancy and breastfeeding do not appear to have any impact on patient outcomes.75 In young women with a history of hormone receptor-positive breast cancer who are candidates for 5-10 years of adjuvant endocrine therapy, no reliable data are available to counsel women on the safety of a tem- porary treatment interruption to have a pregnancy. In women who consider this option, patient wishes (and partner, if appropriate), age, availability of cryopreserved gametes and individual risk of recurrence are of para- mount importance to be discussed. Following delivery, adjuvant endocrine therapy should be resumed to complete the recommended 5-10 years of treatment. The international, multicentre, prospective POSITIVE trial (ClinicalTrial.gov: NCT02308085) will shed light on the safety of a temporary treatment interruption to have a pregnancy in patients with prior estrogen receptor-positive disease.
+The feasibility and safety of using assisted reproductive technology (ART) following anticancer treatment is an important issue to be considered for adult cancer survivors who did not have access to fertility preservation strategies at the time of diagnosis and/or where there are difficulties with spontaneous conception. Female adult cancer survi- vors have a higher likelihood of undergoing fertility treat- ments compared with healthy women, with increasing use over time.76 In terms of efficacy, significantly lower live birth rates with the use of autologous oocytes were described for cancer survivors compared with healthy women (24.7% versus 47.7%).77 A major impact of cancer type was shown, with the lowest live birth rates observed among breast cancer patients (14.3%) and the highest in those with a prior history of melanoma (53.5%). Conversely, in women using donor oocytes, no significant difference was observed in live birth rates between cancer survivors and healthy women (60.4% versus 64.5%), irrespective of cancer type.77 These results further reinforce the recom- mendation to refer patients interested in pursuing fertility preservation strategies before the initiation of anticancer treatment. In women with hormone-driven cancers, such as survivors of hormone receptor-positive breast cancer, an additional concern is the potential detrimental effect of ART on survival outcomes. While the available safety data are reassuring for ART at the time of diagnosis when followed by the use of systemic anticancer therapies, data are limited to counsel breast cancer survivors about the safety of using ART during oncological follow-up, particularly when ovarian stimulation is needed.78 Although there is no apparent
+ 
+detrimental prognostic effect, evidence is limited to draw solid conclusions in this setting and more research is needed.
+
+Recommendations
+Patient/couple- and disease/treatment-related factors should be considered when counselling adult cancer sur- vivors regarding the feasibility and safety of post- treatment pregnancies [V, A].
+After adequate treatment and follow-up, having a preg- nancy in cancer survivors should not be discouraged for safety reasons, even among women with a prior his- tory of hormone receptor-positive breast cancer [IV, B]. Post-treatment pregnancies in adult women with a prior history of cancer should be monitored more closely due to the potential increased risk of developing obstetric and birth complications [IV, B].
+Breastfeeding can be considered in cancer survivors who are not under active treatment [IV, B].
+Fertility preservation strategies should preferably be used at the time of diagnosis before treatment initiation [III, A].
+Where appropriate and allowed by local regulations, oocyte donation can be considered as an option in can- cer survivors [IV, C].
+
+
+FERTILITY AND POST-TREATMENT PREGNANCIES IN POST-PUBERTAL PATIENTS WITH HEREDITARY CANCER SYNDROMES
+Hereditary cancer syndromes are often associated with a significantly increased risk of developing early onset cancer. Several hereditary cancer syndromes are characterised by an increased chance of gynaecological cancers, including ovarian and endometrial neoplasms (supplementary Table S3, available at https://doi.org/10.1016/j.annonc. 2020.09.006). The identification of an inherited delete- rious pathogenic variant in one of these genes plays a sig- nificant role both in cancer management and in screening, prevention and risk-reducing measures, with the subse- quent impact on the patient’s reproductive potential. As testing becomes more widespread, including the use of multigene panels, increased attention to fertility and pregnancy-related issues in post-pubertal patients with hereditary cancer syndromes is necessary. For some of these syndromes, the recommendation to pursue risk- reducing gynaecological surgery at a young age leads to a particularly narrow window for fertility and pregnancy. As recommended by current guidelines, all women harbouring a predisposing pathogenic variant should be encouraged to complete childbearing before planned risk-reducing gynae- cological surgery.79 At present, the recommended risk- reducing measure for women at increased risk of ovarian cancer is bilateral salpingo-oophorectomy. Of note, there is an increasing body of evidence suggesting that epithelial ovarian cancers originate in the fimbria or fallopian tubes.80 Although risk-reducing salpingectomy alone cannot be
+ 
+
+ 
+recommended at present outside of a clinical trial, if data emerge to support the safety of this approach, this will favourably impact reproductive issues and fertility options for these patients.
+Preclinical data suggest a potential negative impact of harbouring a germline pathogenic variant in genes involved in DNA repair mechanisms on female fertility in terms of decreasing ovarian reserve, increasing fertility-related issues and POI that can lead to infertility and premature meno- pause.81 Controversial data have been reported on the potential tendency for reduced ovarian reserve at diagnosis and before commencement of anticancer treatments in BRCA-mutated breast cancer patients.81 To date, the po- tential concerns about an increased risk of gonadotoxicity in patients with hereditary cancer syndromes have not been supported by the (albeit limited) available evidence.82,83
+Clinical data on how to optimally counsel patients with hereditary cancer syndromes facing fertility and pregnancy- related concerns remain limited. Overall, similar recom- mendations on fertility preservation and post-treatment pregnancies for women without germline predisposing pathogenic variants apply to patients with hereditary cancer syndromes, including the need for appropriate oncofertility counselling at the time of diagnosis. However, specific considerations should be made regarding fertility preser- vation, particularly for women with predisposing patho- genic variants associated with an increased risk of ovarian cancer.
+Sperm cryopreservation in men and oocyte or embryo cryopreservation in women are the preferred options to be offered to newly diagnosed patients with hereditary cancer syndromes interested in fertility preservation. Importantly, these techniques facilitate the use of preim- plantation genetic diagnosis (PGD) for patients who are interested in this option. Controversial data have been reported on the tendency towards a reduced response to controlled ovarian stimulation in BRCA-mutated breast cancer patients.84,85
+In women with hereditary cancer syndromes that are associated with an increased risk of gynaecological malignancy and who are candidates for risk-reducing gynaecological sur- gery, ovarian tissue cryopreservation and temporary ovarian suppression with a GnRHa during ChT may be considered as supplementary measures to oocyte or embryo cryopreserva- tion. Of note, a genetic test result is often not available for patients at the time of diagnosis and during oncofertility counselling, but it should be known before transplantation of cryopreserved tissue. There are limited data available to counsel patients with hereditary cancer syndromes on the efficacy and safety of these approaches,86,87 with one concern being transplanting ovarian tissue that may harbour prema- lignant changes. Acknowledging the limited evidence in this regard, for patients with hereditary cancer syndromes, the choice of the transplantation site, such as directly into the remaining gonads, is crucial to ensure that all ovarian tissue can be removed after the completion of reproductive plans at the time of risk-reducing gynaecological surgery.
+ 
+Available data suggest that post-treatment pregnancies are feasible among BRCA-mutated breast cancer patients, with no detrimental prognostic effect and no increased risk of congenital abnormalities or obstetric or birth complica- tions.88 Although there is a lack of evidence for patients with pathogenic variants other than BRCA, there are no plausible reasons to anticipate different safety consider- ations for post-treatment pregnancies between cancer survivors with or without hereditary cancer syndromes.
+An important concern among patients with a hereditary cancer syndrome is the 50% risk of transmitting the mutated gene to their children.89 Patients (both male and female) with a hereditary cancer syndrome, particularly those harbouring a high penetrance pathogenic variant, planning to conceive should be made aware of the options of prenatal diagnosis (via chorionic-villous or amniotic ﬂuid sampling in week 11-20 of gestation) and PGD. The risks and benefits of both approaches need to be carefully outlined, and the need for in vitro fertilisation (IVF), irrespective of fertility status, if PGD is chosen must be clearly stated. A multitude of factors, including religious, cultural, ethical and socioeconomic factors can inﬂuence an individual’s choice to utilise prenatal diagnosis or PGD, and any decisions should be respected. An increased awareness is needed to ensure adequate discussions on this topic, with interested patients referred to relevant experts and centres. It is worth noting, however, that these technologies are not available in all countries/centres.
+Further research efforts to improve our understanding of the role of predisposing genes on patients’ reproductive potential and subsequent risk of treatment-related gona- dotoxicity, as well as to investigate the efficacy and safety of fertility-preservation strategies in patients with hereditary cancer syndromes, should be considered a research priority.
+
+Recommendations
+
+Sperm cryopreservation and oocyte or embryo cryopreser- vation are the preferred options and should be proposed to newly diagnosed patients with hereditary cancer syn- dromes interested in fertility preservation [IV, A].
+Ovarian tissue cryopreservation and temporary ovarian suppression with a GnRHa during ChT may be considered with caution in women with hereditary cancer syn- dromes diagnosed several years before the recommen- ded age of risk-reducing gynaecological surgery [IV, C]. Post-treatment pregnancies in BRCA-mutated breast can- cer survivors should not be discouraged [IV, B]. Although no data are available for patients with pathogenic vari- ants other than BRCA, there are no plausible reasons to anticipate different safety considerations for post- treatment pregnancies between cancer survivors with or without hereditary cancer syndromes [V, B].
+Patients with hereditary cancer syndromes should be informed of the possibility to undergo prenatal diagnosis (in the case of natural conception) or PGD (in the case of IVF procedures) [III, A].
+ 
+
+ 
+METHODOLOGY
+These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating procedures for Clinical Practice Guidelines development (https://www. esmo.org/guidelines/esmo-guidelines-methodology). The relevant literature has been selected by the expert authors. Levels of evidence and grades of recommendation have been applied using the system shown in supplementary Table S4, available at https://doi.org/10.1016/j.annonc. 2020.09.006.90 Statements without grading were consid- ered justified standard clinical practice by the experts.
+
+ACKNOWLEDGEMENTS
+ML acknowledges the support of ESMO for a Translational Research Fellowship in the field of oncofertility during his PhD at the Université Libre de Bruxelles (ULB) in Brussels, Belgium. Manuscript editing support was provided by Angela Corstorphine of Kstorfin Medical Communications Ltd; this support was funded by ESMO.
+
+FUNDING
+No external funding has been received for the preparation of these guidelines. Production costs have been covered by ESMO from central funds.
+
+DISCLOSURE
+ML reported consultancy or advisory role and speaker’s honoraria from Roche, Theramex, Takeda, Pfizer, Novartis and Lilly; FAP reported consultancy or advisory role and speaker’s honoraria from Roche, Clovis, Takeda and Ipsen; ID reported advisory role and speaker’s honoraria from Roche and Novartis; FA is a senior researcher for the Research Fund Flanders (FWO); SPS reported consultancy or advisory role and speaker’s honoraria from Roche, Novartis, Pfizer and AstraZeneca. RAA reported consultancy and research support from Roche Diagnostics, Ferring Pharma- ceuticals, IBSA and Merck; KJ reported speaker’s honoraria or advisory role from Merck Sharp and Dohme, Merck, Amgen, Hexal, Riemser, Helsinn, Kreussler, Voluntis, Pfizer, POMME-med, PharmaMar, art-tempi and priME Oncology. The remaining authors have declared no potential conﬂicts of interest.
+
+REFERENCES
+1.	Fidler MM, Gupta S, Soerjomataram I, et al. Cancer incidence and mortality among young adults aged 20-39 years worldwide in 2012: a population-based study. Lancet Oncol. 2017;18(12):1579-1589.
+2.	Jordan K, Aapro M, Kaasa S, et al. European Society for Medical Oncology (ESMO) position paper on supportive and palliative care. Ann Oncol. 2018;29(1):36-43.
+3.	Letourneau JM, Ebbel EE, Katz PP, et al. Pretreatment fertility coun- seling and fertility preservation improve quality of life in reproductive age women with cancer. Cancer. 2012;118(6):1710-1717.
+4.	Polland A, Berookhim BM. Fertility concerns in men with genitourinary malignancies: treatment dilemmas, fertility options, and medicolegal considerations. Urol Oncol. 2016;34(9):399-406.
+5.	Peccatori FA, Azim Jr HA, Orecchia R, et al. Cancer, pregnancy and fertility: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2013;24(Suppl 6):vi160-vi170.
+6.	 
+Jones G, Hughes J, Mahmoodi N, et al. What factors hinder the decision- making process for women with cancer and contemplating fertility preservation treatment? Hum Reprod Update. 2017;23(4):433-457.
+7.	Wang Y, Anazodo A, Logan S. Systematic review of fertility preservation patient decision aids for cancer patients. Psychooncology. 2019;28(3): 459-467.
+8.	Walsh SK, Ginsburg ES, Lehmann LS, et al. Oncofertility: fertile ground for conﬂict between patient autonomy and medical values. Oncologist. 2017;22(7):860-863.
+9.	Poorvu PD, Frazier AL, Feraco AM, et al. Cancer treatment-related infertility: a critical review of the evidence. JNCI Cancer Spectr. 2019;3(1):pkz008.
+10.	Lee SJ, Schover LR, Partridge AH, et al. American Society of Clinical Oncology recommendations on fertility preservation in cancer pa- tients. J Clin Oncol. 2006;24(18):2917-2931.
+11.	Zegers-Hochschild F, Adamson GD, Dyer S, et al. The international glossary on infertility and fertility care, 2017. Fertil Steril. 2017;108(3): 393-406.
+12.	Howell SJ, Shalet SM. Testicular function following chemotherapy. Hum Reprod Update. 2001;7(4):363-369.
+13.	Kenney LB, Antal Z, Ginsberg JP, et al. Improving male reproductive health after childhood, adolescent, and young adult cancer: progress and future directions for survivorship research. J Clin Oncol. 2018;36(21):2160-2168.
+14.	Lampe H, Horwich A, Norman A, et al. Fertility after chemotherapy for testicular germ cell cancers. J Clin Oncol. 1997;15(1):239-245.
+15.	Paoli D, Rizzo F, Fiore G, et al. Spermatogenesis in Hodgkin’s lym- phoma patients: a retrospective study of semen quality before and after different chemotherapy regimens. Hum Reprod. 2016;31(2): 263-272.
+16.	Webber L, Davies M, Anderson R, et al. ESHRE guideline: management of women with premature ovarian insufficiency. Hum Reprod. 2016;31(5):926-937.
+17.	Jacobson MH, Mertens AC, Spencer JB, et al. Menses resumption after cancer treatment-induced amenorrhea occurs early or not at all. Fertil Steril. 2016;105(3):765-772.e4.
+18.	Dewailly D, Andersen CY, Balen A, et al. The physiology and clinical utility of anti-Mullerian hormone in women. Hum Reprod Update. 2014;20(3):370-385.
+19.	Spears N, Lopes F, Stefansdottir A, et al. Ovarian damage from chemotherapy and current approaches to its protection. Hum Reprod Update. 2019;25(6):673-693.
+20.	Lambertini M, Campbell C, Bines J, et al. Adjuvant anti-HER2 therapy, treatment-related amenorrhea, and survival in premenopausal HER2- positive early breast cancer patients. J Natl Cancer Inst. 2019;111(1):86-94.
+21.	Imai A, Ichigo S, Matsunami K, et al. Ovarian function following tar- geted anti-angiogenic therapy with bevacizumab. Mol Clin Oncol. 2017;6(6):807-810.
+22.	Zhao J, Liu J, Chen K, et al. What lies behind chemotherapy-induced amenorrhea for breast cancer patients: a meta-analysis. Breast Can- cer Res Treat. 2014;145(1):113-128.
+23.	Dezellus A, Barriere P, Campone M, et al. Prospective evaluation of serum anti-Müllerian hormone dynamics in 250 women of reproduc- tive age treated with chemotherapy for breast cancer. Eur J Cancer. 2017;79:72-80.
+24.	Adriaens I, Smitz J, Jacquet P. The current knowledge on radiosensi- tivity of ovarian follicle development stages. Hum Reprod Update. 2009;15(3):359-377.
+25.	Brännström M, Dahm-Kähler P. Uterus transplantation and fertility preservation. Best Pract Res Clin Obstet Gynaecol. 2019;55:109-116.
+26.	Lekovich J, Lobel ALS, Stewart JD, et al. Female patients with lym- phoma demonstrate diminished ovarian reserve even before initiation of chemotherapy when compared with healthy controls and patients with other malignancies. J Assist Reprod Genet. 2016;33(5):657-662.
+27.	Nangia AK, Krieg SA, Kim SS. Clinical guidelines for sperm cryopreser- vation in cancer patients. Fertil Steril. 2013;100(5):1203-1209.
+28.	Ferrari S, Paffoni A, Filippi F, et al. Sperm cryopreservation and reproductive outcome in male cancer patients: a systematic review. Reprod Biomed Online. 2016;33(1):29-38.
+ 
+
+ 
+29.	Hourvitz A, Goldschlag DE, Davis OK, et al. Intracytoplasmic sperm injection (ICSI) using cryopreserved sperm from men with malignant neoplasm yields high pregnancy rates. Fertil Steril. 2008;90(3):557-563.
+30.	Wyns C. Fertility preservation: current prospects and future challenges.
+Gynecol Endocrinol. 2013;29(5):403-407.
+31.	Meistrich ML. Potential genetic risks of using semen collected during chemotherapy. Hum Reprod. 1993;8(1):8-10.
+32.	Ishiguro H, Yasuda Y, Tomita Y, et al. Gonadal shielding to irradiation is effective in protecting testicular growth and function in long-term survivors of bone marrow transplantation during childhood or adolescence. Bone Marrow Transplant. 2007;39(8):483-490.
+33.	Shetty G, Meistrich ML. Hormonal approaches to preservation and restoration of male fertility after cancer treatment. J Natl Cancer Inst Monogr. 2005;34:36-39.
+34.	Rienzi L, Gracia C, Maggiulli R, et al. Oocyte, embryo and blastocyst cryopreservation in ART: systematic review and meta-analysis comparing slow-freezing versus vitrification to produce evidence for the development of global guidance. Hum Reprod Update. 2017;23(2): 139-155.
+35.	von Wolff M, Capp E, Jauckus J, et al. Timing of ovarian stimulation in patients prior to gonadotoxic therapy: an analysis of 684 stimulations. Eur J Obstet Gynecol Reprod Biol. 2016;199:146-149.
+36.	Tsampras N, Gould D, Fitzgerald CT. Double ovarian stimulation (Duo- Stim) protocol for fertility preservation in female oncology patients. Hum Fertil. 2017;20(4):248-253.
+37.	von Wolff M, Bruckner T, Strowitzki T, et al. Fertility preservation: ovarian response to freeze oocytes is not affected by different malig- nant diseasesdan analysis of 992 stimulations. J Assist Reprod Genet. 2018;35(9):1713-1719.
+38.	Cobo A, García-Velasco J, Domingo J, et al. Elective and onco-fertility preservation: factors related to IVF outcomes. Hum Reprod. 2018;33(12):2222-2231.
+39.	Schon SB, Shapiro M, Gracia C, et al. Medical and elective fertility preservation: impact of removal of the experimental label from oocyte cryopreservation. J Assist Reprod Genet. 2017;34(9):1207-1215.
+40.	Wyns C, Bergh C, Calhaz-Jorge C, et al. ART in Europe, 2016: results generated from European registries by ESHRE. Hum Reprod Open. 2020;2020(3):hoaa032.
+41.	Oktay K, Turan V, Bedoschi G, et al. Fertility preservation success subse- quent to concurrent aromatase inhibitor treatment and ovarian stimu- lation in women with breast cancer. J Clin Oncol. 2015;33(22):2424-2429.
+42.	Sharma S, Ghosh S, Singh S, et al. Congenital malformations among babies born following letrozole or clomiphene for infertility treatment. PLoS One. 2014;9(10):e108219.
+43.	Rodgers RJ, Reid GD, Koch J, et al. The safety and efficacy of controlled ovarian hyperstimulation for fertility preservation in women with early breast cancer: a systematic review. Hum Reprod. 2017;32(5):1033- 1045.
+44.	Moravek MB, Confino R, Smith KN, et al. Long-term outcomes in cancer patients who did or did not pursue fertility preservation. Fertil Steril. 2018;109(2):349-355.
+45.	Huober-Zeeb C, Lawrenz B, Popovici RM, et al. Improving fertility pres- ervation in cancer: ovarian tissue cryobanking followed by ovarian stimulation can be efficiently combined. Fertil Steril. 2011;95(1):342-344.
+46.	Oktay K, Harvey BE, Partridge AH, et al. Fertility preservation in pa- tients with cancer: ASCO Clinical Practice Guideline update. J Clin Oncol. 2018;36(19):1994-2001.
+47.	Martinez F, International Society for Fertility PreservationeESHREe ASRM Expert Working Group. Update on fertility preservation from the Barcelona International Society for Fertility Preservation-ESHRE-ASRM 2015 expert meeting: indications, results and future perspectives. Fertil Steril. 2017;108(3):407-415.e11.
+48.	Practice Committee of the American Society for Reproductive Medi- cine. Fertility preservation in patients undergoing gonadotoxic therapy or gonadectomy: a committee opinion. Fertil Steril. 2019;112(6):1022- 1033.
+49.	Gellert SE, Pors SE, Kristensen SG, et al. Transplantation of frozen- thawed ovarian tissue: an update on worldwide activity published in
+ 
+peer-reviewed papers and on the Danish cohort. J Assist Reprod Genet. 2018;35(4):561-570.
+50.	Diaz-Garcia C, Domingo J, Garcia-Velasco JA, et al. Oocyte vitrification versus ovarian cortex transplantation in fertility preservation for adult women undergoing gonadotoxic treatments: a prospective cohort study. Fertil Steril. 2018;109(3):478-485.e2.
+51.	Beckmann MW, Dittrich R, Lotz L, et al. Fertility protection: compli- cations of surgery and results of removal and transplantation of ovarian tissue. Reprod Biomed Online. 2018;36(2):188-196.
+52.	Bastings L, Beerendonk CCM, Westphal JR, et al. Autotransplantation of cryopreserved ovarian tissue in cancer survivors and the risk of rein- troducing malignancy: a systematic review. Hum Reprod Update. 2013;19(5):483-506.
+53.	Wallace WHB, Smith AG, Kelsey TW, et al. Fertility preservation for girls and young women with cancer: population-based validation of criteria for ovarian tissue cryopreservation. Lancet Oncol. 2014;15(10):1129-1136.
+54.	El Issaoui M, Giorgione V, Mamsen LS, et al. Effect of first line cancer treatment on the ovarian reserve and follicular density in girls under the age of 18 years. Fertil Steril. 2016;106(7):1757-1762.e1.
+55.	Shapira M, Raanani H, Barshack I, et al. First delivery in a leukemia survivor after transplantation of cryopreserved ovarian tissue, evalu- ated for leukemia cells contamination. Fertil Steril. 2018;109(1):48-53.
+56.	Irtan S, Orbach D, Helfre S, et al. Ovarian transposition in prepubescent and adolescent girls with cancer. Lancet Oncol. 2013;14(13):e601-e608.
+57.	Steigrad S, Hacker NF, Kolb B. In vitro fertilization surrogate pregnancy in a patient who underwent radical hysterectomy followed by ovarian transposition, lower abdominal wall radiotherapy, and chemotherapy. Fertil Steril. 2005;83(5):1547-1549.
+58.	Gubbala K, Laios A, Gallos I, et al. Outcomes of ovarian transposition in gynaecological   cancers;   a   systematic   review   and   meta-analysis. J Ovarian Res. 2014;7:69.
+59.	Ortin TT, Shostak CA, Donaldson SS. Gonadal status and reproductive function following treatment for Hodgkin’s disease in childhood: the Stanford experience. Int J Radiat Oncol Biol Phys. 1990;19(4):873-880.
+60.	Roness H, Kashi O, Meirow D. Prevention of chemotherapy-induced ovarian damage. Fertil Steril. 2016;105(1):20-29.
+61.	Lambertini M, Horicks F, Del Mastro L, et al. Ovarian protection with gonadotropin-releasing hormone agonists during chemotherapy in cancer patients: from biological evidence to clinical application. Cancer Treat Rev. 2019;72:65-77.
+62.	Lambertini M, Moore HCF, Leonard RCF, et al. Gonadotropin-releasing hormone agonists during chemotherapy for preservation of ovarian function and fertility in premenopausal patients with early breast cancer: a systematic review and meta-analysis of individual patient- level data. J Clin Oncol. 2018;36(19):1981-1990.
+63.	Senra JC, Roque M, Talim MCT, et al. Gonadotropin-releasing hormone agonists for ovarian protection during cancer chemotherapy: systematic review and meta-analysis. Ultrasound Obstet Gynecol. 2018;51(1):77-86.
+64.	Gilani MM, Hasanzadeh M, Ghaemmaghami F, et al. Ovarian preser- vation with gonadotropin-releasing hormone analog during chemo- therapy. Asia Pac J Clin Oncol. 2007;3(2):79-83.
+65.	Regan MM, Walley BA, Francis PA, et al. Concurrent and sequential initiation of ovarian function suppression with chemotherapy in pre- menopausal women with endocrine-responsive early breast cancer: an exploratory analysis of TEXT and SOFT. Ann Oncol. 2017;28(9):2225- 2232.
+66.	Cardoso F, Kyriakides S, Ohno S, et al. Early breast cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2019;30(8):1194-1220.
+67.	Stensheim H, Cvancarova M, Møller B, et al. Pregnancy after adoles- cent and adult cancer: a population-based matched cohort study. Int J Cancer. 2011;129(5):1225-1236.
+68.	Stensheim H, Klungsøyr K, Skjaerven R, et al. Birth outcomes among offspring of adult cancer survivors: a population-based study. Int J Cancer. 2013;133(11):2696-2705.
+69.	van der Kooi A-LLF, Kelsey TW, van den Heuvel-Eibrink MM, et al. Perinatal complications in female survivors of cancer: a systematic review and meta-analysis. Eur J Cancer. 2019;111:126-137.
+ 
+
+ 
+70.	Hartnett KP, Mertens AC, Kramer MR, et al. Pregnancy after cancer: does timing of conception affect infant health? Cancer. 2018;124(22):4401-4407.
+71.	Buonomo B, Brunello A, Noli S, et al. Tamoxifen exposure during pregnancy: a systematic review and three more cases. Breast Care. 2020;15(2):148-156.
+72.	Lambertini M, Martel S, Campbell C, et al. Pregnancies during and after trastuzumab and/or lapatinib in patients with human epidermal growth factor receptor 2-positive early breast cancer: analysis from the NeoALTTO (BIG 1-06) and ALTTO (BIG 2-06) trials. Cancer. 2019;125(2):307-316.
+73.	Ståhl O, Boyd HA, Giwercman A, et al. Risk of birth abnormalities in the offspring of men with a history of cancer: a cohort study using Danish and Swedish national registries. J Natl Cancer Inst. 2011;103(5):398-406.
+74.	Hartman EK, Eslick GD. The prognosis of women diagnosed with breast cancer before, during and after pregnancy: a meta-analysis. Breast Cancer Res Treat. 2016;160(2):347-360.
+75.	Lambertini M, Kroman N, Ameye L, et al. Long-term safety of preg- nancy following breast cancer according to estrogen receptor status. J Natl Cancer Inst. 2018;110(4):426-429.
+76.	Melin J, Madanat-Harjuoja L, Heinävaara S, et al. Fertility treatments among female cancer survivors giving birth e a Finnish register-based study. Acta Oncol. 2017;56(8):1089-1093.
+77.	Luke B, Brown MB, Missmer SA, et al. Assisted reproductive technology use and outcomes among women with a history of cancer. Hum Reprod. 2016;31(1):183-189.
+78.	Rosenberg E, Fredriksson A, Einbeigi Z, et al. No increased risk of relapse of breast cancer for women who give birth after assisted conception. Hum Reprod Open. 2019;2019(4):hoz039.
+79.	Paluch-Shimon S, Cardoso F, Sessa C, et al. Prevention and screening in BRCA mutation carriers and other breast/ovarian hereditary cancer syndromes: ESMO Clinical Practice Guidelines for cancer prevention and screening. Ann Oncol. 2016;27(suppl 5):v103-v110.
+80.	Swanson CL, Bakkum-Gamez JN. Options in prophylactic surgery to prevent ovarian cancer in high-risk women: how new hypotheses of fallopian tube origin inﬂuence recommendations. Curr Treat Options Oncol. 2016;17(5):20.
+81.	 
+Turan V, Oktay K. BRCA-related ATM-mediated DNA double-strand break repair and ovarian aging. Hum Reprod Update. 2020;26(1): 43-57.
+82.	Valentini A, Finch A, Lubinski J, et al. Chemotherapy-induced amen- orrhea in patients with breast cancer with a BRCA1 or BRCA2 muta- tion. J Clin Oncol. 2013;31(31):3914-3919.
+83.	Lambertini M, Olympios N, Lequesne J, et al. Impact of taxanes, endocrine therapy, and deleterious germline BRCA mutations on anti- Müllerian hormone levels in early breast cancer patients treated with anthracycline- and cyclophosphamide-based chemotherapy. Front Oncol. 2019;9:575.
+84.	Turan V, Bedoschi G, Emirdar V, et al. Ovarian stimulation in patients with cancer: impact of letrozole and BRCA mutations on fertility preservation cycle outcomes. Reprod Sci. 2018;25(1):26-32.
+85.	Gunnala V, Fields J, Irani M, et al. BRCA carriers have similar repro- ductive potential at baseline to noncarriers: comparisons in cancer and cancer-free cohorts undergoing fertility preservation. Fertil Steril. 2019;111(2):363-371.
+86.	Lambertini M, Goldrat O, Ferreira AR, et al. Reproductive potential and performance of fertility preservation strategies in BRCA-mutated breast cancer patients. Ann Oncol. 2018;29(1):237-243.
+87.	Wong M, O’Neill S, Walsh G, et al. Goserelin with chemotherapy to preserve ovarian function in pre-menopausal women with early breast cancer: menstruation and pregnancy outcomes. Ann Oncol. 2013;24(1):133-138.
+88.	Lambertini M, Ameye L, Hamy A-S, et al. Pregnancy after breast cancer in patients with germline BRCA mutations. J Clin Oncol. 2020;38(26): 3012-3023.
+89.	Shenfield F, Pennings G, Devroey P, et al. Taskforce 5: preimplantation genetic diagnosis. Hum Reprod. 2003;18(3):649-651.
+90.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis. 2001;33(2):139-144 (adapted from: Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards for infectious diseases. Clin Infect Dis. 1994;1918:1421).

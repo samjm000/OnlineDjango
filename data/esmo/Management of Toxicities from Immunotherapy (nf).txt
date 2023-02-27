@@ -1,0 +1,712 @@
+
+
+
+
+
+ SPECIAL ARTICLE	
+
+Management of toxicities from immunotherapy: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up5
+J. Haanen1y, M. Obeid2,3,4y, L. Spain5,6,7, F. Carbonnel8,9, Y. Wang10, C. Robert11,12, A. R. Lyon13,14, W. Wick15,16,
+M. Kostine17, S. Peters4, K. Jordan18,19 & J. Larkin20, on behalf of the ESMO Guidelines Committee*
+1Division of Medical Oncology, Netherlands Cancer Institute (NKI), Amsterdam, The Netherlands; 2Immunology and Allergy Service, CHUV, Lausanne; 3Lausanne Center
+for Immuno-oncology Toxicities (LCIT), CHUV, Lausanne; 4Department of Oncology, CHUV, Lausanne, Switzerland; 5Medical Oncology Department, Peter MacCallum Cancer Centre, Melbourne; 6Department of Medical Oncology, Eastern Health, Melbourne; 7Monash University Eastern Health Clinical School, Box Hill, Australia; 8Gastroenterology Department, Assistance Publique-Hôpitaux de Paris, Hôpital Universitaire Bicêtre, Le Kremlin Bicêtre; 9Université Paris Saclay 11, Le Kremlin-Bicêtre, France; 10Department of Gastroenterology, Hepatology & Nutrition, The University of Texas MD Anderson Cancer Center, Houston, USA; 11Department of Medicine, Gustave Roussy Cancer Centre, Villejuif; 12Paris-Saclay University, Villejuif, France; 13Cardio-Oncology Service, Royal Brompton Hospital, London; 14National Heart and Lung Institute, Imperial College London, London, UK; 15Neurology Clinic and National Centre for Tumour Diseases, University Hospital Heidelberg, Heidelberg; 16DKTK and Clinical Cooperation Unit NeuroOncology, DKFZ, Heidelberg, Germany; 17Department of Rheumatology, Hôpital Pellegrin, CHU de Bordeaux, Bordeaux, France; 18Department of Haematology, Oncology and Palliative Medicine, Ernst von Bergmann Hospital Potsdam, Potsdam; 19Department of Haematology, Oncology and Rheumatology, University Hospital Heidelberg, Heidelberg, Germany; 20Royal Marsden NHS Foundation Trust, London, UK
+
+Available online 18 October 2022
+
+
+
+ 
+
+GENERAL ASPECTS OF IMMUNE-RELATED ADVERSE EVENT MANAGEMENT
+Overview
+Adverse events (AEs) related to the use of immune check- point inhibitor (ICI) therapy are defined as immune-related (IR) AEs (irAEs). irAEs are graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 5.0 (Supplementary Table S1, available at https://doi.org/10. 1016/j.annonc.2022.10.001).1 The aim of this European Society for Medical Oncology (ESMO) Clinical Practice Guideline (CPG) is to provide specific guidance on irAE management. Recommendations provided are based on evidence from the scientific literature, clinical experience and analogy to the treatment of autoimmune diseases (ADs), where appropriate. Consensus for the recommen- dations was obtained by direct communication, scientific debate and agreement.
+Further information regarding the provision of patient information, routine baseline screening before ICI initiation, monitoring during ICI therapy, management of outpatients
+
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5Note: Approved by the ESMO Guidelines Committee: July 2017, last update
+October 2022. This publication supersedes the previously published ver- siondAnn Oncol. 2017;28(suppl 4):IV119-IV142.
+yBoth authors contributed equally.
+0923-7534/© 2022 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+ 
+
+versus inpatients and that of corticosteroid (CS)-refractory patients and patients with specific conditions can be found in Section 1 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001.
+
+
+General guidance for immunosuppression
+irAE management generally consists of four sequential steps: (i) diagnosis and grading of irAEs, (ii) ruling out dif- ferential diagnoses and pre-immunosuppression work-up,
+(iii) selecting the appropriate immunosuppression strategy for grade 2 events and (iv) active evaluation at 72 h to adapt treatment. See Supplementary Table S2 and Section 1 of the Supplementary Material, available at https://doi.org/ 10.1016/j.annonc.2022.10.001.
+To minimise the occurrence of CS-induced AEs, the following general guidance is proposed2:
+The lowest effective CS dose should be prescribed for the shortest possible duration, which, in general will be several weeks for grade   3 irAEs, including tapering CS therapy tapering or discontinuation only on medical advice
+●	Lifestyle adaptations to minimise the risk of CS-induced AEs
+
+Immunosuppressive drugs
+Optimising the choice of immunosuppressive agents. Prospective studies evaluating the safety and efficacy of immunosuppressant agents in irAE management are
+ 
+Annals of Oncology	J. Haanen et al.
+
+ 
+lacking. Several CS-sparing immune-modulating agents have been used in severe or CS-refractory irAEs, including:
+Biologic disease-modifying anti-rheumatic drugs (bDMARDs):
+o	Tumour necrosis factor (TNF)-a inhibitors (inﬂiximab,
+adalimumab, etanercept, certolizumab, golimumab)
+o	Gut-specific immunosuppressants (vedolizumab)
+o	Anti-B-cell cluster of differentiation (CD)20 mono- clonal antibodies (rituximab, obinutuzumab, ocrelizumab)
+o	Anti-interleukin (IL) 6 receptor (IL-6R) therapies (tocili- zumab, sarilumab)
+o	Anti-IL-4Ra therapy (dupilumab)
+o	Anti-IL-17A therapies (secukinumab, ixekizumab, brodalumab)3,4
+o	Anti-IL-23a antibody (guselkumab)5
+o	Anti-IL-12 and IL-23 therapy (ustekinumab)5
+o	Anti-cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4; abatacept)6
+o	Anti-CD52 (alemtuzumab)7
+o	Anti-thymocyte globulin therapy8
+Conventional synthetic (cs)DMARDs, including mycophe- nolate mofetil (MMF), calcineurin inhibitors, cyclophos- phamide, methotrexate, azathioprine, sulfasalazine and hydroxychloroquine
+Targeted synthetic DMARDs, including Janus kinase in- hibitors such as tofacitinib and baricitinib
+Other immunomodulators such as intravenous immuno- globulin (IVIG)
+
+As the use of these agents has been extrapolated based on their application in ADs, their safety and efficacy in irAE management and impact on response to ICI therapy should be prospectively evaluated.
+Personalised anti-cytokine strategies. Specific cytokines have been targeted to reduce irAEs without compromising antitumour immunity in preclinical mouse models and some cancer patients.9 Some cancer patients with CS- refractory irAEs may benefit from cytokine inhibitors. Un- like CSs, cytokine inhibitors provide a more targeted approach to reducing ICI-induced inﬂammation.10 The ad- vantages of cytokine-targeted therapies are numerous. They may9:
+Reduce symptom duration and hospitalisation Be efficacious in CS-refractory irAEs
+Enable rapid resumption of ICI treatment, and in some cases, promote or maintain antitumour immunity Decrease the recurrence of irAEs and prevent pre- existing AD ﬂares when used in combination with ICI therapy
+●	Uncouple toxicity and antitumour efficacy
+Some disadvantages exist and should be considered on an individual basis:
+Unclear impact on antitumour immunity and survival benefit
+●	Costs and accessibility for irAE treatment
+ 
+Resuming ICI or rechallenge strategy
+Patients who have previously developed grade 3 or 4 irAEs are at risk of redeveloping severe toxicities on ICI rechal- lenge. Consequently, physicians are hesitant to retreat, even though patients may derive clinical benefit. Thus, balancing clinical benefit and treatment-related toxicities for each patient is challenging.11 Three scenarios of ICI resumption are possible (Section 1 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001); this decision depends on multiple factors and needs to be discussed in multidisciplinary teams (MDTs) and on a case- by-case basis.11
+
+IR-SKIN TOXICITY
+Clinical presentation and incidence rates
+IR cutaneous AEs (ircAEs) are the most common side-effects of ICI therapy (>50% for all grades) but are rarely severe and usually do not impair treatment continuation.12-15 Clinical presentation is highly variable with non-specific maculopapular rashes being the most common. More spe- cific autoimmune-like presentations, such as lichenoid re- actions, psoriasis and bullous dermatoses, are also reported.
+Non-specific maculopapular rashes usually occur in the first 6 weeks of therapy. These rashes can be preceded by or associated with pruritus. Pruritus can also be the sole manifestation of a skin AE, including bullous pemphigoid (BP). Maculopapular rashes usually involve <30% of body
+surface area and are considered severe (grade >3) in <5%
+of cases (see Supplementary Table S1, available at https://
+doi.org/10.1016/j.annonc.2022.10.001).16
+Lichenoid eruptions appear as erythematous papules or plaques more frequently ( 30%) under treatment with anti-programmed cell death protein 1 (PD-1) than anti- CTLA-4 therapy.17 Lichenoid reactions can also involve mucosal areas and result in painful ulcerative mucosal disease.
+Erythrodermic papulosquamous eruptions, including psoriasis or pityriasis rubra pilaris-like eruptions, are frequently reported ircAEs. Psoriasis is a skin inﬂammatory disease affecting w3% of the population. Exacerbation or a new occurrence of de novo psoriasis has been reported in association with ICI therapy, appearing as well-delimited erythematous and scaly plaques, which can involve the mucous areas and the nails (subungual hyperkeratosis).
+Sarcoidosis or granulomatous reactions frequently involve mediastinal lymph nodes. They can also occur in the skin with a wide spectrum of presentations (papules, nod- ules and erythematous lesions) and can also be mis- diagnosed as skin metastases.
+Immunobullous disorders such as BP or cicatricial pem- phigoid have been described. They present as bullous or erosive lesions and can involve mucous membranes. They are usually accompanied or preceded by pruritus and can thus be associated with non-specific skin lesions resulting from skin scratching.
+ 
+J. Haanen et al.	Annals of Oncology
+
+ 
+Skin and hair vitiligoid depigmentation are mostly seen in melanoma patients treated with ICI therapy where it is observed in 5%-25% of patients.16,18 Photo-exposed skin areas are usually affected: face, extremities, scalp and facial hair.
+There are also rare, isolated reports of lethal or poten- tially lethal AEs, such as toxic necrolysis (Lyell syndrome), severe StevenseJohnson syndrome, drug reactions with eosinophilia and systemic syndrome (DRESS), neutrophilic drug eruptions including acute generalised exanthematous pustulosis, cutaneous small-vessel vasculitis and neutro- philic dermatoses (Sweet syndrome and pyoderma gangrenosum-like ulcers).
+
+Diagnosis and biology
+The diagnosis of ircAEs is usually based on clinical evalua- tion when a simple, non-complicated rash is observed; this can be facilitated by skin biopsy and more specific tests, depending on the clinical presentation. Pathological exam- ination of maculopapular rashes shows lymphocytic CD4 infiltrates with eosinophils and papillary oedema. Lichenoid reactions are associated with a characteristic band of dense dermal lymphocytic infiltrate with degeneration and vacuolisation of the basal membrane.
+ 
+In BP, direct immunoﬂuorescence shows C3 and immu- noglobulin (Ig) G deposits on the basal membrane, and serological testing for anti-basal membrane antibodies may show autoantibodies. Biopsies from vitiligo-like eruptions have shown CD4    and CD8    lymphocytes in close vicinity to apoptotic melanocytes. Psoriatic lesions present charac- teristic signs of a thickened and parakeratotic stratum cor- neum, elongated rete ridges and perivascular lymphocytic infiltration.
+
+Management
+An algorithm for the management of IR-maculopapular rash is shown in Figure 1.
+Although the vast majority of ircAEs are of mild or moderate severity, early (and repeated, if needed) evalua- tion of the disease severity should be carried out to elimi- nate rare severe irAEs such as StevenseJohnson syndrome, toxic epidermal necrolysis, bullous lesions and DRESS syn- drome that necessitate immediate interruption of ICI ther- apy, specialist treatment and monitoring.
+Details regarding ircAE grading and IR-maculopapular rash management can be found in Section 2 of the Supplementary Material, available at https://doi.org/10. 1016/j.annonc.2022.10.001.
+ 
+
+ 
+Figure 1. Management of IR-maculopapular rash.
+Purple: general categories or stratification; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+ADL, activities of daily living; b.i.d., twice daily; BSA, body surface area; CS, corticosteroid; ICI, immune checkpoint inhibitor; IR, immune-related; i.v., intravenous.
+ 
+Annals of Oncology	J. Haanen et al.
+
+ 
+Recommendations
+The relationship between ICI therapy and the skin AE (since the patient is usually on several medications) should be evaluated and confirmed, if possible [IV, A]. The severity of the skin AE should be evaluated and the need for specialist advice or a referral should be assessed. Physicians should be capable of diagnosing early signs of DRESS, Lyell disease and Stevense Johnson syndrome [IV, A].
+The entire skin and mucosae of the patient should be examined before initiation of ICI therapy [IV, A].
+The history of skin disorders such as psoriasis or ADs with a skin manifestation should be queried [IV, A].
+
+
+IR-ENDOCRINOPATHIES
+IR-endocrinopathies are relatively frequent. Their manage- ment differs from other irAEs in three key ways: ICI therapy can be continued in most cases, high-dose CSs are rarely required and endocrine deficiency usually persists, neces- sitating lifelong replacement. Algorithms for the
+ 
+management of IR-thyroid disorders and IR-hypophysitis are shown in Figures 2 and 3, respectively.
+
+
+Thyroid disorders
+IR-primary hypothyroidism. Primary hypothyroidism is the most common IR-endocrinopathy and occurs in w6%-9% of patients treated with anti-PD-1 and/or anti-programmed death-ligand 1 (PD-L1) therapy, in 4% treated with anti- CTLA-4 therapy and in 16% treated with anti-PD(L)1e anti-CTLA-4 combination therapy.19 It may be preceded by a hyperthyroid state, which may be subclinical. While the majority of cases occur within 3 months of therapy initia- tion, onset may occur at any time during treatment.20
+IR-hyperthyroidism. IR-hyperthyroidism occurs less frequently; it is reported in 2%-5% of patients treated with ICI monotherapy and in 10% treated with anti-PD(L)1e anti-CTLA-4 combination therapy.19 Transient thyroiditis is the most common cause, with w40% presenting as symp- tomatic thyrotoxicosis and 60% as subclinical followed by hypothyroidism.21 Primary hyperthyroidism due to Graves-
+ 
+
+ 
+Figure 2. Management of IR-thyroid disorders.
+Purple: general categories or stratification; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+Ab, antibody; CT, computed tomography; CTLA-4, cytotoxic T-lymphocyte-associated antigen 4; DDx, differential diagnosis; FT4, free thyroxine; ICI, immune checkpoint inhibitor; IR, immune-related; PD-1, programmed cell death protein 1; PD-L1, programmed death-ligand 1; T3, triiodothyronine; T4, thyroxine; TFT, thyroid function test; TPO, thyroid peroxidase; TSH, thyroid-stimulating hormone.
+aWhen indicated.
+ 
+J. Haanen et al.	Annals of Oncology
+
+Figure 3.  Management of IR-hypophysitis.
+Purple: general categories or stratification; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+ACTH, adrenocorticotropic hormone; CS, corticosteroid; FSH, follicle-stimulating hormone; FT4, free thyroxine; HRT, hormone replacement therapy; ICI, immune checkpoint inhibitor; IGF-1, insulin-like growth factor-1; i.m., intramuscular; IR, immune-related; i.v. intravenous; LH, luteinizing hormone; MRI, magnetic resonance imaging;        o.d.,        once         a         day;         T4,        thyroxine;         TSH,         thyroid-stimulating         hormone;         TFT,         thyroid         function         test. aPituitary axis bloods: 9 am cortisol (or random if unwell and treatment cannot be delayed), ACTH, TSH or FT4, LH, FSH, estradiol if premenopausal, testosterone in men, IGF-1, prolactin. Mineralocorticoids replacement is rarely necessary in hypopituitarism.
+bInitial replacement advice for cortisol and thyroid hormones:
+If 9 am cortisol is low (according to institutional reference range):
+o	Replace with hydrocortisone 20/10 mg.
+o	If TFTs are normal, 1-2-weekly monitoring initially (always replace cortisol for 1 week before T4 initiation)
+●	If falling TSH     low FT4:
+o Consider the need for T4 replacement (guide is 0.5-1.5 mg/kg) based on symptoms    check 9 am weekly cortisol
+●	See thyroid guidelines for further information regarding interpretation of an abnormal TSH or T4
+●	Testosterone or estrogen replacement to be considered if low (in men and premenopausal women)
+●	In case of diabetes insipidus symptoms, refer for specialist advice.
+
+ 
+like disease is rarely reported. Persistent hyperthyroidism, diffuse goitre and ophthalmopathy may suggest this diag- nosis. Euthyroid ophthalmopathy consequent to IR-Graves’ disease has also been noted.22
+Diagnosis and management. See Section 3 of the Supplementary Material, available at https://doi.org/10. 1016/j.annonc.2022.10.001.
+
+Pituitary disorders
+IR-hypophysitis. The incidence of IR-hypophysitis is highest with anti-PD(L)1eanti-CTLA-4 combination therapy (9%- 10%), followed by anti-CTLA-4 (2%-6%) and anti-PD-1
+ 
+therapy (1%).19 Patients treated with regimens containing anti-CTLA-4 antibodies develop IR-hypophysitis within the first 3-4 months of therapy, whereas cases related to anti- PD-1 monotherapy typically occur later (median 6 months).23
+Diagnosis and management. See Section 3 of the Supplementary Material, available at https://doi.org/10. 1016/j.annonc.2022.10.001.
+
+IR-diabetes mellitus
+IR-diabetes mellitus (IR-DM) results in a permanent insulin- dependent state consequent to autoimmune destruction of
+ 
+Annals of Oncology	J. Haanen et al.
+
+ 
+pancreatic islet cells. The incidence is 1%-2% across ICI regimens.19 Median onset is after 4.5 cycles, but with anti- PD(L)1eanti-CTLA-4 combination therapy, it occurs earlier (median 2.7 cycles). Islet autoantibodies are positive in w50% of cases, with low C-peptide levels seen in the ma- jority.24 Susceptible human leukocyte antigen (HLA) geno- types (mostly HLA-DR4) may increase vulnerability to this irAE.24
+Diagnosis and management. See Supplementary Figure S1 and Section 3 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001.
+
+IR-primary adrenal insufﬁciency
+IR-primary adrenal insufficiency is an increasingly recog- nised irAE that can present acutely. It has been associated with fatal outcomes stemming from life-threatening adrenal crisis due to vasodilatory shock.25 Its incidence ranges from 1%-2% with ICI monotherapy to 5%-8% with anti-PD(L)1e anti-CTLA-4 combination regimens.19 Onset varies widely from a few days to >12 months (median 4 months).25 Presenting symptoms may be non-specific or similar to secondary adrenal insufficiency (see above and Section 3 of the Supplementary Material, available at https://doi.org/10.
+1016/j.annonc.2022.10.001).
+Diagnosis and management. See Supplementary Figure S2 and Section 3 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001.
+
+Other IR-endocrinopathies
+The incidence of IR-hypogonadism is likely underreported. Moreover, IR-hypogonadism is an increasingly important consideration with adjuvant treatment and durable survival. While it occurs secondary to hypophysitis in most cases, primary orchitis has been described.26 IR- hypoparathyroidism, adrenocorticotrophic hormone- dependent Cushing syndrome and diabetes insipidus have also been reported.27
+
+Recommendations
+In grade >2 IR-hypothyroidism, hormone replacement therapy (levothyroxine 50-100 mg/day) should be started in symptomatic cases, and the dose should be increased
+over several weeks until thyroid-stimulating hormone levels normalise. ICI therapy should be interrupted only if symptoms are severe (grade 3) [IV, A].
+In symptomatic IR-hyperthyroidism (grade 2), ICI ther- apy should be interrupted and beta blocker therapy should be started. Oral prednisolone 0.5-1 mg/kg may be required short-term for gland inﬂammation or if symptoms are severe. ICI therapy should be restarted in asymptomatic cases [IV, A].
+For IR-hypophysitis, if severe headache, diplopia or other neurological symptoms are present (grade 3), (methyl) prednisolone 1 mg/kg is indicated. Secondary adrenal crisis (grade 3  insufficiency) should be  managed with
+ 
+stress-dose CS replacement. In asymptomatic and symp- tomatic cases without severe features (grade 1-2), replacement doses of deficient hormones (adrenal, thy- roid and gonadal axes) should be initiated [IV, A].
+For IR-primary adrenal insufficiency, in asymptomatic or minimally symptomatic cases (grade 1-2), replacement CSs are indicated. In severe cases (grade 3), stress replacement doses are required [IV, A].
+For new-onset IR-DM, prompt insulin initiation is war- ranted. Patients presenting with ketoacidosis should be admitted to the hospital. Diabetic ketoacidosis should be managed according to the institutional guidelines, including intravenous (i.v.) insulin, correction of ﬂuid loss and close monitoring of serum potassium, hourly glucose and anion gap. High-dose CSs are not indicated [IV, E].
+
+
+
+IR-HEPATOTOXICITY
+Incidence
+Hepatitis occurs in 5%-10%  (1%-2% grade 3) of patients
+during ICI monotherapy and in 25%-30% (15% grade 3) during anti-PD(L)1eanti-CTLA-4 combination therapy.28-30 Liver toxicity associated with the combination of ICI and non-ICI agents has also been increasingly recognised.31
+
+
+Diagnosis
+All patients undergoing ICI therapy should be routinely assessed with serum transaminases, alkaline phosphatase (ALP) and bilirubin before every treatment cycle. Hepatitis can be asymptomatic or present with fever, malaise, abdominal discomfort, jaundice and anorexia. Serum bili- rubin, prothrombin time and factor V add prognostic infor- mation. Alternative causes of liver injury should be excluded (e.g. medication, alcohol, viruses, metabolic disorders, ADs if suspected, vascular disease, tumoural involvement). Liver biopsy may assist in the differential diagnosis of more severe hepatitis and guide management. The most common path- ological feature of IR-hepatitis is lobular hepatitis with ne- crosis, either spotty or conﬂuent. Patients who receive anti- PD-(L)1 therapy have heterogeneous liver damage involving lobular and periportal activity,32-35 whereas sinusoidal his- tiocytosis, fibrin deposition and central vein endothelitis are more commonly associated with anti-CTLA-4 use.32,33
+
+
+Management
+Recommendations for IR-hepatotoxicity management are provided in Figure 4 and Section 4 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc. 2022.10.001.
+IR-hepatitis usually resolves within 4-6 weeks with appropriate treatment. If it remains unresolved, other contributory causes should be reconsidered and the initial diagnostic work-up repeated.
+ 
+J. Haanen et al.	Annals of Oncology
+
+ 
+Recommendations
+Assessment of serum transaminases, ALP and bilirubin before every cycle of ICI therapy is recommended [IV, A]. For grade 1 IR-liver injury, monitoring of liver enzymes every 1-2 weeks is recommended, with no need to hold ICI therapy [IV, A].
+For grade 2 IR-liver injury, temporarily withholding ICI therapy is suggested, with monitoring of transaminases and bilirubin twice weekly. CS 0.5-1 mg/kg/day should be considered [V, B].
+For patients with grade 3 or 4 IR-liver injury, hospitalisa- tion and initiation of CS 1-2 mg/kg/day should be consid- ered. If there is no response to CS within 2-3 days, alternative immunosuppressive therapy should be considered, such as MMF (1000 mg twice daily), tocilizu- mab (8 mg/kg), tacrolimus, azathioprine, cyclosporine or anti-thymocyte globulin [IV, B].
+
+IR-CHOLANGITIS
+IR-cholangitis is a rare AE which may affect large bile ducts, small ducts or both. Elevations of g-glutamyltransferase and
+ 
+ALP are more prominent than transaminases. Pathological findings include portal inﬂammation, bile duct injury or loss, cholestasis and lobular injury. Most patients receive urso- deoxycholic acid and prednisone or budesonide, although other immunosuppressive agents, e.g. MMF, azathioprine, tacrolimus, tocilizumab and plasmapheresis, have also been used. With medical treatment, biliary enzymes decrease in the majority of patients but reach normal values in only a minority of cases after 6-12 weeks.36
+
+Recommendation
+Patients with IR-cholangitis should be treated with ursodeoxycholic acid and prednisone/budesonide [V, B].
+
+IR-PANCREATIC TOXICITY
+Incidence
+The incidence of IR-pancreatic toxicity (IR-PT) is w4%; it is more frequent with anti-PD(L)1eanti-CTLA-4 combination therapy than with monotherapy.37 Knowledge regarding
+ 
+
+ 
+Figure 4. Management of IR-hepatotoxicity.
+Purple: general categories or stratification; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+ALT, alanine transaminase; ANA, antinuclear antibodies; AST, aspartate aminotransferase; ATG, anti-thymocyte globulin; b.i.d., twice daily; CS, corticosteroid; CT, computed tomography; ICI, immune checkpoint inhibitor; INR, international normalised ratio of prothrombin time; IR, immune-related; i.v., intravenous; LCI, lung clearance index; LFT, liver function test; LKM, liver kidney microsomal; MMF, mycophenolate mofetil; MRI, magnetic resonance imaging; SLA/LP, soluble liver antigen/ liver-pancreas antibody; SMA, smooth muscle autoantibody; ULN, upper limit of normal; US, ultrasound.
+ 
+Annals of Oncology	J. Haanen et al.
+
+ 
+IR-PT is very limited. IR-PT is often associated with other irAEs, particularly enterocolitis (33%) and hepatitis (21%).37
+
+Diagnosis
+The diagnosis of IR-PT is a diagnosis of exclusion. Differen- tial diagnoses include pancreatic metastases (13% of pa- tients referred for IR-PT) and pancreatic injury due to other causes (e.g. alcohol, hypertriglyceridemia, bile stones or sludge, autoimmune pancreatitis, pancreatic parenchyma neoplastic lesions, drugs other than ICIs). The differential diagnosis is based on medical history, biochemical analyses and imaging [ultrasonography, computed tomography (CT) scan, magnetic resonance imaging (MRI) and, if needed, endosonography with biopsies].
+
+Management
+See Section 4 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001.
+
+Recommendations
+Elimination of differential diagnoses of IR-PT is recommended, including pancreatic metastases and pancreatic injury due to other causes (e.g. alcohol, hypertriglyceridemia, bile stones or sludge, drugs other than ICIs). The differential diagnosis should be based on medical history, biochemical analyses and imaging (ultrasonography, CT scan, MRI and, if needed, endosonography with biopsies) [V, A].
+
+IR-GASTROINTESTINAL TOXICITY
+IR-enterocolitis
+Incidence. IR-enterocolitis is the most common form of IR- gastrointestinal (GI) toxicity. It may develop after weeks or months of ICI treatment. The median onset time is shorter with anti-CTLA-4 (1 month after first infusion) than with anti-PD-1 (2-4 months after first infusion). The maximum delay between ICI discontinuation and IR-enterocolitis is 2 months with anti-CTLA-4 and 1 year with anti-PD-1.
+Incidence rates of all-grade diarrhoea and colitis are w35% and w10% with anti-CTLA-4, w10% and w1% with anti-PD-1 and w32% and w15% with the combination, respectively.38 Approximately 40% of patients with pre- existing inﬂammatory bowel disease have a ﬂare-up while undergoing ICI treatment, half of whom experience a moderate to severe grade based on CTCAE version 5.0 criteria (Supplementary Table S1, available at https://doi. org/10.1016/j.annonc.2022.10.001).39
+Diagnosis
+Clinical presentation. The hallmark symptoms of IR- enterocolitis are diarrhoea and abdominal pain; haema- tochezia and fever are less frequent. Severe acute colitis can lead to dehydration, toxic megacolon, colonic perforation (seen in 1%-6.6% of patients) and death, especially in cases of diagnostic delay.
+ 
+Endoscopic ﬁndings. Early ﬂexible rectosigmoidoscopy or ileocolonoscopy with biopsies in patients with suspected IR- enterocolitis of grade >1 is strongly recommended.40,41 Endoscopic features include erythema, erosion, ulceration and luminal bleeding, although normal colon mucosa can be present in 40% of patients despite grade   2 symptoms of colitis.38,42,43 Deep ulcerations and extensive inﬂamma- tion above the left colon are predictive of CS-refractory disease and requirement for immunosuppressant
+treatment.40,44
+Further details regarding the diagnosis of IR-enterocolitis can be found in Section 5 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001.
+
+IR-microscopic colitis
+IR-microscopic colitis is a separate entity. It causes chronic watery diarrhoea in patients treated with anti-PD-1 or anti- CTLA-4 therapy. The endoscopic appearance of IR- microscopic colitis is either normal or shows mild ery- thema or oedema. There are two main forms: lymphocytic colitis (intraepithelial lymphocytosis and infiltration of the lamina propria) and the less common collagenous colitis (thickening of the collagen subepithelial layer).
+
+Management of IR-enterocolitis
+See Figure 5 and Section 5 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001.
+
+Management of grade 3-4 diarrhoea and colitis
+See Section 5 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001.
+
+Upper GI tract inﬂammation
+IR-upper GI tract injury is not as common as IR-enterocolitis and may involve the oral cavity (stomatitis), oesophagus, stomach and duodenum.45-47 The predominant upper GI symptoms are nausea, vomiting, dysphagia, odynophagia, haematemesis and abdominal pain.47 Upper GI inﬂamma- tion can be isolated or associated with enterocolitis. Endoscopic findings include erythema, erosions and ulcer- ations.45-48 Histological inﬂammation of the stomach and the duodenum, with or without clinical symptoms, has been reported in 50%-75% of patients with GI irAEs.43,48 Gastric biopsies show intraepithelial lymphocytosis and inﬂamma- tory infiltrate with neutrophils. Duodenal biopsies show partial (rarely total) villous blunting, crypt distortion, intraepithelial lymphocytosis and eosinophilic, lymphocytic and plasma-cell infiltration of the lamina propria. Upper GI inﬂammation is often patchy and mild; in most cases, it can be managed effectively with proton-pump inhibitors (PPIs). Severe forms with deep gastric ulcerations, however, may require CSs or biologics.45,47
+
+Other presentations
+Fissuring or fistulising anal lesions like those observed in Crohn disease have been reported. Two case reports
+ 
+J. Haanen et al.	Annals of Oncology
+
+Figure 5. Management of IR-diarrhoea and enterocolitis.
+Purple: general categories or stratification; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+C. difﬁcile, Clostridioides difﬁcile; CBC, complete blood count; CMV, cytomegalovirus; CRP, C-reactive protein; CS, corticosteroid; GI, gastrointestinal; HIV, human im- munodeficiency virus; ICI, immune checkpoint inhibitor; IGRA, interferon-gamma release assay; IR, immune-related; irAE, immune-related adverse event; i.v., intra- venous.
+aIn cases of extensive colitis and ulcerations or high levels of faecal calprotectin (>400 mg/mg), if colonoscopy is not available.
+
+ 
+described enteric neuropathy induced by ipilimumab, revealed by severe constipation.49,50
+
+Risk of recurrent GI irAEs after ICI resumption
+See Section 5 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001.
+
+Recommendations
+Flexible sigmoidoscopy or colonoscopy and biopsies in patients treated with ICIs experiencing grade >1 diarrhoea should be carried out [IV, A].
+A CT scan to diagnose IR-enterocolitis is not recommen- ded because of insufficient sensitivity [IV, E].
+Grade 1 diarrhoea or colitis should be treated with a low- fibre diet and loperamide; ICI therapy can be continued under close medical supervision [V, A].
+ 
+Vedolizumab is an option but is associated with a slightly delayed response [IV, B].
+Resuming ICI therapy in patients who have experienced GI irAEs should be discussed on a case-by-case and multi- disciplinary basis [IV, A].
+
+
+IR-PULMONARY TOXICITY
+IR-pulmonary toxicities are a group of heterogeneous dis- eases including different clinical entities such as the frequent IR-interstitial lung disease (IR-ILD) or IR- pneumonitis and other rare entities such as IR- bronchiolitis or IR-lung sarcoidosis.
+
+IR-ILD or IR-pneumonitis
+Incidence. IR-ILD or IR-pneumonitis is defined as a focal or
+51,52
+ 
+●	Grade 2 colitis should be treated with oral CSs, with vedo-
+ 
+diffuse inﬂammation of the lung parenchyma.
+ 
+IR-
+ 
+lizumab or inﬂiximab used for non-responders [V, A].
+●	Grade 3-4 colitis should be treated by hospitalisation,
+ 
+pneumonitis is relatively rare but can be a serious and
+potentially life-threatening AE.53 The incidence of any-grade
+ 
+with i.v. CSs [IV, A]. Inﬂiximab is the drug of choice for
+non-responders   with   acute,   severe   colitis   [IV,   A].
+ 
+IR-pneumonitis in clinical studies is w4% for anti-PD-1 therapies, 2% for anti-PD-L1 inhibitors54 and <1% for
+ 
+Volume 33 ■ Issue 12 ■ 2022	https://doi.org/10.1016/j.annonc.2022.10.001	1225
+ 
+Annals of Oncology	J. Haanen et al.
+
+ 
+anti-CTLA-4 inhibitors; the incidence of high-grade pneu- monitis is w1%. IR-pneumonitis is more frequent with anti- PD(L)1eanti-CTLA-4 combination therapy versus mono- therapy (10% versus 1%-5%, respectively).51
+Diagnosis. Clinical and radiological IR-ILD diagnosis in pa- tients with cancer is frequently challenging due to pre- existing inﬂammatory lung disease, chronic obstructive pulmonary disease (COPD), infections or concomitant drug- related pneumonitis that may occur with chemotherapy, targeted drugs and radiotherapy (RT).51
+Risk factors for IR-ILD have not been fully elucidated, but tobacco exposure or pre-existing chronic lung diseases such as COPD in patients with lung cancer could predispose them to more severe pneumonitis.55 Other factors such as pre- vious RT,56 smoking history and possibly squamous histol- ogy56 may increase the risk of IR-pneumonitis. Radiological patterns of IR-ILD have been classified into five possible subtypes: cryptogenic organising pneumonia-like, ground- glass opacities, interstitial, hypersensitivity and pneumonitis not otherwise specified. The imaging findings follow the American Thoracic Society and European Respiratory Soci- ety classification of interstitial pneumonia.57
+Several histopathological findings have been reported for IR- ILD, including cellular interstitial pneumonitis, organising pneumonia and diffuse alveolar damage, while sometimes only minimal abnormalities can be identified. Nevertheless, it is important that any pathognomonic radiological or pathological features are clearly identified. Chronic IR-pneumonitis with distinct clinicopathological features requiring long-term immu- nosuppression ( 12 weeks) was recently reported in w2% of patients with non-small-cell lung cancer or melanoma.58
+Information regarding the pathogenic mechanisms of lung injury in IR-ILD is provided in Section 6 of the Supplementary Material, available at https://doi.org/10. 1016/j.annonc.2022.10.001.
+In general, symptoms include dyspnoea, cough, chest pain, fever and hypoxia. Many cases of grade 1 asymptomatic IR- pneumonitis are radiologically detectable on CT scans. Dysp- noea should prompt a full clinical work-up including the exclusion of infectious pneumonia, tumour progression, pul- monary embolism, cardiac events and pleural carcinomatosis. The	grading	of	IR-pneumonitis	is	provided	in Supplementary Table S1, available at https://doi.org/10.
+1016/j.annonc.2022.10.001.
+Management. An algorithm for the management of IR-ILD is shown in Figure 6. Monitoring of respiratory function before starting immunotherapy is advocated in patients with COPD or pre-existing ILD; high-resolution CT should be used when IR-pneumonitis is suspected. Details regarding the management of patients with IR-pneumonitis are pro- vided in Section 6 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001.
+
+Sarcoidosis-like granulomatous inﬂammation
+A sarcoidosis-like reaction is a rare event, which may be radiologically misinterpreted on imaging as treatment
+ 
+failure and tumour progression.59 The most affected organs are the lymph nodes, lungs and skin. A lesion biopsy should be strongly considered to differentiate from tumour pro- gression.60 In general, most reported sarcoidosis-like re- actions are sensitive to CS treatment or discontinuation of ICI therapy. In case of observed benefit from ICI, if the patient is asymptomatic, therapy can be continued. If the patient is symptomatic, then lower doses of CS 0.5-1 mg/ kg can be considered, and ICI therapy can be resumed after resolution of the irAE.61
+
+Recommendations
+Dyspnoea should trigger a full clinical work-up, including the exclusion of infectious pneumonia, tumour progression, pulmonary embolism, cardiac events (including heart failure, myocarditis, acute myocardial infarction and arrhythmias) and pleural carcinomatosis or effusion [IV, A].
+Patient cases with pre-existing ILD should be discussed with a specialist before initiation of ICI [IV, A].
+If IR-ILD is suspected, a high-resolution chest CT with contrast should be considered to rule out other aetiol- ogies. If the CT scan is negative, pulmonary function tests should be considered to identify a potential functional deficit [IV, A].
+Bronchoalveolar lavage to rule out infection or tumour infiltration and investigations for infection with sputum, blood and urine culture if clinically indicated should be considered [IV, A].
+In cases of grade 2 IR-pneumonitis, rechallenge with ICI ther- apy upon complete resolution of symptoms can be consid- ered on an individual basis with close monitoring [V, B].
+In cases of grade 2 IR-ILD, 1 mg/kg/day prednisolone (or equivalent) should be considered. For grade 3 IR-ILD, 1-2 mg/kg/day methylprednisolone i.v. or equivalent should be considered. CS tapering should be initiated af- ter improvement to grade <1, over 4-6 weeks for grade 2 and over 6-8 weeks for grade 3 [V, A].
+If there is no improvement within 72 h of CS use, consul- tation with or referral to an expert should be arranged and therapeutic escalation should occur. Additional op- tions include tocilizumab (8 mg/kg, one dose and every 2 weeks if needed),62 inﬂiximab (5 mg/kg, one dose and every 2 weeks if needed)51,63-65 and IVIG (2 g/kg over 2-5 days).66 Other options, such as MMF (1 g twice daily)67 or cyclophosphamide,51 are possible [V, A].
+IR-RHEUMATOLOGICAL TOXICITY
+Rheumatic and musculoskeletal irAEs occur in w10% of patients with cancer receiving ICI therapy. An algorithm for the management of IR-rheumatological toxicity is shown in Figure 7.
+
+Arthralgia and myalgia
+Arthralgia and myalgia are the most frequent IR-rheumatic manifestations (incidence rates: 1%-43% and 2%-20%, respectively).68 Since they can also occur secondary to
+ 
+J. Haanen et al.	Annals of Oncology
+
+ 
+paraneoplastic manifestations or other cancer therapy, it is challenging to define whether symptoms are IR or if they relate to other irAEs, such as endocrine irAEs. Myalgia secondary to myositis should be ruled out. After evaluation and exclusion of differential diagnoses, symptomatic treat- ment [analgesics nonsteroidal anti-inﬂammatory drugs (NSAIDs)] should be initiated.
+
+IR-inﬂammatory arthritis and IR-polymyalgia rheumatica
+IR-inﬂammatory arthritis and IR-polymyalgia rheumatica (PMR) syndrome are the two major clinical presentations encountered (5%-10%) in ICI-treated patients.69 Arthritis is defined as joint stiffness and swelling and can present as mono-, oligo- or polyarthritis with frequent tenosynovitis. Initial evaluation should include joint count, erythrocyte sedimentation rate (ESR), C-reactive protein (CRP), rheu- matoid factor (RF), anti-cyclic citrullinated peptide (CCP), antinuclear antibodies (ANAs), analysis of synovial ﬂuid whenever possible, X-rays and ultrasound (US) of affected joints. NSAIDs should be considered in patients with mild forms of arthritis and intra-articular CS should be used in
+ 
+cases of mono- or oligoarthritis. Most patients, however, will require systemic CSs, which should be initiated at a moderate dose of 10-20 mg prednisone. Some patients will require long-term, low- to moderate-dose CS to enable ICI treatment continuation. Early referral to a rheumatologist should be considered (grade 2 symptoms) before starting CSs, in cases of insufficient response to acceptable doses of CS and in cases requiring CS-sparing regimens. In these patients, csDMARDs should be considered such as metho- trexate, hydroxychloroquine or sulfasalazine. For severe inﬂammatory arthritis or insufficient response to a csDMARD, IL-6R inhibitors (preferred) or TNF-a inhibitors may be considered. ICI treatment continuation should be evaluated on an individual basis.70
+PMR presents as an acute, predominantly bilateral shoul- der and/or hip pain with morning stiffness and possible swelling of the hands and knees.71 Diagnostic evaluation should include ESR, CRP (which may be normal), RF, anti-CCP, creatine kinase (CK) level (to rule out myositis owing to a similar clinical presentation), X-rays and US of affected joints. Giant cell arteritis should be ruled out. Management of IR- PMR is based on prednisone 10-20 mg/day for grade ≥2
+ 
+
+ 
+Figure 6. Management of IR-ILD.
+Purple: general categories or stratification; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+ARDS, acute respiratory distress syndrome; BAL, bronchoalveolar lavage; b.i.d., twice daily; Ca, calcium; CBC, complete blood count; CRP, C-reactive protein; CS, corticosteroid; CT, computed tomography; ESR, erythrocyte sedimentation rate; ICI, immune checkpoint inhibitor; ILD, interstitial lung disease; IR, immune-related; i.v., intravenous; IVIG, intravenous immunoglobulin; LFT, liver function test; MMF, mycophenolate mofetil; M/W/F, Monday, Wednesday and Friday; TLCO, transfer capacity of the lung for carbon monoxide; TFT, thyroid function test; UEC, urea and electrolytes.
+ 
+Annals of Oncology	J. Haanen et al.
+
+Figure 7. Management of IR-rheumatological toxicity.
+Purple: general categories or stratification; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+Ab, antibody; AChR, acetylcholine receptor; ADL, activities of daily living; ALT, alanine aminotransferase; ANA, antinuclear antibody; ANCA, anti-neutrophil cytoplasmic antibody; AST, aspartate aminotransferase; CCP, cyclic citrullinated peptide; CK, creatine kinase; CRP, C-reactive protein; CS, corticosteroid; CT, computed tomography; EMG, electromyogram; ESR, erythrocyte sedimentation rate; HLA, human leukocyte; ICI, immune checkpoint inhibitor; IL-6R, interleukin 6 receptor; IR, immune-related; i.v., intravenous; IVIG, intravenous immune globulin; LDH, lactate dehydrogenase; MG, myasthenia gravis; MMF, mycophenolate mofetil; MRI, magnetic resonance imaging; NSAID, nonsteroidal anti-inﬂammatory drug; PET, positron emission tomography; PMR, polymyalgia rheumatica; RF, rheumatoid factor; RS3PE, remitting seronegative symmetrical synovitis with pitting oedema; TNF, tumour necrosis factor; US, ultrasound.
+aFor myositis, search for life-threatening manifestations (bulbar symptoms, dyspnoea, myocarditis)d and carry out complete diagnostic work-up: CK, AST, ALT, LDH, ferritin, troponin I or T,e myositis-associated Abs, paraneoplastic Abs, MRI, EMG biopsy on an individual basis, anti-AChR Abs if myasthenia gravis. Rule out der- matomyositis if skin involvement.
+bInﬂammatory arthritis (either mono-, oligo- or polyarthritis, psoriatic arthritis, RS3PE syndrome) and polymyalgia rheumatica-like syndrome are the two major clinical presentations encountered.
+cIncreased CK level reported in most patients with myositis while usually within the normal range in patients presenting with myalgia.
+dIn case of associated MG or myocarditis, refer to specific section.
+eHigh-sensitivity troponin T is expressed by skeletal muscle, including regenerating skeletal muscle tissue, whereas high-sensitivity troponin I is specific to the myocardium. In case of myositis, troponin T could be increased without myocardium involvement.
+
+
+ 
+symptoms, progressively tapered when improvement is achieved. For CS-dependent or -refractory cases, referral to a rheumatologist is recommended and methotrexate or IL-6R inhibitors should be considered. For both IR-inﬂammatory arthritis and IR-PMR, holding ICI treatment in cases of grade ≥3 symptoms should be considered.
+
+IR-sicca syndrome
+IR-sicca syndrome includes mostly dry mouth and, less frequently, dry eyes and arthralgia; neurological
+ 
+manifestations are rare.72,73 Importantly, dry mouth may be related to the use of other drugs (i.e. morphine), RT or infection (candidiasis). Patients with suspected IR-sicca syndrome should be tested for ANAs, anti-Sjögren-syn- drome-related antigen A autoantibodies, anti-Sjögren syn- drome type B antigen, RF and C3 and C4 complement; ideally, a minor salivary gland biopsy should be carried out. Symptomatic treatment, pilocarpine and hydroxy- chloroquine may be considered for any grade of IR-sicca
+syndrome. Systemic CSs are advocated only for extra- glandular    manifestations    or    grade    ≥3    symptoms.
+ 
+J. Haanen et al.	Annals of Oncology
+
+ 
+Withdrawal of ICI should be discussed in cases of grade 3 symptoms.
+
+IR-myositis
+Myositis is a rare (1%) but potentially life-threatening irAE. For cases of IR-myositis, the median exposure to ICI therapy is 4 weeks. Clinical presentation includes myalgia with axial, limb-girdle, bulbar and oculomotor weakness.74 The path- ological mechanism of rhabdomyolysis leads to a CK in- crease, spontaneous activity in electromyography of the affected muscles and a myogenic recruitment pattern of muscle fibres. IR-myositis can be a fatal complication of ICIs due to both the involvement of bulbar muscle and sec- ondary myocardial inﬂammation [see sections on over- lapping syndromes and cardiovascular (CV) toxicities].75 Diagnostic evaluation should include myositis-associated autoantibodies, MRI and electromyogram (EMG) biopsy. Fasciitis is frequently reported on MRI. Over 80% of patients with IR-myositis experience a favourable clinical outcome within several months after ICI discontinuation and immu- nomodulatory treatment.76,77 For grade 2 symptoms, CSs represent the first therapeutic choice and should be initi- ated at 0.5-1 mg/kg/day prednisone. In the presence of bulbar symptoms (dysphagia, dysarthria, dysphonia), dysp- noea and/or myocarditis, high-dose CS (pulses then 1-2 mg/ kg) and additional treatment options such as IVIG and/or plasma exchange or selective separation may be necessary (40% of patients).76,78 In patients with moderate symptoms (grade 2), improvement is often noted within days after ICI discontinuation.74,76
+In refractory cases, IL-6R inhibitors may be considered,79 as well as TNF-a inhibitors if there is associated fasciitis. ICI treatment withdrawal is necessary for grade ≥2 symptoms.
+Other IR-systemic rheumatological conditions
+All vessel-sized vasculitis, scleroderma-like reaction and lupus have been reported with ICI treatment, but they remain rare.80 Referral to a rheumatologist or internist- immunologist is recommended for appropriate clinical, biological, immunological and imaging evaluations. When- ever possible, biopsy (i.e. skin, temporal artery) should be carried out since histology is a contributory factor in most cases. Management includes CSs, with dose and route of administration depending on the clinical entity and severity; additional immunomodulatory or immunosuppressive drugs may be considered, such as hydroxychloroquine, MMF, methotrexate, cyclophosphamide, rituximab or IVIG.
+
+Recommendations
+Early referral to a rheumatologist should be considered (grade 2 symptoms) before starting CSs, in cases of insufficient response to acceptable doses of CSs and in cases requiring CS-sparing regimens [V, B].
+Initial evaluation of possible IR-inﬂammatory arthritis or IR-PMR should include joint count, analysis of synovial ﬂuid whenever possible, ESR, CRP, RF, CCP, ANAs (for
+ 
+inﬂammatory arthritis), X-rays and US of affected joints [IV, A].
+CK level must be assessed in patients experiencing myalgia or PMR to rule out myositis. If elevated, myositis-associated autoantibodies, MRI and EMG bi- opsy should be considered [IV, A].
+Following a definitive diagnosis, symptomatic treatment (analgesics NSAIDs) should be initiated for arthralgia and myalgia [IV, B].
+In patients with mild forms of arthritis or with mono- or oligoarthritis, NSAIDs and/or intra-articular CSs should be considered [IV, B].
+Prednisone 10-20 mg/day should be initiated   in grade 2 IR-inﬂammatory arthritis and IR-PMR, and then progressively tapered following improvement. A higher dosage (0.5 mg/kg) may be considered if no improvement, as well as csDMARDs (methotrexate, hydroxychloroquine or sulfasalazine) or bDMARDs [anti- IL-6R (preferred), TNF-a inhibitor] for severe or persis- tent symptoms. ICI treatment continuation should be evaluated on an individual basis [IV, A].
+Prednisone 0.5-1 mg/kg should be initiated in grade 2 IR-myositis. In the presence of life-threatening manifes- tations, high-dose CSs, IVIG and/or plasma exchange/ selective separation should be considered; ICI with- drawal is always necessary [IV, A].
+Symptomatic treatment, pilocarpine and hydroxychloro- quine may be considered for any grade of IR-sicca syn- drome, after testing for specific autoantibodies and, if possible, minor salivary gland biopsy. Systemic CSs are advocated only in cases of extra-glandular manifesta- tions or grade ≥3 symptoms [IV, B].
+IR-NEUROLOGICAL TOXICITY
+Incidence
+The estimated incidence of neurological irAEs is w1%-5%.81 The time to onset varies from 6 to 13 weeks. A range of neurological irAEs have been described, including irAEs involving the central nervous system (CNS; encephalitis and aseptic meningitis) and those involving the peripheral nervous system (acute immune demyelinating polyneuropathy, chronic immune demyelinating polyneuropathy, cranial nerve neu- ropathies, myasthenic syndromes and myositis). Neuromus- cular disorders account for w50% of neurological irAEs, which primarily include myositis, myasthenia gravis (MG), demye- linating polyradiculoneuropathy and overlapping syn- dromes.77 It is important to recognise IR-myositis and monitor for myocardial involvement, as well as bulbar involvement that may rapidly lead to cardiac or respiratory failure, persisting disability or even death. An algorithm for the management of IR-neuro(muscular) toxicity is shown in Figure 8.
+
+IR-MG-like syndrome
+IR-MG-like syndrome is an increasingly recognised and feared ICI-related complication. Typical symptoms include exercise-dependent ﬂuctuating weakness of the proximal
+ 
+
+Volume 33 ■ Issue 12 ■ 2022	https://doi.org/10.1016/j.annonc.2022.10.001	1229
+ 
+Annals of Oncology	J. Haanen et al.
+
+Figure 8. Management of IR-neuro(muscular) toxicity.115
+Purple:   general categories   or stratification; turquoise: combination   of   treatments or other systemic treatments; white:   other aspects   of management. ADL, activities of daily living; CS, corticosteroid; GBS, GuillaineBarré syndrome; ICI, immune checkpoint inhibitor; IR, immune-related; irAE, immune-related adverse event; i.v., intravenous; IVIG, intravenous immunoglobulin; MMF, mycophenolate mofetil; PE, plasma exchange.
+aPatients presenting with any neurological symptoms should be referred to a neurologist and ICI should be held until the grade of symptoms is confirmed.
+bIn all scenarios, pyridostigmine starting from 3 30 mg orally up to 600 mg daily may be used in case of myasthenic symptoms; in i.v. application, 30 mg oral pyridostigmine corresponds to 1 mg i.v. or 0.75 mg neostigmine i.m. In case of intubation, pyridostigmine may be discontinued or withheld.
+cTimely consultation of a neurologist.
+dCSs are not usually recommended for idiopathic GBS; in mild ICI-related forms, however, a trial is reasonable (methylprednisolone 2-4 mg/kg/day) followed by slow CS taper. Pulse CS dosing (methylprednisolone 1 g/day for 5 days) may also be considered for grade 3-4 events along with IVIG or plasmapheresis.
+eFor life-threatening symptoms, PE might be the favourable option; consider contraindications: renal failure, hypercoagulable states, sepsis, haemodynamic instability. Adapted with permission from Jordan et al.115 under a Creative Commons license. https://www.creativecommons.org/licenses/by-nc-nd/4.0/
+
+ 
+extremities or bulbar muscle groups and ocular symptoms such as ptosis and diplopia. Generally, IR-MG-like syndrome occurs de novo81 and two-thirds of patients are positive for anti-acetylcholine receptor antibodies. Early involvement of neurological expertise is mandatory. In addition to ICI discontinuation, CSs and pyridostigmine are the first-line management approach. Similar to IR-myositis, severe initial presentation, including respiratory and bulbar symp- toms, often requires the immediate use of IVIG and/or plasma exchange or selective separation. Importantly, remission without long-term use of immunosuppression has been noted in only a few patients with mild symptoms limited to the ocular or facial muscles.76
+
+Myastheniaemyositisemyocarditis overlap
+As both myasthenia and myositis may involve weakness of ocular, facial and bulbar muscles as well as proximal
+ 
+tetraparesis, it is essential to recognise clinical signs for potential myositis and myocarditis (e.g. CK elevation, troponin T or I elevation, pain). See sections on IR- rheumatological and IR-CV toxicities.
+
+IR-peripheral neuropathy
+IR-neuropathies are mostly demyelinating and may present as an acute polyradiculoneuritis [IR-GuillaineBarré syn- drome (GBS)] with an incidence of w0.2%-0.4%. Clinical findings resemble classical ascending GBS symptoms, including bilateral proximal weakness, ataxia, distal sensory, autonomic disturbances and cranial nerve involvement. Corresponding swelling of nerve roots impairs cerebrospinal ﬂuid ﬂow leading to cytoalbuminary dissociation. Anti- ganglioside antibodies are negative. Prompt recognition of symptoms is essential to prevent respiratory insufficiency due to affected cervical nerve roots. Unlike non-ICI-
+ 
+
+1230	https://doi.org/10.1016/j.annonc.2022.10.001	Volume 33 ■ Issue 12 ■ 2022
+ 
+J. Haanen et al.	Annals of Oncology
+
+ 
+associated GBS, CSs are associated with a favourable outcome in IR-GBS and are recommended as first-line treatment. IVIG is used as an additional or alternative treatment if CSs are not possible.
+
+IR-central neurological toxicity
+A proposed algorithm for the management of suspected IR- central neurological toxicity is shown in Supplementary Figure S3, available at https://doi.org/10.1016/j.annonc. 2022.10.001. Details regarding the management of IR- meningitis and IR-encephalitis can be found in Section 7 of the Supplementary Material, available at https://doi.org/ 10.1016/j.annonc.2022.10.001.
+
+Recommendations
+Referral to a neurologist should be considered for mild (or more severe) symptoms of GBS, leukoencephalop- athy, MG, myopathy and peripheral neuropathy. The type and frequency of assessments vary according to the grade of symptoms [IV, B].
+Patients presenting with any neurological symptoms should be referred to a neurologist and ICI should be held until the grade of symptoms is confirmed [IV, B]. For grade 1 symptoms, ICI treatment can be continued and the patient monitored for deterioration [IV, B].
+For grade 2 symptoms, ICI treatment should be interrup- ted and oral or i.v. (methyl)prednisolone initiated [IV, B]. For grade 3 or 4 symptoms, more intensive immune modulation may be required in addition to CSs or by exchanging CSs for IVIG (or plasma exchange or selective separation in cases of GBS, leukoencephalopathy, MG or IR-myopathy) [V, B].
+
+IR-CARDIOVASCULAR TOXICITIES
+There is a range of CV toxicities caused by ICI therapy, including IR-myocarditis, pericarditis, vasculitis, acute coro- nary syndrome (ACS), conduction disease (including com- plete heart block), atrial and ventricular arrhythmias, Takotsubo syndrome, non-inﬂammatory left ventricular dysfunction and heart failure (Supplementary Table S4, available at https://doi.org/10.1016/j.annonc.2022.10. 001).82 IR-myocarditis, pericarditis, vasculitis and cardiac conduction disease usually present in the first four cycles of treatment, although a quarter of cases present after four cycles.83 IR-non-inﬂammatory heart failure usually presents after 3 months of ICI treatment and most commonly after the first 6 months. IR-arrhythmias and ACSs can occur throughout treatment, and atrial tachycardias may be pri- mary or secondary to acute thyrotoxicosis, acute systemic inﬂammatory syndromes or other irAEs associated with significant electrolyte imbalance. Severe IR-myocarditis oc-
+curs in <1% of cases, but with increased utilisation of troponin measurement (including high-sensitivity cardiac
+troponin assays) and cardiac imaging, CV complications can occur in 5% of patients receiving ICIs.84 The long-term effects of ICI treatment on CV disease are unknown. A
+ 
+recent study suggests ICI therapy may accelerate athero- sclerosis, leading to an increased incidence of ACS in cancer survivors following ICI therapy.85
+The diagnosis of IR-myocarditis depends on a combination of clinical, electrocardiographic, cardiac biomarker and CV imaging [echocardiogram and cardiac MRI (CMR)] assess- ments. CMR, including T1 and T2 mapping, T2-weighted short tau inversion recovery (T2STIR) and late gadolinium enhancement (LGE), is recommended given the high sensi- tivity of T1 and T2 mapping for a diagnosis of IR-myocar- ditis.86 Both major and minor diagnostic criteria have been proposed in a recent consensus paper from the International Cardio-Oncology Society,87 where the diagnosis requires one major or two minor criteria (Supplementary Table S5, avail- able at https://doi.org/10.1016/j.annonc.2022.10.001). Once the diagnosis is confirmed, IR-myocarditis can also be divided into categories according to the severity of clinical presen- tation, response to treatment and degree of recovery (Supplementary Tables S6 and S7, available at https://doi. org/10.1016/j.annonc.2022.10.001).87 Half of confirmed cases of IR-myocarditis have a normal left ventricular ejec- tion fraction at presentation,83 and a reduction in global longitudinal strain on echocardiography can predict a worse clinical outcome.88
+If IR-myocarditis is suspected, but either serum troponin levels or left ventricular function on echocardiography is normal, then CMR is recommended. If CMR is not available, contraindicated or non-diagnostic, then cardiac positron emission tomography (PET)eCT (or PETeMRI, if available) is recommended to evaluate for myocardial inﬂammation using either [18F]2-ﬂuoro-2-deoxy-D-glucose (18FDG)ePETe CT or preferentially Gallium-68-DOTA(0)-Phe(1)-Tyr(3)- octreotide (68Ga-DOTATOC)ePETeCT.89 In cases where the diagnosis remains uncertain, endomyocardial biopsy should be considered to confirm or refute the diagnosis before restarting ICI treatment.
+Treatment of IR-CV toxicities is summarised in Supplementary Table S8 and Section 8 of the Supplementary Material, available at https://doi.org/10. 1016/j.annonc.2022.10.001, and a proposed algorithm for the management of IR-myocarditis is shown in Figure 9.
+
+
+Recommendations
+Suspected cases of IR-myocarditis should be admitted to level 2 or 3 care with electrocardiogram monitoring and resuscitation facilities [V, A].
+Other causes of troponin elevation should be ruled out, including ACS if appropriate (patients with CV risk factors or established coronary artery disease) [V, A].
+ICI therapy should be interrupted and, in most cases, if IR- myocarditis is confirmed, permanently discontinued [V, A]. A diagnostic CMR with inﬂammatory sequences (T2STIR, T1, LGE) and cardiac troponin are recommended in cases of suspected IR-myocarditis or pericarditis [IV, A].
+If Ga-DOTATOCePETeCT is not available, endomyocar- dial biopsy should be considered to confirm or refute the
+ 
+
+Volume 33 ■ Issue 12 ■ 2022	https://doi.org/10.1016/j.annonc.2022.10.001	1231
+ 
+Annals of Oncology	J. Haanen et al.
+
+Figure 9. Management of IR-myocarditis.
+Purple: general categories or stratification; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+18FDG, [18F]2-ﬂuoro-2-deoxy-D-glucose; 68Ga-DOTATOC, Gallium-68-DOTA(0)-Phe(1)-Tyr(3)-octreotide; ATG, anti-thymocyte globulin; CHB, complete heart block; CT, computed tomography; CV, cardiovascular; ECG, electrocardiogram; ECMO extracorporeal membrane oxygenation; EMB, endomyocardial biopsy; ICI, immune check- point inhibitor; IR, immune-related; i.v., intravenous; LVAD, left ventricular assist device; MDT, multidisciplinary team; MMF, mycophenolate mofetil; MRI, magnetic resonance imaging; PET, positron emission tomography; T2STIR, T2-weighted short tau inversion recovery.
+
+ 
+
+diagnosis in suspected cases where CMR and troponin are not diagnostic before restarting ICI [V, A].
+i.v. methylprednisone 500-1000 mg should be initiated daily for 3 days and then reviewed in confirmed cases of IR-myocarditis [V, A].
+If troponin has fallen to <50% of peak level or to normal after 3 days of i.v. methylprednisolone and the patient is
+clinically stable (no heart failure, ventricular arrhythmias, complete heart block) then conversion to oral predniso- lone 1 mg/kg/day (up to a maximum of 80 mg/day) is recommended, reducing by 10 mg/week with troponin monitoring providing CV stability continues [V, A].
+Heart failure or cardiogenic shock should be treated ac- cording to the European Society of Cardiology heart fail- ure guidelines [III, A].90
+An MDT discussion is recommended before restarting ICI treatment in patients with mild, clinically uncomplicated IR-myocarditis [V, A].
+Treatment of uncomplicated IR-pericarditis with oral prednisolone and colchicine (500 mg twice daily) is rec- ommended [IV, A].
+ 
+
+Treatment of IR-pericarditis complicated by moderate or large pericardial effusion with i.v. methylprednisone 500- 1000 mg and colchicine (500 mg twice daily) and temporary interruption of ICI are recommended. Large pericardial effusions with or without tamponade physi- ology require urgent percutaneous pericardiocentesis [V, A].
+
+IR-RENAL TOXICITY
+Incidence
+The incidence of IR-renal dysfunction is 2%-7% and is most prevalent in patients who receive anti-PD(L)1eanti-CTLA-4 combination therapy (5%).91-94 Four different pathologies have been noted on renal biopsy. The most common is acute interstitial nephritis (AIN), observed in 80%-90% of patients in studies where renal biopsy was evaluated.95,96 In patients with kidney cancer, development of AIN appears to be a good prognostic factor, possibly due to recognition of a shared antigen by activated T cells.97 According to data from a single study (N ¼ 63), findings consistent with
+ 
+1232	https://doi.org/10.1016/j.annonc.2022.10.001	Volume 33 ■ Issue 12 ■ 2022
+ 
+J. Haanen et al.	Annals of Oncology
+
+ 
+glomerular disease are noted in 8%,95 with reported di- agnoses including minimal-change disease, membranous nephropathy, lupus nephritis, pauci-immune glomerulone- phritis, IgA nephropathy, complement-related and focal segmental glomerulosclerosis.98,99 Both glomerular disease and AIN may be present on biopsy.98 Acute tubular injury was reported in 29% in the same small study,95 often in combination with other pathologies. Tubular damage is less common but may present with acid or base or electrolyte disturbance without evidence of change in kidney func- tion.99 Risk factors for acute tubulointerstitial nephritis include concomitant PPI and NSAID use during ICI therapy.99 Pre-existing chronic kidney disease does not predispose to IR-renal dysfunction.99 Median onset of IR-renal dysfunc- tion is 3-4 months,94 and most patients will have a con- current extra-renal irAE.91,100
+
+Diagnosis and management
+Acute kidney injury (AKI) secondary to hypovolaemia, medication, obstruction and i.v. contrast should all be excluded. There are no consistent features of IR-AIN that differentiate its presentation from other causes of kidney injury.91,94 Most studies of IR-renal dysfunction in the literature base their management recommendations on the Kidney Disease: Improving Global Outcomes criteria,101 which incorporates three stages of progressive dysfunc- tion based on creatinine values or reduced urine output; this differs from the CTCAE version 5.0’s ‘Acute kidney injury’ and ‘Creatinine increased’ criteria1 (Supplementary Table S9, available at https://doi.org/10.1016/j.annonc. 2022.10.001). An algorithm for the management of IR- renal toxicity is shown in Figure 10; further information regarding the management of IR-renal toxicity is provided in Section 9 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.001.
+
+Recommendations
+In cases of suspected IR-nephritis [V, B]:
+o	Other causes of renal failure should be ruled out.
+o	ICI therapy should be interrupted or permanently dis- continued depending on the severity of the renal insufficiency.
+o	Other nephrotoxic drugs should be stopped.
+o	(Methyl)prednisone 1 mg/kg should be started, or pulse methylprednisolone should be considered in stage 3 AKI.
+o	Renal biopsy should be considered on a case-by-case basis to confirm the diagnosis.
+
+IR-OCULAR TOXICITY
+IR-ocular toxicity is rare (<1%)102 but can threaten vision if not diagnosed and treated promptly. Time to onset is vari- able but can be soon after initiating ICI therapy. Clinical presentation includes dry, itchy or watery eyes, pain and
+changes in vision, such as blurry or double vision. Initial assessment should rule out other causes of ocular symp- toms such as foreign bodies, CNS metastasis, infection and
+ 
+vascular pathologies. Early involvement of an ophthalmol- ogist is necessary for both diagnosis and treatment.102,103
+IR-ocular toxicity can manifest in multiple ways, including ocular surface disease (conjunctivitis, keratitis), intraocular inﬂammation (uveitis) and orbital myopathy (orbital myositis).103,104 Notably, dry eyes can be a manifestation of a systemic Sjögren-like syndrome and orbital myopathies may present as part of a more generalised muscular or neuromuscular toxicity syndrome such as myositis, myocarditis, MG and GBS.
+Treatment of IR-ocular toxicity depends on the severity; mild cases of uveitis, for example, often respond to local therapies such as topical CSs.102 In such cases, the admin- istration of systemic CSs may be avoided and continuation of ICI therapy may be feasible, taking into account individual benefiterisk considerations. In cases of more severe IR-ocular toxicities, particularly orbital myopathies, ICI therapy should be discontinued and systemic CSs adminis- tered,102 with second-line immunosuppressants used, if necessary, in the CS-refractory setting. Subsequent contin- uation or rechallenge with ICI therapy should be considered cautiously, again considering individual benefiterisk considerations.
+
+Recommendation
+For cases of suspected IR-ocular toxicity, prompt involvement of an ophthalmologist is recommended for both the diagnosis and treatment [IV, B].
+
+IR-HAEMATOLOGICAL TOXICITY
+IR-major haematological toxicity is relatively rare (<5%)105-107 but can be associated with significant mortal- ity. IR-haematological toxicity has been reported after both anti-CTLA-4 and anti-PD-(L)1 agents given as monotherapy and anti-PD(L)1eanti-CTLA-4 combination therapy.106 Among patients who experience significant haematological toxicity, >90% of those treated with anti-PD(L)1eanti-CTLA-4 combination therapy experience grade 3 toxicity compared with w70% for those treated with monotherapy. The median time to onset of IR-haematological toxicity with anti-PD(L)1e anti-CTLA-4 combination therapy has been reported as shorter than with monotherapy (w12 versus w25 weeks, respectively). Nevertheless, time to onset is variable. Clear predisposing risk factors have not been reported; most re- ports to date, however, are from patients with metastatic solid tumours. In patients with underlying haematological disorders such as chronic lymphocytic leukaemia treated with ICIs, a higher rate of haemolytic anaemia has been observed.108
+IR-haematological toxicity can be severe or even fatal and presents in various ways such as anaemia [including aplastic and autoimmune haemolytic anaemias (AIHAs)], leuko- penia, lymphopenia, neutropenia, thrombocytopenia, pancytopenia, thrombotic thrombocytopenic purpura, hae- molytic uraemic syndrome, hemophagocytic lymphohistio- cytosis (HLH) and clotting disorders, including acquired haemophilia. In contrast to primary AIHA, a unique aspect
+ 
+Annals of Oncology	J. Haanen et al.
+
+ 
+of IR-AIHA is a high incidence of direct antiglobulin test (or the Coombs test) negativity of w40%.109
+Early consultation with a haematologist is advised for both diagnosis and management. A relatively low threshold for bone marrow examination should be considered, particularly to rule out other causes of pancytopenia, such as marrow infiltration, secondary myelodysplastic syndrome or aplastic anaemia. Treatment of IR-haematological toxicity is depen- dent on severity but includes symptomatic management, such as blood transfusion, growth factor support and systemic CSs. In one series, w70% of IR-haematological tox- icities responded to CSs,106 with second-line immunosup- pressants, such as IVIG, rituximab, MMF and cyclosporine, used in refractory cases. Recently, IVIG- and CS-refractory IR-
+ 
+thrombocytopaenia was effectively treated with eltrombo- pag, an oral thrombopoietin receptor agonist (TPO-RA).110
+ICI therapy should be discontinued while significant IR- haematological toxicity is investigated and treated. Subse- quent continuation of ICI therapy should consider the benefits and risks, noting that 20% of affected patients may have evidence of persistently abnormal blood counts,106 and continued therapy or rechallenge may carry a signifi- cant risk of exacerbating symptoms.
+
+
+Recommendations
+In cases of suspected IR-haematological toxicity, early involvement of a haematologist is recommended, and ICI
+ 
+
+ 
+Figure 10. Management of IR-renal toxicity.
+Renal injury occurs in w1%-4% of patients treated with ICIs, usually in a pattern of ATIN with a lymphocytic infiltrate. Attention should be paid to the patient’s baseline creatinine, not just abnormal results per biochemistry ULN. Confounding diagnoses include dehydration, recent i.v. contrast, UTI, medications, hypotension or hy- pertension. Early consideration of renal biopsy is helpful, as this may negate the need for steroids and determine whether renal deterioration is related to another pathology. Oliguria should prompt inpatient admission for careful ﬂuid balance and plan for access to renal replacement therapy. CS wean: begin to wean once creatinine grade 1; grade 2 severity episode, wean CS over 4 weeks; grade 3-4 episode, wean over 4-12 weeks. If on CSs for >4 weeks, initiate PJP prophylaxis, calcium and vitamin D supplementation, gastric protection and check afternoon glucose for hyperglycaemia.
+Purple: general categories   or stratification; turquoise: combination   of   treatments or other systemic treatments; white:   other aspects   of management. ANA, antinuclear antibody; ANCA, anti-neutrophil cytoplasmic antibody; ATIN, acute tubulointerstitial nephritis; CS, corticosteroid; CTCAE, Common Terminology Criteria for Adverse Events; GBM; glomerular basement membrane; GN, glomerulonephritis; HIV, human immunodeficiency virus; ICI, immune checkpoint inhibitor; IR, immune- related; irAE, immune-related adverse event; i.v., intravenous; K, potassium; KDIGO, Kidney Disease: Improving Global Outcomes; PJP, Pneumocystis jiroveci pneumonia; SCr, serum creatinine; ULN, upper limit of normal; UPCR, urine protein to creatinine ratio; US, ultrasound; UTI, urinary tract infection; v, version.
+aANA, complement C3 and C4, ANCA, anti-GBM, hepatitis B and C, HIV, immunoglobulins and protein electrophoresis.
+ 
+J. Haanen et al.	Annals of Oncology
+
+ 
+therapy should be withheld. There should be a low threshold for obtaining a bone marrow aspirate and trephine to assist in the diagnosis [IV, B].
+Blood product and growth factor support in addition to
+i.v. (methyl)prednisolone 1 mg/kg should be initiated as first-line treatment [V, B].
+Anti-IL-6R therapy may be used for IR-HLH. Eltrombopag or other oral TPO-RAs could be considered for IVIG- and CS-refractory IR-thrombocytopaenia, in agreement with a consultant haematologist [V, B].
+
+
+METHODOLOGY
+This CPG was developed in accordance with the ESMO standard operating procedures for CPG development (http://www.esmo.org/Guidelines/ESMO-Guidelines-Metho dology). The relevant literature has been selected by the expert authors. Levels of evidence and grades of recommen- dation have been applied using the system shown in Supplementary Table S10, available at https://doi.org/10. 1016/j.annonc.2022.10.001.112,113 Statements without grading were considered justified standard clinical practice by the authors. For future updates to this CPG, including eUpdates and Living Guidelines, please see the ESMO Guide- lines website: https://www.esmo.org/guidelines/supportive- and-palliative-care/toxicities-from-immunotherapy.
+
+ACKNOWLEDGEMENTS
+ARL is supported by the Fondation Leducq Network of Excellence in Cardio-Oncology. Manuscript editing support was provided by Ioanna Ntai and Catherine Evans (ESMO Guidelines staff) and Angela Corstorphine of Kstorfin Medical Communications Ltd; this support was funded by ESMO.
+
+FUNDING
+No external funding has been received for the preparation of these guidelines. Production costs have been covered by ESMO from central funds.
+
+DISCLOSURE
+JH reports personal fees for advisory board membership from Neogene Therapeutics and Scenic Bio; stocks and shares in Neogene Therapeutics; institutional fees for advi- sory board membership from Achilles Therapeutics, Bio- NTech, Bristol Myers Squibb (BMS), Gadeta, Immunocore, Instil Bio, Iovance Biotherapeutics, Ipsen, Merck Serono, Merck Sharpe & Dohme (MSD), Molecular Partners, Novar- tis, Pfizer, PokeAcel, Roche, Sanofi, T-Knife and Third Rock Venture; institutional funding from Amgen, Asher Bio, Bio- NTech, BMS, MSD, and Novartis; non-remunerated mem- bership of American Association for Cancer Research (AACR), American Society of Clinical Oncology (ASCO) and Society for Immunotherapy of Cancer (SITC); a non-remunerated role as editor-in-chief of IOTECH and a non-remunerated role for editorial board membership for ESMO Open and Kidney Cancer. LS reports personal fees for advisory board
+ 
+membership from BMS and Ipsen; personal fees as an invited speaker from BMS; stocks and shares from Impedimed and institutional funding as local principal investigator (PI) from AstraZeneca, Pfizer and Roche. FC reports personal fees as an invited speaker from Abbvie, biocodex, Biogen, Ferring, Janssen, MSD, Nestlé, Pileje, Takeda and Tillotts; personal fees for advisory board membership from Amgen, Arena, BMS, Celltrion, Enterome, Ferring, Janssen, MaaT Pharma, Medtronic, Pfizer, Pharmacosmos, Roche and Tillotts and institutional funding from Alpha Wassermann, Mayoly Spindler and Nestlé. YW reports personal fees for advisory board membership from MabQuest and consulting fees from AzurRx Pharma and Sorriso. CR reports consultancy fees for advisory board membership from AstraZeneca, BMS, MSD, Novartis, Pfizer, Pierre Fabre, Roche and Sanofi. ARL reports personal fees for advisory board membership from Akcea Therapeutics, BMS, GSK, Heartfelt Technologies Ltd, iOWNA Health, Myocardial Solutions and Pfizer; personal fees as an invited speaker from AstraZeneca, Ferring Pharmaceuticals, Janssen-Cilag Ltd, Novartis, Servier and Takeda and personal fees for a writing engagement from Eisai Ltd. WW reports institutional funding from Apogenix, Pfizer and Roche; institutional funding as coordinating PI role from Enterome; institutional fees as coordinating PI role from Vaximm; a non-remunerated leadership role from Deutscher Wissen- schaftsrat, European Association of Neuro-Oncology (EANO), European Organisation for Research and Treatment of Can- cer (EORTC) (terminated in 2021) and NOA (terminated in 2021); non-remunerated membership of Leopoldina/Deut- sche Gesellschaft der Wissenschaften. MK reports personal fees for advisory board membership from Biogen and Novartis; personal fees as an invited speaker from BMS and MSD; a non-remunerated role as a project lead for the Eu- ropean Alliance of Associations for Rheumatology (EULAR) and a non-remunerated leadership role and co-chair of the OMERACT irAE working group for OMERACT. SP reports personal fees for an editorial role as an Associate Editor for Annals of Oncology; fees paid to her institution as an invited speaker from AstraZeneca, BMS, Boehringer Ingelheim, ecancer, Eli Lilly, Fishawack, Illumina, Imedex, Medscape, Mirati, MSD, Novartis, OncologyEducation, Physician’s Edu- cation Resource (PER), Pfizer, Partnerships in International Medical Education (PRIME), RMEI Medical Education, LLC (RMEI), Roche/Genentech, Research To Practice (RTP), Sanofi and Takeda; fees paid to her institution for advisory board membership from AbbVie, Amgen, Arcus, AstraZeneca, Bayer, BeiGene, Bio Invent, Biocartis, Blueprint Medicines, BMS, Boehringer Ingelheim, Daiichi Sankyo, Debiopharm, Eli Lilly, F-Star, Foundation Medicine, Genzyme, Gilead, GSK, Illumina, Incyte, IQVIA, iTeos, Janssen, Merck Serono, Mirati, MSD, Novartis, Novocure, Pfizer, PharmaMar, Phosplatin Therapeutics, Regeneron, Roche/Genentech, Sanofi, Seattle Genetics, Takeda and Vaccibody; institutional funding as a steering committee member from AstraZeneca, BeiGene, BMS, iTeos, Mirati, MSD, PharmaMar, Phosplatin Therapeutics and Roche/Genentech; institutional funding as a coordinating PI from AstraZeneca; institutional funding as a trial chair from GSK and Roche/Genentech;
+ 
+Annals of Oncology	J. Haanen et al.
+
+ 
+non-remunerated role as President and Council Member for the Ballet Béjart Lausanne Foundation; non-remunerated leadership roles as President of ESMO (2020-2022), Vice- President of Swiss Academy of Multidisciplinary Oncology (SAMO), Vice-President of Lung Group for Swiss Group for Clinical Cancer Research (SAKK); non-remunerated role as PI involved in academic trials for European Thoracic Oncology Platform (ETOP)/EORTC/SAKK; non-remunerated role as Council Member and Scientific Committee Chair for ETOP/ International Breast Cancer Study Group (IBCSG) Partners member of AACR, ASCO, Association Suisse des médecines- assistant(e)s et chef(fe)s de Clinique (ASMAC)/Verband Schweizerischer Assistenz- und Oberärztinnen und- ärzte (VSAO), Fédération des médecins suisses (FMH) and Inter- national Association for the Study of Lung Cancer (IASLC). KJ reports personal fees as an invited speaker from Amgen, art tempi, Helsinn, Hexal, med update GmbH, MSD, Mundi- pharma, onkowissen, Riemser, Roche, Shire (Takeda) and Vifor; personal fees for advisory board membership from Amgen, AstraZeneca, BD Solutions, Hexal, Karyopharm and Voluntis; royalties from Elsevier and Wolters Kluwer; insti- tutional funding as a coordinating PI from Helsinn; non- remunerated membership to ASCO, Deutsche Gesellschaft für Hämatologie und Medizinische Onkologie (DGHO) and Multinational Association of Supportive Care in Cancer (MASCC); a non-remunerated leadership role at Arbeitsge- meinschaft Supportive Massnahmen in der Onkologie (AGSMO), Arbeitsgemeinschaft Internistische Onkologie in der Deutschen Krebsgesellschaft e.V. (AIO) and ESMO and a non-remunerated advisory role at Deutsche Krebshilfe, the Federal Ministry of Education and Research, the Hamburg Cancer Society and Leopoldina. JL reports personal fees as an invited speaker for Agence Unik, Aptitude, AstraZeneca, BMS, Calithera, ecancer, Eisai, EUSA Pharma, Goldman Sachs, GSK, Inselgruppe, Ipsen, Merck, MSD, Novartis, Pfizer, Pierre Fabre, Roche, SeaGen, and Ultimovacs; personal consultancy fees from Apple Tree, BMS, Debipharm, Eisai, Incyte, iOnctura and Merck; honoraria from Cambridge Healthcare Research, RGCP, Royal College of Physicians, touchEXPERTS, touchIME and VJOncology and institutional funding from Achilles, Aveo, BMS, Covance, Immunocore, MSD, Nektar, Novartis, Pfizer, Pharmacyclics and Roche. MO has declared no conﬂicts of interest.
+
+
+REFERENCES
+1.	National Cancer Institute. Common terminology criteria for adverse events (CTCAE) version 5.0. Available at https://ctep.cancer.gov/ protocoldevelopment/electronic_applications/ctc.htm. Published 2017. Accessed October 15, 2021.
+2.	Liu D, Ahmet A, Ward L, et al. A practical guide to the monitoring and management of the complications of systemic corticosteroid therapy. Allergy Asthma Clin Immunol. 2013;9(1):30.
+3.	Johnson D, Patel AB, Uemura MI, et al. IL17A blockade successfully treated psoriasiform dermatologic toxicity from immunotherapy. Cancer Immunol Res. 2019;7(6):860-865.
+4.	Monsour EP, Pothen J, Balaraman R. A novel approach to the treat- ment of pembrolizumab-induced psoriasis exacerbation: a case report. Cureus. 2019;11(10):e5824.
+5.	 
+Phillips GS, Wu J, Hellmann MD, et al. Treatment outcomes of immune-related cutaneous adverse events. J Clin Oncol. 2019;37(30): 2746-2758.
+6.	Salem JE, Allenbach Y, Vozy A, et al. Abatacept for severe immune checkpoint inhibitor-associated myocarditis. N Engl J Med. 2019;380(24):2377-2379.
+7.	Esfahani K, Buhlaiga N, Thebault P, et al. Alemtuzumab for immune- related myocarditis due to PD-1 therapy. N Engl J Med. 2019;380(24): 2375-2376.
+8.	Chmiel KD, Suan D, Liddle C, et al. Resolution of severe ipilimumab- induced hepatitis after antithymocyte globulin therapy. J Clin Oncol. 2011;29(9):e237-e240.
+9.	Kang JH, Bluestone JA, Young A. Predicting and preventing immune checkpoint inhibitor toxicity: targeting cytokines. Trends Immunol. 2021;42(4):293-311.
+10.	Martins F, Sykiotis GP, Maillard M, et al. New therapeutic perspec- tives to manage refractory immune checkpoint-related toxicities. Lancet Oncol. 2019;20(1):e54-e64.
+11.	Haanen J, Ernstoff M, Wang Y, et al. Rechallenge patients with im- mune checkpoint inhibitors following severe immune-related adverse events: review of the literature and suggested prophylactic strategy. J Immunother Cancer. 2020;8(1):e000604.
+12.	Belum VR, Benhuri B, Postow MA, et al. Characterisation and man- agement of dermatologic adverse events to agents targeting the PD-1 receptor. Eur J Cancer. 2016;60:12-25.
+13.	Boutros C, Tarhini A, Routier E, et al. Safety profiles of anti-CTLA-4 and anti-PD-1 antibodies alone and in combination. Nat Rev Clin Oncol. 2016;13(8):473-486.
+14.	Geisler AN, Phillips GS, Barrios DM, et al. Immune checkpoint inhibitor-related dermatologic adverse events. J Am Acad Dermatol. 2020;83(5):1255-1268.
+15.	Sibaud V. Dermatologic reactions to immune checkpoint inhibitors: skin toxicities and immunotherapy. Am J Clin Dermatol. 2018;19(3): 345-361.
+16.	Larkin J, Chiarion-Sileni V, Gonzalez R, et al. Five-year survival with combined nivolumab and ipilimumab in advanced melanoma. N Engl J Med. 2019;381(16):1535-1546.
+17.	Coleman E, Ko C, Dai F, et al. Inﬂammatory eruptions associated with immune checkpoint inhibitor therapy: a single-institution retrospec- tive analysis with stratification of reactions by toxicity and implica- tions for management. J Am Acad Dermatol. 2019;80(4):990-997.
+18.	Hua C, Boussemart L, Mateus C, et al. Association of vitiligo with tumor response in patients with metastatic melanoma treated with pembrolizumab. JAMA Dermatol. 2016;152(1):45-51.
+19.	de Filette J, Andreescu CE, Cools F, et al. A systematic review and meta-analysis of endocrine-related adverse events associated with immune checkpoint inhibitors. Horm Metab Res. 2019;51(3):145-156.
+20.	Wright JJ, Powers AC, Johnson DB. Endocrine toxicities of immune checkpoint inhibitors. Nat Rev Endocrinol. 2021;17(7):389-399.
+21.	Muir CA, Clifton-Bligh RJ, Long GV, et al. Thyroid immune-related adverse events following immune checkpoint inhibitor treatment. J Clin Endocrinol Metab. 2021;106(9):e3704-e3713.
+22.	Brancatella A, Viola N, Brogioni S, et al. Graves’ disease induced by immune checkpoint inhibitors: a case report and review of the literature. Eur Thyroid J. 2019;8(4):192-195.
+23.	Faje A, Reynolds K, Zubiri L, et al. Hypophysitis secondary to nivolumab and pembrolizumab is a clinical entity distinct from ipilimumab- associated hypophysitis. Eur J Endocrinol. 2019;181(3):211-219.
+24.	de Filette JMK, Pen JJ, Decoster L, et al. Immune checkpoint inhibitors and type 1 diabetes mellitus: a case report and systematic review. Eur J Endocrinol. 2019;181(3):363-374.
+25.	Grouthier V, Lebrun-Vignes B, Moey M, et al. Immune checkpoint inhibitor-associated primary adrenal insufficiency: WHO VigiBase report analysis. Oncologist. 2020;25(8):696-701.
+26.	Brunet-Possenti F, Opsomer MA, Gomez L, et al. Immune checkpoint inhibitors-related orchitis. Ann Oncol. 2017;28(4):906-907.
+27.	Tan MH, Iyengar R, Mizokami-Stout K, et al. Spectrum of immune checkpoint inhibitors-induced endocrinopathies in cancer patients: a scoping review of case reports. Clin Diabetes Endocrinol. 2019;5:1.
+ 
+J. Haanen et al.	Annals of Oncology
+
+ 
+28.	Larkin J, Chiarion-Sileni V, Gonzalez R, et al. Combined nivolumab and ipilimumab or monotherapy in untreated melanoma. N Engl J Med. 2015;373(1):23-34.
+29.	Reynolds K, Thomas M, Dougan M. Diagnosis and management of hepatitis in patients on checkpoint blockade. Oncologist. 2018;23(9): 991-997.
+30.	Robert C, Schachter J, Long GV, et al. Pembrolizumab versus ipilimu- mab in advanced melanoma. N Engl J Med. 2015;372(26):2521-2532.
+31.	Pelster MS, Amaria RN. Combined targeted therapy and immuno- therapy in melanoma: a review of the impact on the tumor micro- environment and outcomes of early clinical trials. Ther Adv Med Oncol. 2019;11:1758835919830826.
+32.	De Martin E, Michot JM, Papouin B, et al. Characterization of liver injury induced by cancer immunotherapy using immune checkpoint inhibitors. J Hepatol. 2018;68(6):1181-1190.
+33.	Johncilla M, Misdraji J, Pratt DS, et al. Ipilimumab-associated hepa- titis: clinicopathologic characterization in a series of 11 cases. Am J Surg Pathol. 2015;39(8):1075-1084.
+34.	Everett J, Srivastava A, Misdraji J. Fibrin ring granulomas in checkpoint inhibitor-induced hepatitis. Am J Surg Pathol. 2017;41(1):134-137.
+35.	Zen Y, Yeh MM. Hepatotoxicity of immune checkpoint inhibitors: a histology study of seven cases in comparison with autoimmune hepatitis and idiosyncratic drug-induced liver injury. Mod Pathol. 2018;31(6):965-973.
+36.	Pi B, Wang J, Tong Y, et al. Immune-related cholangitis induced by immune checkpoint inhibitors: a systematic review of clinical features and management. Eur J Gastroenterol Hepatol. 2021;33:e858-e867.
+37.	Abu-Sbeih H, Tang T, Lu Y, et al. Clinical characteristics and outcomes of    immune    checkpoint    inhibitor-induced    pancreatic    injury. J Immunother Cancer. 2019;7(1):31.
+38.	Collins M, Soularue E, Marthey L, et al. Management of patients with immune checkpoint inhibitor-induced enterocolitis: a systematic re- view. Clin Gastroenterol Hepatol. 2020;18(6):1393-1403.e1391.
+39.	Abu-Sbeih H, Faleck DM, Ricciuti B, et al. Immune checkpoint inhib- itor therapy in patients with preexisting inﬂammatory bowel disease. J Clin Oncol. 2020;38(6):576-583.
+40.	Abu-Sbeih H, Ali FS, Luo W, et al. Importance of endoscopic and histological evaluation in the management of immune checkpoint inhibitor-induced colitis. J Immunother Cancer. 2018;6(1):95.
+41.	Wang Y, Abu-Sbeih H, Mao E, et al. Endoscopic and histologic features of immune checkpoint inhibitor-related colitis. Inﬂamm Bowel Dis. 2018;24(8):1695-1705.
+42.	Hughes MS, Molina GE, Chen ST, et al. Budesonide treatment for microscopic colitis from immune checkpoint inhibitors. J Immunother Cancer. 2019;7(1):292.
+43.	Marthey L, Mateus C, Mussini C, et al. Cancer immunotherapy with anti-CTLA-4 monoclonal antibodies induces an inﬂammatory bowel disease. J Crohns Colitis. 2016;10(4):395-401.
+44.	Geukes Foppen MH, Rozeman EA, van Wilpe S, et al. Immune checkpoint inhibition-related colitis: symptoms, endoscopic features, histology and response to management. ESMO Open. 2018;3(1): e000278.
+45.	Panneerselvam K, Amin RN, Wei D, et al. Clinicopathologic features, treatment response, and outcomes of immune checkpoint inhibitor- related esophagitis. J Natl Compr Canc Netw. 2021;19:896-904.
+46.	Jacob JS, Dutra BE, Garcia-Rodriguez V, et al. Clinical characteristics and outcomes of oral mucositis associated with immune checkpoint inhibitors in patients with cancer. J Natl Compr Canc Netw. 2021;19: 1415-1424.
+47.	Tang T, Abu-Sbeih H, Luo W, et al. Upper gastrointestinal symptoms and associated endoscopic and histological features in patients receiving immune checkpoint inhibitors. Scand J Gastroenterol. 2019;54(5):538-545.
+48.	Collins M, Michot JM, Danlos FX, et al. Inﬂammatory gastrointestinal diseases associated with PD-1 blockade antibodies. Ann Oncol. 2017;28(11):2860-2865.
+49.	Bhatia S, Huber BR, Upton MP, et al. Inﬂammatory enteric neurop- athy with severe constipation after ipilimumab treatment for mela- noma: a case report. J Immunother. 2009;32(2):203-205.
+50.	 
+Gaudy-Marqueste C, Monestier S, Franques J, et al. A severe case of ipilimumab-induced Guillain-Barré syndrome revealed by an occlusive enteric neuropathy: a differential diagnosis for ipilimumab-induced colitis. J Immunother. 2013;36(1):77-78.
+51.	Naidoo J, Wang X, Woo KM, et al. Pneumonitis in patients treated with anti-programmed death-1/programmed death ligand 1 therapy. J Clin Oncol. 2017;35(7):709-717.
+52.	Martins F, Sofiya L, Sykiotis GP, et al. Adverse effects of immune- checkpoint inhibitors: epidemiology, management and surveillance. Nat Rev Clin Oncol. 2019;16:563-580.
+53.	Nishino M, Giobbie-Hurder A, Hatabu H, et al. Incidence of pro- grammed cell death 1 inhibitor-related pneumonitis in patients with advanced cancer: a systematic review and meta-analysis. JAMA Oncol. 2016;2(12):1607-1616.
+54.	Pillai RN, Behera M, Owonikoko TK, et al. Comparison of the toxicity profile of PD-1 versus PD-L1 inhibitors in non-small cell lung cancer: a systematic analysis of the literature. Cancer. 2018;124(2):271-277.
+55.	Delaunay M, Prevot G, Collot S, et al. Management of pulmonary toxicity associated with immune checkpoint inhibitors. Eur Respir Rev. 2019;28(154):190012.
+56.	Suresh K, Voong KR, Shankar B, et al. Pneumonitis in non-small cell lung cancer patients receiving immune checkpoint immunotherapy: incidence and risk factors. J Thorac Oncol. 2018;13(12):1930-1939.
+57.	Travis WD, Costabel U, Hansell DM, et al. An official American Thoracic Society/European Respiratory Society statement: update of the inter- national multidisciplinary classification of the idiopathic interstitial pneumonias. Am J Respir Crit Care Med. 2013;188(6):733-748.
+58.	Naidoo J, Cottrell TR, Lipson EJ, et al. Chronic immune checkpoint inhibitor pneumonitis. J Immunother Cancer. 2020;8(1):e000840.
+59.	Cousin S, Toulmonde M, Kind M, et al. Pulmonary sarcoidosis induced by the anti-PD1 monoclonal antibody pembrolizumab. Ann Oncol. 2016;27(6):1178-1179.
+60.	Tetzlaff MT, Nelson KC, Diab A, et al. Granulomatous/sarcoid-like le- sions associated with checkpoint inhibitors: a marker of therapy response in a subset of melanoma patients. J Immunother Cancer. 2018;6(1):14.
+61.	Gkiozos I, Kopitopoulou A, Kalkanis A, et al. Sarcoidosis-like reactions induced by checkpoint inhibitors. J Thorac Oncol. 2018;13(8):1076- 1082.
+62.	Stroud CR, Hegde A, Cherry C, et al. Tocilizumab for the management of immune mediated adverse events secondary to PD-1 blockade. J Oncol Pharm Pract. 2019;25(3):551-557.
+63.	Cooksley T, Marshall W, Gupta A. Early inﬂiximab in life-threatening immune-mediated pneumonitis. QJM. 2019;112(12):929-930.
+64.	Sawai Y, Katsuya Y, Shinozaki-Ushiku A, et al. Rapid temporal improvement of pembrolizumab-induced pneumonitis using the anti-TNF-alpha antibody inﬂiximab. Drug Discov Ther. 2019;13(3):164- 167.
+65.	Nishino M, Ramaiya NH, Awad MM, et al. PD-1 inhibitor-related pneumonitis in advanced cancer patients: radiographic patterns and clinical course. Clin Cancer Res. 2016;22(24):6051-6060.
+66.	Petri CR, Patell R, Batalini F, et al. Severe pulmonary toxicity from immune checkpoint inhibitor treated successfully with intravenous immunoglobulin: case report and review of the literature. Respir Med Case Rep. 2019;27:100834.
+67.	Nishino M, Sholl LM, Hodi FS, et al. Anti-PD-1-related pneumonitis during cancer immunotherapy. N Engl J Med. 2015;373(3):288- 290.
+68.	Cappelli LC, Gutierrez AK, Bingham CO 3rd, et al. Rheumatic and musculoskeletal immune-related adverse events due to immune checkpoint inhibitors: a systematic review of the literature. Arthritis Care Res (Hoboken). 2017;69(11):1751-1763.
+69.	Calabrese LH, Calabrese C, Cappelli LC. Rheumatic immune-related adverse events from cancer immunotherapy. Nat Rev Rheumatol. 2018;14(10):569-579.
+70.	Kostine M, Finckh A, Bingham CO, et al. EULAR points to consider for the diagnosis and management of rheumatic immune-related adverse events due to cancer immunotherapy with checkpoint in- hibitors. Ann Rheum Dis. 2021;80(1):36-48.
+ 
+Annals of Oncology	J. Haanen et al.
+
+ 
+71.	Calabrese C, Cappelli LC, Kostine M, et al. Polymyalgia rheumatica-like syndrome from checkpoint inhibitor therapy: case series and sys- tematic review of the literature. RMD Open. 2019;5(1):e000906.
+72.	Ramos-Casals M, Maria A, Suárez-Almazor ME, et al. Sicca/Sjögren’s syndrome triggered by PD-1/PD-L1 checkpoint inhibitors. Data from the International ImmunoCancer Registry (ICIR). Clin Exp Rheumatol. 2019;37 suppl 118(3):114-122.
+73.	Ghosn J, Vicino A, Michielin O, et al. A severe case of neuro-Sjögren’s syndrome induced by pembrolizumab. J Immunother Cancer. 2018;6(1):110.
+74.	Touat M, Maisonobe T, Knauss S, et al. Immune checkpoint inhibitor- related myositis and myocarditis in patients with cancer. Neurology. 2018;91(10):e985-e994.
+75.	Wang DY, Salem JE, Cohen JV, et al. Fatal toxic effects associated with immune checkpoint inhibitors: a systematic review and meta-anal- ysis. JAMA Oncol. 2018;4(12):1721-1728.
+76.	Psimaras D, Velasco R, Birzu C, et al. Immune checkpoint inhibitors- induced neuromuscular toxicity: from pathogenesis to treatment. J Peripher Nerv Syst. 2019;24(suppl 2):S74-S85.
+77.	Shelly S, Triplett JD, Pinto MV, et al. Immune checkpoint inhibitor- associated myopathy: a clinicoseropathologically distinct myopathy. Brain Commun. 2020;2(2):fcaa181.
+78.	Brahmer JR, Lacchetti C, Schneider BJ, et al. Management of immune- related adverse events in patients treated with immune checkpoint inhibitor therapy: American Society of Clinical Oncology clinical practice guideline. J Clin Oncol. 2018;36(17):1714-1768.
+79.	Doms J, Prior JO, Peters S, et al. Tocilizumab for refractory severe immune checkpoint inhibitor-associated myocarditis. Ann Oncol. 2020;31(9):1273-1275.
+80.	Daxini A, Cronin K, Sreih AG. Vasculitis associated with immune checkpoint inhibitors-a systematic review. Clin Rheumatol. 2018;37(9):2579-2584.
+81.	Haugh AM, Probasco JC, Johnson DB. Neurologic complications of immune checkpoint inhibitors. Expert Opin Drug Saf. 2020;19:479- 488.
+82.	Lyon AR, Yousaf N, Battisti NML, et al. Immune checkpoint inhibitors and cardiovascular toxicity. Lancet Oncol. 2018;19(9):e447-e458.
+83.	Mahmood SS, Fradley MG, Cohen JV, et al. Myocarditis in patients treated with immune checkpoint inhibitors. J Am Coll Cardiol. 2018;71(16):1755-1764.
+84.	Hu YB, Zhang Q, Li HJ, et al. Evaluation of rare but severe immune related adverse effects in PD-1 and PD-L1 inhibitors in non-small cell lung cancer: a meta-analysis. Transl Lung Cancer Res. 2017;6(suppl 1):S8-S20.
+85.	Drobni ZD, Alvi RM, Taron J, et al. Association between immune checkpoint inhibitors with cardiovascular events and atherosclerotic plaque. Circulation. 2020;142(24):2299-2311.
+86.	Thavendiranathan P, Zhang L, Zafar A, et al. Myocardial T1 and T2 mapping by magnetic resonance in patients with immune checkpoint inhibitor-associated myocarditis. J Am Coll Cardiol. 2021;77(12):1503- 1516.
+87.	Herrmann J, Lenihan D, Armenian S, et al. Defining cardiovascular tox- icities of cancer therapies - an international cardio-oncology society (IC- OS) consensus statement. European Heart J. 2022;43(4):280-299.
+88.	Awadalla M, Mahmood SS, Groarke JD, et al. Global longitudinal strain and cardiac events in patients with immune checkpoint inhibitor-related myocarditis. J Am Coll Cardiol. 2020;75(5):467-478.
+89.	Boughdad S, Latifyan S, Fenwick C, et al. 68)Ga-DOTATOC PET/CT to detect      immune      checkpoint      inhibitor-related      myocarditis. J Immunother Cancer. 2021;9(10):e003594.
+90.	McDonagh TA, Metra M, Adamo M, et al. 2021 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021;42(36):3599-3726.
+91.	Seethapathy H, Zhao S, Chute DF, et al. The incidence, causes, and risk factors of acute kidney injury in patients receiving immune checkpoint inhibitors. Clin J Am Soc Nephrol. 2019;14(12):1692-1700.
+92.	Meraz-Munoz A, Amir E, Ng P, et al. Acute kidney injury associated with immune checkpoint inhibitor therapy: incidence, risk factors and outcomes. J Immunother Cancer. 2020;8(1):e000467.
+93.	 
+Koks MS, Ocak G, Suelmann BBM, et al. Immune checkpoint inhibitor- associated acute kidney injury and mortality: an observational study. PLoS One. 2021;16(6):e0252978.
+94.	Gupta S, Cortazar FB, Riella LV, et al. Immune checkpoint inhibitor nephrotoxicity: update 2020. Kidney360. 2020;1:130-140.
+95.	Gerard AO, Andreani M, Fresse A, et al. Immune checkpoint inhibitors-induced nephropathy: a French national survey. Cancer Immunol Immunother. 2021;70(11):3357-3364.
+96.	Cortazar FB, Kibbelaar ZA, Glezerman IG, et al. Clinical features and outcomes of immune checkpoint inhibitor-associated AKI: a multi- center study. J Am Soc Nephrol. 2020;31(2):435-446.
+97.	Patel V, Elias R, Formella J, et al. Acute interstitial nephritis, a po- tential predictor of response to immune checkpoint inhibitors in renal cell carcinoma. J Immunother Cancer. 2020;8(2):e001198.
+98.	Kitchlu A, Jhaveri KD, Wadhwani S, et al. A systematic review of immune checkpoint inhibitor-associated glomerular disease. Kidney Int Rep. 2021;6(1):66-77.
+99.	Herrmann SM, Perazella MA. Immune checkpoint inhibitors and immune-related adverse renal events. Kidney Int Rep. 2020;5(8): 1139-1148.
+100.	Lin JS, Mamlouk O, Selamet U, et al. Inﬂiximab for the treatment of patients with checkpoint inhibitor-associated acute tubular interstitial nephritis. Oncoimmunology. 2021;10(1):1877415.
+101.	KDIGO Clinical Practice Guideline for Acute Kidney Injury. Section 2: AKI definition. Kidney Int. 2012;2(suppl 1):19-36.
+102.	Antoun J, Titah C, Cochereau I. Ocular and orbital side-effects of checkpoint inhibitors: a review article. Curr Opin Oncol. 2016;28(4): 288-294.
+103.	Bitton K, Michot JM, Barreau E, et al. Prevalence and clinical patterns of ocular complications associated with anti-PD-1/PD-L1 anticancer immunotherapy. Am J Ophthalmol. 2019;202:109-117.
+104.	Fang T, Maberley DA, Etminan M. Ocular adverse events with immune checkpoint inhibitors. J Curr Ophthalmol. 2019;31(3):319-322.
+105.	Delanoy N, Michot JM, Comont T, et al. Haematological immune- related adverse events induced by anti-PD-1 or anti-PD-L1 immuno- therapy: a descriptive observational study. Lancet Haematol. 2019;6(1):e48-e57.
+106.	Kramer R, Zaremba A, Moreira A, et al. Hematological immune related adverse events after treatment with immune checkpoint in- hibitors. Eur J Cancer. 2021;147:170-181.
+107.	Petrelli F, Ardito R, Borgonovo K, et al. Haematological toxicities with immunotherapy in patients with cancer: a systematic review and meta-analysis. Eur J Cancer. 2018;103:7-16.
+108.	Smithy JW, Pianko MJ, Maher C, et al. Checkpoint blockade in mel- anoma patients with underlying chronic lymphocytic leukemia. J Immunother. 2021;44(1):9-15.
+109.	Leaf RK, Ferreri C, Rangachari D, et al. Clinical and laboratory features of autoimmune hemolytic anemia associated with immune check- point inhibitors. Am J Hematol. 2019;94(5):563-574.
+110.	Song P, Zhang L. Eltrombopag treatment for severe refractory thrombocytopenia caused by pembrolizumab. Eur J Cancer. 2019;121: 4-6.
+111.	Ozdemir BC, Latifyan S, Perreau M, et al. Cytokine-directed therapy with tocilizumab for immune checkpoint inhibitor-related hemopha- gocytic lymphohistiocytosis. Ann Oncol. 2020;31(12):1775-1778.
+112.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis. 2001;33(2):139-144.
+113.	Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards for infectious diseases. Infectious Diseases Society of America. Clin Infect Dis. 1994;18(3):421.
+114.	Jonklaas J, Bianco AC, Bauer AJ, et al. Guidelines for the treatment of hypothyroidism: prepared by the American thyroid association task force on thyroid hormone replacement. Thyroid. 2014;24(12):1670- 1751.
+115.	Jordan B, Benesova K, Hassel J, et al. How we identify and treat neuromuscular toxicity induced by immune checkpoint inhibitors. ESMO Open. 2021;6(6):100317.

@@ -1,0 +1,640 @@
+
+
+
+
+
+ SPECIAL ARTICLE	
+
+Prevention and management of dermatological toxicities related to anticancer agents: ESMO Clinical Practice Guidelines5
+M. E. Lacouture1, V. Sibaud2, P. A. Gerber3, C. van den Hurk4, P. Fernández-Peñas5, D. Santini6,7, F. Jahn8 & K. Jordan9, on behalf of the ESMO Guidelines Committee*
+1Dermatology Service, Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, USA; 2Department of Oncodermatology, Claudius Regaud Institute, Institut Universitaire du Cancer Toulouse Oncopole, Toulouse, France; 3Department of Dermatology, Medical Faculty, Heinrich-Heine University, Düsseldorf, Germany; 4Department of Research and Development, Netherlands Comprehensive Cancer Organization (IKNL), Utrecht, The Netherlands; 5Department of Dermatology, The University of Sydney, Westmead Hospital, Sydney, Australia; 6Arcispedale Santa Maria Nuova di Reggio Emilia, Reggio Emilia; 7Department of Medical Oncology, University Campus Bio-Medico, Rome, Italy; 8Department of Internal Medicine IV, Hematology, Oncology, Martin-Luther-University Halle-Wittenberg, Halle; 9Department of Medicine V, Hematology, Oncology and Rheumatology, University Hospital Heidelberg, Heidelberg, Germany
+
+Available online 25 November 2020
+
+
+
+ 
+
+INTRODUCTION
+Most patients receiving antineoplastic treatment need help to prevent and alleviate adverse events (AEs) and to cope with the disease itself.1 The skin and its appendages, hair and nails are an integral component of overall health, appearance and sense of self. These dermatological struc- tures may be altered in cancer patients as a result of the disease itself (i.e. paraneoplastic dermatoses), as part of inherited cancer syndromes, or as a consequence of anti- cancer therapies, including systemic agents, therapeutic transplants, radiotherapy (RT) and surgery.2 Systemic ther- apies are administered in approximately 65% of all patients diagnosed with cancer, and those most frequently associ- ated with dermatological AEs include cytotoxic chemo- therapies (ChTs), immunotherapies, biologics, targeted therapies and endocrine agents. The frequency of derma- tological AEs will vary with the specific agent administered and less frequently with tumour type. ChT resulted in tox- icities in 18%-72% of patients,3 targeted therapies in 75%- 90%4 and immunotherapies in 30%5,6 of patients. These events command attention since they have a psychosocial impact, morbid and financial consequences, and may result in interruption or discontinuation of systemic antineoplastic therapy.7 Of note, 8.04% of AEs in phase I and II studies reported to the Cancer Therapy Evaluation Program (CTEP)
+ 
+
+were dermatological, with grade 3 events in 2.3% of cases.8 Although most dermatological AEs are classified grade 1 and 2 in severity, their chronicity, presence on cosmetically sensitive areas and association with symptoms of pruritus and pain result in a need for preventive or reactive therapies. Indeed, the negative effect on quality of life (QoL) from dermatological AEs from targeted therapies is significant and greater than that of dermatological AEs resulting from cytotoxic agents.4 As a result, dose in- terruptions and discontinuations have been reported by 76% and 32% of oncologists, respectively, due to the acneiform rash resulting from epidermal growth factor re- ceptor inhibitors (EGFRis).7 Based on these observations and available therapeutic interventions, these guidelines will focus on papulopustular exanthema, hand-foot syn- drome (HFS), pruritus, nail changes (paronychia, onychol- ysis) and alopecia.
+
+ACNEIFORM RASH (PAPULOPUSTULAR EXANTHEMA)
+Incidence
+Papulopustular eruption (acneiform rash) is characterised by an eruption consisting of papules and pustules typically appearing in the face, scalp and upper chest and back.9 It represents the most frequent AEs to EGFRis, including the small-molecule receptor tyrosine kinase inhibitors (TKIs)
+ 
+ 		erlotinib, afatinib, dacomitinib, osimertinib, lapatinib and
+ 
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, 6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5Approved by the ESMO Guidelines Committee: May 2020.
+0923-7534/© 2020 European Society for Medical Oncology. Published by Elsevier Ltd. All rights reserved.
+ 
+gefitinib or the monoclonal antibodies such as cetuximab, necitumumab, pertuzumab or panitumumab. Acneiform rash develops in 75%-90% (all grades) and 10%-20% (grade 3/4) in patients within the first days to weeks after initiation of therapy.9 Occurrence and severity of the rash have been
+ 
+
+ 
+positively correlated to therapy response.10 It has been reported that (bacterial) colonisation or superinfections of the rash develop in up to 38% of cases.11 Inhibitors of the EGFR downstream kinase, mitogen-activated protein kinase inhibitors (MEKis), such as trametinib, binimetinib and cobimetinib, (which have been introduced for the treat- ment of advanced melanoma), are also associated with the development of papulopustular eruption. It occurs in 74%- 85% (all grades) and 5%-10% (grade 3/4) of patients,12 with a certain variance in the incidence in the different studies.13,14 The clinical presentation of rashes associated with MEKis is similar compared with those observed with EGFRis.
+
+Diagnosis and pathology/molecular biology
+The exanthema presents follicular papules and pustules and usually initially develops in areas with a high density of sebaceous glands, mainly the face (forehead, nose and cheeks), potentially then progressing to chest and upper back.15 Associated symptoms include pruritus, stinging and pain. Although rash severity is usually graded according to the Common Terminology Criteria for Adverse Events (CTCAE), the impact in patients is higher than suggested by the scores.
+Histopathological analysis of EGFRi rashes demonstrates a dense, periadnexal, leucohistiocytic inﬂammatory infil- trate with a marked clustering of macrophages, Langerhans cells, T cells, mast cells and neutrophils. The most abundant expression of EGFRis in the skin is found in keratinocytes of the basal and suprabasal layers of the epidermis and the hair follicle. Accordingly, the recruitment of the inﬂamma- tory infiltrate is caused by an EGFRi-induced secretion of chemokines and cytokines by epidermal keratinocytes. Conversely, EGFRis have been demonstrated to impair the expression of skin antimicrobial peptides, eventually resulting in an impaired host defence and the clinically apparent increased susceptibility toward (bacterial) super- infections.16 Infectious stimuli may then, in turn, drive the skin inﬂammation, which requires further treatment. An additional factor that may promote rash development is an epidermal ichthyosis-mediated impaired skin barrier func- tion.16 In summary, the papulopustular eruption is an in- ﬂammatory process that could be secondarily infected. Managing the inﬂammatory response is therefore the mainstay of therapy.
+
+Management
+Preventive management of papulopustular exanthema (acneiform rash). General preventive and management principles address clinical and molecular findings, targeting skin inﬂammation, infection and barrier defects. These preventive measures include behavioural aspects and skin care (see Supplementary Table S1, available at https://doi. org/10.1016/j.annonc.2020.11.005). Patients should avoid frequent washing with hot water (hand washing, shower and baths), skin irritants, such as over-the-counter (OTC) anti-acne medications, solvents or disinfectants, and avoid
+ 
+excessive sun exposure [III, B]. Skin care measures include the use of alcohol-free skin moisturisers at least twice daily (b.i.d.), preferably with urea-containing (5%-10%) moistur- isers [II, B], and the use of sun protection products [ultra- violet (UV)A/UVB; sun protection factor (SPF) 15] [II, B]. Well-established pharmacological preventive measures are based on prophylactic therapy with oral tetracyclines [doxycycline 100 mg b.i.d. or minocycline 100 mg once daily (q.d.)] probably due to their antimicrobial and anti- inﬂammatory properties [II, A].17-19 With the use of oral tetracyclines, the incidence of grade 2 rash can be low- ered. Alternative antibiotics in case of intolerance or history of allergy include cephalosporins (e.g. cephadroxil 500 mg b.i.d.) or trimethoprim-sulfamethoxazole (160/800 mg b.i.d.). The prevention can be done with or without concomitant topical corticosteroids (e.g. low-potency cor- ticosteroids such as hydrocortisone 2.5% or alclometasone 0.05% b.i.d.) to the face or chest, as their benefit is still controversial17,20,21 [II, C]. The preventive usage of vitamin K1 cream cannot be generally recommended as, in a randomised study, vitamin K1 cream was not able to show a decrease in grade ≥2 skin rash.22
+Therapeutic management of papulopustular exanthema (acneiform rash). Therapeutic management strategies are shown in more detail in Table 1. For grade 1 and 2 rash, initiation or escalation of the potency of topical cortico- steroids [II, B] and initiation of oral tetracycline antibiotics for at least 6 weeks are recommended [II, B]. For the management of grade 3 rash, a short course of systemic corticosteroids (e.g. prednisone 0.5-1 mg/kg body weight for 7 days with a weaning dose over 4-6 weeks) is suggested along with interruption of EGFRis until rash is grade 1 [II, B], although no randomised studies are available to support this concept. When infection is suspected (i.e. failure to respond to oral antibiotics covering gram-positive organ- isms, the presence of painful skin lesions, pustules in arms, legs and trunk, yellow crusts, discharge), a bacterial culture must be obtained and antibiotics administered for at least
+14 days based on sensitivities [II, B].23 Additional treat- ments include the use of oral retinoids (i.e. acitretin, iso- tretinoin) [IV, C] or dapsone,24 but this is only supported by uncontrolled evidence.
+
+
+Recommendations:
+To prevent papulopustular exanthema (acneiform rash):
+
+Avoidance of frequent washing with hot water (hand washing, shower, baths) [III, B].
+Avoidance of skin irritants, such as OTC anti-acne medi- cations, solvents or disinfectants [III, B].
+Alcohol-free OTC moisturising creams or ointment b.i.d. preferably with urea-containing (5%-10%) moisturisers to the body [II, B].
+Avoidance of excessive sun exposure [III, B].
+Sunscreen SPF     15 applied to exposed areas of body and every 2 hours when outside [II, B].
+ 
+
+Table 1. Papulopustular exanthema (acneiform rash) from EGFRis, MEKis and mTOR inhibitors: treatment
+Severity (CTCAE v5.0)	Intervention	LoE	GoR
+Grade 1 and 2 treatment
+Papules and/or pustules covering 10%-30% BSA, symptoms of pruritus or tenderness; psychosocial impact; limiting instrumental ADLs	Continue drug at current dose and monitor for change in severity
+Continuation or initiation of
+●	Oral antibiotic for 6 weeks (doxycycline 100 mg b.i.d. OR minocycline 50 mg b.i.d. OR oxytetracycline 500 mg b.i.d.)
+AND
+●	Topical low/moderate steroid
+Reassess after 2 weeks (either by health care professional or patient self-report); if reactions worsen or do not
+improve, proceed to next step	
+
+
+II
+
+
+
+II	
+
+
+B
+
+
+
+B
+Grade ‡3 (or intolerable grade 2) treatment
+Papules and/or pustules covering >30% BSA, symptoms of	Interrupt until G0/1; obtain bacterial/viral/fungal cultures if infection is suspected
+Continuation or initiation of
+●	Oral antibiotic for 6 weeks (doxycycline 100 mg b.i.d. OR minocycline 50 mg b.i.d. OR oxytetracycline 500 mg b.i.d.)
+AND
+●	Topical low/moderate steroid
+●	Systemic corticosteroids (e.g. prednisone 0.5-1 mg/kg body weight for 7 days)
+a
+●	isotretinoin at low doses (20-30 mg/day)
+Reassess after 2 weeks; if reactions worsen or do not improve, dose interruption or discontinuation per protocol
+may be necessary		
+pruritus or tenderness; limiting self-care ADLs; associated			
+with local superinfection		II	B
+		
+II	
+B
+		II	B
+		IV	C
+ADL, activity of daily living; b.i.d., twice daily; BSA, body surface area; CTCAE, Common Terminology Criteria for Adverse Events; EGFRi, epidermal growth factor receptor inhibitor; GoR, grade of recommendation; LoE, level of evidence; MEKis, mitogen-activated protein kinase inhibitors; mTOR, mammalian target of rapamycin.
+a Not in conjunction with tetracyclines, risk of cerebral oedema. If considering the use of isotretinoin, a dermatologist should be consulted.
+
+
+ 
+Oral antibiotics for 6 weeks at start of therapy [II, A] with or without topical low/moderate strength steroid to face and chest b.i.d. [II, C].
+
+
+HFS AND HAND-FOOT SKIN REACTION
+Incidence
+HFS is also called palmar-plantar erythrodysaesthesia syn- drome (PPES), acral erythema or toxic erythema from con- ventional ChT and is defined as a disorder characterised by redness, marked discomfort, swelling and tingling in the palms of the hands or the soles of the feet. PPES is associated with many cytotoxic ChTs, including 5-ﬂuorouracil (5-FU), (6%-34%), capecitabine (50%-60%), doxorubicin (22%-29%), PEGylated
+liposomal doxorubicin (40%-50%), docetaxel [6%-58% mostly in the form of periarticular thenar erythema with oncolysis (PATEO) syndrome with dorsal involvement rather than palmar lesions] and cytarabine (14%-33%), and may reach severities of grade 3/4 in 5%-10% of cases.25 The highest in- cidences are reported for the combination of causative agents, with doxorubicin plus 5-FU/capecitabine causing the highest incidence of PPES in 89% of the cases.
+With BRAF inhibitors in monotherapy, especially with vemurafenib, dabrafenib or encorafenib,26 a palmoplantar keratoderma (PPK) with the development of calluses and rarely bullae on areas of pressure can appear.27 This refers to a hand-foot skin reaction (HFSR) and is different from the classic HFS as it exhibits different clinical (well-defined painful hyperkeratosis) and histological patterns. HFSR is caused by multikinase vascular endothelial growth factor
+ 
+receptor (VEGFR) inhibitors (MEKis) and is frequently re- ported with agents such as sorafenib (10%-62%), cabo- zantinib (40%-60%), sunitinib (10%-50%) or regorafenib (47%), being grade 3/4 in 5%-20%, and is less frequent with lenvatinib, pazopanib and axitinib.28,29
+Occurrence and severity of HFS and HFSR have been correlated with therapy response.30-32
+
+Diagnosis and pathology
+PPES usually develops within days to weeks after initiation of therapy. However, depending on the pharmacokinetics of the therapy, it may also take up to 6 months for the first symptoms to occur. In ChT-induced HFS, the first symptoms are dysaesthesia of the palms and soles of the feet with tingling, which develops into burning pain, swelling and erythema with consecutive hyperkeratosis. Lesions may then progress to blisters, desquamation, erosions, ulcera- tions and bleeding, accompanied by discomfort and mod- erate to severe pain. PPES may also affect the dorsum of hands and feet or intertriginous areas. HFSR more frequently involves the soles, with blisters followed by callus-like hyperkeratosis at pressure-bearing areas, such as heels or joints.
+Histopathological findings in PPES are nonspecific and consistent with patterns of toxic dermatitis. Variable dila- tion of capillaries, keratinocyte abnormities including ne- crosis, oedema, interface dermatitis, hyperkeratosis or parakeratosis, perivascular lymphohistiocytic infiltrates and partial-to-complete necrosis of the entire epidermis is observed.33 Molecular and cellular mechanisms are still poorly understood.
+ 
+
+Table 2. HFSR from MEKis: prevention and treatment
+Severity (CTCAE v5.0)	Intervention	LoE	GoR
+Grade 0 prevention	Behavioural aspects and skin care:
+●	Avoid irritation to the hands and feet: avoidance of me- chanical stress (e.g. long walks or heavy carrying without gloves and socks/cushioned shoes)
+●	Avoid chemical stress: skin irritants, solvents or disinfectants
+●	Treatment of predisposing factors before anticancer therapy (e.g. apparent hyperkeratosis)
+Urea 10% cream t.i.d.	IV
+
+
+
+
+
+
+
+II	B
+
+
+
+
+
+
+
+B
+Grade 1 and grade 2 treatment
+Minimal skin changes or dermatitis
+Skin changes with pain; limiting instrumental ADLs	Continue drug at current dose and monitor for change in severity
+●	Topical high-potency steroid b.i.d.
+●	Lidocaine 5% patches or cream
+Reassess after 2 weeks (either by health care professional or patient self-report); if reactions worsen or do not
+improve, proceed to next step	
+
+IV	
+
+C
+Grade ‡3 or intolerable grade 2 treatment
+Severe skin changes with pain; limiting self-care ADLs	Interrupt treatment until severity decreases to grade 0-1; and continue treatment of skin reaction with the following: Continuation or initiation of:
+●	Topical high-potency steroid b.i.d.
+●	Lidocaine 5% patches or
+●	Possibly topical keratolytics (e.g. with salicylic acid 5%- 10% or urea 10%-40%) cream
+●	Possibly antiseptic solutions (e.g. silver sulfadiazine 1%, polyhexanide 0.02%-0.04%) cream
+Reassess after 2 weeks; if reactions worsen or do not improve, dose interruption or discontinuation per protocol
+may be necessary	
+
+IV	
+
+C
+ADL, activity of daily living; b.i.d., twice daily; CTCAE, Common Terminology Criteria for Adverse Events; GoR, grade of recommendation; HFSR, hand-foot skin reaction; LoE, level of evidence; MEKis, mitogen-activated protein kinase inhibitors; t.i.d., three times daily.
+
+
+ 
+Management
+Preventive management of HFSR/HFS. General preventive measures include the use of alcohol-free skin moisturisers (urea 10%) as well as the avoidance of mechanical (e.g. long walks or heavy carrying without gloves and socks/cushioned shoes) and chemical stress (skin irritants, solvents or
+ 
+disinfectants) [IV, B]. Before therapy, any predisposing fac- tor (e.g. apparent hyperkeratosis) should be treated, so a podiatric or foot care expert evaluation is recommended [IV, B] (see Tables 2, 3 and 4 in accordance with the used antineoplastic agent).34 Urea emollients (urea 10% cream) significantly reduced the incidence of all-grade HFSR,
+ 
+
+
+Table 3. PPES from capecitabine: prevention and treatment
+Severity (CTCAE v5.0)	Intervention	LoE	GoR
+Grade 0 prevention	Behavioural aspects and skin care:
+●	Avoid irritation to the hands and feet: avoidance of me- chanical stress (e.g. long walks or heavy carrying without gloves and socks/cushioned shoes)
+●	Avoid chemical stress (skin irritants, solvents or disinfectants)
+●	Treatment of predisposing factors before anticancer therapy (e.g. apparent hyperkeratosis)
+Urea 10% cream t.i.d.
+Celecoxib 200 mg b.i.d.	IV
+
+
+
+
+
+
+
+II II	B
+
+
+
+
+
+
+
+B C
+Grade 1 and grade 2 treatment
+Minimal skin changes or dermatitis
+Skin changes with pain; limiting instrumental ADLs	Continue drug at current dose and monitor for change in severity
+Topical high-potency steroid b.i.d.
+Reassess after 2 weeks (either by health care professional or patient self-report); if reactions worsen or do not
+improve, proceed to next step	
+
+IV	
+
+C
+Grade ‡3 treatment (or intolerable grade 2) treatment	Interrupt treatment until severity decreases to grade 0-1;		
+Severe skin changes with pain; limiting self-care ADLs	and continue treatment of skin reaction with the following:		
+	Topical high-potency steroid b.i.d.	IV	C
+	Reassess after 2 weeks; if reactions worsen or do not		
+	improve, dose discontinuation per protocol may be		
+	necessary		
+ADL, activity of daily living; b.i.d., twice daily; CTCAE, Common Terminology Criteria for Adverse Events; GoR, grade of recommendation; LoE, level of evidence; PPES, palmar- plantar erythrodysesthesia syndrome; t.i.d., three times daily.
+ 
+
+Table 4. PPES from doxorubicin (or PEGylated doxorubicin) and taxanes: prevention and treatment
+Severity (CTCAE v5.0)	Intervention	LoE	GoR
+Grade 0 prevention	Behavioural aspects and skin care:
+●	Avoid irritation to the hands and feet: avoidance of mechanical stress (e.g. long walks, heavy or heavy carrying without gloves and socks/cushioned shoes)
+●	Avoid chemical stress: skin irritants, solvents or disinfectants
+●	Treatment of predisposing factors before anticancer therapy (e.g. apparent hyperkeratosis) Urea 10% cream at least b.i.d.
+Cooling of hands and feet during infusions	IV
+
+
+
+
+II II	B
+
+
+
+
+B B
+Grade 1 treatment Minimal skin changes or dermatitis	Continue drug at current dose and monitor for change in severity
+●	Cooling of hands and feet during infusions
+AND
+●	Topical high-potency steroid b.i.d.
+Reassess after 2 weeks (either by health care professional or patient self-report); if reactions
+worsen or do not improve, proceed to next step	
+IV	
+C
+Grade 2 treatment
+Skin changes with pain; limiting instrumental ADLs	Continue drug at current dose and monitor for change in severity
+●	Cooling of hands and feet during infusions
+AND
+●	Topical high-potency steroid b.i.d.
+AND
+●	Oral dexamethasone (8 mg b.i.d. for 5 days beginning the day before infusion followed by 4 mg
+b.i.d. for 1 day, then 4 mg once daily for 1 day)
+Reassess after 2 weeks (either by health care professional or patient self-report); if reactions
+worsen or do not improve, proceed to next step	
+IV	
+C
+Grade ‡ 3 or intolerable grade 2 treatment Interrupt treatment until severity decreases to grade 0-1; and continue treatment of skin reaction Severe skin changes with pain;	with the following:
+limiting self-care ADLs	● Cooling of hands and feet during infusions
+AND
+●	Topical high-potency steroid b.i.d. and
+●	Oral                                 dexamethasone                                 (see                                 above) Reassess after 2 weeks; if reactions worsen or do not improve, dose interruption or discontinuation
+per protocol may be necessary	
+
+IV	
+
+C
+ADL, activity of daily living; b.i.d., twice daily; CTCAE, Common Terminology Criteria for Adverse Events; GoR, grade of recommendation; LoE, level of evidence; PPES, palmar- plantar erythrodysesthesia syndrome.
+
+ 
+
+extended the time to first occurrence and improved the QoL in patients treated with sorafenib and is therefore recom- mended [II, B].35 Urea emollients are also recommended in HFS [II, B].36
+Skin cooling (e.g. cold gloves or socks) has been proven to significantly reduce frequency and severity of PPES for ChT given as an infusion, such as paclitaxel, docetaxel and liposomal doxorubicin [II, B] (see Table 4).37,38
+Pyridoxine has shown not to be beneficial in the pre- vention of PPES in well-designed randomised studies and is therefore not recommended.39
+Celecoxib has been shown to prevent PPES induced by capecitabine in metastatic colorectal cancer patients.40,41 However, due to potential AEs of celecoxib and unclear interactions with tumour response, a tailored approach to each patient is advised.42
+Therapeutic management of HFSR/HFS. PPES usually re- quires interruption and dose reduction of the anticancer agent; however, initiation of therapy with topical agents (for HFS and HFSR) or cooling (for HFS)43 may permit consistent dosing. Hyperkeratosis is treated with keratolytics (e.g. topical creams or ointments containing salicylic acid 5%- 10% or urea 10%-40%) [IV, C], skin inﬂammation is treated with high-potency topical corticosteroids (e.g. clobetasol proprionate 0.05%) [IV, C], while erosions and ulcerations may be treated with antiseptic solutions (e.g. silver sulfa- diazine 1%, polyhexanide 0.02%-0.04%) [IV, C] (see Tables 2,
+ 
+
+3 and 4). Lidocaine 5% cream or patches may be used for analgesia on painful areas in feet and hands, in order to enable activities of daily living [IV, C] in HFSR.
+
+
+Recommendations:
+To prevent HFSR/HFS:
+Avoid irritation to the hands and feet; long walks, heavy carrying without protection [IV, B].
+Avoid chemical stress; skin irritants, solvents or disinfec- tants [IV, B].
+Treatpredisposingfactorsbeforeanticancertherapy[IV, B]. Use of urea 10% cream three times a day [II, B].
+Specifically, for taxane-based therapy: use of skin cooling gloves or socks [II, B].
+Specifically, for capecitabine based therapy: a tailored approach to each patient is advised for celecoxib 200 mg b.i.d. [II, C].
+
+
+IMMUNOTHERAPY-RELATED MACULOPAPULAR RASH
+Recommendations regarding immune-related mac- ulopapular rashes due to immune checkpoint inhibitors (ICIs) are described in depth in the ESMO Clinical Practice Guidelines on ‘Management of toxicities from immunotherapy’.44
+ 
+
+ 
+CHEMOTHERAPY-INDUCED ALOPECIA AND ENDOCRINE THERAPY-INDUCED ALOPECIA
+Incidence
+The incidence of ChT-induced alopecia (CIA) is frequently underreported in clinical trials and is inaccurate in obser- vational studies. For CIA, the population-based Dutch Can- cer Registry showed that 24% of patients with solid tumours received cytotoxic ChT and 48% of ChTs resulted in grade 2 alopecia (this refers to a hair loss of more than 50% than normal for that individual, that is readily apparent to others) (see Supplementary Table S2, available at https:// doi.org/10.1016/j.annonc.2020.11.005).45
+Although endocrine therapy-induced alopecia (EIA) does not receive as much attention, it is likely to be more frequently present than it has been reported. It has a moderate impact on QoL, with up to 8% of patients dis- continuing aromatase inhibitors (AIs) as a result of EIA. Meta-analysis data show a 4.4% (range 0%-25%) estimated incidence of EIA (all grades).46 A higher incidence was found for tamoxifen (25%), although this may have been caused by subject bias, since younger women receiving tamoxifen may have reported this more often, or alopecia may have been more noticeable. In a survey of 851 women receiving AIs, 22.4% reported hair loss and 31.8% reported hair thinning.47
+
+Diagnosis and pathology/molecular biology
+CIA usually results in diffuse grade 2 alopecia on the entire scalp, while patients might also experience diffuse partial alopecia or patchy, unevenly distributed alopecia. In some cases, it involves the eyebrows, eyelashes (madarosis) and body hair.48 CIA usually starts 1-3 weeks after initiating therapy and the severity mainly depends on type, dose, method of administration and time of intervals between infusions. Hair will start growing again 2-3 months after ChT completion and grow at a rate of approximately 1 cm/ month. Approximately 65% of patients report changes in colour and texture in newly grown hair. If hair is damaged by ChT in the anagen hair cycle stage, alopecia occurs by rapid transition into dystrophic telogen or catagen stages and is driven by a p53-mediated apoptosis of hair matrix keratinocytes and stem cells. The acute nature of CIA, even grade 1, may introduce significant psychosocial impact on patients, so it commands attention.
+Conversely, EIA is characterised by grade 1 alopecia pri- marily on the crown of the scalp and with recession of the frontal and bitemporal hairline. It appears to be more frequent in post-menopausal women receiving AIs and usually develops most prominently between 6 and 18 months after therapy initiation. Histologically, there is a miniaturisation of hair follicles and a decreased anagen-to- telogen ratio. Endocrine therapies may also cause excessive hair growth in androgen-dependent areas of the body in women (hirsutism). In patients presenting with EIA, differ- ential diagnoses should be ruled out by laboratory testing
+ 
+[thyroid gland function, thyroid-stimulating hormone (TSH) and free T4, iron stores (ferritin), vitamin D, and zinc levels] and examination for female-pattern hair loss, alopecia areata or inﬂammatory (scarring) alopecia.49,50
+
+Management
+Preventive management of CIA. Scalp cooling is the only method that has been shown to prevent CIA, at least to a certain extent. Seven out of eight randomised clinical trials resulted in a significant advantage for scalp-cooled patients with 50%-65% of patients developing grade 1 alopecia.51 In addition, many observational studies and reviews showed the efficacy of scalp cooling using gel caps or devices for a broad range of cytostatics for patients with all stages of various cancers.52 Scalp cooling has shown greater efficacy with   taxane-based   regimens,   and    lower    efficacy when anthracyclines are combined with taxanes or with cyclophosphamide.
+For grade 1 as well as for grade 2 CIA, scalp cooling has shown benefit in preventing increased severity of alopecia during subsequent cycles of ChT [II, B].53
+Contraindications for scalp cooling include haemato- logical malignancies, cold sensitivity, cold agglutinin disease, cryoglobulinaemia, cryofibrinogenaemia, cold post- traumatic dystrophy and whole-brain RT following ChT.
+Scalp cooling induces vasoconstriction and reduces biochemical activity in the scalp and hair follicles. After scalp cooling, diminished hair shaft diameters have been observed, indicating only moderate damage, repair and ongoing hair growth. Scalp cooling usually starts 20-45 min before the ChT infusion and continues during and for 20- 150 min after the infusion. Cooling times have been arbi- trarily chosen, except for docetaxel mono- or combination therapy (75-100 mg/m2) for which randomised trials showed a post-infusion cooling time of 20 min to be sufficient.
+Regarding safety, the incidence of scalp metastases in breast cancer patients with scalp cooling was 0.61% [95% confidence interval (CI) 0.32% to 1.1%] versus 0.41% (95% CI 0.13% to 0.94%) in the non-scalp-cooled group (P 0.43), with no differences  in survival.54 Occurrence of  a scalp skin metastasis as first sign of progression following scalp cooling has been reported in a patient with leukaemia and a patient with a cutaneous lymphoma.55 It also occurred in two breast cancer patients after 7- and 9-year follow-up; however scalp cooling was unlikely to have contributed.56 Injuries due to coldness have only been re- ported following the use of frozen gel caps.
+Therapeutic management of CIA and EIA. It is useful to check TSH, vitamin D, zinc and ferritin serum levels and to correct a corresponding deficiency if necessary. The administration of biotin (2.5 mg or 2500 mg q.d.) or orthosilicic acid (silicon, 10 mg q.d.) can be considered as an initial treatment but is not generally recommended [IV, C].
+Once cytotoxic ChT has been completed, topical minoxidil 5% may aid in hair regrowth. An uncontrolled study of 41
+ 
+
+ 
+patients showed significant improvement in 25% and moderate improvement in 40% of patients treated with minoxidil 5% daily49 [IV, C].
+In patients with EIA grade 2, the administration of spi- ronolactone (spironolactone 50-100 mg b.i.d.) was also tried and could lead to improvement in isolated cases. As the riskebenefit assessment does not justify routine use, spironolactone is not recommended [IV, D]. Bimatoprost ophthalmic solution (0.03% daily) may be considered if eyelash hair loss occurs but is not generally recommended [III, C].
+In the case of limited prophylactic or therapeutic options to prevent, or treat, alopecia, it is essential to inform pa- tients about this adverse event before commencing therapy and to speak about aids such as hats, scarves or wigs.
+
+Recommendations:
+Scalp cooling is recommended to prevent CIA [II, B]. Biotin and orthosilicic may stimulate hair growth but are not generally recommended [IV, C].
+Minoxidil can be considered to stimulate hair growth af- ter CIA or EIA [IV, C].
+Spironolactone is not recommended because the riske benefit analysis does not justify its routine use [IV, D]. Bimatoprost ophthalmic solution may result in growth of eyelashes in some patients but is not generally recom- mended [III, C].
+
+
+DRUG-INDUCED PRURITUS
+Deﬁnition
+Drug-induced pruritus is an itch caused or triggered by the administration of a specific drug. According to the Inter- national Forum on the Study of Itch (IFSI), chronic pruritus is defined as pruritus lasting ≥6 weeks.57
+Incidence
+The use of targeted agents is associated with a significantly increased risk of pruritus in patients with cancer. These include EGFRis, VEGFRs, the mammalian target of rapamycin (mTOR) tyrosine kinases, BRAF, c-MET, c-MEK and TKIs as well as selected monoclonal antibodies, such as rituximab and tositumomab and ICIs [ipilimumab, anti-programmed cell death protein 1 (anti-PD-1)/anti-programmed death-ligand 1 (anti-PD-L1)]. A systematic review and meta-analysis from 132 clinical trials on the incidence of pruritus in 15 927 patients treated with targeted cancer therapies as a single agent was published in 2013.58 The incidence of high-grade pruritus ranged between 0.5% (95% CI: 0.2% to 1.5%) and 1.8% (95% CI: 1.5% to 2.3%), with the
+lowest incidence in patients treated with the EGFR-VEGFR inhibitor vandetanib, and the highest in patients treated with EGFRis (gefitinib, cetuximab, panitumumab and erlo- tinib).   The   overall   incidence   of    high-grade    pruritus in patients treated with the anti-cytotoxic T lymphocyte-
+ 
+associated antigen 4 (anti-CTLA-4) antibody, ipilimumab, was 1.0% (95% CI: 0.3% to 3.9%). The overall incidence of high-grade pruritus for all patients was 1.4% (95% CI: 1.2% to 1.6%).58 A second meta-analysis that considered 33 randomised phase III studies including 20 151 patients treated with 14 distinct targeted agents was published in 201559; for high-grade pruritus, the highest relative risks (RRs) were reported with gefitinib (19.94; 95% CI 2.69-
+147.76), panitumumab (11.24; 95% CI 0.63-202.10) and
+ipilimumab (11.18; 95% CI 0.62-201.07), while sorafenib
+(0.20; 95% CI 0.01-4.22), everolimus (0.49; 95% CI 0.01-
+24.77) and sunitinib (0.50; 95% CI 0.05-5.45) showed the lowest RRs of high-grade pruritus.59
+Pruritus is more frequent with anti-PD-1 monoclonal antibodies when compared with standard-of-care ap- proaches. Nine randomised trials and 5353 patients were included in a recent meta-analysis aimed to analyse distinct immune-related AEs. All-grade pruritus was more common in the pool of patients who received PD-1 inhibitors (nivo- lumab and pembrolizumab) with RR 2.10 and an absolute risk of 13.67%.60
+
+Diagnosis and rating
+The identification of patient history and the clinical exami- nation are mandatory before starting any type of specific therapy, as it is the assessment of pruritus including in- tensity, onset, time course, quality, localisation and trig- gering factors that determine treatment. Patient history should always include all current and recent medications administered as well as transfusions of emocomponents, correlation between time of anticancer drug administration and time of pruritus onset and simultaneous appearance of skin reactions. The physician should not underestimate that severe pruritus can lead to debilitating psychological distress. Chronic pruritus, often associated with other types of skin manifestations (erythema, eruption of papules and pustules, acneiform rash), can be accompanied by behav- ioural/adjustment disorder and a withdrawal from social life and work. There is no standardised method for document- ing pruritus. The sensation of pruritus is subject to intra- and inter-individual variations related to several factors such as tiredness, anxiety and stress. The intensity of itch is usually assessed by scales such as the visual scale or the numeric rating scale.57
+
+Management
+In the literature, no clinical studies are designed to study the most optimal therapy for EGFRi-induced pruritus as specific primary endpoint. Clearly, most of the literature data originate from case series as well as case reports on various agent approaches for pruritus relief. A minority of data derives from prospective studies. The appearance of pruritus is often associated with papulopustular (acneiform) rash or other types of skin alterations; for this reason, it is mandatory to stress that the treatment of the concomitant rash can decrease the pruritic symptoms.
+ 
+
+Table 5. Pruritus: prevention and treatment
+Severity (CTCAE v5.0)	Intervention	LoE	GoR
+Grade 0 prevention	Gentle skin care instructions given	V	B
+Grade 1 treatment
+Mild or localised	Continue drug at current dose and monitor for change in severity Topical moderate/high-potency steroids
+Reassess after 2 weeks (either by health care professional or patient self-report);
+if reactions worsen or do not improve, proceed to next step	
+V	
+C
+Grade 2 treatment	Continue drug at current dose and monitor for change in severity		
+Intense or widespread; intermittent;	Topical moderate/high-potency steroid OR	V	C
+skin changes from scratching; limiting	Oral antihistamines OR GABA agonists (pregabalin/gabapentin)	V	C
+instrumental ADLs	Reassess after 2 weeks (either by health care professional or patient self-report);		
+	if reactions worsen or do not improve, proceed to next step		
+Grade ‡3 (or intolerable grade 2)	Interrupt treatment until G0/1; and continue treatment of skin reaction with the		
+treatment	following:		
+Intense or widespread; constant;	Topical moderate/high-potency steroid OR	V	C
+limiting self-care ADLs or sleep	Oral antihistamines OR GABA agonists	V	C
+	Reassess after 2 weeks; if reactions worsen or do not improve, discontinuation per		
+	protocol may be necessary		
+ADL, activity of daily living; CTCAE, Common Terminology Criteria for Adverse Events; GABA, gamma aminobutyric acid; GoR, grade of recommendation; LoE, level of evidence.
+
+ 
+Pharmacological approaches
+Local therapies. Sometimes pruritus may occur because of dry skin; for this reason, it is important to apply adequate measures with the aim to prevent or treat skin dryness [V, B].23 Recommendations for prevention and treatment strategies are listed in Table 5.
+For mild-to-moderate pruritus, a topical antipruritic agent containing menthol 0.5%, or a topical corticosteroid (mometasone furoate 0.1% ointment or betamethasone valerate 0.1% ointment) could be considered [V, C]. It has been shown that 2.5% hydrocortisone significantly de- creases experimentally-induced pruritus when compared with placebo. Lotions containing urea or polidocanol may also soothe pruritus.23
+Antihistamines. In general, antihistamines have been used to provide symptom relief to patients with mild-to- moderate pruritus of various aetiologies, but the evidence in the treatment of targeted therapy-induced pruritus derive only from case series with low numbers of cancer patients. In particular, non-sedating, second-generation antihistamines (such as loratadine, 10 mg daily) may be recommended as the first choice for systemic therapy for pruritus during daytime. On the other hand, the use of first- generation antihistamines (such as diphenhydramine, 25-50 mg daily and hydroxyzine, 25-50 mg daily) may be consid- ered based on their sedative properties in patients who suffer from pruritus during night time [V, C].61,62
+Antiepileptic agents. Antiepileptic agents, such as pre- gabalin (25-150 mg daily) and gabapentin (900-3600 mg daily), are reported to induce relief of pruritus in the gen- eral patient population. It is hypothesised that pregabalin is able to decrease pruritus at the peripheral level through the reduction of the release of calcitonin gene-related peptide,
+which mediates itching in the periphery, but also at a cen- tral level by a modulation of m-opioid receptors.63 However, data in the setting of EGFRi-associated pruritus is based on small case series. These guidelines suggest the use of anti- epileptic agents only as second-line treatment in patients
+ 
+who fail antihistamines and therapies against underlying rash and/or xerosis who continue to experience clinically significant pruritus [V, C].64
+Other drugs. The tricyclic antidepressant doxepin, which is also a potent histamine antagonist, has been utilised to relieve general pruritus in both topical and oral preparations. Aprepitant, a neurokinin-1 (NK-1) receptor antagonist was reported to reduce pruritus related to erlotinib, cetuximab, panitumumab, sunitinib, gefitinib, imatinib and other EGF- Ris.65 Furthermore, improvement with aprepitant was shown in a case of nivolumab-related refractory pruritus.66 Systemic corticosteroids (0.5-2 mg/kg daily) may be useful for temporary relief of particularly severe pruritus.
+For intense, or widespread pruritus, oral corticosteroids or immunosuppressive therapy may be indicated.
+
+PARONYCHIA/PERIUNGUAL PYOGENIC GRANULOMA
+Incidence
+Paronychia and/or pyogenic granulomas that result from damage to the perionychium are frequently observed with EGFRi targeted therapies, either monoclonal antibodies or TKIs (cetuximab, panitumumab, erlotinib, gefitinib, lapati- nib, vandetanib).67-69 Through meta-analysis, all-grade per- iungual lesions with EGFRis were estimated to occur in 17.2% of patients, with a high-grade incidence <2%.70 They appear to be more frequent with the newly-approved
+irreversible ErbB family blockers (dacomitinib, afatinib).71 Similar periungual lesions were also described with MEKis
+(selumetinib, cobimetinib and trametinib) and mTOR in- hibitors (everolimus, temsirolimus), although with a lower incidence.68 Periungual inﬂammation is less commonly observed with chemotherapeutic agents, (except with tax- anes) because of the frequent inﬂammation they induce to the proximal nail fold.72
+
+Diagnosis and pathology/molecular biology
+Targeted therapy-induced paronychia develops gradually after several weeks of treatment. Lesions first manifest as
+ 
+
+Table 6. Paronychia: prevention and treatment
+Severity (CTCAE v5.0)	Intervention	LoE	GoR
+Grade 0 prevention	Gentle                        skin                        care                       instructions                        given Recommend wearing comfortable shoes, wearing gloves while cleaning, and avoiding biting nails or cutting nails too short; preventive correction of nail curvature; avoid repeated friction and trauma/ excessive pressure; use of antimicrobial soaks and washing with cleansers and water; daily application of topical emollients to cuticles and periungual tissues
+Biotin to improve nail strength	IV IV
+
+
+
+V	B B
+
+
+
+C
+Grade 1 treatment	Continue drug at current dose and monitor for change in severity		
+Nail fold oedema or erythema;	Topical povidone iodine 2%, topical antibiotics/corticosteroids	III	B
+disruption of the cuticle	Reassess after 2 weeks (either by health care professional or patient self-report); if reactions		
+	worsen or do not improve, proceed to next step		
+Grade 2 treatment	Continue drug at current dose and monitor for change in severity; obtain bacterial/viral/fungal		
+Nail fold oedema or erythema with	cultures if infection is suspected		
+pain; associated with discharge or	Topical povidone iodine 2%/topical beta-blocking agents/topical antibiotics and corticosteroids	III	B
+nail plate separation; limiting	and/OR		
+instrumental ADLs	Oral antibiotics	IV	B
+	Reassess after 2 weeks (either by health care professional or patient self-report); if reactions		
+	worsen or do not improve, proceed to next step		
+Grade ‡3 (or intolerable grade 2)	Interrupt until G0/1; obtain bacterial/viral/fungal cultures if infection is suspected; and continue		
+treatment	treatment of skin reaction with the following:		
+Surgical intervention or antibiotics	Topical povidone iodine 2%/topical beta-blocking agents/topical antibiotics and corticosteroids	III	B
+indicated; limiting self-care ADLs	and/ OR		
+	Oral antibiotics OR	IV	B
+	Consider partial nail avulsion	V	B
+	Reassess after 2 weeks; if reactions worsen or do not improve, dose interruption or discontinuation		
+	per protocol may be necessary		
+ADL, activity of daily living; CTCAE, Common Terminology Criteria for Adverse Events; GoR, grade of recommendation; LoE, level of evidence.
+
+ 
+acute paronychia, corresponding to a painful erythematous inﬂammation with swelling and tenderness of the lateral nail folds. Paronychia can progress into the formation of friable granulation tissue on the lateral folds of the nail, mimicking ingrown nails. The thumbs and particularly the great toes are the most frequently affected digits,73 prob- ably due to repeated trauma. Secondary bacterial or mycological superinfections are present in up to 25% of cases and sometimes associated with a purulent discharge.74,75 Both gram-positive and gram-negative or- ganisms have been implicated. Paronychia intensity is usu- ally graded according to CTCAE v5.0; however, a novel scoring system comprising four parameters (namely redness, oedema, discharge and granulation tissue) was recently proposed to assess the severity of paronychia.76
+Pathogenesis of paronychia is thought to result from in- hibition of the EGFR and downstream EGFR-dependent pathways in basal and suprabasal keratinocytes. This leads to altered differentiation and migration of epidermal cells associated with both inhibition of keratinocyte proliferation and decreased cell survival through the induction of apoptosis.9 The periungual stratum corneum becomes thinner, which may lead to piercing of the perionychium by the nail plate (onychocryptosis), inducing a secondary per- iungual inﬂammation. On the other hand, development of severe paronychia does not appear to be correlated to higher drug concentrations of EGFRis in affected sites.73
+
+Management
+Preventive management of paronychia. Patient education with preventive measures should be systematically pro- moted [IV, B]67 [see Table 6 with level of evidence (LoE) and grade of recommendation (GoR)]. This includes:
+ 
+Gentle skin care instructions given;
+Preventive correction of nail curvature with referral to a podiatrist (if needed);
+Avoidance of repeated friction and trauma/excessive pressure;
+Wearing gloves while cleaning;
+Avoiding biting nails or cutting nails too short;
+The use of antimicrobial soaks and washing with cleansers and water;
+Regular trimming of the nails ensuring that they are straight and not too short;
+Daily application of topical emollients to cuticles and periungual tissues;
+●	Wearing comfortable well-fitting shoes and cotton socks.
+Patients should be closely monitored for early symptoms suggestive of pyogenic granuloma.
+Therapeutic management of paronychia. If lesions remain self-limited, conservative management should be advised: high-potency topical corticosteroids alone or combined with topical antibiotics, silver nitrate chemical cauterisation and taping with stretchable tapes [III, B].67,69,77
+For grade 1 and 2 paronychia, topical povidone iodine 2%
+b.i.d. showed benefit in a controlled study [III, B] (see Table 6).78,79 Oral antibiotics have shown benefit anecdot- ally [IV, B]. More recently, a complete clearance of toenail and fingernail paronychia and/or periungual pyogenic granulomas was reported with topical timolol (0.5% gel,
+b.i.d. under occlusion for 1 month) in eight patients treated with EGFRis.80 Further cryotherapy could be also considered in the treatment of pyogenic granuloma.81
+For intolerable grade 2 or grade 3 paronychia/pyogenic granuloma, surgical treatment with partial nail plate
+ 
+
+ 
+avulsion (or removal of a longitudinal segment of the nail together with the matrix) with physical destruction of excessive granulation tissue is indicated [V, B].23
+
+TAXANE-INDUCED ONYCHOLYSIS
+Incidence
+Onycholysis is defined by the separation of the nail plate from the underlying nail bed. It usually starts from the distal portion of the nail bed, progresses proximally and can involve the entire nail with the formation of a new space.67 Taxane-related onycholysis is very common and repre- sents one of the most prevalent AEs induced by docetaxel or paclitaxel.72 Recently, the overall incidence of taxane- induced nail changes has been systematically investi- gated82; all-grade incidence was 43.7% and 34.9% with
+paclitaxel and docetaxel, respectively.
+It is noteworthy that docetaxel and paclitaxel are the most frequent chemotherapeutic agents inducing nail tox- icities,83 and severe onycholysis almost exclusively occurs with taxanes. However, mild-to-moderate onycholysis can also be noted with other chemotherapeutic agents (e.g. capecitabine, etoposide, cytarabine, cyclophosphamide, doxorubicin or combination therapy) and, to a lesser extent with several targeted therapies (mTOR inhibitors, EGFRis or MEKis).25,67,84
+
+Diagnosis and pathology/molecular biology
+Nail lesions are evident after several weeks of treatment85 because of the slow growth rate of the nail plate. The fin- gernails are more often affected than toenails, although involvement may be diffuse. The onycholytic part of the nail plate becomes opaque, loses its transparency and can take on a black, white, or brown-red colour. The ventral part of the detached plate may also collect debris and secondary bacterial or fungal infection may develop.70 This may cumulate in formation of painful subungual abscesses and haemorrhages and/or loss of the nail plate. Pain may occur due to acute trauma, progression of the detachment or development of a subungual haematoma or abscess with purulent discharge.67,72 Taxane-related onycholysis is sometimes associated with inﬂammatory erythema of dor- sal hands or perimalleolar and Achilles areas (PATEO syndrome).25,72 The nail matrix (melanonychia, true leuko- nychia, Beau’s lines and onychomadesis, brittle nails with ridging and thinning, onychorrhexis and koilonychias) or the periungual tissue (paronychia) may also be affected with taxane therapy.67,72,83
+The pathophysiological origin of onycholysis is not clearly established. Nail changes are dose-related, tend to increase with the number of cycles given and cumulative dose of taxanes. Moreover, onycholysis is more common in patients receiving the once-weekly regimen.84-86 It may be the result of a direct cytotoxic damage to the nail bed epithelium with epidermolysis and the secondary loss of adhesion of the nail plate to the nail bed.25,86 An intrinsic anti-angiogenic ac- tivity of taxanes has also been postulated. Similarly, a
+ 
+phototoxic mechanism for photo-onycholysis has been advanced by some authors but remains to be confirmed.87 The integrity of peripheral nerves appears to be a sub- stantial factor for developing nail unit alterations with tax- anes, suggesting a drug-induced neurotropic effect.88 It is hypothesised that the higher incidence of onycholysis with the weekly paclitaxel regimen (1-h infusion) may be corre- lated to an increased systemic exposure to the cremophor vehicle (paclitaxel solvent).89
+
+Management
+Preventive management of onycholysis. Prophylactic measures should be promoted. They include the daily use of topical emollients (on periungual folds, matrix and nail plate), protective nail lacquers (to limit water loss from the nail plate) and cotton gloves [II, B].67,90,91 Patients should avoid any damaging or irritant regimen, including manipu- lation of the cuticles and nail biting, use of fingernails as ‘tools’ prolonged soaking in water, exposure to solvents or hard chemicals and application of artificial (‘fake’) nails.67,72 Importantly, it was demonstrated that the preventive use of frozen gloves/socks allowed a significant reduction in nail changes from 51% to 11% in fingernails, and from 21% to 0% in the toenails.37,38 The routine use of cryotherapy is considered safe in this context; therefore, frozen gloves (   10 to	30◦C for a total duration of 90 min) and to a lesser extent frozen socks should be systematically advised
+in patients treated with taxanes [II, A]92 (see Table 7).
+Therapeutic management of onycholysis. The impact of taxane-related onycholysis varies but lesions can be very painful and may affect patients both cosmetically and functionally, resulting in treatment interruption or discon- tinuation. In addition, chronic onycholysis may lead to nail bed keratinisation and persistent subungual hyperkerato- sis.72 Consequently, it is fundamental to promote nail reattachment as early as possible, otherwise onycholysis may become permanent. Management of nail onycholysis depends on the clinical grading and the impact on activities of daily living. Once onycholysis develops, it may be necessary to remove the nail plate in cases of severe and/or painful lesions, or when associated with a pressure hae- matoma or subungual abscess [V, A]. The nail bed must be cleaned and cultured at the same time, and any infection should be promptly treated with appropriate topical/oral antibiotics and antiseptics [IV, B].70 The nails should be cut regularly until the nail plate grows reattached (see Table 7).
+
+Recommendations:
+Preventive management of onycholysis:
+
+Provide preventive nail care instructions to patients treated with taxanes (topical emollients, nail lacquers, cotton gloves and avoid any damaging or irritant regimen) [II, B].
+Frozen gloves and frozen socks should be systematically advised in patients treated with taxanes [II, A].
+ 
+
+Table 7. Taxane-induced onycholysis: prevention and treatment
+Severity (CTCAE v5.0)a
+Intervention	LoE	GoR
+Grade 0 prevention	Preventive nail care instructions given (topical emollients, nail lacquers, avoid any damaging or irritant regimen, cotton gloves)
+Consider frozen gloves and frozen socks	II
+
+II	B
+
+A
+Grade 1 treatment
+Asymptomatic separation of the nail bed from the nail plate; or nail loss	Continue drug at current dose and monitor for change in severity; obtain bacterial/viral/fungal cultures if infection is suspected
+If infection, begin oral antibiotics with anti-staphylococcus aureus and gram-positive coverage Reassess after 2 weeks (either by health care professional or patient self-report); if reactions
+worsen or do not improve, proceed to next step	
+
+IV	
+
+B
+Grade 2 treatment	Continue drug at current dose and monitor for change in severity; obtain bacterial/viral/fungal		
+Symptomatic separation of the nail bed	cultures if infection is suspected		
+from the nail plate or nail loss; limiting	If infection, begin oral antibiotics with anti-staphylococcus aureus and gram-positive coverage	IV	B
+instrumental ADLs	If painful haematoma or subungual abscess is suspected, partial or total nail avulsion is required	V	A
+	Reassess after 2 weeks; if reactions worsen or do not improve, interrupt treatment until severity		
+	decreases to G0-1		
+Grade ‡3 (or intolerable grade 2)	Interrupt treatment until severity decreases to G0-1; obtain bacterial/viral/fungal cultures if		
+treatment	infection is suspected; and continue treatment of nail reaction with the following:		
+Severe pain and/or superinfection;	If infection, begin oral antibiotics with anti-staphylococcus aureus and gram-positive coverage	IV	B
+limiting self-care ADLs	If painful haematoma or subungual abscess is suspected, partial or total nail avulsion is required	V	A
+	Reassess after 2 weeks; if reactions worsen or do not improve, discontinuation per protocol may be		
+	discussed		
+ADL, activity of daily living; CTCAE, Common Terminology Criteria for Adverse Events; GoR, grade of recommendation; LoE, level of evidence.
+a Derived from nail loss clinical grading, CTCAE v5.0).
+
+
+ 
+CONCLUSIONS
+Dermatological AEs are frequent and may affect patients at any point during their therapy. It is advisable to use patient- reported tools to measure their severity and their impact on QoL.93,94 Notably, their frequency and severity may be associated with clinical benefit from anticancer therapies, so mitigating these events is of importance to maintaining dose intensity and QoL.
+METHODOLOGY
+These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating procedures for Clinical Practice Guidelines development (http://www. esmo.org/Guidelines/ESMO-Guidelines-Methodology). The relevant literature has been selected by the expert authors. Levels of evidence and grades of recommendation have been applied using the system shown in Supplementary Table S3, available at https://doi.org/10.1016/j.annonc. 2020.11.005.95 Statements without grading were consid- ered justified standard clinical practice by the experts and the ESMO Faculty. This manuscript has been subjected to an anonymous peer review process.
+ACKNOWLEDGEMENTS
+The ESMO Guidelines Committee thank the ESMO Faculty and other experts who provided critical reviews of these ESMO Clinical Practice Guidelines. They also thank the European Cancer Patient Coalition and the following patient organisation for their review: AIMAME. The authors thank Dr. Camilla Leithold for editorial assistance.
+
+FUNDING
+No external funding has been received for the preparation of these guidelines. Production costs have been covered by ESMO from central funds.
+ 
+DISCLOSURE
+MEL has reported consulting or advisory role for Debiopharm, Galderma, Johnson & Johnson, Novocure, Merck Sharp & Dohme, Janssen, Menlo, Novartis, F. Hoffmann-La Roche AG, AbbVie Inc., Amgen, E.R. Squibb & Sons, LLC, EMD Serono, AstraZeneca, Genentech, Loxo, Oncoderm, Seattle Genetics, Bayer, Lutris, Paxman Coolers, onQuality, Novartis, Wiley, Azitra, ADC Therapeutics, QED, Lutris, NCODA, Apricity and Takeda Millennium, he has received research funding from Berg, Veloce, US Biotest, Lutris, Johnson & Johnson, research support from AstraZeneca and Novartis and grants from NIH/ NCI Cancer Center and NIH/NIAMS; VS has reported advisory board and/or honoraria for presentations for Bristol-Myers Squibb, Novartis, Pierre Fabre, Bayer, Incyte and Roche; PAG has reported research funding, advisory board and/or hono- raria for presentations for Bayer, Beiersdorf, Galderma and Novartis; CvdH has reported research funding from Dignitana AB and Paxman Ltd and travel expenses from Paxman Ltd; PF- P has reported advisory role for Janssen, Roche, AbbVie, Merck Sharp & Dohme, Sun Pharmaceuticals, Merck, Novar- tis, Sanofi, Leo and Lilly, and he has conducted clinical trials for Arena, Akaal Pharma, XOMA, Kyowa Hakko Kirin, AbbVie, OncoSec, Lilly, CSL Behring, Boehringer Ingelheim, Pfizer, mRage, Eisai, Jiangsu Hengrui, Bristol-Myers Squibb, Sun Pharma, Novartis, Roche, Galderma, Regeneron, UCB, Glax- oSmithKline and Amgen; DS has reported advisory role for Janssen, Roche, Novartis, Pfizer, Lilly, Sanofi, Merck, Bristol- Myers Squibb, Merck Sharpe & Dohme, AstraZeneca and Boehringer; FJ has reported advisory role for Tesaro, has received honoraria and travel expenses from Tesaro, Merck Sharp & Dohme, Riemser and Amgen; KJ has reported advi- sory board and/or honoraria for presentations for Merck Sharp & Dohme, Merck, Amgen, Hexal, RIEMSER, Helsinn, Tesaro, Kreussler, Voluntis, Pfizer, POMME-med, PharmaMar, prIME Oncology and Onko Update.
+ 
+
+ 
+REFERENCES
+1.	Jordan K, Aapro M, Kaasa S, et al. European Society for Medical Oncology (ESMO) position paper on supportive and palliative care. Ann Oncol. 2018;29:36-43.
+2.	Agha R, Kinahan K, Bennett CL, Lacouture ME. Dermatologic challenges in cancer patients and survivors. Oncology (Williston Park). 2007;21: 1462-1472. discussion 1473, 1476, 1481 passim.
+3.	Hackbarth M, Haas N, Fotopoulou C, et al. Chemotherapy-induced dermatological toxicity: frequencies and impact on quality of life in women’s cancers. Results of a prospective study. Support Care Cancer. 2008;16:267-273.
+4.	Rosen AC, Case EC, Dusza SW, et al. Impact of dermatologic adverse events on quality of life in 283 cancer patients: a questionnaire study in a dermatology referral clinic. Am J Clin Dermatol. 2013;14:327-333.
+5.	Belum VR, Benhuri B, Postow MA, et al. Characterisation and man- agement of dermatologic adverse events to agents targeting the PD-1 receptor. Eur J Cancer. 2016;60:12-25.
+6.	Haanen J, Carbonnel F, Robert C, et al. Management of toxicities from immunotherapy: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2018;29:iv264-iv266.
+7.	Boone SL, Rademaker A, Liu D, et al. Impact and management of skin toxicity associated with anti-epidermal growth factor receptor therapy: survey results. Oncology. 2007;72:152-159.
+8.	Drilon A, Eaton AA, Schindler K, et al. Beyond the dose-limiting toxicity period: dermatologic adverse events of patients on phase 1 trials of the Cancer Therapeutics Evaluation Program. Cancer. 2016;122:1228- 1237.
+9.	Lacouture ME. Mechanisms of cutaneous toxicities to EGFR inhibitors.
+Nat Rev Cancer. 2006;6:803-812.
+10.	Perez-Soler R, Saltz L. Cutaneous adverse effects with HER1/EGFR- targeted agents: is there a silver lining? J Clin Oncol. 2005;23:5235- 5246.
+11.	Eilers RE Jr, Gandhi M, Patel JD, et al. Dermatologic infections in cancer patients treated with epidermal growth factor receptor inhibitor therapy. J Natl Cancer Inst. 2010;102:47-53.
+12.	Abdel-Rahman O, ElHalawani H, Ahmed H. Risk of selected dermato- logical toxicities in cancer patients treated with MEK inhibitors: a comparative systematic review and meta-analysis. Future Oncol. 2015;11:3307-3319.
+13.	Dummer R, Schadendorf D, Ascierto PA, et al. Binimetinib versus dacarbazine in patients with advanced NRAS-mutant melanoma (NEMO): a multicentre, open-label, randomised, phase 3 trial. Lancet Oncol. 2017;18:435-445.
+14.	Anforth R, Liu M, Nguyen B, et al. Acneiform eruptions: a common cutaneous toxicity of the MEK inhibitor trametinib. Australas J Der- matol. 2014;55:250-254.
+15.	Nardone B, Nicholson K, Newman M, et al. Histopathologic and immunohistochemical characterization of rash to human epidermal growth factor receptor 1 (HER1) and HER1/2 inhibitors in cancer pa- tients. Clin Cancer Res. 2010;16:4452-4460.
+16.	Lichtenberger BM, Gerber PA, Holcmann M, et al. Epidermal EGFR controls cutaneous host defense and prevents inﬂammation. Sci Transl Med. 2013;5:199ra111.
+17.	Scope A, Agero AL, Dusza SW, et al. Randomized double-blind trial of prophylactic oral minocycline and topical tazarotene for cetuximab- associated acne-like eruption. J Clin Oncol. 2007;25:5390-5396.
+18.	Jatoi A, Rowland K, Sloan JA, et al. Tetracycline to prevent epidermal growth factor receptor inhibitor-induced skin rashes: results of a placebo-controlled trial from the North Central Cancer Treatment Group (N03CB). Cancer. 2008;113:847-853.
+19.	Jatoi A, Dakhil SR, Sloan JA, et al. Prophylactic tetracycline does not diminish the severity of epidermal growth factor receptor (EGFR) inhibitor-induced rash: results from the North Central Cancer Treat- ment Group (Supplementary N03CB). Support Care Cancer. 2011;19: 1601-1607.
+20.	Lacouture ME, Mitchell EP, Piperdi B, et al. Skin toxicity evaluation protocol with panitumumab (STEPP), a phase II, open-label, random- ized trial evaluating the impact of a pre-emptive skin treatment
+ 
+regimen on skin toxicities and quality of life in patients with metastatic colorectal cancer. J Clin Oncol. 2010;28:1351-1357.
+21.	Melosky B, Anderson H, Burkes RL, et al. Pan Canadian rash trial: a randomized phase III trial evaluating the impact of a prophylactic skin treatment regimen on epidermal growth factor receptor-tyrosine ki- nase inhibitor-induced skin toxicities in patients with metastatic lung cancer. J Clin Oncol. 2016;34:810-815.
+22.	Hofheinz RD, Lorenzen S, Trojan J, et al. EVITA-a double-blind, vehicle- controlled, randomized phase II trial of vitamin K1 cream as prophylaxis for cetuximab-induced skin toxicity. Ann Oncol. 2018;29: 1010-1015.
+23.	Lacouture ME, Anadkat MJ, Bensadoun RJ, et al. Clinical practice guide- lines for the prevention and treatment of EGFR inhibitor-associated dermatologic toxicities. Support Care Cancer. 2011;19:1079-1095.
+24.	Zhao CY, Liu RC, Consuegra G, et al. Epidermal growth factor receptor inhibitor-induced papulopustular eruption successfully treated with low-dose oral dapsone. Australas J Dermatol. 2018;59:e219-e220.
+25.	Miller KK, Gorcey L, McLellan BN. Chemotherapy-induced hand-foot syndrome and nail changes: a review of clinical presentation, etiol- ogy, pathogenesis, and management. J Am Acad Dermatol. 2014;71: 787-794.
+26.	Dummer R, Ascierto PA, Gogas HJ, et al. Overall survival in patients with BRAF-mutant melanoma receiving encorafenib plus binimetinib versus vemurafenib or encorafenib (COLUMBUS): a multicentre, open- label, randomised, phase 3 trial. Lancet Oncol. 2018;19:1315-1327.
+27.	Anforth R, Fernandez-Penas P, Long GV. Cutaneous toxicities of RAF inhibitors. Lancet Oncol. 2013;14:11-18.
+28.	Belum VR, Wu S, Lacouture ME. Risk of hand-foot skin reaction with the novel multikinase inhibitor regorafenib: a meta-analysis. Invest New Drugs. 2013;31:1078-1086.
+29.	Ding F, Liu B, Wang Y. Risk of hand-foot skin reaction associated with VEGFR-TKIs: a meta-analysis of 57 randomized controlled trials involving 24956 patients. J Am Acad Dermatol. 2020;83(3): 788-796.
+30.	Zielinski C, Lang I, Beslija S, et al. Predictive role of hand-foot syn- drome in patients receiving first-line capecitabine plus bevacizumab for HER2-negative metastatic breast cancer. Br J Cancer. 2016;114: 163-170.
+31.	Poprach A, Pavlik T, Melichar B, et al. Skin toxicity and efficacy of sunitinib and sorafenib in metastatic renal cell carcinoma: a national registry-based study. Ann Oncol. 2012;23:3137-3143.
+32.	Stintzing S, Fischer von Weikersthal L, Vehling-Kaiser U, et al. Corre- lation of capecitabine-induced skin toxicity with treatment efficacy in patients with metastatic colorectal cancer: results from the German AIO KRK-0104 trial. Br J Cancer. 2011;105:206-211.
+33.	Lacouture ME, Reilly LM, Gerami P, et al. Hand foot skin reaction in cancer patients treated with the multikinase inhibitors sorafenib and sunitinib. Ann Oncol. 2008;19:1955-1961.
+34.	Lacouture ME, Wu S, Robert C, et al. Evolving strategies for the management of hand-foot skin reaction associated with the multi- targeted kinase inhibitors sorafenib and sunitinib. Oncologist. 2008;13: 1001-1011.
+35.	Ren Z, Zhu K, Kang H, et al. Randomized controlled trial of the pro- phylactic effect of urea-based cream on sorafenib-associated hand-foot skin reactions in patients with advanced hepatocellular carcinoma. J Clin Oncol. 2015;33:894-900.
+36.	Hofheinz RD, Gencer D, Schulz H, et al. Mapisal versus urea cream as prophylaxis for capecitabine-associated hand-foot syndrome: a ran- domized phase III trial of the AIO quality of life working group. J Clin Oncol. 2015;33:2444-2449.
+37.	Scotte F, Tourani JM, Banu E, et al. Multicenter study of a frozen glove to prevent docetaxel-induced onycholysis and cutaneous toxicity of the hand. J Clin Oncol. 2005;23:4424-4429.
+38.	Scotte F, Banu E, Medioni J, et al. Matched case-control phase 2 study to evaluate the use of a frozen sock to prevent docetaxel-induced onycholysis and cutaneous toxicity of the foot. Cancer. 2008;112: 1625-1631.
+39.	Jo SJ, Shin H, Jo S, et al. Prophylactic and therapeutic efficacy of pyr- idoxine supplements in the management of hand-foot syndrome
+ 
+
+ 
+during chemotherapy: a meta-analysis. Clin Exp Dermatol. 2015;40: 260-270.
+40.	Zhang RX, Wu XJ, Wan DS, et al. Celecoxib can prevent capecitabine- related hand-foot syndrome in stage II and III colorectal cancer pa- tients: result of a single-center, prospective randomized phase III trial. Ann Oncol. 2012;23:1348-1353.
+41.	Zhang RX, Wu XJ, Lu SX, et al. The effect of COX-2 inhibitor on capecitabine-induced hand-foot syndrome in patients with stage II/III colorectal cancer: a phase II randomized prospective study. J Cancer Res Clin Oncol. 2011;137:953-957.
+42.	Jordan K, Feyer P, Holler U, et al. Supportive treatments for patients with cancer. Dtsch Arztebl Int. 2017;114:481-487.
+43.	Liu RC, Consuegra G, Fernandez-Penas P. Management of the cuta- neous adverse effects of antimelanoma therapy. Melanoma Manag. 2017;4:187-202.
+44.	Haanen JBAG, Carbonnel F, Robert C, et al. Management of toxicities from immunotherapy: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2017;28:iv119-iv142.
+45.	Paus R, Haslam IS, Sharov AA, et al. Pathobiology of chemotherapy- induced hair loss. Lancet Oncol. 2013;14:50-59.
+46.	Saggar V, Wu S, Dickler MN, et al. Alopecia with endocrine therapies in patients with cancer. Oncologist. 2013;18:1126-1134.
+47.	Gallicchio L, Calhoun C, Helzlsouer K. A prospective study of aromatase inhibitor therapy initiation and self-reported side effects. Support Care Cancer. 2017;25:2697-2705.
+48.	Freites-Martinez A, Azael. The MASCC Textbook of Cancer Supportive Care and Survivorship. New York, NY: Springer International Publishing; 2018.
+49.	Freites-Martinez A, Shapiro J, Chan D, et al. Endocrine therapy-induced alopecia in patients with breast cancer. JAMA Dermatol. 2018;154:670- 675.
+50.	Freites-Martinez A, Shapiro J, Goldfarb S, et al. Hair disorders in pa- tients with cancer. J Am Acad Dermatol. 2019;80:1179-1196.
+51.	Nangia J, Wang T, Osborne C, et al. Effect of a scalp cooling device on alopecia in women undergoing chemotherapy for breast cancer: the SCALP randomized clinical trial. JAMA. 2017;317:596-605.
+52.	Rugo HS, Voigt J. Scalp hypothermia for preventing alopecia during chemotherapy. A systematic review and meta-analysis of randomized controlled trials. Clin Breast Cancer. 2018;18:19-28.
+53.	Sahadevan SW, Ding SR, Del Priore G. Hair “regrowth” during chemotherapy after scalp cooling technique. Int J Dermatol. 2016;55: 463-465.
+54.	Rugo HS, Melin SA, Voigt J. Scalp cooling with adjuvant/neoadjuvant chemotherapy for breast cancer and the risk of scalp metastases: systematic review and meta-analysis. Breast Cancer Res Treat. 2017;163:199-205.
+55.	Witman G, Cadman E, Chen M. Misuse of scalp hypothermia. Cancer Treat Rep. 1981;65:507-508.
+56.	Lemieux J, Desbiens C, Hogue JC. Breast cancer scalp metastasis as first metastatic site after scalp cooling: two cases of occurrence after 7- and 9-year follow-up. Breast Cancer Res Treat. 2011;128:563-566.
+57.	Stander S, Weisshaar E, Mettang T, et al. Clinical classification of itch: a position paper of the International Forum for the Study of Itch. Acta Derm Venereol. 2007;87:291-294.
+58.	Ensslin CJ, Rosen AC, Wu S, et al. Pruritus in patients treated with targeted cancer therapies: systematic review and meta-analysis. J Am Acad Dermatol. 2013;69:708-720.
+59.	Santoni M, Conti A, Andrikou K, et al. Risk of pruritus in cancer patients treated with biological therapies: a systematic review and meta- analysis of clinical trials. Crit Rev Oncol Hematol. 2015;96:206-219.
+60.	Wang Y, Zhou S, Yang F, et al. Treatment-related adverse events of PD-1 and PD-L1 inhibitors in clinical trials: a systematic review and meta- analysis. JAMA Oncol. 2019;5:1008-1019.
+61.	Roe E, Garcia Muret MP, Marcuello E, et al. Description and manage- ment of cutaneous side effects during cetuximab or erlotinib treat- ments: a prospective study of 30 patients. J Am Acad Dermatol. 2006;55:429-437.
+62.	Monroe EW. Relative efficacy and safety of loratadine, hydroxyzine, and placebo in chronic idiopathic urticaria and atopic dermatitis. Clin Ther. 1992;14:17-21.
+63.	 
+Shneker BF, McAuley JW. Pregabalin: a   new   neuromodulator with broad therapeutic indications. Ann Pharmacother. 2005;39:2029- 2037.
+64.	Porzio G, Aielli F, Verna L, et al. Efficacy of pregabalin in the man- agement of cetuximab-related itch. J Pain Symptom Manage. 2006;32: 397-398.
+65.	Santini D, Vincenzi B, Guida FM, et al. Aprepitant for management of severe pruritus related to biological cancer treatments: a pilot study. Lancet Oncol. 2012;13:1020-1024.
+66.	Ito J, Fujimoto D, Nakamura A, et al. Aprepitant for refractory nivolumab-induced pruritus. Lung Cancer. 2017;109:58-61.
+67.	Robert C, Sibaud V, Mateus C, et al. Nail toxicities induced by systemic anticancer treatments. Lancet Oncol. 2015;16:181-189.
+68.	Macdonald JB, Macdonald B, Golitz LE, et al. Cutaneous adverse effects of targeted therapies: part II: inhibitors of intracellular molecular signaling pathways. J Am Acad Dermatol. 2015;72:221-236. quiz 237-228.
+69.	Kiyohara Y, Yamazaki N, Kishi A. Erlotinib-related skin toxicities: treat- ment strategies in patients with metastatic non-small cell lung cancer. J Am Acad Dermatol. 2013;69:463-472.
+70.	Garden BC, Wu S, Lacouture ME. The risk of nail changes with epidermal growth factor receptor inhibitors: a systematic review of the literature and meta-analysis. J Am Acad Dermatol. 2012;67:400- 408.
+71.	Chen KL, Lin CC, Cho YT, et al. Comparison of skin toxic effects asso- ciated with gefitinib, erlotinib, or afatinib treatment for non-small cell lung cancer. JAMA Dermatol. 2016;152:340-342.
+72.	Sibaud V, Leboeuf NR, Roche H, et al. Dermatological adverse events with taxane chemotherapy. Eur J Dermatol. 2016;26:427-443.
+73.	Masago K, Irie K, Fujita S, et al. Relationship between paronychia and drug concentrations of epidermal growth factor receptor tyrosine ki- nase inhibitors. Oncology. 2018;95:251-256.
+74.	Eames T, Grabein B, Kroth J, et al. Microbiological analysis of epidermal growth factor receptor inhibitor therapy-associated paronychia. J Eur Acad Dermatol Venereol. 2010;24:958-960.
+75.	Virgen CA, Belum VR, Kamboj M, et al. The microbial ﬂora of taxane therapy-associated nail disease in cancer patients. J Am Acad Derma- tol. 2018;78:607-609.
+76.	Ho PH, Lin IC, Yang X, et al. Using a novel scoring system for paronychia related to oncologic treatments (SPOT) for assessing paronychia severity and its correlation with pain index and quality of life. J Eur Acad Dermatol Venereol. 2019;33:204-212.
+77.	Piraccini BM, Bellavista S, Misciali C, et al. Periungual and subungual pyogenic granuloma. Br J Dermatol. 2010;163:941-953.
+78.	Capriotti K, Capriotti JA. Chemotherapy-associated paronychia treated with a dilute povidone-iodine/dimethylsulfoxide preparation. Clin Cosmet Investig Dermatol. 2015;8:489-491.
+79.	Capriotti K, Capriotti J, Pelletier J, et al. Chemotherapy-associated paronychia treated with 2% povidone-iodine: a series of cases. Cancer Manag Res. 2017;9:225-228.
+80.	Cubiro X, Planas-Ciudad S, Garcia-Muret MP, et al. Topical timolol for paronychia and pseudopyogenic granuloma in patients treated with epidermal growth factor receptor inhibitors and capecitabine. JAMA Dermatol. 2018;154:99-100.
+81.	Mirshams M, Daneshpazhooh M, Mirshekari A, et al. Cryotherapy in the treatment of pyogenic granuloma. J Eur Acad Dermatol Venereol. 2006;20:788-790.
+82.	Capriotti K, Capriotti JA, Lessin S, et al. The risk of nail changes with taxane chemotherapy: a systematic review of the literature and meta- analysis. Br J Dermatol. 2015;173:842-845.
+83.	Minisini AM, Tosti A, Sobrero AF, et al. Taxane-induced nail changes: incidence, clinical presentation and outcome. Ann Oncol. 2003;14:333- 337.
+84.	Gilbar P, Hain A, Peereboom VM. Nail toxicity induced by cancer chemotherapy. J Oncol Pharm Pract. 2009;15:143-155.
+85.	Winther D, Saunte DM, Knap M, et al. Nail changes due to docetaxelda neglected side effect and nuisance for the patient. Support Care Cancer. 2007;15:1191-1197.
+86.	Piraccini BM, Alessandrini A. Drug-related nail disease. Clin Dermatol. 2013;31:618-626.
+ 
+
+ 
+87.	Hussain S, Anderson DN, Salvatti ME, et al. Onycholysis as a compli- cation of systemic chemotherapy: report of five cases associated with prolonged weekly paclitaxel therapy and review of the literature. Cancer. 2000;88:2367-2371.
+88.	Baran R, Robert C, Sibaud V. Asymmetric acral spared phenomenon related to systemic anticancer therapies. Skin Appendage Disord. 2018;4:315-319.
+89.	Schepisi G, Conteduca V, Lolli C, et al. Taxane-related nail toxicity.
+Lancet Oncol. 2015;16:310-311.
+90.	Thomas R,Williams M, Cauchi M, et al. A double-blind, randomised trial of a polyphenolic-rich nail bed balm for chemotherapy-induced onycholysis: the UK polybalm study. Breast Cancer Res Treat. 2018;171:103-110.
+91.	Kim JY, Ok ON, Seo JJ, et al. A prospective randomized controlled trial of hydrating nail solution for prevention or treatment of onycholysis in breast cancer patients who received neoadjuvant/adjuvant docetaxel chemotherapy. Breast Cancer Res Treat. 2017;164:617-625.
+92.	 
+Marks DH, Qureshi A, Friedman A. Evaluation of prevention in- terventions for taxane-induced dermatologic adverse events: a sys- tematic review. JAMA Dermatol. 2018;154:1465-1472.
+93.	Chan A, Cameron MC, Garden B, et al. A systematic review of patient- reported outcome instruments of dermatologic adverse events asso- ciated with targeted cancer therapies. Support Care Cancer. 2015;23: 2231-2244.
+94.	Reeve BB, McFatrich M, Mack JW, et al. Validity and reliability of the pediatric patient-reported outcomes e Common Terminology Criteria for Adverse Events. J Natl Cancer Inst. 2020;112(11):1143- 1152.
+95.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis. 2001;33:139-144 (Adapted from: Gross PA, Barrett TL, Del- linger EP, et al. Purpose of quality standards for infectious diseases. Clin Infect Dis. 1994;18:421).

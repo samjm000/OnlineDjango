@@ -1,0 +1,590 @@
+
+
+
+
+
+ SPECIAL ARTICLE	
+
+Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline5
+C. Sessa1, J. Balmaña2, S. L. Bober3, M. J. Cardoso4, N. Colombo5,6, G. Curigliano7,8, S. M. Domchek9, D. G. Evans10,11,
+D. Fischerova12, N. Harbeck13, C. Kuhl14, B. Lemley15,16, E. Levy-Lahad17, M. Lambertini18,19, J. A. Ledermann20, S. Loibl21, K.-A. Phillips22 & S. Paluch-Shimon23, on behalf of the ESMO Guidelines Committee*
+1Medical Oncology, Oncology Institute of Southern Switzerland, EOC, Bellinzona, Switzerland; 2Medical Oncology Hospital Vall d’Hebron and Hereditary Cancer Genetics Group, Vall d’Hebron Institut of Oncology, Barcelona, Spain; 3Department of Psychosocial Oncology and Palliative Care, Dana-Farber Cancer Institute/Harvard Medical School, Boston, USA; 4Champalimaud Foundation, Breast Unit and Faculdade de Medicina, Lisbon, Portugal; 5Department of Gynecologic Oncology, Istituto Europeo di Oncologia e IRCCS, Milan; 6Department of Medicine and Surgery, University of Milano-Bicocca, Milan; 7Early Drug Development for Innovative Therapies Division, Istituto Europeo di Oncologia, IRCCS, Milan; 8Department of Oncology and Hemato-Oncology, University of Milano, Milan, Italy; 9Basser Center for BRCA, Abramson Cancer Center, University of Pennsylvania, Philadelphia, USA; 10Manchester Centre for Genomic Medicine, Division of Evolution Infection and Genomic Sciences, University of Manchester, MAHSC, Manchester; 11Manchester Centre for Genomic Medicine, MAHSC, St Mary’s Hospital, Manchester University Hospitals NHS Foundation Trust, Manchester, UK; 12Gynecologic Oncology Center, Department of Obstetrics and Gynecology, First Faculty of Medicine, Charles University and General University Hospital in Prague, Prague, Czech Republic; 13Breast Center, Department of Obstetrics & Gynecology and Comprehensive Cancer Center Munich, LMU University Hospital, Munich; 14Department of Diagnostic and Interventional Radiology, University Hospital Aachen, University Hospital Aachen (UKA), RWTH Aachen, Germany; 15KIU e Patient Organisation for Women with Gynaecological Cancer, Copenhagen, Denmark; 16Clinical Trials Project, ESGO ENGAGe, Prague, Czech Republic; 17Medical Genetics Institute, Shaare Zedek Medical Center; Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem, Israel; 18Department of Internal Medicine and Medical Specialties (DiMI), School of Medicine, University of Genova, Genova; 19Department of Medical Oncology, U.O. Clinica di Oncologia Medica, IRCCS Ospedale Policlinico San Martino, Genoa, Italy; 20Department of Oncology, UCL Cancer Institute, University College London and UCL Hospitals, London, UK; 21GBG Forschungs GmbH, Neu-Isenburg, Germany; 22Department of Medical Oncology, Peter MacCallum Cancer Centre and The Sir Peter MacCallum Department of Oncology, The University of Melbourne, Melbourne, Australia; 23Sharett Institute of Oncology Department, Hadassah University Hospital & Faculty of Medicine Hebrew University, Jerusalem, Israel
+
+
+Available online 25 October 2022
+
+
+
+ 
+
+INCIDENCE AND EPIDEMIOLOGY
+Hereditary breast and ovarian cancer syndrome (HBOC) is clinically defined by family history criteria, and molecularly defined by identification of germline pathogenic variants (PVs) in clinically validated HBOC genes.1 These genes are broadly classified as high-risk genes, increasing breast and/ or tubo-ovarian cancer risk by at least fourfold, and moderate-risk genes, increasing risk by two- to fourfold (Table 1). There is a large overlap between clinical and molecular HBOC, i.e. individuals with both family history and a PV. The genetic basis of about half of clinical HBOC, however, is currently unknown or unexplained by single- gene variants,2 and conversely, approximately half of in- dividuals who harbour PVs in HBOC genes do not have a suggestive family history.3
+
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5Note:  Approved  by  the  ESMO  Guidelines  Committee:  August  2016,  last update October 2022. This publication supersedes the previously published versiondAnn Oncol 2016;27(Suppl 5):v103-v110.
+0923-7534/© 2022 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+ 
+
+Studies of the prevalence of clinical and molecular HBOC are largely based on high-risk genes in individuals of Caucasian/European ancestry, whereas population-level data in unaffected persons are limited. Clinically, HBOC has been estimated to underlie w10% of breast cancers. Molecularly, w6% of breast cancer patients harbour PVs in HBOC genes: about half (w3%) in BRCA1, BRCA2 and other high-risk genes (e.g. PALB2), and half (w3%) in moderate- risk genes (e.g. ATM, CHEK2).4,5 The remaining 4% are yet unidentified factors that may be genetic, environmental or a combination of both. In patients with high-grade ovarian cancer, germline PVs are identified in w15% of cases.6
+Based on objectively determined genealogy and cancer incidence data, w12% of unaffected individuals have family history fulfilling the National Comprehensive Cancer Network (NCCN) testing criteria,7 a rough surrogate for clinical HBOC. The prevalence of molecular HBOC in unaf- fected individuals varies based on family history and ethnicity. Family history is incorporated into tools to predict the probability of harbouring a hereditary PV8,9dsome populations harbour founder PVs with high carrier fre- quencies, e.g. 2.5% (1:40) for the three BRCA1 and BRCA2 founder PVs in Ashkenazi Jews,10 and 0.7%-0.8%
+ 
+
+Volume 34 ■ Issue 1 ■ 2023	https://doi.org/10.1016/j.annonc.2022.10.004	33
+ 
+Annals of Oncology	C. Sessa et al.
+
+
+
+
+Table 1. Lifetime cancer risks in HBOC-associated PVs
+Breast cancera
+Tubo-ovarian	cancersb
+Pancreatic	cancerc
+Colon cancerd
+Other cancers
+ATM	Yes
+25%-30%	Yes
+≤5%	Yes
+<5%	No	Prostate 30%
+BARD1	Yes
+w20%	No	No	No	No
+BRCA1	Yes
+>60%	Yes
+40%-60%	Yes
+<5%	No	
+BRCA2	Yes
+>60%	Yes
+15%-30%	Yes
+<5%	No	Prostate 33%
+BRIP1	No	Yes
+5%-10%	No	No	No
+CDH1	Yes (LBC) 40%	No	No	No	Diffuse gastric cancer 35%-45%
+CHEK2	Yes
+25%-30%	No	No	Yes 15%	
+PALB2	Yes
+40%-60%	Yes 3%-5%	Yes 2%-3%	No	No
+PTEN	Yes 40%	No	No	Yes 10%	Thyroid 20%; endometrial 20%
+RAD51C	Yes 20%	Yes 10%	No	No	No
+RAD51D	Yes 10%	Yes 10%	No	No	No
+STK11	Yes 40%	No	Yes
+10%-30%	Yes 30%	Gastric 30%; Sertoli-Leydig 10%-20%
+TP53	Yes 40%	No	Possibly	Possibly	Sarcoma, brain, leukaemia, adrenocortical carcinoma
+HBOC, hereditary breast and ovarian cancer syndrome; LBC, lobular breast cancer; PV, pathogenic variant. Lifetime risk in general ‘average-risk’ population:
+abreast cancer 11%.
+bovarian cancer 1.3%.
+cpancreatic cancer 1.6%.
+dcolon cancer 4%.
+
+ 
+(1:125-140) for the BRCA2 founder PV in Iceland.11 Studies carried out in non-founder populations, largely of in- dividuals with Caucasian/European ancestry, suggest that the carrier frequency for high-risk genes (i.e. BRCA1, BRCA2, PALB2) is approximately 1:150,12-14 which is consistent with early epidemiological estimates and is discussed further in Section 1 of the Supplementary Material, available at https://doi.org/10.1016/j.annonc.2022.10.004.
+
+Recommendations
+Individuals with significant family history should be offered genetic testing using multigene panels of clini- cally validated HBOC genes [A].
+Clinicians should be aware that family history-based testing misses about half of HBOC syndrome gene car- riers, and strategies to identify these high-risk individuals are being developed [A].
+
+POST-TEST COUNSELLING AND FOLLOW-UP OF INDIVIDUALS WITH HBOC
+Genetic counselling
+Once HBOC syndrome is identified, genetic counselling should address the medical and potential psychological implications for both individuals and their families. Medical implications include impact on treatment of any current
+ 
+cancer and interventions for prevention or early detection of future cancers. Discussion of risks should include the risks for specific types of cancers compared with the pop- ulation risks.15 As much as possible, risk assessment should be comprehensive and tailored, incorporating not only the specific gene and variant identified, but also other individ- ual risk factors, both non-genetic (e.g. age, reproductive history) and genetic.16 Available, validated online tools that can aid in this evaluation include CanRisk (https://www. canrisk.org/). Risk reduction and screening recommenda- tions should be evidence-based, where available, and include discussion of personal circumstances and prefer- ences (e.g. family history, family planning and reproductive options).17 Counselling must include clear explanations of familial implications, indicating which relatives, both female and male, need to be informed and offered counselling and testing in addition to counselling on reproductive implica- tions and options [e.g. pregestational testing (PGT)]. Currently, testing is recommended only in adult relatives (except for TP53), although this is an evolving topic.17,18 The age of testing of adults can be based on legal adulthood (18 years in most countries) or on the age of potential medical actionability of the PV, which is from approximately age 25. Timing of testing should be tailored to family history, pa- tient preference and if PGT is being considered. Strategies that improve familial testing, including allowing direct communication by the medical team, should be sought.
+ 
+
+34	https://doi.org/10.1016/j.annonc.2022.10.004	Volume 34 ■ Issue 1 ■ 2023
+ 
+C. Sessa et al.	Annals of Oncology
+
+ 
+Follow-up
+Follow-up is a lifelong endeavour for individuals with HBOC, who manage complex schedules of serial imaging, risk- reducing surgeries (RRSs), risk-reducing medications (RRMeds) and ensuing quality-of-life (QoL) issues. This is best undertaken in specialised, multidisciplinary high-risk clinics including imaging services, gynaecologists, breast and plastic surgeons, genetic counsellors, psychologists and linked oncologists. Such clinics have several advantages: (i) clinical expertise in the high-risk setting, including access to clinical trials; (ii) continuity of care, including updating risk assessment and recommendations based on new evidence;
+(iii) consistency of caredensuring that patients do not
+receive conﬂicting recommendations; and (iv) a bio- psychosocial approach that provides emotional as well as medical support.
+
+Recommendations
+Post-test genetic counselling should include discussion of medical and psychological implications for both the indi- vidual and the family [A].
+Risk management should be individualised and, when available, validated tools should be used to aid decision making [B].
+Risk management should be carried out in specialised high-risk clinics that are multidisciplinary and include psychologists where possible [A].
+Enhancing awareness and availability of testing in at-risk relatives should be a priority [A].
+
+
+BREAST CANCER RISK MANAGEMENT
+Imaging screening for women with high-risk PVs (BRCA1, BRCA2, PALB2)
+Recommendations for breast cancer screening and risk reduction in carriers of BRCA1 and BRCA2 PVs are shown in Figures 1 and 2.
+In the presence of a PV in BRCA1, BRCA2 or PALB2, screening should commence 5 years before the youngest affected family member, or latest at age 30. Clinical breast examination is of no value as a screening tool.19 Young age is associated with a higher breast density, which interferes with mammographic detection of breast cancer.20 Magnetic resonance imaging (MRI) has consistently demonstrated improved early diagnosis of cancer compared with digital mammography and/or ultrasound in women with or without causative PVs.21,22 Breast cancer among women with BRCA1 PVs exhibits fast growth rates more often than sporadic breast cancer. This shortens the ‘lead time’, i.e. the time available to detect the cancer while it is still in a subclinical phase, and explains the need for closer screening intervals, particularly for BRCA1 carriers. In fact, for carriers of a BRCA1 PV, 6-monthly screening is recommended.23 For BRCA1 carriers, there appears to be little benefit of addi- tional mammographic screening, irrespective of age; how- ever, in BRCA2 carriers, there may be some added benefit,
+ 
+with no data on PALB2.24-27 Whereas 6-monthly MRI would be the optimal strategy for BRCA1 PV carriers,23 in most countries, 6-monthly screening MRI is not available; thus, annual MRI may be supplemented (in between the annual MRIs) by ultrasound or mammography depending on age, availability and local guidelines.
+There are no data on a cessation date of MRI for screening. Current guidelines recommend continuing MRI for as long as the woman is in good health.28 Of note, it is not only breast density that drives the lower sensitivity of other breast imaging modalities in PV carriers. Accordingly, it is not recommended to ‘switch’ to mammography screening once density decreases with increasing age.
+Retrospective	studies	demonstrate	that	‘intensified screening’ results in earlier breast cancer diagnosis and improved outcomes.29 ‘Intensified screening’ is defined as screening beyond the level recommended for individuals at average risk. It includes (i) the recommended age of screening onset, (ii) the recommended screening intervals and (iii) the methods involved for screening, as outlined in the summary recommendations below. ‘Intensified screening’ is also cost- effective.30 Risk-reducing mastectomy (RRM) results in a remaining breast cancer risk lower than that of average risk women with natural breasts. Routine intensified screening is not indicated following RRM; however, a baseline MRI in the first year after RRM to evaluate the amount of residual breast tissue is reasonable and further decisions on whether any imaging screening is mandated should be made on a case-by- case basis. Although there is no available evidence on adopt- ing this approach, it is suggested in order to compensate for the variable surgical styles with which skin-sparing and nipple- sparing RRM is carried out. Of note, there are no validated tools for measuring and quantifying residual breast tissue or for defining the amount of residual tissue that justifies or requires continued surveillancedthis is an important area for research. In women with ovarian cancer (including early and advanced stages at diagnosis) in a prolonged remission, intensified breast screening should be considered. Based on data from maintenance poly (ADP-ribose) polymerase (PARP) inhibitor trials in this population, it is reasonable to consider a ‘prolonged remission’ as being free from recur-
+rence for at least 3 years from diagnosis.
+Institutions that offer screening of HBOC families must establish the same rigorous quality assurance for MRI as done for mammography screening; clinical experience with magnetic resonance (MR)-guided vacuum-assisted biopsy must be available. There are ongoing initiatives in Europe and the United States to collect evidence on the long-term safety of repeated gadolinium exposure; however, to date there are no data to suggest adverse outcomes in the absence of renal insufficiency.
+
+Recommendations
+Women with HBOC should be offered intensified screening if they do not opt for RRM [A].
+Breast MRI should be considered the essential compo- nent of intensified screening programmes [A].
+ 
+
+Volume 34 ■ Issue 1 ■ 2023	https://doi.org/10.1016/j.annonc.2022.10.004	35
+ 
+Annals of Oncology	C. Sessa et al.
+
+Figure 1. Breast and ovarian cancer screening and risk reduction: BRCA1.
+Grade of recommendation is shown in square brackets. Purple: general categories or stratification; red: surgery; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+BC, breast cancer; BRRM, bilateral risk-reducing mastectomy; CA-125, cancer antigen 125; MRI, magnetic resonance imaging; PV, pathogenic variant; RRBSO, risk- reducing bilateral salpingo-oophorectomy; RRMed, risk-reducing medication; RRS, risk-reducing surgery; TVUS, transvaginal ultrasound; US, ultrasound.
+
+ 
+In the presence ofa BRCA1, BRCA2 or PALB2 PVs, intensified screening should start at age 30, or 5 years younger than the youngest family member with breast cancer [A].
+There is currently no evidence on the appropriate end date of intensified screening; it is suggested to base the decision on individual factors such as breast density, comorbidities and the patient’s priorities [C].
+Annual screening intervals are recommended, except for BRCA1 where 6-monthly screening should be considered [A].
+If 6-monthly screening is considered, this may be best achieved by annual MRI and, depending on availability, resources and local guidelines, the following imaging may be considered in between annual MRI studies:
+o in carriers 30-39 years of age, ultrasound with or without mammography [C].
+o in carriers 40 years of age, mammography with or without ultrasound [C].
+●	There is no evidence to support continued routine breast
+ 
+recurrence in a prolonged remission, intensified breast screening should be considered [C].
+There should be rigorous quality assurance of intensified screening programmes, including benchmarking of pro- gramme sensitivity, false-positive rate and recall rates and availability of MR-guided biopsy [A].
+Lifestyle factors and breast cancer risk
+All studies of lifestyle factors and hereditary breast cancer risk are observational, with potential for bias and residual confounding. Many risk factors confer consistent relative risks (RRs) across the risk spectrum, resulting in greater absolute increases for those with higher underlying genetic risk. Studies of BRCA1/2 PV carriers are limited by relatively small sample sizes and selection bias, but findings are mostly consistent with those for the general population.
+Physical inactivity and being overweight postmenopausally are associated with increased breast cancer risk in those at increased familial risk.31,32 Breastfeeding is associated with
+ 
+imaging after RRM [D]. A baseline MRI in the first year after RRM to evaluate the amount of residual breast tis- sue is reasonable, however, and further decisions on im- aging screening should be made accordingly on a case- by-case basis [C].
+Women in follow-up after breast-conserving treatment or unilateral mastectomy for non-metastatic hereditary breast cancer should continue with intensified screening [A].
+In women with ovarian cancer (including early and advanced stages at diagnosis) with no evidence of
+ 
+reduced breast cancer risk for BRCA1 PV carriers, but less so for BRCA2,33,34 which is consistent with studies in the general population demonstrating a stronger inverse association for estrogen receptor-negative disease. Conversely, the inverse associations with breast cancer risk seen in the general population for earlier age at first birth and higher parity are less clear for BRCA1/2 PV carriers.33,34 Current use of hor- monal contraceptives and combined hormone replacement therapy (HRT) is associated with increased breast cancer risk in the general population;35,36 but whether this holds true for
+ 
+
+36	https://doi.org/10.1016/j.annonc.2022.10.004	Volume 34 ■ Issue 1 ■ 2023
+ 
+C. Sessa et al.	Annals of Oncology
+
+Figure 2. Breast and ovarian cancer screening and risk reduction: BRCA2.
+Grade of recommendation is shown in square brackets. Purple: general categories or stratification; red: surgery; turquoise: combination of treatments or other systemic treatments; white: other aspects of management.
+BC, breast cancer; BRRM, bilateral risk-reducing mastectomy; CA-125, cancer antigen 125; MRI, magnetic resonance imaging; PV, pathogenic variant; RRBSO, risk- reducing bilateral salpingo-oophorectomy; RRMed, risk-reducing medication; RRS, risk-reducing surgery; TVUS, transvaginal ultrasound; US, ultrasound.
+
+ 
+BRCA1/2 PV carriers is less clear.34,37,38 Although alcohol is associated with increased risk for breast cancer in the general population,39 studies have not demonstrated a clear associ- ation for BRCA1/2 PV carriers.34,40
+Recommendations
+Physical exercise most days at moderate or strenuous in- tensity should be encouraged if appropriate (more is bet- ter); avoid being overweight or obese and encourage breastfeeding [B].
+Minimise alcohol intake [C].
+Decisions about hormonal contraception should weigh the possible increase in breast cancer risk against contra- ceptive efficacy, convenience and reduction in risk of ovarian cancer [C].
+Risk-reducing medication
+RRMed is an option for women who postpone, or do not undergo, elective bilateral RRM (BRRM). In randomised placebo-controlled trials for women with an elevated life- time risk (LTR) of breast cancer (genetic status was only available in a very small subset of these women), the se- lective estrogen receptor modulators, tamoxifen and ral- oxifene, and the aromatase inhibitors, anastrozole and exemestane, reduced breast cancer incidence by w30%- 60%, especially estrogen receptor-positive disease. The ab- solute risk of serious side-effects was low, particularly for premenopausal women.41 Five years of daily tamoxifen (20 mg) or anastrozole (1 mg) reduces risk for at least 20 and 10
+ 
+years, respectively. Lower dose, shorter-duration tamoxifen is an option if the 20 mg dose is not tolerated. Tamoxifen is the only option for premenopausal women. Side-effect profiles should be considered when choosing between agents for postmenopausal women, including risks of thrombosis, endometrial cancer and osteoporosis.
+Data pertaining specifically to women with PVs in germ- line predisposition genes are extremely limited. The un- derpowered LIBER trial showed no reduction in first breast cancers in carriers of BRCA1/2 PVs randomised to letrozole versus placebo.42 A subgroup analysis of the effect of tamoxifen for individuals with BRCA1 and BRCA2 in the NSABP-P1 trial was too small and thus uninterpretable.43 Observational studies of tamoxifen and aromatase in- hibitors for risk reduction of contralateral breast cancer have suggested benefits for carriers of both BRCA1 and BRCA2 PVs.44 There are no data pertaining to PVs in other breast cancer predisposition genes.
+
+Recommendation
+RRMeds can be considered for primary risk reduction of breast cancer and risk reduction of contralateral disease in women who decline BRRM, or who have a risk level that does not warrant surgery [C].
+
+Risk-reducing surgery
+BRRM is the most effective method for reducing breast cancer risk among BRCA1/2 PV carriers.45 High-risk carriers
+ 
+
+Volume 34 ■ Issue 1 ■ 2023	https://doi.org/10.1016/j.annonc.2022.10.004	37
+ 
+Annals of Oncology	C. Sessa et al.
+
+ 
+who may wish to consider RRM are those with PVs in other high-risk genes: TP53, PTEN, STK11, CDH1 and PALB2. For these rare and less known PVs, RRM should be discussed after careful consideration of individualised risk assess- ment.46 In all affected high-risk PV carriers, contralateral RRM (CRRM) lessens the incidence of contralateral breast cancer without proven impact on overall survival.45,47
+BRRM reduces the risk of breast cancer by w90% depending on the study and type of surgery carried out.45 No randomised controlled studies of this procedure have been carried out. One study reported a benefit in disease- specific survival in BRCA1 carriers despite limitations in the control group.48
+The benefits of RRM are likely greatest if carried out from the age of 30 (until the age of 30, the cumulative risk of breast cancer for BRCA1 and BRCA2 carriers is only 4%);49 however, beyond age 55, the evidence for benefit is weak.50 Ultimately, the decision regarding if and when to perform RRM is determined by patient preference and may be inﬂuenced by family history.
+BRRM is an extensive procedure that needs to be care- fully discussed taking into consideration benefits, compli- cations and psychosocial impact.51 A variety of techniques exist: ranging from total mastectomy (TM) to skin-sparing mastectomy (SSM) and nipple-sparing mastectomy (NSM), which aim to improve cosmetic results. Limited data sug- gest NSM provides similar risk reduction and possibly su- perior cosmetic outcomes than TM or SSM; however, follow-up is limited.52 Immediate breast reconstruction should be offered.
+
+Recommendations
+BRRM is the most effective method for reducing breast cancer risk for BRCA1/2 carriers and should be discussed in the context of individually tailored decision making [B].
+BRRM should be discussed in carriers of other high-risk genes alongside family historydTP53, PTEN, STK11, CDH1 and PALB2 [C].
+NSM is a reasonable alternative to TM [C].
+Immediate reconstruction is safe and should be offered [C].
+In women with stage I-III high-risk PV-associated breast cancer (not including TP53), breast conservation with therapeutic radiation is a safe alternative to RRM. RRM should be considered within the context of disease prog- nosis, risks and benefits and patient preference [C].
+In women with ovarian cancer (including early and advanced stages at diagnosis) in a prolonged remission, RRM may be considered on a case-by case basis [C].
+
+OVARIAN CANCER RISK MANAGEMENT
+Imaging and screening
+Recommendations for ovarian cancer screening and risk reduction in carriers of BRCA1 and BRCA2 PVs are shown in Figures 1 and 2.
+ 
+All studies of ovarian and fallopian tube cancer screening in HBOC carriers are observational. Potential benefits of screening based on transvaginal ultrasound and a cancer antigen 125 (CA-125) test include disease downstaging and higher rates of complete resection with lower surgical complexity.53,54 However, it remains unknown whether screening improves survival in high-risk women (see Section 2 of the Supplementary Material, available at https://doi.org/ 10.1016/j.annonc.2022.10.004). False positive results may lead to unnecessary surgery, which is of particular concern in women below the age at which risk-reducing bilateral salpingo-oophorectomy (RRBSO) is recommended or those who have not completed childbearing.53,54 An experienced sonographer (level 3 practitioner) can distinguish between benign and malignant ovarian tumours to avoid unnecessary surgeries.55 Identifying specific histological subtypes, such as high-grade serous cancer, which is the most frequently rep- resented cancer among BRCA1/2 PV carriers, is desirable.56
+There are no data to support ongoing gynaecological screening after RRBSO.
+
+Recommendations
+Although of uncertain benefit, ovarian screening with transvaginal ultrasound every 6 months and serum CA- 125 determination may be considered starting at the age at which RRBSO is offered (and until RRBSO is car- ried out). Clear benefits of RRBSO alongside the limita- tions and harms of screening should be communicated to patients [C].
+Screening, if carried out, should be provided in tertiary care/high-volume centres under structured screening protocols by an experienced sonographer [C].
+There is no evidence to support routine screening after RRBSO [D].
+
+
+Lifestyle factors and risk-reducing medication
+Use of the oral contraceptive pill (OCP) is associated with 40%-60% lower risk for ovarian cancer.34 As noted earlier, however, there are conﬂicting data on whether OCP in- creases breast cancer risk amongst BRCA1/2 carriers.34,37 The long-term clinical significance of OCP use as a risk- reduction measure for ovarian cancer is unclear, given that PV carriers are encouraged to undergo RRBSO before the age at which ovarian cancer risk becomes relevant.
+
+Risk-reducing surgery
+Considering the absence of reliable screening for early detection and the poor prognosis associated with advanced ovarian cancer, the most effective approach to prevent ovarian and fallopian tube cancers is RRBSO.57 Pathological evaluation of the surgical specimen should include a Sectioning and Extensively Examining the FIMbriated End (SEE-FIM) protocol.
+RRBSO should include bilateral removal of both ovaries and fallopian tubes and should be reserved for patients at high risk of epithelial ovarian and fallopian tube cancer; it is
+ 
+
+38	https://doi.org/10.1016/j.annonc.2022.10.004	Volume 34 ■ Issue 1 ■ 2023
+ 
+C. Sessa et al.	Annals of Oncology
+
+ 
+commonly recommended for patients with PVs in BRCA1/2, BRIP1, RAD51C, RAD51D or the Lynch syndrome genes MLH1, MSH2 and MSH6. RRBSO may be considered for postmenopausal women with a PALB2 PV.
+In women with a PV in BRCA1/2, RRBSO has been shown to be effective in reducing the risk of gynaecological tu- mours (including ovarian, fallopian tube or primary perito- neal cancers) by 80%-90%, and to decrease the all-cause mortality by 77%.58
+There is debate about whether RRBSO also significantly reduces the risk of breast cancer, particularly for premen- opausal BRCA1 carriers. Based on current evidence, this surgical procedure is not recommended specifically to decrease the risk of breast cancer.58,59
+The PV type, patient’s preferences and family history should be taken into consideration when deciding the timing of RRBSO. It should be delayed until an age when ovarian cancer risk is increased above that of the general population. Performing RRBSO before the necessary age can have a negative impact on a woman’s health including all the con- sequences of premature menopause (increased risk of osteoporosis, cognitive dysfunction, cardiovascular disease and early mortality)dthus appropriate timing is critical.
+The average age of ovarian cancer diagnosis varies with type of PV, and in patients with BRCA2 PVs is an average of 8-10 years later than in women who are carriers of BRCA1 PVs. For this reason, RRBSO is recommended once the desire for pregnancy is completed in women aged between 35 and 40 years with BRCA1 PVs, and in women aged be- tween 40 and 45 years with BRCA2 PVs.60 Of note, for women with a BRCA2 PV, in the absence of family history of early-onset ovarian cancer, it is reasonable to perform RRBSO at 45 years of age.
+The most appropriate approach to RRS is through mini- mally invasive, laparoscopic surgery to reduce morbidity and hospitalisation time and provide a better aesthetic outcome.
+The use of salpingectomy with delayed oophorectomy is under investigation as a strategy in BRCA1 and BRCA2 PV carriers in several prospective observational trials such as WISP, PROTECTOR, SOROCk and TUBA.61-64 Given the strong evidence that RRBSO leads to a reduction in mortality, the prospective studies detailed above are necessary before wide implementation of salpingectomy with interval oo- phorectomy, particularly for BRCA1 carriers with an earlier onset and higher risk of ovarian cancer.
+There are conﬂicting data on the risk of developing endometrial cancer in patients with BRCA PVs. Some studies suggest a connection between BRCA PVs and development of serous uterine cancer (primarily in BRCA1) with a two- to threefold increased risk and yet a more recent study does not demonstrate any elevated risk.65 In any case, any ab- solute risk remains low, and it is not clear if the potential magnitude of benefit associated with hysterectomy is suf- ficient to justify the risks associated with the procedure.66-68 Hysterectomy should not be routinely recommended at the time of RRBSO to reduce cancer risk unless other indications for this procedure exist, such as a PV in the MLH1, MSH2 or
+ 
+MSH6 genes, other risk factors for endometrial cancer or benign uterine pathology. Current data support a lower risk of endometrial and ovarian cancer in PMS2 mutation carriers, with insufficient evidence to recommend prophylactic sur- gery.69,70 For further information on the management of Lynch syndrome, please refer to https://www.esmo.org/guide lines/guidelines-by-topic/gastrointestinal-cancers/hereditary- gastrointestinal-cancers.
+Some carriers may choose to undergo hysterectomy with RRBSO to use estrogen-only HRT, which is associated with a decreased risk of breast cancer, without increasing their risk of endometrial cancer.71
+
+Recommendations
+The most effective strategy for ovarian cancer risk reduc- tion in BRCA1/2 PV carriers is RRBSO [A].
+RRBSO should be carried out in women who have completed childbearing, at age 35-40 for BRCA1 PV car- riers and at age 40-45 for women with BRCA2 PVs. Timing of surgery should take into consideration family history [B]. RRBSO should be considered in women who have completed childbearing who are carriers of PVs in BRIP1, RAD51C or RAD51D at age 45-50. RRBSO may
+be considered for postmenopausal women with a PALB2 PV [C]. For gynaecological RRS in Lynch syndrome, please refer to https://www.esmo.org/guidelines/ guidelines-by-topic/gastrointestinal-cancers/hereditary- gastrointestinal-cancers.
+Risk-reducing salpingectomy (bilateral salpingectomy alone or bilateral salpingectomy followed by delayed oo- phorectomy) are not recommended outside the setting of a clinical trial [C].
+
+
+RISK REDUCTION AND SCREENING OF OTHER BRCA- ASSOCIATED CANCERS AND APPROACH TO MALE CARRIERS
+Male carriersdbreast cancer
+Cancer risks specific to men include male breast and pros- tate cancer. The LTR of male breast cancer in the general European population is w0.1% and prostate cancer 10%- 12.5%. There is evidence for an increased risk of male breast cancer for nearly all HBOC genes.72-75 The most compelling is for men with BRCA2 PVs, with an LTR of up to 8%.73 For other genes, LTR is <1%. Risks can be substantially increased by the presence of gynaecomastia (RR 9.8) or Klinefelter syndrome (RR 24.7).76 There is little evidence of efficacy of routine mammography screening in males.
+
+Male carriersdprostate cancer
+The HBOC genes have been widely linked with an increased risk of prostate cancer. The evidence for a significantly increased risk is more robust for BRCA2,77,78 whereas several studies do not demonstrate an elevated risk for BRCA1.65 There is a moderately increased risk for ATM79,80 but inconsistent evidence to confirm an
+ 
+
+Volume 34 ■ Issue 1 ■ 2023	https://doi.org/10.1016/j.annonc.2022.10.004	39
+ 
+Annals of Oncology	C. Sessa et al.
+
+ 
+increased risk with PALB275 or CHEK2.81 The evidence for prostate cancer screening is largely based on the IMPACT screening study. BRCA2 carriers had a higher incidence than BRCA2 non-carriers and were diagnosed significantly younger and with more aggressive disease.82 Using a prostate-specific antigen (PSA) threshold of 3.0 ng/ml, tumours were detected at a more treatable early stage and prostate cancer screening was recommended for BRCA2 carriers.
+
+Recommendations
+Annual mammography or ultrasound screening should be considered in male BRCA2 carriers with additional high-risk features such as gynaecomastia or Klinefelter syndrome from age 50 or 10 years before the earliest male breast cancer in the family [C].
+Male BRCA2 carriers should be encouraged to be aware of physical changes in the breast and seek medical atten- tion accordingly [C].
+Annual blood PSA screening should be offered to male BRCA2 carriers from age 40 years [B] and may also be considered for male ATM carriers from age 40 years [C].
+
+
+Pancreatic cancer screening
+Several guidelines make recommendations on pancreatic cancer screening83-86 based on evidence from studies that included individuals with PVs in genes associated with pancreatic cancer and/or those who have strong familial pancreatic cancer risk (at least two first-degree relatives on the same side of the family). Most evidence, however, has been garnered in genetic conditions with higher pancreatic cancer risks than in BRCA1, BRCA2, ATM or PALB2,86-89 such as STK11 and CDKN2A (Supplementary Table S1, available at https://doi.org/10.1016/j.annonc.2022.10.004). Some sug- gest offering screening from age 50 in HBOC carriers with a close relative, defined as a first- or second-degree relative with pancreatic cancer. Although current studies suggest that surveillance can achieve ‘downstaging’ at diagnosis, advanced interval cancers are common, and there is no evidence for improved survival. Notably, in one recently published screening study for patients considered at high risk for developing pancreatic cancer, the majority of screening-detected pancreatic cancers were stage I with favourable long-term outcomes.90
+
+Recommendations
+Screening with annual contrast-enhanced MRI and/or endoscopic ultrasound from age 35 (or 5-10 years younger than the affected relative) may be considered in STK11 carriers [C].
+Screening (as above) from age 50 (or 5-10 years younger than the affected relative) may be considered in BRCA1, BRCA2, ATM, TP53 or PALB2 carriers with at least one first- or second-degree relative with exocrine pancreatic cancer [C].
+ 
+Screening should be carried out in a centre with high- volume experience [C].
+All screening should ideally be carried out as part of a clinical trial [A].
+COUNSELLING, RISK REDUCTION AND SCREENING IN THE PRESENCE OF OTHER MODERATE-HIGH RISK GENETIC PV HBOCS
+Genetic testing for HBOC susceptibility often incorporates screening for PVs in genes beyond BRCA1 and BRCA2. Many of these genes are involved in the homologous DNA repair pathway; however, associated cancer risks (in terms of types of cancer and their LTRs) vary widely gene by gene (Table 1) as do the approaches to screening and risk reduction. During counselling, it is important to differen- tiate ‘other genes’ from BRCA1 and BRCA2.
+PVs in PALB2, CDH1, PTEN, STK11 and TP53 are associ- ated with a high LTR for breast cancer. The latter four are associated with specific syndromes [Hereditary Diffuse Gastric Cancer (CDH1), Cowden (PTEN), PeutzeJeghers (STK11) and LieFraumeni syndromes (TP53)] with associ- ated guidelines.15,18,91-93 Annual MRI screening is recom- mended from age 20 for TP53 and from age 30 for PALB2, CDH1, PTEN and STK11, tailored to family history. BRRM may be discussed on a case-by-case basis.
+PVs in PALB2 are associated with breast cancer risk of 40%-60%;75 (approach to screening and RRS described above).15,85,94 PVs in ATM and truncating PVs in CHEK2 are associated with an LTR of breast cancer of w25%, although these risks are modified by family history, mammographic breast density and single nucleotide polymorphisms (SNPs) in the context of a polygenic risk score (PRS).95 Although the United States NCCN guidelines recommend enhanced screening solely on the basis of an ATM or truncating CHEK2 PV,15 the authors advise that screening recommendations consider integration of these risk factors and the addition of MRI to mammographic screening from age 40. The data regarding BARD1, RAD51C and RAD51D are complicated as they are associated with an increased risk of triple-negative breast cancer without substantially increasing overall risk of breast cancer (RR w2).4,5 Screening recommendations need to consider known risk factors including family history and mammographic density.
+The LTR of associated ovarian cancer varies widely
+(Table 1). PVs in BRIP1, RAD51C and RAD51D are associated with risks of 10%; thus, RRBSO is recommended by age 45-50.15 The risk of ovarian cancer in PALB2 is 3%-5% and that of ATM is likely 5%. Premenopausal RRBSO is not routinely recommended at this level of risk. In post- menopausal women with PALB2 PV, RRBSO can be consid- ered. CHEK2 PVs are not associated with ovarian cancer risk.96 Recommendations for RRBSO have been discussed previously in this manuscript. Conﬂicting data exist about the elevated risk of colon cancer associated with CHEK2 PVs.96 Risks associated with prostate cancer and pancreatic cancer are discussed earlier.
+NBN, MRE11 and RAD50 were not validated as breast cancer genes in two recent large international studies.4,5
+ 
+
+40	https://doi.org/10.1016/j.annonc.2022.10.004	Volume 34 ■ Issue 1 ■ 2023
+ 
+C. Sessa et al.	Annals of Oncology
+
+ 
+Recommendations
+Women with PVs in ATM, BARD1, CHEK2 (truncating), RAD51C or RAD51D should have comprehensive assess- ment of breast cancer risk to determine eligibility for breast MRI [C].
+In the presence of CDH1, PTEN or STK11 PVs, intensified breast screening should start at age 30, or 5 years younger than the youngest family member with breast cancer and from age 20 for TP53 [A].
+RRBSO should be considered in women who have completed childbearing who are carriers of PVs in BRIP1, RAD51C and RAD51D at age 45-50. RRBSO may
+be considered for postmenopausal women with a PALB2 PV [C]. For gynaecological RRS in Lynch syndrome, please refer to https://www.esmo.org/guidelines/ guidelines-by-topic/gastrointestinal-cancers/hereditary- gastrointestinal-cancers.
+Validated risk assessment tools such as CanRisk (https:// www.canrisk.org/) may be used to aid individual risk management [C].
+
+
+REPRODUCTIVE AND ENDOCRINOLOGICAL ISSUES IN INDIVIDUALS WITH HBOC
+Several unique reproductive and endocrinological consid- erations exist for women with HBOC.
+
+Contraception
+The most used forms of contraception remain hormonally baseddOCP, injectables/implants and the progesterone- intrauterine device (IUD). Reservations about use of the OCP have been addressed earlier. Although not contra- indicated, unaffected carriers should be offered alternative non-hormonal forms of contraception when feasible and minimise prolonged periods of exposure to exogenous hor- mones. Of note, in women interested in tamoxifen chemo- prevention, concurrent use of the OCP is contraindicated due to elevated risk of venous thromboembolism (VTE).
+
+Fertility
+A growing body of preclinical evidence has suggested that BRCA function and ATM-mediated DNA double-strand break repair are implicated in ovarian aging.97 Nevertheless, clinical evidence remains controversial.97 Therefore, although a po- tential negative impact on female ovarian reserve and reproductive potential cannot be excluded, no definitive counselling can be made in this regard. In male carriers, gonadal function is apparently normal, but data are limited.97 Completion of childbearing before the recommended age for RRBSO should be encouraged. If this is not feasible, oocyte and embryo cryopreservation can be offered at a young age, similar to cancer patient candidates for fertility preservation strategies before chemotherapy.98 Albeit limited, the available safety data in this setting are reas- suring, without apparent increased breast or ovarian cancer
+risk following ovarian stimulation for oocyte collection.97
+ 
+Carriers with highly penetrant cancer susceptibility syn- dromes should be informed about the possibility to access prenatal diagnosis or preimplantation genetic testing (PGT) that may be used if they would like to avoid passing on the hereditary PV to future offspring.99 Carriers should be counselled about any relevant risk of associated autosomal recessive syndromes such as Fanconi Anaemia (may be relevant for BRCA1/2, PALB2, BRIP1 and ATM PV carriers) and testing of partners. Pros and cons of these strategies, including potential pregnancy termination in the case of prenatal diagnosis and the need for in vitro fertilisation (IVF) strategies with PGT, should be clearly discussed. Religious, cultural, ethical and socioeconomic issues, as well as country/centre availability, are important factors affecting the individual’s choice to access these technologies.98 Thorough and balanced counselling, putting couples’ au- tonomy in the centre of the decision-making process, is key.
+
+Management of menopausal symptoms
+Healthy carriers undergoing RRBSO at a young age should be informed of short- and long-term health consequences of premature menopause.
+Data on the use of HRT in unaffected carriers are limited and mostly retrospective. Results from ongoing prospective studies are awaited. While some data suggest that HRT is safe, a recent study has suggested that this may be true for women up to age 45; however, beyond that, there may be an increased risk of breast cancer.100,101 Thus, short-term HRT may be offered after RRBSO. Longer-term use of HRT
+for unaffected carriers >45 years who have also previously undergone BRRM may  be considered on a case-by-case
+basis. Limitations and risks of HRT should be clearly communicated, and while mitigating menopausal symptoms and risk of osteoporosis, any benefits in cardiovascular and cognitive health are controversial.
+In contrast to systemic HRT, local vaginal therapies, including low-dose intravaginal estrogens, may be consid- ered to manage genitourinary symptoms of menopause, including vulvovaginal dryness and dyspareunia as well as urinary symptoms of urgency, dysuria or recurrent urinary tract infection (UTI).
+
+Bone health
+Regular assessment of clinical risk factors for accelerated bone loss and measurement of bone mineral density is recommended for women who underwent RRBSO while premenopausal.102 Resistance and weight-bearing exercise, smoking cessation and reduced alcohol intake are highly encouraged, together with vitamin D and calcium supple- ments and antiresorptive therapy whenever indicated.102
+
+Recommendations
+Healthy female carriers should be encouraged to com- plete childbearing before the recommended age for RRBSO [A]; if this is not feasible, oocyte and embryo cryopreservation can be offered at a young age [B].
+ 
+
+Volume 34 ■ Issue 1 ■ 2023	https://doi.org/10.1016/j.annonc.2022.10.004	41
+ 
+Annals of Oncology	C. Sessa et al.
+
+ 
+Patients with HBOC should be informed about the op- tions of prenatal diagnosis or PGT [A].
+In unaffected BRCA1/2 carriers, discussing limitations and risks, HRT after RRBSO may be considered to alle- viate menopausal symptoms [C].
+Bone assessment should be considered, tailored to indi- vidual risk factors. Preventive/therapeutic measures should be considered as indicated [B].
+Low-dose intravaginal estrogens may be considered to manage genitourinary symptoms of menopause [C].
+
+
+UNIQUE PSYCHOLOGICAL ISSUES FOR INDIVIDUALS WITH HBOC
+Results of observational studies of the psychological impact of HBOC are highly variable.103 Although it is often assumed that carriers have increased psychological distress (e.g. anx- iety, depression), at least half of studies to date report no differences in distress between carriers and non-car- riers.104,105 Moreover, increased levels of psychological distress observed in the immediate weeks following genetic testing disclosure have been shown to return to baseline levels 6-12 months later, with no significant clinically relevant symptoms in the long-term.106,107 There are, however, indi- vidual women who do experience elevated and sustained levels of psychological distress in this setting. Individual risk factors include high levels of anxiety and depression before genetic testing,106 presence of a cancer diagnosis,108 being unpartnered and family cancer history.109 Evidence regarding the effectiveness of psychosocial interventions is emerging but limited,110 with most interventions focusing on delivering information and emotional support.
+Observational studies consistently reveal a negative impact on sexual function, including vaginal dryness and loss of sexual satisfaction following RRBSO. Moreover, studies show that sexual dysfunction is long-lasting and that decrement in function is independent of menopausal status before RRBSO or use of HRT.111 The impact of HBOC on body image has primarily been assessed in the context of BRRM. In contrast to sexual function, impact of BRRM on body image is more complex.112 Although quantitative studies demonstrate that most women are satisfied with their decision to undergo RRM,113 qualitative studies reveal various negative effects, including distress about loss of sensation and discomfort with reconstructed breasts as well as decreased perceived attrac- tiveness and femininity.114 Salient risk factors for decreased body image include poor reconstruction outcomes, surgical complications and lack of information before surgery.114
+
+Recommendations
+The need for further informational and emotional sup- port should be assessed before genetic test disclosure, and individuals should be offered referrals for either psy- chological counselling and/or further support [B].
+Sexual health concerns should be assessed, and individ- uals should be offered support and resources, as needed, to address sexual dysfunction. Individuals should be
+ 
+asked about sexual health concerns regardless of age, partner status or sexual orientation [A].
+
+
+PERSONALISED MEDICINE AND FUTURE DIRECTIONS
+The use of germline genetic testing has led to vast im- provements in screening, risk reduction and therapies for those with inherited cancer susceptibility. Despite this, there is a need for more individualised risk assessment to inform timing and type of risk-reduction strategies, such as RRM and RRBSO. In BRCA1 and BRCA2 PV carriers, for example, BRCA genotype, family history and genetic modi- fiers all impact individual risk. SNPs have been well vali- dated to alter cancer risk both in the general population and in those with inherited cancer susceptibility.115 A PRS captures the risk associated with SNPs and can be used in models such as CanRisk.95 PRSs may be particularly impor- tant in individuals with inherited PVs in ATM or CHEK2 as some of these individuals will have close to average risk of breast cancer and others quite an elevated risk. Modifica- tion by PRS is likely to become increasingly important as individuals without a strong family history of cancer un- dergo genetic testing. Research is ongoing to understand how to most effectively use PRSs clinically.
+Early data from the OlympiA adjuvant study of olaparib suggests a potential role for PARP inhibitors for risk reduc- tion.116 Studies are needed, however, to examine the risk, benefit and schedule in healthy individuals. Denosumab and acetyl salicylic acid (aspirin) are part of ongoing risk-reduction studies to advance this area in BRCA1/2 carriers.117
+An early detection strategy using liquid biopsies targeting tumour-derived mutational, epigenetic or transcriptomic features is another emerging area with relevance to in- dividuals with genetic susceptibility. Techniques which would allow early detection of cancers such as ovarian cancer and pancreatic cancer may fundamentally alter our approach. For example, if stage I ovarian cancer could be reliably detected, routine use and/or timing of RRBSO could be reconsidered. Avoiding surgery-induced menopause in women in their 30s could have a major impact on QoL and long-term outcomes on bone  and cardiac health. Early data are provocative; however, these tests may not have the needed performance characteristics in early-stage breast, ovarian and pancreatic cancer, and false positives are common.118 Thus, they are not recommended for clinical use at this time.
+
+Recommendation
+Use of PRSs, interval salpingectomy, novel risk-reduction strategies and liquid biopsy assays for early detection should continue to be carried out and assessed in the context of clinical trials [A].
+
+
+METHODOLOGY
+This Clinical Practice Guideline was developed in accor- dance with the European Society for Medical Oncology (ESMO) standard operating procedures for Clinical Practice
+ 
+
+42	https://doi.org/10.1016/j.annonc.2022.10.004	Volume 34 ■ Issue 1 ■ 2023
+ 
+C. Sessa et al.	Annals of Oncology
+
+ 
+Guidelines development (http://www.esmo.org/Guidelines/ ESMO-Guidelines-Methodology). The relevant literature has been selected by the expert authors. Grades of recom- mendation have been applied using the system shown in Supplementary Table S2, available at https://doi.org/10. 1016/j.annonc.2022.10.004.119,120 Statements without grading were considered justified standard clinical practice by the authors. Level of evidence has not been provided as no randomised controlled studies are available in this field, with most data being observational/retrospective. For future updates to this CPG, including eUpdates and Living Guidelines, please see the ESMO Guidelines website: https://www.esmo.org/guidelines/guidelines-by-topic/here ditary-syndromes.
+
+ACKNOWLEDGEMENTS
+DGE is supported by the Manchester NIHR Biomedical Research Centre (IS-BRC-1215-20007). ML is supported by the Italian Association for Cancer Research (‘Associazione Italiana per la Ricerca sul Cancro’ AIRC; MFAG 2020 ID 24698). KAP is a National Health and Medical Research Council (Australia) Leadership Fellow. Manuscript editing support was provided by Fraser Simpson and Claire Bramley (ESMO Guidelines staff) and Angela Corstorphine of Kstorfin Medical Communications Ltd; this support was funded by ESMO.
+
+FUNDING
+No external funding has been received for the preparation of this guideline. Production costs have been covered by ESMO from central funds.
+
+DISCLOSURE
+CS has reported non-remunerated activities as Coordinator Gynecological Programme for the European School of Oncology.
+JB has reported fees for advisory board membership for AstraZeneca and Pfizer; fees paid to her institute for roles as local principal investigator for AstraZeneca, MedSire and Pfizer.
+SLB has reported fees as an author for UpToDate. She has also reported non-remunerated activities as the chair of the Scientific Network on Female Sexual Health and Cancer (academic organisation).
+MJC has reported fees as an invited speaker for Roche (industry-sponsored symposium in National Conference). She has also reported non-remunerated activities as a member of the Board of Directors of EUSOMA, faculty member of ESO, project lead/lead investigator for the Breast Research Group of INESC TEC and President of MAMA Help (non-profit as- sociation for breast cancer patients in Portugal). She serves as a Specialty Editor for The Breast.
+NC has reported fees for advisory board membership for AstraZeneca, BIOCAD, Clovis Oncology, Eisai, GlaxoSmithK- line (GSK), ImmunoGen, Mersana, Merck Sharp & Dohme (MSD)/Merck, Nuvation Bio, OncXerna, Pfizer, PharmaMar, Pieris and Roche; fees as an invited speaker for AstraZeneca, Clovis Oncology, GSK and MSD/Merck; institutional research
+ 
+grants from AstraZeneca, PharmaMar and Roche. She has also reported non-remunerated activities as member of the ESMO Guidelines Steering Committee and chair of the Sci- entific Committee of Alleanza contro il Tumore Ovarico (ACTO).
+GC has reported fees for advisory board membership for AstraZeneca, Bristol Myers Squibb (BMS), Celcuity, Daiichi Sankyo, Ellipsis, Exact Sciences, Lilly, Merck, Pfizer, Roche and Veracyte; fees as an invited speaker for AstraZeneca, Daiichi Sankyo, Novartis, Pfizer and Roche; fees for a writing engagement from Pfizer; institutional research grant from Merck for an investigator-initiated trial; institutional funding for phase I studies from Astellas, AstraZeneca, Blueprint Medicine, BMS, Daiichi Sankyo, Kymab, Novartis, Philogen, Relay Therapeutics, (coordinating principal investigator), Roche and Sanofi. He has also reported non-remunerated activities as an Italian National Health Council as Advisor for Ministry of Health (Consiglio Superiore di Sanità), member of the Scientific Council for the patient advocacy association Europa Donna, advisory role at the Fondazione Beretta cancer research foundation, member of the Board of Directors for Lega Italian Lotta ai Tumori (public national company for cancer prevention) and member of the Advi- sory Council of EUSOMA.
+SMD has reported personal honoraria from AstraZeneca, BMS and Clovis; fees paid to her institute as coordinating principal investigator for AstraZeneca.
+DGE has reported fees for advisory board membership for Recursion, SpringWorks and Syantra; consultancy fees for a writing engagement for AstraZeneca.
+DF has declared no conﬂicts of interest.
+NH has reported fees for advisory board membership for Aptitude Health, AstraZeneca, Daiichi Sankyo, Gilead, Novartis, Pfizer, Roche, Sandoz-Hexal, Sanofi and SeaGen; fees as an invited speaker for Art Tempi, AstraZeneca, Daiichi Sankyo, Exact Sciences, Gilead, Lilly, Medscape, MSD, Novartis, Onkowissen, Pierre Fabre, Roche, Sanofi and SeaGen; institutional funding from AstraZeneca, BMS, Daiichi Sankyo, Lilly, MSD, Novartis, Palleos, Pierre Fabre, Roche, SeaGen, TRIO and WSG; ownership interest in the West German Study Group. She has also reported non- remunerated activities as a member of the AGO Breast Guideline Committee and member of the ESO/ESCO Breast Cancer Educational Programs. She is the Founding Editor of the Breast Care journal.
+CK has reported fees for advisory board membership for Guerbet; fees as an invited speaker for Bayer and Bracco.
+BL has reported fees received from the Rising Tide Foun- dation as a patient reviewer. She has also reported non-remunerated activities as a member of the European Society of Gynaecological Oncology (ESGO) ENGAGe (Past Executive Board Member) and chair of KIUdDanish Patient Organisation for Women with Gynaecological Cancer.
+ELL has reported employment as the Director of the Medical Genetics Institute of the Shaare Zedek Medical Center. She has also reported non-remunerated activity as the vice president of the Israel National Academy of Science in Medicine (non-profit).
+ 
+
+Volume 34 ■ Issue 1 ■ 2023	https://doi.org/10.1016/j.annonc.2022.10.004	43
+ 
+Annals of Oncology	C. Sessa et al.
+
+ 
+ML has reported fees for advisory board membership and speaker fees for AstraZeneca, Exact Sciences, Gilead, Lilly, MSD, Novartis, Roche and SeaGen; fees as an invited speaker for Ipsen, Knight, Libbs, Pfizer, Sandoz, SeaGen and Takeda. JAL has reported fees for advisory board membership for Artios Pharma, AstraZeneca, BMS, Clovis Oncology, Eisai, Ellipses, GSK, ImmunoGen, Merck/MSD, Nuvation, Pfizer and VBL Therapeutics; speaker fees from AstraZeneca, Clovis Oncology, GSK and Neopharm; fees related to an independent data monitoring committee for Regeneron; institutional research grants from AstraZeneca, Clovis Oncology, Eisai, GSK, MSD/Merck and Pfizer. He has also reported non-remunerated activities as vice president of the European Society of Gynaecological Oncology (2019- 2021). He serves as an associate editor of Therapeutic Ad-
+vances in Medical Oncology (Sage Publishing).
+SL has reported fees paid to her institute for advisory board membership for AbbVie, Amgen, AstraZeneca, BMS, Celgene, DSI, EirGenix, Gilead, GSK, Lilly, Merck, Novartis, Pfizer, Pierre Fabre, Relay Therapeutics, Roche, Sanofi and SeaGen; fees paid to her institute as an invited speaker for AstraZeneca, DSI, Gilead, Novartis, Pfizer and Roche; employment as the Chief Executive officer (CEO) of GBG Forschungs GmbH; licensing fees paid to her institute by VM Scope GmbH; research grants to her institute from AstraZeneca, Celgene, Daiichi Sankyo, Immunomedics/Gilead, Novartis, Pfizer and Roche; institu- tional funding from AbbVie and Molecular Health; fees paid to her institute as principal investigator (Penelope/Padma) from Pfizer; fees paid to her institute from AstraZeneca (SC Cap- itello), Daiichi Sankyo (SC Destiny B05), Immunomedics/Gilead (SC ASCENT), Novartis (SC SOLAR1), Pfizer (SC PALOMA3),
+Roche (SC Inavo and SC Katherine), SeaGen (SC HERCLIMB). She has also reported non-remunerated activities as principal investigator for Aphinity, advisory role to Arbeitsgemeinschaft Gynäkologische Onkologie (AGO) Kommission Mamma (group in Germany responsible for breast cancer guidelines), mem- bership of AGO, Deutsche Krebsgesellschaft (DKG), American Society of Clinical Oncology (ASCO) and ESMO including membership of the ESMO Guidelines Committee and past chair of the ESMO Breast Congress. She has reported institu- tional patents for which she has no financial interests: EP14153692.0, EP21152186.9, EP15702464.7, EP19808852.8.
+K-AP has reported non-remunerated activities as advisory board member for AstraZeneca, Scientific Advisory Com- mittee member for Breast Cancer Trials, project lead in Australia for the DECRESENDO and OlympiA studies, member of the Expert Advisory Group on Cancer Clusters for the Victorian Department of Health and Human Ser- vices, Strategic Advisory Committee member for Breast Cancer Network Australia, Cancer Genetics Reference Committee Member for New South Wales Cancer Institute; advisory role on the register of experts for breast and he- reditary cancer for the Medical Oncology Group of Australia and breast cancer optimal care pathway committee mem- ber for Cancer Council Victoria. She is also a leadership fellow of the National Health and Medical Research Council (Australia) and a practitioner fellow of the National Breast Cancer Foundation (Australia).
+ 
+SP-S has reported fees paid to her institute for advisory board membership for AstraZeneca, Eli Lilly, Exact Sciences, Medison, Pfizer and Roche; fees paid to her institute as an invited speaker for AstraZeneca, Eli Lilly, Exact Sciences, Medison, Novartis, Pfizer and Roche; fees paid to her institute for consultancy for Medison; personal and insti- tutional research grant for an request for proposal for in- dependent research put out by Shared Progress in Cancer Care and Pfizer.
+
+
+REFERENCES
+1.	Lee K, Seifert BA, Shimelis H, et al. Clinical validity assessment of genes frequently tested on hereditary breast and ovarian cancer susceptibility sequencing panels. Genet Med. 2019;21(7):1497-1506.
+2.	Melchor L, Benitez J. The complex genetic landscape of familial breast cancer. Hum Genet. 2013;132(8):845-863.
+3.	Gabai-Kapara E, Lahad A, Kaufman B, et al. Population-based screening for breast and ovarian cancer risk due to BRCA1 and BRCA2. Proc Natl Acad Sci U S A. 2014;111(39):14205-14210.
+4.	Breast Cancer Association ConsortiumDorling L, Carvalho S, Allen J, et al. Breast cancer risk genes - association analysis in more than 113, 000 women. N Engl J Med. 2021;384(5):428-439.
+5.	Hu C, Hart SN, Gnanaolivu R, et al. A population-based study of genes previously implicated in breast cancer. N Engl J Med. 2021;384(5): 440-451.
+6.	Norquist BM, Harrell MI, Brady MF, et al. Inherited mutations in women with ovarian carcinoma. JAMA Oncol. 2016;2(4):482-490.
+7.	Greenberg S, Buys SS, Edwards SL, et al. Population prevalence of individuals meeting criteria for hereditary breast and ovarian cancer testing. Cancer Med. 2019;8(15):6789-6798.
+8.	Carver T, Hartley S, Lee A, et al. CanRisk tool-a web interface for the prediction of breast and ovarian cancer risk and the likelihood of carrying genetic pathogenic variants. Cancer Epidemiol Biomarkers Prev. 2021;30(3):469-473.
+9.	Nelson HD, Pappas M, Cantor A, et al. Risk assessment, genetic counseling, and genetic testing for BRCA-related cancer in women: updated evidence report and systematic review for the US Preventive Services Task Force. JAMA. 2019;322(7):666-685.
+10.	Roa BB, Boyd AA, Volcik K, et al. Ashkenazi Jewish population fre- quencies for common mutations in BRCA1 and BRCA2. Nat Genet. 1996;14(2):185-187.
+11.	Stefansdottir V, Thorolfsdottir E, Hognason HB, et al. Web-based re- turn of BRCA2 research results: one-year genetic counselling experi- ence in Iceland. Eur J Hum Genet. 2020;28(12):1656-1661.
+12.	Rowley SM, Mascarenhas L, Devereux L, et al. Population-based ge- netic testing of asymptomatic women for breast and ovarian cancer susceptibility. Genet Med. 2019;21(4):913-922.
+13.	Manickam K, Buchanan AH, Schwartz MLB, et al. Exome sequencing- based screening for BRCA1/2 expected pathogenic variants among adult biobank participants. JAMA Netw Open. 2018;1(5):e182140.
+14.	Maxwell KN, Domchek SM, Nathanson KL, et al. Population frequency of germline BRCA1/2 mutations. J Clin Oncol. 2016;34(34):4183-4185.
+15.	Daly MB, Pal T, Berry MP, et al. Genetic/familial high-risk assessment: breast, ovarian, and pancreatic, version 2.2021, NCCN Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2021;19(1):77-102.
+16.	Gallagher S, Hughes E, Kurian AW, et al. Comprehensive breast cancer risk assessment for CHEK2 and ATM pathogenic variant carriers incorporating a polygenic risk score and the Tyrer-Cuzick model. JCO Precis Oncol. 2021;5:PO.20.00484.
+17.	Hercher L. Discouraging elective genetic testing of minors: a norm under siege in a New Era of genomic medicine. Cold Spring Harb Perspect Med. 2020;10(5):a036657.
+18.	Frebourg T, Bajalica Lagercrantz S, Oliveira C, et al. Guidelines for the Li-Fraumeni and heritable TP53-related cancer syndromes. Eur J Hum Genet. 2020;28(10):1379-1386.
+ 
+
+44	https://doi.org/10.1016/j.annonc.2022.10.004	Volume 34 ■ Issue 1 ■ 2023
+ 
+C. Sessa et al.	Annals of Oncology
+
+ 
+19.	Hettipathirana T, Macdonald C, Xie J, et al. The value of clinical breast examination in a breast cancer surveillance program for women with germline BRCA1 or BRCA2 mutations. MedJAust. 2021;215(10):460-464.
+20.	Boyd NF, Guo H, Martin LJ, et al. Mammographic density and the risk and detection of breast cancer. N Engl J Med. 2007;356(3):227-236.
+21.	Mann RM, Kuhl CK, Moy L. Contrast-enhanced MRI for breast cancer screening. J Magn Reson Imaging. 2019;50(2):377-390.
+22.	Gao Y, Reig B, Heacock L, et al. Magnetic resonance imaging in screening of breast cancer. Radiol Clin North Am. 2021;59(1):85-98.
+23.	Guindalini RSC, Zheng Y, Abe H, et al. Intensive surveillance with biannual dynamic contrast-enhanced magnetic resonance imaging downstages breast cancer in BRCA1 mutation carriers. Clin Cancer Res. 2019;25(6):1786-1794.
+24.	Kuhl C, Weigel S, Schrading S, et al. Prospective multicenter cohort study to refine management recommendations for women at elevated familial risk of breast cancer: the EVA trial. J Clin Oncol. 2010;28(9):1450-1457.
+25.	Riedl CC, Luft N, Bernhart C, et al. Triple-modality screening trial for familial breast cancer underlines the importance of magnetic reso- nance imaging and questions the role of mammography and ultra- sound regardless of patient mutation status, age, and breast density. J Clin Oncol. 2015;33(10):1128-1135.
+26.	Vreemann S, van Zelst JCM, Schlooz-Vries M, et al. The added value of mammography in different age-groups of women with and without BRCA mutation screened with breast MRI. Breast Cancer Res. 2018;20(1):84.
+27.	Phi XA, Saadatmand S, De Bock GH, et al. Contribution of mammography to MRI screening in BRCA mutation carriers by BRCA status and age: individual patient data meta-analysis. Br J Cancer. 2016;114(6):631-637.
+28.	Lee CS, Monticciolo DL, Moy L. Screening guidelines update for average- risk and high-risk women. AJR Am J Roentgenol. 2020;214(2):316-323.
+29.	Hadar T, Mor P, Amit G, et al. Presymptomatic awareness of germline pathogenic BRCA variants and associated outcomes in women with breast cancer. JAMA Oncol. 2020;6(9):1460-1463.
+30.	Geuzinge HA, Obdeijn IM, Rutgers EJT, et al. Cost-effectiveness of breast cancer screening with magnetic resonance imaging for women at familial risk. JAMA Oncol. 2020;6(9):1381-1389.
+31.	Kehm RD, Genkinger JM, MacInnis RJ, et al. Recreational physical activity is associated with reduced breast cancer risk in adult women at high risk for breast cancer: A cohort study of women selected for familial and genetic risk. Cancer Res. 2020;80(1):116-125.
+32.	Hopper JL, Dite GS, MacInnis RJ, et al. Age-specific breast cancer risk by body mass index and familial risk: prospective family study cohort (ProF-SC). Breast Cancer Res. 2018;20(1):132.
+33.	Terry MB, Liao Y, Kast K, et al. The inﬂuence of number and timing of pregnancies on breast cancer risk for women with BRCA1 or BRCA2 mutations. JNCI Cancer Spectr. 2018;2(4):pky078.
+34.	Friebel TM, Domchek SM, Rebbeck TR. Modifiers of cancer risk in BRCA1 and BRCA2 mutation carriers: systematic review and meta- analysis. J Natl Cancer Inst. 2014;106(6):dju091.
+35.	Collaborative Group on Hormonal Factors in Breast C. Type and timing of menopausal hormone therapy and breast cancer risk: in- dividual participant meta-analysis of the worldwide epidemiological evidence. Lancet. 2019;394(10204):1159-1168.
+36.	Morch LS, Dehlendorff C, Baandrup L, et al. Use of antidepressants and risk of epithelial ovarian cancer. Int J Cancer. 2017;141(11):2197- 2203.
+37.	Schrijver LH, Olsson H, Phillips KA, et al. Oral contraceptive use and breast cancer risk: Retrospective and prospective analyses from a BRCA1 and BRCA2 mutation carrier cohort study. JNCI Cancer Spectr. 2018;2(2):pky023.
+38.	Gordhandas S, Norquist BM, Pennington KP, et al. Hormone replacement therapy after risk reducing salpingo-oophorectomy in patients with BRCA1 or BRCA2 mutations; a systematic review of risks and benefits. Gynecol Oncol. 2019;153(1):192-200.
+39.	Chen WY, Rosner B, Hankinson SE, et al. Moderate alcohol con- sumption during adult life, drinking patterns, and breast cancer risk. JAMA. 2011;306(17):1884-1890.
+40.	 
+Li H, Terry MB, Antoniou AC, et al. Alcohol consumption, cigarette smoking, and risk of breast cancer for BRCA1 and BRCA2 mutation carriers: Results from The BRCA1 and BRCA2 cohort consortium. Cancer Epidemiol Biomarkers Prev. 2020;29(2):368-378.
+41.	USPST Force, Owens DK, Davidson KW, et al. Medication use to reduce risk of breast cancer: US Preventive Services Task Force Recommendation Statement. JAMA. 2019;322(9):857-867.
+42.	Pujol P, Roca L, Lortholary A, et al. Five year letrozole versus placebo in BRCA1/2 germline mutations carriers: Final results of LIBER, a double-blind randomized phase III breast cancer prevention trial. J Clin Oncol. 2020;38(15_suppl). 1534-1534.
+43.	King MC, Wieand S, Hale K, et al. Tamoxifen and breast cancer incidence among women with inherited mutations in BRCA1 and BRCA2: National Surgical Adjuvant Breast and Bowel Project (NSABP-P1) Breast Cancer Prevention Trial. JAMA. 2001;286(18): 2251-2256.
+44.	Phillips KA, Milne RL, Rookus MA, et al. Tamoxifen and risk of contralateral breast cancer for BRCA1 and BRCA2 mutation carriers. J Clin Oncol. 2013;31(25):3091-3099.
+45.	Carbine NE, Lostumbo L, Wallace J, et al. Risk-reducing mastectomy for the prevention of primary breast cancer. Cochrane Database Syst Rev. 2018;4:CD002748.
+46.	Wood ME, McKinnon W, Garber J. Risk for breast cancer and man- agement of unaffected individuals with non-BRCA hereditary breast cancer. Breast J. 2020;26(8):1528-1534.
+47.	Li X, You R, Wang X, et al. Effectiveness of prophylactic surgeries in BRCA1 or BRCA2 mutation carriers: A meta-analysis and systematic review. Clin Cancer Res. 2016;22(15):3971-3981.
+48.	Heemskerk-Gerritsen BAM, Jager A, Koppert LB, et al. Survival after bilateral risk-reducing mastectomy in healthy BRCA1 and BRCA2 mutation carriers. Breast Cancer Res Treat. 2019;177(3):723-733.
+49.	Kuchenbaecker KB, Hopper JL, Barnes DR, et al. Risks of breast, ovarian, and contralateral breast cancer for BRCA1 and BRCA2 mu- tation carriers. JAMA. 2017;317(23):2402-2416.
+50.	Giannakeas V, Narod SA. The expected benefit of preventive mas- tectomy on breast cancer incidence and mortality in BRCA mutation carriers, by age at mastectomy. Breast Cancer Res Treat. 2018;167(1): 263-267.
+51.	Metcalfe KA, Cil TD, Semple JL, et al. Long-term psychosocial func- tioning in women with bilateral prophylactic mastectomy: Does preservation of the nipple-areolar complex make a difference? Ann Surg Oncol. 2015;22(10):3324-3330.
+52.	Garstka M, Henriquez A, Kelly BN, et al. How protective are nipple- sparing prophylactic mastectomies in BRCA1 and BRCA2 mutation carriers? Ann Surg Oncol. 2021;28(10):5657-5662.
+53.	Rosenthal AN, Fraser LSM, Philpott S, et al. Evidence of stage shift in women diagnosed with ovarian cancer during phase II of the United Kingdom Familial Ovarian Cancer Screening Study. J Clin Oncol. 2017;35(13):1411-1420.
+54.	Skates SJ, Greene MH, Buys SS, et al. Early detection of ovarian cancer using the risk of ovarian cancer algorithm with frequent CA125 testing in women at increased familial risk - combined results from two screening trials. Clin Cancer Res. 2017;23(14):3628-3637.
+55.	Education and Practical Standards Committee, European Federation of Societies for Ultrasound in Medicine and Biology. Minimum training recommendations for the practice of medical ultrasound. Ultraschall Med. 2006;27(1):79-105.
+56.	Timmerman D, Planchamp F, Bourne T, et al. ESGO/ISUOG/IOTA/ESGE Consensus Statement on pre-operative diagnosis of ovarian tumors. Int J Gynecol Cancer. 2021;31(7):961-982.
+57.	Berek JS, Chalas E, Edelson M, et al. Prophylactic and risk-reducing bilateral salpingo-oophorectomy: recommendations based on risk of ovarian cancer. Obstet Gynecol. 2010;116(3):733-743.
+58.	Domchek SM, Friebel TM, Singer CF, et al. Association of risk-reducing surgery in BRCA1 or BRCA2 mutation carriers with cancer risk and mortality. JAMA. 2010;304(9):967-975.
+59.	Conduit C, Milne RL, Friedlander ML, et al. Bilateral salpingo- oophorectomy and breast cancer risk for BRCA1 and BRCA2
+ 
+
+
+Volume 34 ■ Issue 1 ■ 2023	https://doi.org/10.1016/j.annonc.2022.10.004	45
+ 
+Annals of Oncology	C. Sessa et al.
+
+ 
+mutation carriers: Assessing the evidence. Cancer Prev Res (Phila). 2021;14(11):983-994.
+60.	Finch AP, Lubinski J, Moller P, et al. Impact of oophorectomy on cancer incidence and mortality in women with a BRCA1 or BRCA2 mutation. J Clin Oncol. 2014;32(15):1547-1553.
+61.	Steenbeek MP, Harmsen MG, Hoogerbrugge N, et al. Association of salpingectomy with delayed oophorectomy versus salpingo- oophorectomy with quality of life in BRCA1/2 pathogenic variant car- riers: A nonrandomized controlled trial. JAMA Oncol. 2021;7(8):1203- 1212.
+62.	Gaba F, Robbani S, Singh N, et al. Preventing Ovarian Cancer through early Excision of Tubes and late Ovarian Removal (PROTECTOR): protocol for a prospective non-randomised multi-center trial. Int J Gynecol Cancer. 2021;31(2):286-291.
+63.	Nebgen DR, Hurteau J, Holman LL, et al. Bilateral salpingectomy with delayed oophorectomy for ovarian cancer risk reduction: A pilot study in women with BRCA1/2 mutations. Gynecol Oncol. 2018;150(1):79-84.
+64.	NRG-CC008 (SOROCk Trial). Available at https://www.nrgoncology. org/SOROCk. Accessed May 6, 2022.
+65.	Li S, Silvestri V, Leslie G, et al. Cancer risks associated with BRCA1 and BRCA2 pathogenic variants. J Clin Oncol. 2022;40(14):1529-1541.
+66.	de Jonge MM, de Kroon CD, Jenner DJ, et al. Endometrial cancer risk in women with germline BRCA1 or BRCA2 mutations: Multicenter cohort study. J Natl Cancer Inst. 2021;113(9):1203-1211.
+67.	Shu CA, Pike MC, Jotwani AR, et al. Uterine cancer after risk-reducing salpingo-oophorectomy without hysterectomy in women with BRCA mutations. JAMA Oncol. 2016;2(11):1434-1440.
+68.	Kitson SJ, Baﬂigil C, Ryan NAJ, et al. BRCA1 and BRCA2 pathogenic variant carriers and endometrial cancer risk: A cohort study. Eur J Cancer. 2020;136:169-175.
+69.	Dominguez-Valentin M, Crosbie EJ, Engel C, et al. Risk-reducing hys- terectomy and bilateral salpingo-oophorectomy in female heterozy- gotes of pathogenic mismatch repair variants: a Prospective Lynch Syndrome Database report. Genet Med. 2021;23(4):705-712.
+70.	Liu YL, Breen K, Catchings A, et al. Risk-reducing bilateral salpingo- oophorectomy for ovarian cancer: a Review and Clinical Guide for He- reditary Predisposition Genes. JCO Oncol Pract. 2022;18(3):201-209.
+71.	Chlebowski RT, Rohan TE, Manson JE, et al. Breast cancer after use of estrogen plus progestin and estrogen alone: Analyses of data from 2 women’s health initiative randomized clinical trials. JAMA Oncol. 2015;1(3):296-305.
+72.	Rizzolo P, Zelli V, Silvestri V, et al. Insight into genetic susceptibility to male breast cancer by multigene panel testing: Results from a multicenter study in Italy. Int J Cancer. 2019;145(2):390-400.
+73.	Evans DG, Susnerwala I, Dawson J, et al. Risk of breast cancer in male BRCA2 carriers. J Med Genet. 2010;47(10):710-711.
+74.	Meijers-Heijboer H, van den Ouweland A, Klijn J, et al. Low-penetrance susceptibility to breast cancer due to CHEK2(*)1100delC in noncarriers of BRCA1 or BRCA2 mutations. Nat Genet. 2002;31(1):55-59.
+75.	Yang X, Leslie G, Doroszuk A, et al. Cancer risks associated with germline PALB2 pathogenic variants: An international study of 524 families. J Clin Oncol. 2020;38(7):674-685.
+76.	Brinton LA, Cook MB, McCormack V, et al. Anthropometric and hormonal risk factors for male breast cancer: male breast cancer pooling project results. J Natl Cancer Inst. 2014;106(3):djt465.
+77.	Moran A, O’Hara C, Khan S, et al. Risk of cancer other than breast or ovarian in individuals with BRCA1 and BRCA2 mutations. Fam Cancer. 2012;11(2):235-242.
+78.	Consortium BCL. Cancer risks in BRCA2 mutation carriers. J Natl Cancer Inst. 1999;91(15):1310-1316.
+79.	Zhu Y, Wei Y, Zeng H, et al. Inherited mutations in Chinese men with prostate cancer. J Natl Compr Canc Netw. 2021;20(1):54-62.
+80.	Hall MJ, Bernhisel R, Hughes E, et al. Germline pathogenic variants in the ataxia telangiectasia mutated (ATM) gene are associated with high and moderate risks for multiple cancers. Cancer Prev Res (Phila). 2021;14(4):433-440.
+81.	 
+Nguyen-Dumont T, Dowty JG, MacInnis RJ, et al. Rare germline pathogenic variants identified by multigene panel testing and the risk of aggressive prostate cancer. Cancers (Basel). 2021;13(7):1495.
+82.	Page EC, Bancroft EK, Brook MN, et al. Interim results from the IMPACT study: Evidence for prostate-specific antigen screening in BRCA2 mutation carriers. Eur Urol. 2019;76(6):831-842.
+83.	Daly MB, Pilarski R, Yurgelun MB, et al. NCCN Guidelines insights: Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancre- atic, Version 1.2020. J Natl Compr Canc Netw. 2020;18(4):380-391.
+84.	Pancreatic cancer in adulthood: diagnosis and management. NICE guideline [NG85]. Published February 7, 2018. Available at https://www. nice.org.uk/guidance/ng85. Published 2018. Accessed March 23, 2022.
+85.	Tischkowitz M, Balmana J, Foulkes WD, et al. Management of in- dividuals with germline variants in PALB2: a clinical practice resource of the American College of Medical Genetics and Genomics (ACMG). Genet Med. 2021;23(8):1416-1423.
+86.	Goggins M, Overbeek KA, Brand R, et al. Management of patients with increased risk for familial pancreatic cancer: updated recom- mendations from the International Cancer of the Pancreas Screening (CAPS) Consortium. Gut. 2020;69(1):7-17.
+87.	Rosenthal MH, Wolpin BM, Yurgelun MB. Surveillance imaging in in- dividuals at high risk for pancreatic cancer: Not a ceiling, but rather a ﬂoor upon which to build. Gastroenterology. 2022;162(3):700-702.
+88.	Chhoda A, Vodusek Z, Wattamwar K, et al. Late-stage pancreatic cancer detected during high-risk individual surveillance: A systematic review and meta-analysis. Gastroenterology. 2022;162(3):786-798.
+89.	Overbeek KA, Goggins MG, Dbouk M, et al. Timeline of development of pancreatic cancer and implications for successful early detection in high-risk individuals. Gastroenterology. 2022;162(3):772-785 e774.
+90.	Dbouk M, Katona BW, Brand RE, et al. The Multicenter Cancer of Pancreas Screening Study: Impact on stage and survival. J Clin Oncol. 2022;40(28):3257-3266.
+91.	Evans DG, Woodward ER, Bajalica-Lagercrantz S, et al. Germline TP53 testing in breast cancers: Why, when and how? Cancers (Basel). 2020;12(12):3762.
+92.	Tischkowitz M, Colas C, Pouwels S, et al. Cancer Surveillance Guide- line for individuals with PTEN hamartoma tumour syndrome. Eur J Hum Genet. 2020;28(10):1387-1393.
+93.	Blair VR, McLeod M, Carneiro F, et al. Hereditary diffuse gastric cancer: updated clinical practice guidelines. Lancet Oncol. 2020;21(8): e386-e397.
+94.	Familial breast cancer: classification, care and managing breast cancer and related risks in people with a family history of breast cancer. Breast Cancer Guidelines England and Wales. Available at https://www.nice. org.uk/guidance/cg164. Published 2013. Accessed March 23, 2022.
+95.	Lee A, Mavaddat N, Wilcox AN, et al. BOADICEA: a comprehensive breast cancer risk prediction model incorporating genetic and nongenetic risk factors. Genet Med. 2019;21(8):1708-1718.
+96.	Naslund-Koch C, Nordestgaard BG, Bojesen SE. Increased risk for other cancers in addition to breast cancer for CHEK2*1100delC het- erozygotes estimated from the Copenhagen General Population Study. J Clin Oncol. 2016;34(11):1208-1216.
+97.	Buonomo B, Massarotti C, Dellino M, et al. Reproductive issues in carriers of germline pathogenic variants in the BRCA1/2 genes: an expert meeting. BMC Med. 2021;19(1):205.
+98.	Lambertini M, Peccatori FA, Demeestere I, et al. Fertility preservation and post-treatment pregnancies in post-pubertal cancer patients: ESMO Clinical Practice Guidelines. Ann Oncol. 2020;31(12):1664-1678.
+99.	Vukovic P, Peccatori FA, Massarotti C, et al. Preimplantation genetic testing for carriers of BRCA1/2 pathogenic variants. Crit Rev Oncol Hematol. 2021;157:103201.
+100.	Huber D, Seitz S, Kast K, et al. Hormone replacement therapy in BRCA mutation carriers and risk of ovarian, endometrial, and breast cancer: a systematic review. J Cancer Res Clin Oncol. 2021;147(7):2035-2045.
+101.	Michaelson-Cohen R, Gabizon-Peretz S, Armon S, et al. Breast cancer risk and hormone replacement therapy among BRCA carriers after risk-reducing salpingo-oophorectomy. Eur J Cancer. 2021;148:95-102.
+ 
+
+
+46	https://doi.org/10.1016/j.annonc.2022.10.004	Volume 34 ■ Issue 1 ■ 2023
+ 
+C. Sessa et al.	Annals of Oncology
+
+ 
+102.	Coleman R, Hadji P, Body JJ, et al. Bone health in cancer: ESMO Clinical Practice Guidelines. Ann Oncol. 2020;31(12):1650-1663.
+103.	Lombardi L, Bramanti SM, Babore A, et al. Psychological aspects, risk and protective factors related to BRCA genetic testing: a review of the literature. Support Care Cancer. 2019;27(10):3647-3656.
+104.	Listol W, Hoberg-Vetti H, Eide GE, et al. Anxiety and depression symptoms among women attending group-based patient education courses for he- reditary breast and ovarian cancer. Hered Cancer Clin Pract. 2017;15:2.
+105.	Power TE, Robinson JW, Bridge P, et al. Distress and psychosocial needs of a heterogeneous high risk familial cancer population. J Genet Couns. 2011;20(3):249-269.
+106.	Bosch N, Junyent N, Gadea N, et al. What factors may inﬂuence psychological well being at three months and one year post BRCA genetic result disclosure? Breast. 2012;21(6):755-760.
+107.	Ringwald J, Wochnowski C, Bosse K, et al. Psychological distress, anxiety, and depression of cancer-affected BRCA1/2 mutation car- riers: A systematic review. J Genet Couns. 2016;25(5):880-891.
+108.	Cicero G, De Luca R, Dorangricchia P, et al. Risk perception and psy- chological distress in genetic counselling for hereditary breast and/or ovarian cancer. J Genet Couns. 2017;26(5):999-1007.
+109.	Graves KD, Gatammah R, Peshkin BN, et al. BRCA1/2 genetic testing uptake and psychosocial outcomes in men. Fam Cancer. 2011;10(2): 213-223.
+110.	Bober SL, Recklitis CJ, Bakan J, et al. Addressing sexual dysfunction after risk-reducing salpingo-oophorectomy: effects of a brief, psy- chosexual intervention. J Sex Med. 2015;12(1):189-197.
+111.	Kershaw V, Hickey I, Wyld L, et al. The impact of risk reducing bilateral salpingo-oophorectomy on sexual function in BRCA1/2 mutation
+ 
+carriers and women with Lynch syndrome: A systematic review and meta-analysis. Eur J Obstet Gynecol Reprod Biol. 2021;265:7-17.
+112.	Glassey R, Ives A, Saunders C, et al. Decision making, psychological wellbeing and psychosocial outcomes for high risk women who choose to undergo bilateral prophylactic mastectomy - A review of the literature. Breast. 2016;28:130-135.
+113.	Razdan SN, Patel V, Jewell S, et al. Quality of life among patients after bilateral prophylactic mastectomy: a systematic review of patient- reported outcomes. Qual Life Res. 2016;25(6):1409-1421.
+114.	McGaughey A. Body image after bilateral prophylactic mastectomy: an integrative literature review. J Midwifery Womens Health. 2006;51(6):e45-e49.
+115.	Barnes DR, Rookus MA, McGuffog L, et al. Polygenic risk scores and breast and epithelial ovarian cancer risks for carriers of BRCA1 and BRCA2 pathogenic variants. Genet Med. 2020;22(10):1653-1666.
+116.	Tutt ANJ, Garber JE, Kaufman B, et al. Adjuvant olaparib for patients with BRCA1- or BRCA2-mutated breast cancer. N Engl J Med. 2021;384(25):2394-2405.
+117.	Singer CF. Nonsurgical prevention strategies in BRCA1 and BRCA2 mutation carriers. Breast Care (Basel). 2021;16(2):144-148.
+118.	Wentzensen N, Clarke MA. Liquid biopsy for cancer detection: Clinical and epidemiologic considerations. Clin Cancer Res. 2021;27(21):5733-5735.
+119.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis. 2001;33(2):139-144.
+120.	Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards for infectious diseases. Infectious Diseases Society of America. Clin Infect Dis. 1994;18(3):421.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Volume 34 ■ Issue 1 ■ 2023	https://doi.org/10.1016/j.annonc.2022.10.004	47

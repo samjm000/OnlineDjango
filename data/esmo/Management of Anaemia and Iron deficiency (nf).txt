@@ -1,0 +1,534 @@
+
+ 
+CLINICAL PRACTICE GUIDELINES
+ 
+Annals of Oncology 29 (Supplement 4): iv96–iv110, 2018 doi:10.1093/annonc/mdx758
+Published online 20 February 2018; updated 04 October 2018
+ 
+
+ 
+
+ 
+
+M. Aapro1, Y. Beguin2,3, C. Bokemeyer4, M. Dicato5, P. Gasco´n6, J. Glaspy7, A. Hofmann8, H. Link9,
+T. Littlewood10, H. Ludwig11, A. O¨ sterborg12, P. Pronzato13, V. Santini14, D. Schrijvers15, R. Stauder16,
+K. Jordan17 & J. Herrstedt18,19, on behalf of the ESMO Guidelines Committee*
+1Genolier Cancer Centre, Clinique de Genolier, Genolier, Switzerland;  2University of Lie`ge, Lie`ge; 3CHU of Lie`ge, Lie`ge, Belgium; 4Department of Oncology, Hematology and BMT with Section Pneumology, University of Hamburg, Hamburg, Germany; 5He´matologie-Oncologie, Centre Hospitalier de Luxembourg, Luxembourg, Luxembourg; 6Department of Haematology-Oncology, Hospital Cl´ınic de Barcelona, University of Barcelona, Barcelona, Spain; 7Division of Hematology and Oncology, Department of Medicine, David Geffen School of Medicine at UCLA, Los Angeles, USA; 8Medical Society for Blood Management, Laxenburg, Austria; 9Klinik fu¨ r Innere Medizin I, Westpfalz-Klinikum, Kaiserslautern, Germany; 10Department of Haematology, John Radcliffe Hospital, Oxford, UK; 11Wilhelminen Cancer Research Institute, Wilhelminenspital, Vienna, Austria; 12Karolinska Institute and Karolinska Hospital, Stockholm, Sweden; 13Medica Oncology, IRCCS Asiana Pedaliter Universitaria San Martino – IST, Institutor Nazionale per la Ricercars sol Chancre, Genova; 14Department of Experimental and Clinical Medicine, Haematology, University of Florence, Florence, Italy; 15Department of Medical Oncology, Ziekenhuisnetwerk Antwerpen, Antwerp, Belgium; 16Department of Internal Medicine V (Haematology and Oncology), Innsbruck Medical University, Innsbruck, Austria; 17Department of Medicine V, University of Heidelberg, Heidelberg, Germany; 18Department of Oncology, Zealand University Hospital Roskilde, Roskilde; 19University of Copenhagen, Copenhagen, Denmark
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org
+†Approved by the ESMO Guidelines Committee: October 2017.
+
+
+ 
+
+Anaemia and iron deficiency (ID) are frequent complications in patients with solid tumours or haematological malignancies, par- ticularly in patients treated with chemotherapeutic agents [1–3]. Frequently, anaemia is associated with fatigue, impaired physical function and reduced quality of life (QoL) [4–7]. Consequences of anaemia may include impaired response to cancer treatment and reduced overall survival (OS), even though a causal direct relationship has not yet been established [8, 9].
+These new ESMO Clinical Practice Guidelines provide tools to evaluate anaemia, also in patients with myelodysplastic syn- dromes (MDS), and include recommendations on how to safely manage chemotherapy-induced anaemia (CIA) with erythropoiesis-stimulating agents (ESAs), iron preparations for intravenous (i.v.) or oral administration, red blood cell (RBC) transfusions and combinations of these treatments [10–13]. The major aims of anaemia management are the reduction or resolu- tion of anaemia symptoms, particularly fatigue, and an improved QoL with the minimum invasive treatment that corrects the underlying causes and proves to be safe. Underlying causes of anaemia, mainly impaired erythropoietic activity and disturbed iron homeostasis, can be consequences of increased release of inflammatory cytokines due to the underlying cancer and/or tox- icity of cancer therapy. Furthermore, vitamin B12 and folate defi- ciency are relatively rare causes of anaemia in cancer patients.
+Notably, also more than half of patients with MDS are charac- terised by a haemoglobin (Hb) level < 10 g/dL, resulting in
+ 
+
+reduced functional capacities and health-related QoL, and
+> 80% of these patients require RBC transfusions [14–17]. However, ESAs were not approved by the European Medicines
+Agency (EMA) for use in MDS patients despite being used effec- tively in MDS for at least 20 years; their activity has been demon- strated in numerous clinical trials, with published evidence existing for more than 2500 ESA-treated MDS patients [14]. Randomised clinical trials are ongoing.
+Since the publication of the European Society of Medical Oncology (ESMO) anaemia Clinical Practice Guidelines in 2010
+[18] and the last review of the European Organisation for Research and Treatment of Cancer (EORTC) anaemia treatment guidelines in 2006 [19] (last update in 2007 [20]), clinical experience with ESAs and iron preparations and the understanding of iron homeostasis have markedly increased [10, 21]. Furthermore, specific safety aspects of the different treatment options have been addressed by several analyses and reviews in recent years, although data on the use of blood transfusions in cancer patients are sparse. Therefore, new ESMO guidelines for the diagnosis and treatment of anaemia and ID in cancer patients were deemed necessary. In addition, these guide- lines include aspects related to anaemia management in patients with MDS and update the most recent ESMO and European LeukemiaNet (ELN) treatment guidelines for MDS [15, 22].
+Questions addressed by these guidelines and respective recom- mendations including levels of evidence and grades of recom- mendations [23] are summarised in Table 1 for the management
+ 
+
+VC   The Author(s) 2018. Published by Oxford University Press on behalf of the European Society for Medical Oncology. All rights reserved. For permissions, please email: journals.permissions@oup.com.
+ 
+Table 1. Managing anaemia and ID in patients with solid tumours or haematological malignancies
+
+When should ESA treatment be considered?
+Treatment of anaemia with an ESA should be considered in patients under ChT after correction of ID and other underlying causes other than the cancer or its treatment [I, A].
+Which patients should receive ESA therapy?
+ESA therapy is recommended in patients with symptomatic anaemia who receive ChT [I, A] or combined RT-ChT [II, B] and present with an Hb level
+< 10 g/dL, as well as patients with asymptomatic anaemia who receive ChT and present with an Hb level < 8 g/dL.
+Should patients who do not receive ChT treatment be treated with an ESA?
+ESA treatment is not recommended in patients who are not on ChT [I, A].
+What is the Hb target range for treatment with an ESA?
+The Hb target is a stable level of ~ 12 g/dL without RBC transfusions [I, A].
+At what doses should ESAs be given?
+Dosing should follow the approved labels of the individual products; the currently recommended dosage is approximately 450 IU/week/kg body weight for epoetins alpha, beta and zeta; 6.75 mg/kg body weight every 3 weeks or 2.25 mg/kg body weight weekly for darbepoetin alpha; and 20 000 IU once weekly for epoetin theta [I, A].
+Should ESA doses be increased or ESA preparations changed in patients not responding within 4–8 weeks?
+Except for patients receiving epoetin theta (given at an intentionally low starting dose), ESA dose escalations and changes from one ESA to another in patients not responding within 4–8 weeks are not recommended. Patients who do not show evidence of at least an initial Hb response at this time should stop ESA therapy. The epoetin theta dose may be doubled after 4 weeks if Hb has not increased by at least 1 g/dL, unless functional ID is detected (see next recommendation) [I, A].
+Which patients should receive iron therapy?
+Patients receiving ongoing ChT who present with anaemia (Hb ≤ 11 g/dL or Hb decrease ≥ 2 g/dL from a baseline level ≤ 12 g/dL) and absolute ID (serum ferritin < 100 ng/mL) should receive iron treatment with an i.v. iron preparation to correct ID. If ESA treatment is considered, iron treatment should be given before the initiation of and/or during ESA therapy in the case of functional ID (TSAT < 20% and serum ferritin > 100 ng/mL) [I, A].
+Should patients receive i.v. iron therapy without an ESA?
+i.v. iron without additional anaemia therapy may be considered in individual patients with functional ID (TSAT < 20% and serum ferritin > 100 ng/mL) [III, C].
+Should patients who are not on ChT receive iron therapy?
+Iron treatment should be limited to patients on ChT. In patients receiving cardiotoxic ChT, i.v. iron should either be given before or after (not on the same day) administration of ChT or at the end of a treatment cycle [III, C].
+At what doses should i.v. iron be given?
+Patients with conﬁrmed functional ID should receive a dose of 1000 mg iron given as single dose or multiple doses according to the label of available i.v. iron formulations. Patients with conﬁrmed absolute ID should receive i.v. iron doses according to the approved labels of available products until correc- tion of ID [I, A].
+Which patients should be considered for RBC transfusions?
+In patients with Hb < 7–8 g/dL and/or severe anaemia-related symptoms (even at higher Hb levels) and the need for immediate Hb and symptom improvement, the administration of RBC transfusions without delay is justiﬁed [II, B].
+
+ChT, chemotherapy; ESA, erythropoiesis-stimulating agent; Hb, haemoglobin; ID, iron deﬁciency; i.v., intravenous; RBC, red blood cell; RT, radiotherapy; TSAT, transferrin saturation.
+
+
+ 
+of anaemia and ID in patients with solid tumours or haematolog- ical malignancies and in Table 2 for the management of MDS. These recommendations are further illustrated in treatment algo- rithms (Figures 1 and 2). Discussions of specific aspects underly- ing the recommendations and related to the different treatment options are summarised in this article.
+
+
+   populations with solid tumours or 
+ 
+ESAs
+ESAs have been shown to increase Hb levels and to reduce the need for RBC transfusions in cancer patients receiving chemotherapy
+ 
+[24–27] and are approved for the treatment of CIA since 1993 [28]. Furthermore, a meta-analysis of 23 studies that reported QoL results and included 5584 patients showed a statistically significant difference between patients treated with ESAs and controls when combining QoL parameters and fatigue-related symptoms well as anaemia-related symptoms [29] (Table 3). However, the authors considered this finding to be not clinically important. Conversely, experience with patients responding to therapy and a recently pub- lished meta-analysis of 37 randomised, controlled trials with 10 581 patients suggest a small but clinically important improve- ment in anaemia-related symptoms [30].
+Since early dose finding studies with epoetin beta did not show a difference in Hb response to 5000 and 10 000 IU/day (correspond- ing to 500 and 1000 IU/kg/week in a 70 kg individual) [31], and since there is not a single study on dose escalations showing a bene- fit, dose escalations in patients who do not respond within 4–8 weeks are not recommended (except for epoetin theta’s
+ 
+
+ 
+
+ 
+low starting dose to be doubled after 4 weeks if Hb response is
+< 1 g/dL). Instead, ESA treatment should be stopped at this time point if there is no emerging sign of Hb response. There is no evi- dence of differing efficacy among ESAs (Table 4) and no recom-
+mendation can be made to change from one product to another in the case of an insufficient response. Because of possible safety issues, we continue to recommend that products should not be used interchangeably without adequate traceability and without notifying the treating physician [V, C].
+
+Are ESAs linked to mortality and tumour progression?
+In the late 2000s, the safety of ESAs was discussed when meta- analyses suggested that ESA treatment may affect mortality in can- cer patients [32, 33], particularly if target Hb levels exceeded 12 g/ dL [34–38]. Consequently, the recommended Hb target range for
+ESA treatment is 10–12 g/dL, and an Hb rise of > 2 g/dL over a 4- week period should be avoided. In 2014, a study in anaemic
+patients with metastatic breast cancer suggested that addition of erythropoietin (EPO) to standard of care with a target Hb > 12 g/ dL did not meet the non-inferiority criteria for progression-free survival (PFS) versus standard of care alone [39]. However, the late separation of the PFS and OS curves can hardly be explained by a
+few weeks of EPO exposure. Notably, the most recent Cochrane review included subgroup analyses and showed statistically signifi- cant on-study mortality in patients with baseline Hb > 12 g/dL but
+not for Hb categories Hb < 10 g/dL and Hb ¼ 10–12 g/dL that cor-
+respond to the currently approved cut-off for initiation and the tar-
+get Hb range of ESA therapy [29]. When excluding one study with a target Hb range above the labelled guidance (BEST, target Hb ¼ 12–14 g/dL [36]), the effect lost statistical significance [odds ratio; 95% confidence interval (CI): 1.09 (0.97–1.23)]. Data from large studies [40–42] and other meta-analyses [43–47] that have been
+reported since the label change did not indicate an effect of ESAs on risk of disease progression. A retrospective analysis of 47 342 chemotherapy-treated patients from the SEER-Medicare database (years 1991–2002, including 12 522 ESA-treated patients) showed
+ 
+similar OS with or without ESA [48]. In November 2014, these data led the National Institute for Care and Health Excellence (NICE) in the UK to indicate that ESAs (epoetin alpha, beta, theta and zeta and darbepoetin alpha) are recommended, within their marketing authorisations, as options for treating anaemia in people with cancer who are receiving chemotherapy. If different ESAs are equally suitable, the product with the lowest acquisition cost for the course of treatment should be used [49]. Overall, there is cur- rently no clinical evidence (neither single studies nor meta- analyses) indicating an effect of ESAs on stimulating disease pro- gression or relapse when used within label and following recom- mendations for the treatment of CIA [I, A] [29].
+
+EPO receptor and tumour growth
+Some reports suggested a potential role of the EPO receptor (EpoR) on tumour cells in tumour progression [50–52], yet there has been a controversial discussion about whether the tests for EpoR expression were specific enough [53] and about whether the functionality of detected EpoR (e.g. STAT5 activation [54]) was checked sufficiently [55–58]. In particular, the first publications suggesting EpoR expression in cancer cell lines used a polyclonal antibody [53], whereas more recent publications used a monoclo- nal (more specific) antibody against EpoR and failed to show such a receptor [57, 59]. Results showing that EPO may antagonise anti-HER2 therapy in breast cancer via Jak2-mediated signalling
+[60] suggest further investigation of this pathway. In recent in vitro studies, EpoR knockdown decreased proliferation of different tumour cell lines [61, 62], yet many tumour cell lines and primary renal cancer cells express constitutively phosphorylated (active) EpoR [63]. In animal tumour models, EPO did not enhance prolif- eration of tumour cell lines or affect mortality [52, 64].
+
+ESAs and risk and prophylaxis (prevention) of thromboembolic events
+Venous thromboembolic events (VTEs) are a known risk of ESA use in cancer patients [45], and the risk of a VTE is increased
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Management of chemotherapy-induced anaemia in patients with solid or haematological malignancies.
+aOther parameters for impaired iron status: % hypochromic cells (%HYPO) > 5% and Hb content of reticulocytes (CHr) < 28 pg.
+bi.v. iron given as a single dose of 1000 mg iron or an equivalent total dose in several infusions as feasible with available i.v. iron formulations. Oral iron to be considered only for patients with ferritin < 30 ng/mL and non-inﬂammatory conditions [CRP < 5 mg/L].
+cESA dosing should follow approved labels (i.e.	450 IU/week/kg body weight for epoetins alpha, beta and zeta; 6.75 mg/kg body weight
+every 3 weeks or 2.25 mg/kg body weight weekly for darbepoetin alpha; 20 000 IU once weekly for epoetin theta which may be doubled after 4 weeks upon insufﬁcient response). ESA dose escalations or a change to another ESA in patients who do not respond within 4–8 weeks are not recommended; ESA should be stopped in this case.
+], normal; CIA, chemotherapy-induced anaemia; CRP, C-reactive protein; ESA, erythropoiesis-stimulating agent; Hb, haemoglobin; ID, iron
+deﬁciency; i.v., intravenous; RBC, red blood cell; SF, serum ferritin; TSAT, transferrin saturation.
+
+ 
+1.5-fold. The most important risk factors of a VTE are high hae- matocrit, older age, prolonged immobilisation, malignant dis- ease, major surgery, multiple trauma, a previous VTE and chronic heart failure [43]. In addition, tumour types (e.g. pancre- atic cancer) and treatment regimens (e.g. treatment with ESAs and/or immunomodulatory drugs in multiple myeloma) are associated with an increased risk of VTE [65, 66]. Clinical evi- dence on whether ESA treatment further increases the risk of VTEs when added to immunomodulatory treatments lenalido- mide or thalidomide in patients with multiple myeloma is not
+ 
+conclusive and may depend on the treatments used or the study design [67, 68]. In the absence of prospective randomised studies showing that antithrombotic therapy reduces the risk of VTEs in ESA-treated patients, prophylactic antithrombotic treatment is not recommended and the ESMO guidelines on VTEs should be fol- lowed [69]. Other guidelines in the field are issued by the National Comprehensive Cancer Network (NCCN) [70] and the American Society of Clinical Oncology (ASCO) [71]. Notably, VTEs may be in part associated with thrombocytosis, which correlates with ID that can occur due to the rapid consumption of available iron by
+ 
+
+ 
+
+Figure 2. Management of anaemia in patients with very low to intermediate-risk MDS.
+aESA-treated patients who are iron deﬁcient and transfusion independent may be considered for i.v. iron treatment.
+EPO, erythropoietin; ESA, erythropoiesis-stimulating agent; G-CSF, granulocyte colony-stimulating factor; Hb, haemoglobin; IPSS, International Prognostic Scoring System; IPSS-R, revised International Prognostic Scoring System; i.v., intravenous; MDS, myelodysplastic syndrome; RBC, red blood cell; SF, serum ferritin; TSAT, transferrin saturation.
+Adapted from [22].
+
+ 
+the increased RBC synthesis after ESA treatment, but this remains to be further investigated [72, 73]. Overall, individual risks and harms should be balanced and discussed with the patient [V].
+
+ID in patients with solid or haematological malignancies
+ID is defined by insufficient iron availability for cellular func- tions, the most prominent being haem synthesis for erythropoie- sis [74]. Absolute ID refers to depleted iron stores, whereas functional ID reflects insufficient availability of iron despite filled iron stores; this may be due to either iron sequestration in iron stores or increased iron needs during erythropoietic therapy [10, 75, 76]. In cancer patients, absolute ID is due mainly to bleeding, while other causes such as insufficient intestinal iron resorption,
+ 
+e.g. due to poor nutrition, are usually of minor importance. Most importantly, iron homeostasis in cancer patients is often impaired via the release of proinflammatory cytokines and upre- gulation of hepcidin, the main regulator of iron uptake and release [76]. Increased hepcidin levels result in insufficient iron supply and functional ID due to internalisation of ferroportin, the most important transmembrane channel for the export of iron from enterocytes and macrophages into the circulation.
+In 2006, the EORTC recommended iron treatment for the correction of ID before the initiation of ESA therapy [19] and recommended the use i.v. iron in patients with absolute or func- tional ID in the 2007 guideline update [20]. However, no details on iron status assessment or iron dosing were given due to lim- ited evidence at that time.
+ 
+
+
+Benefits	Risks or limitations
+
+ 
+ESAs	• Reduction of RBC transfusions
+•	Improvement in anaemia-related symptoms
+ 
+•	Increase in thrombotic events
+•	PRCA in rare casesa
+•	Increased mortality in patients receiving no cancer therapy or only RT
+•	Only effective in 60% of patients
+•	Induction of functional ID and decreasing response over time
+ 
+
+ 
+i.v.	ironb	• Correction of ID anaemia
+•	Reduction of RBC transfusions
+•	Increase response to ESAs
+RBC transfusions	• Immediate increase of Hb and haematocrit levels in 100%
+•	Rapid improvement in anaemia-related symptoms
+ 
+•	Long-term safety in oncology not yet fully established
+
+
+•	Increase in thrombotic events
+•	Transfusion reactions and circulatory overload
+•	Transmission of known/unknown pathogens
+•	Possibly decreased survival in certain types of cancer treated by surgery
+•	Increased risk of infections due to immunosuppression
+ 
+
+aDocumented only in non-cancer chronic kidney disease patients.
+bOral iron to be considered only for patients with both absolute ID (ferritin < 100 ng/mL) and non-inﬂammatory conditions (CRP < 5 mg/L).
+CRP, C-reactive protein; ESA, erythropoiesis-stimulating agent; Hb, haemoglobin; ID, iron deﬁciency; i.v., intravenous; PRCA, pure red cell aplasia; RBC, red blood cell; RT, radiotherapy.
+
+
+Table 4. Approved ESAs and i.v. iron compounds and their approved dosing in patients with solid tumours and haematological malignanciesa,b
+ESAs
+Epoetin alpha	450 IU/kg subcutaneously once weekly or 150 IU/kg subcutaneously 3 times per week
+Epoetin beta	30 000 IU subcutaneously (i.e. ~ 450 IU/kg body weight in a 70 kg patient) given once weekly or divided over 3–7 times per week Epoetin theta	20 000 IU subcutaneously independent of body weight given once weekly, dose may be doubled after 4 weeks if Hb has not
+increased by at least 1 g/dL
+Epoetin zeta	450 IU/kg subcutaneously once weekly, or 150 IU/kg subcutaneously 3 times per week
+Darbepoetin alpha	500 lg (6.75 lg/kg body weight) subcutaneously given once every 3 weeks or 2.25 lg/kg body weight subcutaneously once weekly
+i.v. ironc
+Ferric gluconate	Maximum infusion dose: 125 mg iron
+Minimum infusion time: 60 min
+Iron sucrose	Maximum infusion dose: 200–500 mg iron
+Minimum infusion time: 30–210 min
+Iron dextrand	Maximum infusion dose: depends on exact iron dextran type; refer to label.
+Minimum infusion time: 240–360 min
+Iron isomaltoside	Maximum infusion dose: 20 mg/kg body weight (up to 1000 mg irone) Minimum infusion time: 15 minf
+Ferric carboxymaltose Maximum infusion dose: 20 mg/kg body weight (up to 1000 mg iron per week)
+Minimum infusion time: 15 min
+
+aEpoetin alpha is EMA-approved for low or intermediate-1 risk MDS (see text).
+bBoth originator products and biosimilars approved by the EMA have been shown to have similar safety and therapeutic equivalence in clinical practice.
+cFollow the label indications in your country.
+dLow molecular weight iron dextran.
+eThe authors suggest a dose up to 1000 mg, while drug labels might allow more.
+fIf dose is up to 1000 mg; if dose exceeds 1000 mg iron, more than 30 min is recommended, as per label.
+EMA, European Medicines Agency; ESA, erythropoiesis-stimulating agent; Hb, haemoglobin; i.v., intravenous; MDS, myelodysplastic syndrome.
+
+ 
+Iron status assessment
+ID is reflected by a low transferrin saturation (TSAT < 20%) and can be further characterised as absolute ID (depleted iron stores, serum ferritin < 30 ng/mL) or functional ID (adequate iron stores
+ 
+with normal or increased serum ferritin) [10]. Although investiga- tion of bone marrow iron stores is still considered standard, circu- lating ferritin levels are used for distinguishing between absolute and functional ID in clinical practice. In non-inflammatory condi-
+tions, a serum ferritin level < 30 ng/mL is indicative of absolute ID,
+ 
+while higher levels usually reflect appropriate iron stores. However, in cancer and other conditions with an activated inflammatory cas- cade, ferritin follows the path of inflammatory cytokines. Hence, the cut-off levels should be raised to 100 ng/mL in patients with inflammation or cancer. Other biological markers of ID include hypochromic, microcytic red cells, a low cellular Hb content in
+reticulocytes (CHr < 28 pg) and an increased percentage of hypo- chromic RBCs (%HYPO > 5%) as markers of both absolute and functional ID [10, 77]. Levels of soluble transferrin receptor (sTfR)
+and zinc protoporphyrin are increased in patients with absolute ID, but sTfR value is usually within normal limits or low in functional ID except that observed with ESA treatment [10, 78, 79]. Notably, sTfR levels can be decreased after chemotherapy [80], whereas they are increased in patients with increased erythropoietic activity (or ESA treatment) and concomitant chemotherapy, limiting the rele- vance of sTfR as an indicator of iron status.
+
+Clinical evidence for treatment with i.v. iron
+In controlled clinical trials investigating iron supplementation in ESA-treated anaemic cancer patients, i.v. iron supplementation (total doses in the range of 1000 mg of iron) significantly improved the haematological response to ESA treatment versus ESA alone [81–86] (Table 3). Individual studies also showed additional benefits of i.v. iron such as improvement of QoL [81] reduction of RBC transfusions [83] and ESA doses [84]. One study showed no improvement with i.v. iron and reported a higher rate of adverse events in the experimental arm with i.v. iron, but this study used an unusual (off-label) iron dosing sched- ule and was terminated early [87, 88]. In contrast to i.v. iron treatment, therapy with oral iron did not result in better out- comes compared with control arms with no iron at all. Conversely, the benefits of i.v. iron were substantial, with signifi- cantly greater improvement of haematological response rate than with oral iron [81, 85]. Total dose infusion of calculated iron needs was as effective as multiple low-dose infusions [81], yet, depending on the individual i.v. iron product’s approved maxi- mum infusion dose (Table 4), administration of a single 1000 mg iron dose may be more convenient for patients than multiple lower doses. Iron overload is unlikely in patients with CIA and is discussed for MDS patients.
+Earlier published studies in patients with gynaecological cancer [89, 90] or with lymphoid malignancies [91] and prospective observational studies [92, 93] have shown that some patients benefit from i.v. iron even without concomitant ESA (increase in Hb concentration, reduction of RBC transfusion need), but this remains to be confirmed in larger, randomised trials. Although a trial of i.v. iron alone may be considered in individual patients with functional ID, this approach cannot be recommended based on currently available data [III, C].
+With i.v. iron, no increased risk of infection or cardiovascular morbidity has been observed [81–86]. However, i.v. iron should not be given to patients with an active infection. Concomitant administration of i.v. iron and cardiotoxic chemotherapy should be avoided, and i.v. iron should either be given before or after administration of chemotherapy or at the end of a treatment cycle [III, C]. The EMA no longer recommends administration of a test dose to predict/prevent allergic reactions (mainly observed with iron dextrans [94]); however, the EMA recommends that
+ 
+i.v. iron should only be administered by staff trained to evaluate and manage anaphylactic and anaphylactoid reactions and only when resuscitation facilities are immediately available. Patients should be observed closely for symptoms of hypersensitivity reactions for at least 30 min following each i.v. iron administra- tion [95].
+
+Is iron linked to tumour progression?
+None of the trials investigating i.v. iron treatment together with ESAs showed an induction or increased progression of tumours [81–86]; however, the observation periods of these trials were rather short and there is uncertainty about potential late effects of iron treatment in cancer patients. One prospective, randomised, controlled study with longer follow-up that included treatment arms with and without i.v. iron administration in a limited number of patients with lymphoid malignancies and autologous haematopoietic stem cell transplantation showed no negative effect of i.v. iron on PFS (median follow-up 1.4 years, range of 89 days to 9.5 years) [96]. Results of available epidemiological and non-clinical studies are often conflicting and most experi- mental designs used intramuscular or intraperitoneal administra- tion, high local iron concentrations and/or non-clinical iron preparations such as ferric nitrilotriacetate that do not reflect the clinical setting of iron-deficient cancer patients who receive approved i.v. iron preparations for Hb normalisation [97, 98]. When side-effects of iron are observed, they are most likely related to high loads of labile (non-transferrin-bound) iron, which catalyses the production of reactive oxygen species that lead to oxidative damage of cellular components including DNA [99, 100]. Hepatocyte iron overload with cirrhosis, as seen in hereditary haemochromatosis, has an established link to the development of hepatic cancer [101] and there seems to be a link between high dietary iron intake and colorectal cancer [102]. Notably, models that investigated iron as a potential promotor of tumour growth showed no effect of iron alone [103]. Some ani- mal studies suggested that tumour progression occurs if large amounts of iron are given [104]; however, there is currently no clinical evidence for such an effect. This issue has not been specifi- cally studied except in one study [96] and should be thoroughly investigated.
+
+
+ 
+RBC transfusions have a long history of use with benefit to patients who present with severe anaemia symptoms or bleeding conditions and require a rapid increase in Hb and haematocrit to normal laboratory values. The literature about RBC transfusions in the cancer population is primarily derived from patients undergoing surgery. The available literature on patients receiving chemotherapy is sparse and no randomised trials have compared the value of RBC transfusions in these patients or compared the use of ESAs with RBC transfusions. Patients with non-life- threatening, cancer-related anaemia and CIA often receive RBC blood transfusions as routine treatment [105, 106], in spite of limited evidence for a significant treatment effect [107, 108] unless the underlying conditions are corrected.
+ 
+Advances in molecular testing for known pathogens and poten- tial donor-recipient incompatibilities have improved the general safety of RBC transfusions over time. Nevertheless, there remains the risk of transmitting unknown or emerging pathogens before the development and implementation of effective tests (Table 3) and an increased risk of infections due to transfusion-related immunosuppression [109]. Furthermore, stored allogeneic blood can elicit prothrombotic as well as inflammatory responses (referred to as ‘storage lesion’) [110–112]. In the oncology surgery setting, large population-based studies and a meta-analysis suggest independent associations between RBC transfusions and an increased risk of mortality, morbidity and cancer recurrence, respectively [113–116]. Meta-analyses of studies comparing restrictive versus liberal RBC transfusion thresholds, mainly in patients with orthopaedic, cardiovascular or bleeding conditions, showed significant reductions in the proportions of transfused patients and the numbers of transfused RBC units without negative impact on mortality, morbidity and functional outcome [117–120]. Analysis of studies with a restrictive Hb thresh-
+old < 7 g/dL showed significant reductions in total and in-hospital mortality, rebleeding, acute coronary syndrome, pulmonary
+oedema and bacterial infections with a restrictive approach, com- pared with a more liberal strategy [118]. Whether a higher transfu- sion threshold may be warranted in patients with specific conditions (e.g. acute coronary syndrome) [121] needs to be inves- tigated. In the oncology setting, the American Society of Hematology’s  Choosing  WiselyVR      campaign  and  other  societies’ anaemia treatment guidelines recommend transfusing only the minimum number of RBC units required to relieve severe anaemia symptoms or to return the patient to a safe Hb range (e.g. 7–8 g/dL in stable, non-cardiac in-patients) [11, 13, 122, 123].
+It is recommended that RBC transfusions are reserved primarily for patients with severe anaemia symptoms in need of rapid Hb improvement [II, B]. The concept of taking every reasonable meas- ure to increase and maintain the patient’s endogenous RBC mass early on and to protect it throughout the entire treatment, thus pre-empting transfusion, was developed in a non-oncology popu- lation and is called ‘patient blood management’ (PBM). It is based on three pillars, namely 1) optimising the patient’s own red cell mass, 2) minimising blood loss and bleeding and 3) evaluating the physiological tolerance of anaemia. It should be accompanied by a concomitant, comprehensive assessment of a patient’s haemato- logical status at initial presentation and throughout therapy. PBM has been already well-established in the field of elective orthopaedic surgery and with the Australian National Blood Authority [124– 126]. A detailed review of studies that evaluated the impact of transfusions on patient outcomes (including ischaemic events as the second leading cause of death in cancer patients [127]) is war- ranted but is beyond the scope of these guidelines.
+
+
+   Anaemia management in patients with MDS   
+Notably, the management of MDS-associated anaemia differs for several aspects from the above recommendations for solid tumours or other haematological malignancies such as multiple myeloma or lymphomas. In 2017 the EMA-approved ESA label of epoetin alpha (summary of product characteristics) includes treatment of some patients with MDS. Based on available data
+ 
+and published predictive scores [128, 129], these anaemia treat- ment guidelines (Table 1 and Figure 2) and other international as well as national MDS treatment guidelines [15, 22, 130–132] have included recommendations on the use of ESAs for the manage- ment of MDS-associated anaemia, and several countries have allowed and have reimbursed ESAs in this setting. The use of investigational treatments (suggested as second-line treatment) that are currently tested in clinical trials is discussed in more detail in the ESMO Clinical Practice Guidelines for MDS [22].
+Many MDS patients present with normal or even increased iron stores due to ineffective erythropoiesis plus regular RBC transfu- sions and require iron chelation to reduce iron overload. Other risks and limitations of RBC transfusions that are not specific to MDS are discussed in the separate section ‘RBC transfusions’ above.
+
+Clinical evidence for use of ESAs in MDS
+Three meta-analyses evaluated the efficacy of recombinant human EPO (rHuEPO) and darbepoetin in MDS patients [133–135]. The first meta-analysis (59 studies, 1936 patients) analysed controlled and single-arm studies separately [135]. In controlled trials, including mainly patients with low to intermediate-1 International Prognostic Scoring System (IPSS) risk who have been randomised to rHuEPO with or without granulocyte colony-stimulating factor (G-CSF) or granulocyte-macrophage colony-stimulating factor
+(GM-CSF), an Hb response was reported for 27.3% of ESA-treated patients compared with 6.7% in the control groups (P < 0.01). In single-arm studies, pooled response rates were 32.1% for rHuEPO and 48.1% for darbepoetin alpha. Patient groups with lower endogenous EPO levels at baseline, longer treatment periods or
+iron supplementation showed higher Hb response rates. A second meta-analysis (30 studies, 1314 patients) that included more recent trials with higher ESAs dosing reported overall response rates of 57.6% (rHuEPO) and 59.4% (darbepoetin alpha) [133]. Three factors predicted response to rHuEPO: baseline serum EPO
+< 500 IU/L, French–British–American (FAB) class [either refrac- tory anaemia (RA) or RA with excess blasts (RARS)] and fixed
+rather than weight-adjusted dosages. Neither of these two meta- analyses showed an increased risk of haematological or cardiovas- cular events or leukaemic transformation in patients receiving ESAs. No direct comparison between the different ESAs could be made. The third meta-analysis (15 studies, 741 patients) indicated equivalent erythroid response in patients treated with rHuEPO alpha alone (standard dose 30 000–40 000 IU weekly) or in combi- nation with G-CSF or GM-CSF [134]. High-dose rHuEPO alpha monotherapy (60 000–80 000 IU weekly) resulted in significantly higher response rates compared with standard-dose treatment (64.5% versus 49.0%). Achievement of higher response rates with higher EPO doses was independent of FAB subtype or classifica- tion and transfusion dependency. So far, there is no evidence for a negative impact on survival or acute myeloid leukaemia (AML) evolution in prospective or historical controls [136–138]; however, in patients that progressed to AML, ESAs should not be used. Prospective randomised studies showed no OS benefit of ESA treatment in patients with MDS. In contrast to patients with solid tumours, there seems to be no association between the use of ESAs and thrombosis in patients with MDS [139], although this may also be related to the fact that patients with MDS only rarely
+receive(d) ESAs to achieve Hb levels > 12 g/dL.
+ 
+ 
+rHuEPO and recombinant G-CSF were the first biotechnological medicinal products used in haematology. More recently, follow- on products (biosimilars) of epoetin have been granted marketing authorisation by the EMA [140, 141]. A biosimilar is a biological medicinal product (a medicine produced by or derived from a bio- logical source) that is similar to another biological medicinal prod- uct that has already been authorised for use in Europe [142]. Biological medicinal products similar to a reference medicinal product do not usually meet all the conditions to be considered as a generic medicinal product, mainly due to manufacturing process characteristics, raw materials used and molecular characteristics. Authorisation of a biosimilar requires studies showing that the product is similar to the reference medicine and does not have any meaningful differences from the reference medicine in terms of quality, safety or efficacy, yet the amount of information on safety and efficacy required is usually less than the amount required to authorise an original biological medicinal product [143].
+Notably, only products that are approved, produced and dis- tributed according to a strict biosimilar guidance of a regulatory authority such as the EMA or the Food and Drug Administration (FDA) should be considered as biosimilar and be differentiated from products that are not manufactured and quality-controlled in compliance with the biosimilar guidance or even counterfeit medicines. Use of epoetin products that have not been approved
+ 
+Regulatory evaluation of i.v. iron follow-on products is cur- rently determined by the pathway for generic medicinal products. However, there is growing clinical [154–157] and non-clinical
+[158] evidence raising doubts about the interchangeability and/ or substitutability of these complex drugs [159]. Concerns regarding the regulatory assessment of nanoparticle iron follow- on products are also highlighted by the EMA in a reflection paper on non-clinical and clinical data requirements [160]. Accordingly, new regulatory approaches that focus more on com- parability of clinical safety and therapeutic efficacy are required (and are emerging) for the approval of follow-on products of such non-biological complex drugs [161, 162]. As for biosimilars, switching preparations in adequately treated patients and auto- matic substitution should be avoided [V, C].
+
+
+ 
+The largest amount of evidence in the treatment of symptomatic CIA is available for ESAs. ESAs are relatively safe except for an increased risk of VTE and development of PRCA in very rare cases. Outside approved indications, ESAs have been linked with increased mortality.
+i.v. iron has been shown to significantly enhance the activity of ESAs, but long-term results are not available. As a sole therapy,
+i.v. iron improves anaemia in cancer patients with ID, but repre-
+ 
+by the EMA has been linked to an increased incidence of antibody-mediated pure red cell aplasia (PRCA). Among 30 patients with renal insufficiency who experienced a sudden loss of response after the switch from an epoetin originator, 23 were positive for antibodies to rHuEPO and all of them had PRCA, compared with none in the seven antibody-negative patients [144]. Whether this increased rate of antibody-mediated PRCA cases is actually related to quality-controlled non-originator products or an increased background of idiopathic PRCA in the population [145] or an elevated content of protein aggregates in counterfeit or smuggled products with interrupted cold chain
+(2–8 ◦C) [146] cannot be clarified.
+Head-to-head trials and long-term follow-up with biosimi-
+lars of epoetin that were manufactured and distributed accord- ing to established and regularly updated biosimilar guidelines like the scientific guidelines on biosimilar medicines issued by EMA have shown the safety and therapeutic equivalence of bio- similars and originator products in patients with renal insuffi- ciency [147–150] and oncology patients [151]. The effectiveness of a biosimilar epoetin has also been shown for patients with CIA in clinical practice [152].
+Independently of which epoetin has been used to initiate treat- ment, switching preparations in responsive and stable patients should be avoided [153] to prevent issues of immunogenicity and confused pharmacovigilance reports [V, C]. Automatic substitu- tion should be only allowed in drug-na¨ıve patients and if the clinician accepts a therapeutic equivalence [153]. Furthermore, reliable monitoring of treatment outcomes with biosimilars is crucial to substantially increase the numbers of recorded patient- years under treatment above those requested for regulatory approval; another reason why the use of different preparations within one patient should be avoided.
+ 
+sentative, randomised studies and long-term data are lacking.
+Opposite the large number of ESA studies in cancer patients, no randomised trials have investigated the use of RBC transfusions in this population. Based on findings from studies in non-oncology populations and cancer patients undergoing surgery, it is recom- mended that RBC transfusions are reserved for patients with Hb levels below 7–8 g/dL and situations when rapid improvement of severely symptomatic anaemia is required [II, B].
+MDS patients with low to intermediate-1 risk (IPSS) or very low to intermediate risk (revised; IPSS-R) disease and symptomatic anaemia should be considered for ESA therapy, despite the fact that not all ESAs are currently EMA-approved for use in patients with MDS [I, A].
+The FDA recently determined that the ESA Risk Evaluation and Mitigation Strategy (related to the use of ESAs to treat patients with anaemia due to associated myelosuppressive che- motherapy) was no longer necessary to ensure that the benefits outweigh the risks of shortened OS and/or increased risk of tumour progression or recurrence in patients with cancer [163]. In addition, the FDA’s Oncology Drugs Advisory Committee has recently recommended approval of a biosimilar to epoetin alpha [164].
+In Europe, recently published German guidelines have reached similar conclusions about the adequate safety and appropriate use of ESAs [165].
+
+
+ 
+Although these guidelines take into account the Hb, vitamin and iron levels of patients before treatment is applied, personalised medicine requires an individualised approach. Further research is needed on potential markers to determine the best chances of
+ 
+
+ 
+
+ 
+
+response to the applied agents, in particular to iron and epoetins. Ongoing studies on hepcidin might provide an insight for better use of i.v. iron.
+
+
+   Follow-up, long-term implications and   
+ 
+ 
+Long-term data on both the safety and OS data of i.v. iron in the setting of cancer patients are not currently available. Other issues are described and discussed in the above text.
+
+
+ 
+Since the last European anaemia treatment guidelines were pub- lished (ESMO in 2010, EORTC in 2007), new data about treat- ment options for cancer-related anaemia and CIA have become available. In addition, treatment options for anaemia in patients with MDS of IPSS and/or IPSS-R lower risk have been evaluated. The authors conducted electronic searches of the Medline data- base for English language records from 2007 to March 2015 (search terms: cancer, tumour, haematological malignancy, MDS, chemotherapy, anaemia, erythropoiesis, iron, vitamin, folate, deficiency and combinations thereof) and manually searched abstract books of the major international oncology con- gresses. The authors met in March 2013, 2014 and 2015 to discuss the findings and agreed on a consensus for the guidelines in sev- eral meetings and phone conferences and reviewed the manu- script during 2016–2017. These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating pro- cedures for Clinical Practice Guidelines development (http:// www.esmo.org/Guidelines/ESMO-Guidelines-Methodology).
+The relevant literature has been selected by the expert authors. Levels of evidence and grades of recommendation have been applied using the system shown in Table 5. Statements without grading were considered justified standard clinical practice by the
+ 
+
+experts and the ESMO Faculty. This manuscript has been sub- jected to an anonymous peer review process.
+
+ 
+This work was initiated by a working party started by the EORTC and finished in agreement with ESMO given the task of updating the guidelines on the use of ESAs in anaemic patients with cancer. Medical writing support was provided by Walter Fu¨rst, SFL Regulatory Affairs & Scientific Communication and paid by funds from the Clinique de Genolier Cancer Centre. Working party meetings were held during an annual European Accreditation Council for Continuing Medical Education- accredited meeting on anaemia and neutropaenia organised by the agency Vision Plus.
+
+
+ 
+MA has received grants or speaker honoraria from or serves on an advisory board and speaker’s bureau for Amgen, Hexal, F. Hoffmann-La Roche, Hospira, Sanofi-Aventis, Sandoz and Vifor Pharma. YB has received research grants, consulting fees or speaker honoraria from Amgen, F. Hoffmann-La Roche and Vifor Pharma. CB has received speaker honoraria, research grants or consulting fees from Amgen, Jansen Cilag, Hexal and
+F. Hoffmann-La Roche and has served on advisory boards for Amgen, F. Hoffmann-La Roche and Vifor Pharma. MD has acted as a consultant to Janssen-Cilag. PG has received speaker honoraria from Vifor Pharma. JG’s institution has received pay- ments from Amgen to support clinical trials. AH has served as a consultant or advisor for and/or has received speaker’s honora- ria from the Australian Red Cross Services, B Braun Melsungen, Ethicon Biosurgery, Hospira, Vifor Pharma and the Western Australia Department of Health. HL has received research grants or speaker honoraria from Amgen, F. Hoffman-La Roche, Janssen Cilag, Novartis, Teva and Vifor Pharma. TL has not
+ 
+received honoraria from any company within the last 3 years but previously received honoraria from Amgen, F. Hoffman-La Roche, Janssen Cilag and Vifor Pharma. HL has received con- sulting fees or speaker honoraria from F. Hoffman-La Roche and Vifor Pharma. AO has received research grants or speaker honoraria from Amgen, F. Hoffmann-La Roche and Vifor Pharma. PP has received honoraria from Amgen and Janssen Cilag. VS has received honoraria from Celgene, Janssen Cilag, Novartis and Onconova Therapeutics. DS served as consultant or advisor for Janssen Cilag. RS has received research grants and honoraria from Celgene, Janssen-Cilag Novartis and Teva and has served as scientific advisor for Celgene. KJ has reported honoraria from Amgen, Merck, MSD, Helsinn, Tesaro and Hexal and being a member of the advisory board of Merck, MSD, Helsinn and Tesaro. JH has declared no conflicts of interest.
+
+ 
+1.	Ludwig H, Van Belle S, Barrett-Lee P. The European Cancer Anaemia Survey (ECAS): a large, multinational, prospective survey defining the prevalence, incidence, and treatment of anaemia in cancer patients. Eur J Cancer 2004; 40: 2293–2306.
+2.	Ludwig H, Muldur E, Endler G, Hubl W. Prevalence of iron deficiency across different tumors and its association with poor performance sta- tus, disease status and anemia. Ann Oncol 2013; 24: 1886–1892.
+3.	Delarue R, Tilly H, Salles GA et al. Iron parameters and relation to prog- nosis in elderly patients with aggressive lymphoma receiving first line immunochemotherapy: an analysis of the Lysa LNH 03-6B Study. Blood 2013; 122 (Abstr 2202).
+4.	Anker SD, Comin Colet J, Filippatos G et al. Ferric carboxymaltose in patients with heart failure and iron deficiency. N Engl J Med 2009; 361: 2436–2448.
+5.	Cella D, Kallich J, McDermott A, Xu X. The longitudinal relationship of hemoglobin, fatigue and quality of life in anemic cancer patients: results from five randomized clinical trials. Ann Oncol 2004; 15: 979–986.
+6.	Crawford J, Cella D, Cleeland CS et al. Relationship between changes in hemoglobin level and quality of life during chemotherapy in anemic cancer patients receiving epoetin alfa therapy. Cancer 2002; 95: 888–895.
+7.	Demetri GD. Anaemia and its functional consequences in cancer patients: current challenges in management and prospects for improv- ing therapy. Br J Cancer 2001; 84(Suppl 1): 31–37.
+8.	Caro JJ, Salas M, Ward A, Goss G. Anemia as an independent prognos- tic factor for survival in patients with cancer: a systemic, quantitative review. Cancer 2001; 91: 2214–2221.
+9.	Hudis CA, Van Belle S, Chang J, Muenstedt K. rHuEPO and treatment outcomes: the clinical experience. Oncologist 2004; 9(Suppl 5): 55–69.
+10.	Aapro M, O¨ sterborg A, Gasco´n P et al. Prevalence and management of
+cancer-related anaemia, iron deficiency and the specific role of intrave- nous iron. Ann Oncol 2012; 23: 1954–1962.
+11.	National Comprehensive Cancer Network. NCCN Practice Guidelines in Oncology; Cancer and Chemotherapy-Induced Anemia – v.1.2018, 2017; http://www.nccn.org/professionals/physician_gls/PDF/anemia. pdf (18 October 2017, date last accessed).
+12.	Aapro M, Chernov VM, Gladkov OA et al. Practical recommendations for the treatment of anemia in cancer patients. Malignant Tumors 2016; 4(Special Issue 2): 368–377.
+13.	Rizzo JD, Brouwers M, Hurley P et al. American Society of Hematology/American Society of Clinical Oncology clinical practice guideline update on the use of epoetin and darbepoetin in adult patients with cancer. Blood 2010; 116: 4045–4059.
+ 
+14.	Santini V. Clinical use of erythropoietic stimulating agents in myelodys- plastic syndromes. Oncologist 2011; 16(Suppl 3): 35–42.
+15.	Malcovati L, Hellstro¨m-Lindberg E, Bowen D et al. Diagnosis and treat- ment of primary myelodysplastic syndromes in adults: recommenda- tions from the European LeukemiaNet. Blood 2013; 122: 2943–2964.
+16.	Efficace F, Gaidano G, Breccia M et al. Prevalence, severity and corre- lates of fatigue in newly diagnosed patients with myelodysplastic syn- dromes. Br J Haematol 2015; 168: 361–370.
+17.	de Swart L, Smith A, Johnston TW et al. Validation of the revised inter- national prognostic scoring system (IPSS-R) in patients with lower-risk myelodysplastic syndromes: a report from the prospective European LeukaemiaNet MDS (EUMDS) registry. Br J Haematol 2015; 170: 372–383.
+18.	Schrijvers D, De Samblanx H, Roila F. Erythropoiesis-stimulating agents in the treatment of anaemia in cancer patients: ESMO Clinical Practice Guidelines for use. Ann Oncol 2010; 21(Suppl 5): v244–v247.
+19.	Bokemeyer C, Aapro M, Courdi A et al. EORTC guidelines for the use of erythropoietic proteins in anaemic patients with cancer: 2006 update. Eur J Cancer 2007; 43: 258–270.
+20.	Aapro MS, Link H. September 2007 update on EORTC guidelines and anemia management with erythropoiesis-stimulating agents. Oncologist 2008; 13(Suppl 3): 33–36.
+21.	Aapro M, Jelkmann W, Constantinescu SN, Leyland-Jones B. Effects of erythropoietin receptors and erythropoiesis-stimulating agents on dis- ease progression in cancer. Br J Cancer 2012; 106: 1249–1258.
+22.	Fenaux P, Haase D, Sanz GF et al. Myelodysplastic syndromes: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol 2014; 25(Suppl 3): iii57–iii69.
+23.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among haematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33: 139–144.
+24.	Gabrilove JL, Cleeland CS, Livingston RB et al. Clinical evaluation of once-weekly dosing of epoetin alfa in chemotherapy patients: improve- ments in hemoglobin and quality of life are similar to three-times- weekly dosing. J Clin Oncol 2001; 19: 2875–2882.
+25.	Hedenus M, Adriansson M, San Miguel J et al. Efficacy and safety of darbepoetin alfa in anaemic patients with lymphoproliferative malig- nancies: a randomized, double-blind, placebo-controlled study. Br J Haematol 2003; 122: 394–403.
+26.	Littlewood TJ, Bajetta E, Nortier JW et al. Effects of epoetin alfa on hematologic parameters and quality of life in cancer patients receiving nonplatinum chemotherapy: results of a randomized, double-blind, placebo-controlled trial. J Clin Oncol 2001; 19: 2865–2874.
+27.	Vansteenkiste J, Pirker R, Massuti B et al. Double-blind, placebo- controlled, randomized phase III trial of darbepoetin alfa in lung cancer patients receiving chemotherapy. J Natl Cancer Inst 2002; 94: 1211–1220.
+28.	Aapro M. An update on twenty years of anemia management with erythropoiesis-stimulating agents in nephrology and oncology/hema- tology. Oncologist 2009; 14(Suppl 1): 1–5.
+29.	Tonia T, Mettler A, Robert N et al. Erythropoietin or darbepoetin for patients with cancer. Cochrane Database Syst Rev 2012; 12: CD003407.
+30.	Bohlius J, Tonia T, Nu¨esch E et al. Effects of erythropoiesis-stimulating agents on fatigue- and anaemia-related symptoms in cancer patients: systematic review and meta-analyses of published and unpublished data. Br J Cancer 2014; 111: 33–45.
+31.	Cazzola M, Messinger D, Battistel V et al. Recombinant human erythro- poietin in the anemia associated with multiple myeloma or non- Hodgkin’s lymphoma: dose finding and identification of predictors of response. Blood 1995; 86: 4446–4453.
+32.	Bennett CL, Silver SM, Djulbegovic B et al. Venous thromboembolism and mortality associated with recombinant erythropoietin and darbe- poetin administration for the treatment of cancer-associated anemia. JAMA 2008; 299: 914–924.
+ 
+33.	Bohlius J, Schmidlin K, Brillant C et al. Erythropoietin or darbepoetin for patients with cancer–meta-analysis based on individual patient data. Cochrane Database Syst Rev 2009; 3: CD007303.
+34.	Henke M, Laszig R, Ru¨be C et al. Erythropoietin to treat head and neck cancer patients with anaemia undergoing radiotherapy: randomised, double-blind, placebo-controlled trial. Lancet 2003; 362: 1255–1260.
+35.	Hoff CM, Hansen HS, Overgaard M et al. The importance of haemoglo- bin level and effect of transfusion in HNSCC patients treated with radiotherapy—results from the randomized DAHANCA 5 study. Radiother Oncol 2011; 98: 28–33.
+36.	Leyland-Jones B, Semiglazov V, Pawlicki M et al. Maintaining normal hemoglobin levels with epoetin alfa in mainly nonanemic patients with metastatic breast cancer receiving first-line chemotherapy: a survival study. J Clin Oncol 2005; 23: 5960–5972.
+37.	Smith RE Jr, Aapro MS, Ludwig H et al. Darbepoetin alpha for the treatment of anemia in patients with active cancer not receiving chemo- therapy or radiotherapy: results of a phase III, multicenter, randomized, double-blind, placebo-controlled study. J Clin Oncol 2008; 26: 1040–1050.
+38.	Wright JR, Ung YC, Julian JA et al. Randomized, double-blind, pla- cebo-controlled trial of erythropoietin in non-small-cell lung cancer with disease-related anemia. J Clin Oncol 2007; 25: 1027–1032.
+39.	Leyland-Jones B, Bondarenko I, Nemsadze G et al. A randomized, open-label, multicenter, phase III study of epoetin alfa (EPO) plus standard supportive care versus standard supportive care in anemic patients with metastatic breast cancer (MBC) receiving standard che- motherapy. J Clin Oncol 2016; 34: 1197–1207.
+40.	Engert A, Josting A, Haverkamp H et al. Epoetin alfa in patients with advanced-stage Hodgkin’s lymphoma: results of the randomized placebo-controlled GHSG HD15EPO trial. J Clin Oncol 2010; 28: 2239–2245.
+41.	Moebus V, Jackisch C, Schneeweiss A et al. Adding epoetin alfa to intense dose-dense adjuvant chemotherapy for breast cancer: random- ized clinical trial. J Nat Cancer Inst 2013; 105: 1018–1026.
+42.	Pirker R, Ramlau RA, Schuette W et al. Safety and efficacy of darbepoe- tin alpha in previously untreated extensive-stage small-cell lung cancer treated with platinum plus etoposide. J Clin Oncol 2008; 26: 2342–2349.
+43.	Aapro M, Osterwalder B, Scherhag A, Burger HU. Epoetin-beta treat- ment in patients with cancer chemotherapy-induced anaemia: the impact of initial haemoglobin and target haemoglobin levels on sur- vival, tumour progression and thromboembolic events. Br J Cancer 2009; 101: 1961–1971.
+44.	Aapro M, Moebus V, Nitz U et al. Safety and efficacy outcomes with erythropoiesis-stimulating agents in patients with breast cancer: a meta- analysis. Ann Oncol 2015; 26: 688–695.
+45.	Glaspy J, Crawford J, Vansteenkiste J et al. Erythropoiesis-stimulating agents in oncology: a study-level meta-analysis of survival and other safety outcomes. Br J Cancer 2010; 102: 301–315.
+46.	Ludwig H, Crawford J, Osterborg A et al. Pooled analysis of individual patient-level data from all randomized, double-blind, placebo-con- trolled trials of darbepoetin alfa in the treatment of patients with chemotherapy-induced anemia. J Clin Oncol 2009; 27: 2838–2847.
+47.	Vansteenkiste J, Glaspy J, Henry D et al. Benefits and risks of using erythropoiesis-stimulating agents (ESAs) in lung cancer patients: study- level and patient-level meta-analyses. Lung Cancer 2012; 76: 478–485.
+48.	Hershman DL, Buono DL, Malin J et al. Patterns of use and risks associ- ated with erythropoiesis-stimulating agents among Medicare patients with cancer. J Natl Cancer Inst 2009; 101: 1633–1641.
+49.	National Institute for Health and Care Excellence (NICE). 2014. Erythropoiesis-stimulating agents (epoetin and darbepoetin) for treat- ing anaemia in people with cancer having chemotherapy (including review of TA142). www.nice.org.uk/guidance/ta323 (23 February 2015, date last accessed).
+50.	Henke M, Mattern D, Pepe M et al. Do erythropoietin receptors on can- cer cells explain unexpected clinical findings? J Clin Oncol 2006; 24: 4708–4713.
+ 
+51.	Jelkmann W, Bohlius J, Hallek M, Sytkowski AJ. The erythropoietin receptor in normal and cancer tissues. Crit Rev Oncol Hematol 2008; 67: 39–61.
+52.	Sinclair AM, Todd MD, Forsythe K et al. Expression and function of erythropoietin receptors in tumors: implications for the use of erythropoiesis-stimulating agents in cancer patients. Cancer 2007; 110: 477–488.
+53.	Acs G, Acs P, Beckwith SM et al. Erythropoietin and erythropoietin receptor expression in human cancer. Cancer Res 2001; 61: 3561–3565.
+54.	Swift S, Ellison AR, Kassner P et al. Absence of functional EpoR expres- sion in human tumor cell lines. Blood 2010; 115: 4254–4263.
+55.	Brown WM, Maxwell P, Graham AN et al. Erythropoietin receptor expression in non-small cell lung carcinoma: a question of antibody specificity. Stem Cells 2007; 25: 718–722.
+56.	Elliott S, Busse L, Bass MB et al. Anti-epo receptor antibodies do not predict epo receptor expression. Blood 2006; 107: 1892–1895.
+57.	Elliott S, Busse L, McCaffery I et al. Identification of a sensitive anti- erythropoietin receptor monoclonal antibody allows detection of low levels of EpoR in cells. J Immunol Methods 2010; 352: 126–139.
+58.	Elliott S, Swift S, Busse L et al. Epo receptors are not detectable in pri- mary human tumor tissue samples. PLoS One 2013; 8: e68083.
+59.	Elliott S, Sinclair A, Collins H et al. Progress in detecting cell-surface protein receptors: the erythropoietin receptor example. Ann Hematol 2014; 93: 181–192.
+60.	Liang K, Esteva FJ, Albarracin C et al. Recombinant human erythro- poietin antagonizes trastuzumab treatment of breast cancer cells via Jak2-mediated Src activation and PTEN inactivation. Cancer Cell 2010; 18: 423–435.
+61.	Cao Y, Lathia JD, Eyler CE et al. Erythropoietin receptor signaling through stat3 is required for glioma stem cell maintenance. Genes Cancer 2010; 1: 50–61.
+62.	Kumar SM, Zhang G, Bastian BC et al. Erythropoietin receptor contrib- utes to melanoma cell survival in vivo. Oncogene 2012; 31: 1649–1660.
+63.	Wu P, Zhang N, Wang X et al. The erythropoietin/erythropoietin recep- tor signaling pathway promotes growth and invasion abilities in human renal carcinoma cells. PLoS One 2012; 7: e45122.
+64.	Osterborg A, Aapro M, Cornes P et al. Preclinical studies of erythro- poietin receptor expression in tumour cells: impact on clinical use of erythropoietic proteins to correct cancer-related anaemia. Eur J Cancer 2007; 43: 510–519.
+65.	Musallam KM, Dahdaleh FS, Shamseddine AI, Taher AT. Incidence and prophylaxis of venous thromboembolic events in multiple myeloma patients receiving immunomodulatory therapy. Thromb Res 2009; 123: 679–686.
+66.	Zonder JA. Thrombotic complications of myeloma therapy. Hematology Am Soc Hematol Educ Program 2006: 348–355.
+67.	Galli M, Elice F, Crippa C et al. Recombinant human erythropoietin and the risk of thrombosis in patients receiving thalidomide for multi- ple myeloma. Haematologica 2004; 89: 1141–1142.
+68.	Knight R, DeLap RJ, Zeldis JB. Lenalidomide and venous thrombosis in multiple myeloma. N Engl J Med 2006; 354: 2079–2080.
+69.	Mandala` M, Falanga A, Roila F. Management of venous thromboembo- lism (VTE) in cancer patients: ESMO Clinical Practice Guidelines. Ann Oncol 2011; 22(Suppl 6): vi85–vi92.
+70.	National Comprehensive Cancer Network. NCCN Practice Guidelines in Oncology; Cancer-Associated Venous Thromboembolic Disease – v.1.2017, 2017; http://www.nccn.org/professionals/physician_gls/pdf/ vte.pdf (18 October 2017, date last accessed).
+71.	Lyman GH, Bohlke K, Khorana AA et al. Venous thromboembolism prophylaxis and treatment in patients with cancer: American Society of Clinical Oncology clinical practice guideline update 2014. J Clin Oncol 2015; 33: 654–656.
+72.	Henry DH, Dahl NV, Auerbach MA. Thrombocytosis and venous thromboembolism in cancer patients with chemotherapy induced ane- mia may be related to ESA induced iron restricted erythropoiesis and reversed by administration of IV iron. Am J Hematol 2012; 87: 308–310.
+ 
+73.	Khorana AA, Francis CW, Culakova E, Lyman GH. Risk factors for chemotherapy-associated venous thromboembolism in a prospective observational study. Cancer 2005; 104: 2822–2929.
+74.	Evstatiev R, Gasche C. Iron sensing and signalling. Gut 2012; 61: 933–952.
+75.	Brugnara C, Chambers LA, Malynn E et al. Red blood cell regeneration induced by subcutaneous recombinant erythropoietin: iron-deficient erythropoiesis in iron-replete subjects. Blood 1993; 81: 956–964.
+76.	Weiss G, Goodnough LT. Anemia of chronic disease. N Engl J Med 2005; 352: 1011–1023.
+77.	Wish JB. Assessing iron status: beyond serum ferritin and transferrin saturation. Clin J Am Soc Nephrol 2006; 1(Suppl 1): S4–S8.
+78.	Steinmetz HT, Tsamaloukas A, Schmitz S et al. A new concept for the differential diagnosis and therapy of anaemia in cancer patients. Support Care Cancer 2010; 19: 261–269.
+79.	Hastka J, Lasserre JJ, Schwarzbeck A, Hehlmann R. Central role of zinc protoporphyrin in staging iron deficiency. Clin Chem 1994; 40: 768–773.
+80.	Xu Q, Zhu M, Yang T et al. Quantitative assessment of human serum transferrin receptor in breast cancer patients pre- and post- chemotherapy using peptide immunoaffinity enrichment coupled with targeted proteomics. Clin Chim Acta 2015; 448: 118–123.
+81.	Auerbach M, Ballard H, Trout JR et al. Intravenous iron optimizes the response to recombinant human erythropoietin in cancer patients with chemotherapy-related anemia: a multicenter, open-label, randomized trial. J Clin Oncol 2004; 22: 1301–1307.
+82.	Auerbach M, Silberstein PT, Webb RT et al. Darbepoetin alfa 300 or
+500 mg once every 3 weeks with or without intravenous iron in patients with chemotherapy-induced anemia. Am J Hematol 2010; 85: 655–663.
+83.	Bastit L, Vandebroek A, Altintas S et al. Randomized, multicenter, controlled trial comparing the efficacy and safety of darbepoetin alpha administered every 3 weeks with or without intravenous iron in patients with chemotherapy-induced anemia. J Clin Oncol 2008; 26: 1611–1618.
+84.	Hedenus M, Birgega˚rd G, Nasma¨n P et al. Addition of intravenous iron to epoetin beta increases hemoglobin response and decreases epoetin dose requirement in anemic patients with lymphoproliferative malignancies: a randomized multicenter study. Leukemia 2007; 21: 627–632.
+85.	Henry DH, Dahl NV, Auerbach M et al. Intravenous ferric gluconate significantly improves response to epoetin alfa versus oral iron or no iron in anemic patients with cancer receiving chemotherapy. Oncologist 2007; 12: 231–242.
+86.	Pedrazzoli P, Farris A, Del Prete S et al. Randomized trial of intravenous iron supplementation in patients with chemotherapy-related anemia without iron deficiency treated with darbepoetin alpha. J Clin Oncol 2008; 26: 1619–1625.
+87.	Aapro  M,  Beguin  Y,  Birgega˚rd  G  et  al.  Too-low  iron  doses  and  too many dropouts in negative iron trial? J Clin Oncol 2011; 29: e525–e526.
+88.	Steensma DP, Sloan JA, Dakhil SR et al. Phase III, randomized study of the effects of parenteral iron, oral iron, or no iron supplementation on the erythropoietic response to darbepoetin alfa for patients with chemotherapy-associated anemia. J Clin Oncol 2011; 29: 97–105.
+89.	Dangsuwan P, Manchana T. Blood transfusion reduction with intrave- nous iron in gynecologic cancer patients receiving chemotherapy. Gynecol Oncol 2010; 116: 522–525.
+90.	Kim YT, Kim SW, Yoon BS et al. Effect of intravenously administered iron sucrose on the prevention of anemia in the cervical cancer patients treated with concurrent chemoradiotherapy. Gynecol Oncol 2007; 105: 199–204.
+91.	Hedenus M, Karlsson T, Ludwig H et al. Intravenous iron alone resolves anemia in patients with functional iron deficiency and lymphoid malig- nancies undergoing chemotherapy. Med Oncol 2014; 31: 302.
+92.	Steinmetz T, Tschechne B, Harlin O et al. Clinical experience with ferric carboxymaltose in the treatment of cancer- and chemotherapy- associated anaemia. Ann Oncol 2013; 24: 475–482.
+ 
+93.	Toledano A, Luporsi E, Morere JF et al. Clinical use of ferric carboxy- maltose in patients with solid tumours or haematological malignancies in France. Support Care Cancer 2016; 24: 67–75.
+94.	Bailie GR, Ho¨rl WH, Verhoef JJ. Differences in spontaneously reported hypersensitivity and serious adverse events for intravenous iron prepara- tions: comparison of Europe and North America. Arzneimittelforschung 2011; 61: 267–275.
+95.	European Medicines Agency. New recommendations to manage risk of
+allergic reactions with intravenous iron-containing medicines 2013; http://www.ema.europa.eu/docs/en_GB/document_library/Press_release/ 2013/06/WC500144874.pdf (22 February 2015, date last accessed).
+96.	Jaspers A, Baron F, Maertens J et al. Long-term safety follow-up of a randomized trial of darbepoetin alpha and intravenous iron following autologous hematopoietic cell transplantation. Am J Hematol 2015; 90: e133–e134.
+97.	Beguin Y, Aapro M, Ludwig H et al. Epidemiological and nonclinical
+studies investigating effects of iron in carcinogenesis–a critical review. Crit Rev Oncol Hematol 2014; 89: 1–15.
+98.	Torti SV, Torti FM. Iron and cancer: more ore to be mined. Nat Rev Cancer 2013; 13: 342–355.
+99.	Kohgo Y, Ikuta K, Ohtake T et al. Body iron metabolism and patho- physiology of iron overload. Int J Hematol 2008; 88: 7–15.
+100.	Kruszewski M. Labile iron pool: the main determinant of cellular response to oxidative stress. Mutat Res 2003; 531: 81–92.
+101.	Kowdley KV. Iron, hemochromatosis, and hepatocellular carcinoma.
+Gastroenterology 2004; 127(5 Suppl 1): S79–S86.
+102.	Nelson RL. Iron and colorectal cancer risk: human studies. Nutr Rev 2001; 59: 140–148.
+103.	Rezazadeh H, Nayebi AR, Garjani A et al. Evidence that iron overload plus croton oil induce skin tumours in mice. Hum Exp Toxicol 2005; 24: 409–413.
+104.	Bergeron RJ, Streiff RR, Elliott GT. Influence of iron on in vivo prolifer- ation and lethality of L1210 cells. J Nutr 1985; 115: 369–374.
+105.	Link H, Schmitz S. Treatment of cancer-associated anaemia: results from a two-day cross-sectional survey in Germany. Onkologie 2013; 36: 266–272.
+106.	Ludwig H, Aapro M, Bokemeyer C et al. A European patient record
+study on diagnosis and treatment of chemotherapy-induced anaemia. Support Care Cancer 2014; 22: 2197–2206.
+107.	Osterborg A. Recombinant human erythropoietin (rHuEPO) therapy
+in patients with cancer-related anaemia: what have we learned? Med Oncol 1998; 15(Suppl 1): S47–S49.
+108.	Schrijvers D. Management of anemia in cancer patients: transfusions. Oncologist 2011; 16(Suppl 3): 12–18.
+109.	Murphy GJ, Reeves BC, Rogers CA et al. Increased mortality, postopera- tive morbidity, and cost after red blood cell transfusion in patients hav- ing cardiac surgery. Circulation 2007; 116: 2544–2552.
+110.	Isbister JP, Shander A, Spahn DR et al. Adverse blood transfusion out-
+comes: establishing causation. Transfus Med Rev 2011; 25: 89–101.
+111.	Baek JH, D’Agnillo F, Vallelian F et al. Hemoglobin-driven pathophysi- ology is an in vivo consequence of the red blood cell storage lesion that can be attenuated in guinea pigs by haptoglobin therapy. J Clin Invest 2012; 122: 1444–1458.
+112.	Upile T, Jerjes W, Mahil J et al. Blood product transfusion and cancer prognosis. Clin Adv Hematol Oncol 2009; 7: 656–661.
+113.	Al-Refaie WB, Parsons HM, Markin A et al. Blood transfusion and can- cer surgery outcomes: a continued reason for concern. Surgery 2012; 152: 344–354.
+114.	Amato A, Pescatori M. Perioperative blood transfusions for the recur-
+rence of colorectal cancer. Cochrane Database Syst Rev 2006; 1: CD005033.
+115.	Bakkum-Gamez JN, Dowdy SC, Borah BJ et al. Predictors and costs of
+surgical site infections in patients with endometrial cancer. Gynecol Oncol 2013; 130: 100–106.
+116.	Halabi WJ, Jafari MD, Nguyen VQ et al. Blood transfusions in colorec- tal cancer surgery: incidence, outcomes, and predictive factors: an
+ 
+American College of Surgeons National Surgical Quality Improvement Program analysis. Am J Surg 2013; 206: 1024–1032.
+117.	Carson JL, Carless PA, Hebert PC. Transfusion thresholds and other strategies for guiding allogeneic red blood cell transfusion. Cochrane Database Syst Rev 2012; 4: CD002042.
+118.	Salpeter SR, Buckley JS, Chatterjee S. Impact of more restrictive blood transfusion strategies on clinical outcomes: a meta-analysis and system- atic review. Am J Med 2014; 127: 124–131.
+119.	Rohde JM, Dimcheff DE, Blumberg N et al. Health care-associated infection after red blood cell transfusion: a systematic review and meta- analysis. JAMA 2014; 311: 1317–1326.
+120.	Holst LB, Petersen MW, Haase N et al. Restrictive versus liberal transfu- sion strategy for red blood cell transfusion: systematic review of rando- mised trials with meta-analysis and trial sequential analysis. BMJ 2015; 350: h1354.
+121.	Carson JL, Hebert PC. Should we universally adopt a restrictive approach to blood transfusion? It’s all about the number. Am J Med 2014; 127: 103–104.
+122.	Callum JL, Waters JH, Shaz BH et al. The AABB recommendations for the choosing wisely campaign of the American Board of Internal Medicine. Transfusion 2014; 54: 2344–2352.
+123.	Hicks LK, Bering H, Carson KR et al. The ASH Choosing WiselyVR    cam-
+paign: five hematologic tests and treatments to question. Blood 2013; 122: 3879–3883.
+124.	Goodnough LT, Maniatis A, Earnshaw P et al. Detection, evaluation, and management of preoperative anaemia in the elective orthopaedic surgical patient: NATA guidelines. Br J Anaesth 2011; 106: 13–22.
+125.	Hofmann A, Farmer S, Shander A. Five drivers shifting the paradigm from product-focused transfusion practice to patient blood manage- ment. Oncologist 2011; 16(Suppl 3): 3–11.
+126.	Goodnough LT, Shander A. Current status of pharmacologic therapies in patient blood management. Anesth Analg 2013; 116: 15–34.
+127.	Sanon S, Lenihan DJ, Mouhayar E. Peripheral arterial ischemic events in cancer patients. Vasc Med 2011; 16: 119–130.
+128.	Hellstro¨m-Lindberg E, Gulbrandsen N,  Lindberg G  et  al.  A  validated decision model for treating the anaemia of myelodysplastic syn- dromes with erythropoietin þ granulocyte colony-stimulating factor:
+significant effects on quality of life. Br J Haematol 2003; 120:
+1037–1046.
+129.	Santini V, Schemenau J, Levis A et al. Can the revised IPSS predict response to erythropoietic-stimulating agents in patients with classical IPSS low or intermediate-1 MDS? Blood 2013; 122: 2286–2288.
+130.	National Comprehensive Cancer Network. NCCN Practice Guidelines in Oncology; Myelodysplastic Syndromes – v.1.2018, 2017; http://www. nccn.org/professionals/physician_gls/pdf/mds.pdf (18 October 2017, date last accessed).
+131.	Stauder R, Wimazal F, No¨sslinger T et al. Individualized management and therapy of myelodysplastic syndromes. Wien Klin Wochenschr 2008; 120: 523–537.
+132.	Santini V, Alessandrino PE, Angelucci E et al. Clinical management of myelodysplastic syndromes: update of SIE, SIES, GITMO practice guidelines. Leuk Res 2010; 34: 1576–1588.
+133.	Moyo V, Lefebvre P, Duh MS et al. Erythropoiesis-stimulating agents in the treatment of anemia in myelodysplastic syndromes: a meta-analysis. Ann Hematol 2008; 87: 527–536.
+134.	Mundle S, Lefebvre P, Vekeman F et al. An assessment of erythroid response to epoetin alpha as a single agent versus in combination with granulocyte- or granulocyte-macrophage-colony-stimulating factor in myelodysplastic syndromes using a meta-analysis approach. Cancer 2009; 115: 706–715.
+135.	Ross SD, Allen IE, Probst CA et al. Efficacy and safety of erythropoiesis- stimulating proteins in myelodysplastic syndrome: a systematic review and meta-analysis. Oncologist 2007; 12: 1264–1273.
+136.	Greenberg PL, Sun Z, Miller KB et al. Treatment of myelodysplastic syn- drome patients with erythropoietin with or without granulocyte colony-stimulating factor: results of a prospective randomized phase 3
+ 
+trial by the Eastern Cooperative Oncology Group (E1996). Blood 2009; 114: 2393–2400.
+137.	Ja¨dersten M, Malcovati L, Dybedal I et al. Erythropoietin and granulocyte- colony stimulating factor treatment associated with improved survival in myelodysplastic syndrome. J Clin Oncol 2008; 26: 3607–3613.
+138.	Park S, Grabar S, Kelaidi C et al. Predictive factors of response and sur- vival in myelodysplastic syndrome treated with erythropoietin and G- CSF: the GFM experience. Blood 2008; 111: 574–582.
+139.	Smith SW, Sato M, Gore SD et al. Erythropoiesis-stimulating agents are not associated with increased risk of thrombosis in patients with myelo- dysplastic syndromes. Haematologica 2012; 97: 15–20.
+140.	Weise M, Bielsky MC, De Smet K et al. Biosimilars: what clinicians should know. Blood 2012; 120: 5111–5117.
+141.	Weise M, Kurki P, Wolff-Holz E et al. Biosimilars: the science of extrap- olation. Blood 2014; 124: 3191–3196.
+142.	European Medicines Agency. Biosimilar medicines 2013; http://www. ema.europa.eu/ema/index.jsp?curl¼pages/special_topics/document_ listing/document_listing_000318.jsp (28 February 2015, date last
+accessed).
+143.	Brinks V, Hawe A, Basmeleh AH et al. Quality of original and biosimilar epoetin products. Pharm Res 2011; 28: 386–393.
+144.	Praditpornsilpa K, Tiranathanagul K, Kupatawintu P et al. Biosimilar recombinant human erythropoietin induces the production of neutral- izing antibodies. Kidney Int 2011; 80: 88–92.
+145.	Ferro HH, Gonza´lez EB. Biosimilar recombinant human erythropoietin induces the production of neutralizing antibodies. Kidney Int 2012; 81: 1273–1274.
+146.	Fotiou F, Aravind S, Wang PP et al. Impact of illegal trade on the quality of epoetin alfa in Thailand. Clin Ther 2009; 31: 336–346.
+147.	Wizemann V, Rutkowski B, Baldamus C et al. Comparison of the thera- peutic effects of epoetin zeta to epoetin alfa in the maintenance phase of renal anaemia treatment. Curr Med Res Opin 2008; 24: 625–637.
+148.	Krivoshiev S, Todorov VV, Manitius J et al. Comparison of the thera- peutic effects of epoetin zeta and epoetin alpha in the correction of renal anaemia. Curr Med Res Opin 2008; 24: 1407–1415.
+149.	Baldamus C, Krivoshiev S, Wolf-Pflugmann M et al. Long-term safety and tolerability of epoetin zeta, administered intravenously, for mainte- nance treatment of renal anemia. Adv Ther 2008; 25: 1215–1228.
+150.	Haag-Weber M, Vetter A, Thyroff-Friesinger U. Therapeutic equiva- lence, long-term efficacy and safety of HX575 in the treatment of ane- mia in chronic renal failure patients receiving hemodialysis. Clin Nephrol 2009; 72: 380–390.
+151.	Weigang-Ko¨hler K,  Vetter A,  Thyroff-Friesinger  U. HX575, recombi- nant human epoetin alfa, for the treatment of chemotherapy-associated symptomatic anaemia in patients with solid tumours. Oncol Res Treat 2009; 32: 168–174.
+152.	Kerkhofs L, Boschetti G, Lugini A et al. Use of biosimilar epoetin to increase hemoglobin levels in patients with chemotherapy-induced ane- mia: real-life clinical experience. Future Oncol 2012; 8: 751–756.
+153.	Barosi G, Bosi A, Abbracchio MP et al. Key concepts and critical issues on epoetin and filgrastim biosimilars. A position paper from the Italian Society of Hematology, Italian Society of Experimental Hematology, and Italian Group for Bone Marrow Transplantation. Haematologica 2011; 96: 937–942.
+154.	Lee ES, Park BR, Kim JS et al. Comparison of adverse event profile of intravenous iron sucrose and iron sucrose similar in postpartum and gynecologic operative patients. Curr Med Res Opin 2013; 29: 141–147.
+155.	Martin-Malo A, Merino A, Carracedo J et al. Effects of intravenous iron on mononuclear cells during the haemodialysis session. Nephrol Dial Transplant 2012; 27: 2465–2471.
+156.	Rottembourg J, Kadri A, Leonard E et al. Do two intravenous iron sucrose preparations have the same efficacy? Nephrol Dial Transplant 2011; 26: 3262–3267.
+157.	Stein J, Dignass A, Chow KU. Clinical case reports raise doubts about the therapeutic equivalence of an iron sucrose similar preparation com- pared with iron sucrose originator. Curr Med Res Opin 2012; 28: 241–243.
+ 
+158.	Toblli JE, Cao G, Oliveri L, Angerosa M. Comparison of oxidative stress and inflammation induced by different intravenous iron sucrose similar preparations in a rat model. Inflamm Allergy Drug Targets 2012; 11: 66–78.
+159.	Borchard G, Flu¨hmann B, Mu¨hlebach S. Nanoparticle iron medicinal products - requirements for approval of intended copies of non- biological complex drugs (NBCD) and the importance of clinical com- parative studies. Regul Toxicol Pharmacol 2012; 64: 324–328.
+160.	European Medicines Agency. Reflection paper on the data requirements for intravenous iron-based nano-colloidal products developed with reference to an innovator medicinal product 2015; http://www.ema. europa.eu/ema/pages/includes/document/open_document.jsp?web
+ContentId¼WC500184922 (30 March 2015, date last accessed).
+161.	Ehmann F, Sakai-Kato K, Duncan R et al. Next-generation nanomedi- cines and nanosimilars: EU regulators’ initiatives relating to the devel- opment and evaluation of nanomedicines. Nanomedicine (Lond) 2013; 8: 849–856.
+ 
+162.	Schellekens H, Stegemann S, Weinstein V et al. How to regulate nonbio- logical complex drugs (NBCD) and their follow-on versions: points to consider. AAPS J 2014; 16: 15–21.
+163.	U.S. Food & Drug Administration. Information on erythropoiesis- stimulating agents (ESA) epoetin alfa (marketed as Procrit, Epogen), darbepoetin alfa (marketed as Aranesp), 13 April 2017; https://www. fda.gov/Drugs/DrugSafety/ucm109375.htm (15 June 2017, date last accessed).
+164.	US Food & Drug Administration. FDA ODAC Briefing Document: BLA125545 “Epoetin Hospira”, a proposed biosimilar to Epogen/ Procrit (epoetin alfa), 25 May 2017; https://www.fda.gov/downloads/ AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/ OncologicDrugsAdvisoryCommittee/UCM559967.pdf (15 June 2017, date last accessed).
+165.	Jordan K, Feyer P, Ho¨ller U et al. Clinical practice guideline: supportive treatments for patients with cancer. Dtsch Arztebl Int 2017; 114: 481–487.

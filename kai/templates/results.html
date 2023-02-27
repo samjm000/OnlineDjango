@@ -1,0 +1,14 @@
+<!-- templates/home.html -->
+{% extends "base.html" %}
+{% block content %}
+
+<div class="results-page">
+    <p>Recent searches</p>
+     {% for question in question_list %} 
+   
+      
+      <h2><a href=""> {{ question.title}} </a></h2>
+      <p>{{ post.body }}</p> 
+    </div>
+    {% endfor %}
+    {% endblock content %}

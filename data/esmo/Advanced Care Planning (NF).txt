@@ -1,0 +1,130 @@
+ESMO Clinical Practice Guidelines on palliative care: advanced care planning
+
+deﬁnition
+Advanced care planning (ACP) is a process of reﬂection and communication about a person’s values and wishes concerning future health issues and personal care preferences in the event that one becomes incapable of consenting to or refusing treat- ment or other care [1]. It is based on a person’s priorities, beliefs and values and involves taking time to learn about end-of-life care options and services before a health crisis occurs. When one cannot express one’s own wishes, professional care providers (e.g. treating physician, other health care professionals) and/or other people (e.g. family members, spouse) are forced to take decisions during such a crisis that may differ from the patient’s wishes.
+The outcome of ACP must be written down in a source docu- ment or other means of communication tool. ACP can be dis- cussed with family and friends, a substitute decision maker—the person who will be the spokesperson when one cannot express one’s wishes—and professional care providers (e.g. treating physician, general practitioner, other health professionals).
+
+epidemiology
+The discussion of advanced care planning depends on many factors, such as cultural background, religion, legal framework, educational level, personality type, age, personal life-and-death experiences and disease status. In Western societies, epidemio- logical studies show that end-of-life decisions are discussed in 40%–80% of cancer patient cases [2, 3].
+
+topics of advanced care planning
+Different topics can be the aim of an ACP process ranging from treatment [e.g. cardiopulmonary resuscitation (CPR)] and care interventions (e.g. tube feeding) in speciﬁc situations (e.g. sudden death, accidents, chronic diseases) to end-of-life deci- sions such as starting or stopping treatment, symptom control
+ 
+with palliative sedation or medically assisted life termination (e.g. physician-assisted suicide, euthanasia).
+In oncology, many patients have a long disease trajectory, during which events can occur that may touch on all of these topics. In palliative care, many of these topics become more im- portant and end-of-life issues should be discussed with the patient, to know what the patient wants in a speciﬁc situation.
+
+do not resuscitate or allow natural death legal orders
+‘Do not resuscitate’ (DNR) is a legal order written either in the patient’s ﬁle or on a legal form to respect the wishes of a patient not to undergo CPR or advanced cardiac life support if the heart or breathing stops. Another term is ‘allow natural death’ (AND), which focuses more on what is being done and not on what is being avoided [4]. In the management of patients with far advanced cancer AND is the preferred term since it presents palliation rather than CPR as the normative default.
+The request is made by the patient and allows the medical team to respect the patient’s wishes. A DNR or AND request does not affect any treatments other than those which would require intubation or CPR and it does not preclude access to any appropriate treatment such as chemotherapy, surgery, antibio- tics and supportive or palliative care.
+
+medical treatment
+A medical treatment is deﬁned as the administration or applica- tion of remedies to a patient for a disease or injury.
+
+starting a medical treatment. Before starting a medical treatment, informed consent should be obtained from the patient or the substitute decision maker, who is legally appointed to speak on the patient’s behalf. A health care professional cannot be forced to start a medical treatment that is considered futile.
+
+discontinuing a medical treatment. Stopping a medical
+ 
+ 		treatment may be more difﬁcult than starting one. The possibility
+ 
+*Correspondence to: ESMO Guidelines Working Group, ESMO Head Ofﬁce, Via L. Taddei 4, CH-6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+
+†Approved by the ESMO Guidelines Working Group: July 2014.
+ 
+of stopping a medical treatment should be discussed beforehand, when obtaining informed consent for starting a treatment. At that moment, it can be communicated that the treatment will be stopped if it is no longer beneﬁcial to the patient.
+ 
+
+© The Author 2014. Published by Oxford University Press on behalf of the European Society for Medical Oncology. All rights reserved. For permissions, please email: journals.permissions@oup.com.
+ 
+If a treatment is started and considered no longer beneﬁcial for the patient, it can generally be discontinued, unless there are speciﬁc legal impediments ( present in some countries). Although informed consent is not usually necessary, the deci- sion should be discussed with the patient and/or his/her family. Having agreement is preferable; in a situation in which there is disagreement regarding the efﬁcacy and utility of the treatment between staff and the patient and/or the substitute decision maker, mediation may be necessary.
+
+
+symptom management
+Symptoms can be addressed with disease-oriented treatments and/or supportive or palliative care measures, which should be introduced early in patients with a life-threatening disease. If a disease-oriented treatment is considered futile, care measure- ments to control symptoms should be continued and, if neces- sary, intensiﬁed. If a symptom becomes refractory to symptom control measures, palliative sedation [5] may be an option. This should be discussed with the patient beforehand.
+ 
+end-of-life decisions
+In some countries, other end-of-life decisions (e.g. physician- assisted suicide or euthanasia) are legally permitted if certain conditions are fulﬁlled. These decisions should be addressed ad- equately within a legal framework, and should be discussed with the patient beforehand.
+
+practical organisation of advanced care planning
+requirements for an advanced care planning
+The patient should be capable of making an informed decision about providing, withholding or withdrawing a speciﬁc medical treatment (Figure 1).
+The patient should be able to write the ACP wishes in a docu- ment. If the patient is unable to write, a document can be drafted by another person, in the presence of an independent witness and the treating physician. This document should be dated and signed by the witness and the physician.
+bringing the topic into discussion
+establish an appropriate setting for the discussion. To promote good communication, the environment should be adapted to the conversation, in a private room and with ample time to discuss. If the patient agrees, the family and the substitute decision maker may be present during this discussion.
+The patient and family should be asked what they understand about the present situation and the physician should try to ﬁnd out what expectations they have in relation to the disease and the treatment outcome.
+
+discuss ACP. Patients with cancer are suffering from a life- threatening disease, and they have to cope with many things: diagnosis, prognosis, treatment decisions and impact on daily life. How they approach these topics depends on their coping style, which can range from monitoring (wanting to know everything on every topic) to blunting (wanting to deny the situation). Coping styles should be taken into consideration when discussing advanced care planning. However, advanced care planning should be discussed as soon as possible with a patient facing a life-threatening disease.
+If the patient brings the topic of ACP into a discussion, it should be addressed by the professional health care provider.
+Another time point to address the topic of ACP is when the situation of the patient worsens (e.g. developing incurable disease) and/or there is need for change of treatment or care strategy.
+Some examples of bringing the topic to the table are:
+•	Your cancer has progressed but we still have a treatment option. Have you already considered what you want if this treatment does not work anymore?
+•	If there is an emergency situation, have you already thought
+about what you want to be done?
+
+
+respond to emotions. Patients, families and surrogates may experience profound emotions in response to a discussion of ACP. There may be need for emotional support from the physician and other members of the health care team (e.g. psychologist). Emotions should be handled with empathy.
+
+establish and implement the plan. Once a patient expresses the wish to arrange advanced care planning, support to facilitate the process should be given.
+The patient should receive information on the topics that can be planned.
+
+documenting advanced care planning
+If the patient has made an ACP, this must be noted in the patient
+ﬁle and speciﬁc documents (see Appendix 1) can be used.
+•	If a patient is legally capable and has a normal awareness, her/ his will in relation to treatment and care can be expressed.
+•	If a patient is legally incapable due to problems with her/his
+awareness, a written ‘living will’ can be used to guide clinical decisions.
+•	Several kinds of living will can be made:
+ 
+Positive living will: in this document, the patient expresses the wish for an intervention (e.g. comfort care, request to end life support in certain situations, start a procedure of euthanasia). These living wills are expressing the wish of the patient, but the professional care provider is not legally bound to perform the requests of a positive living will.
+Negative living wills: in this document, the patient refuses a speciﬁc intervention [e.g. CPR, ventilator use, artiﬁcial nu- trition (tube feeding) or artiﬁcial hydration (i.v. ﬂuids)]. Such a document is legally binding for the professional care giver since the patient refuses consent for a certain procedure.
+The professional care provider is not obliged to look for a negative living will, and in case of an emergency, the profession- al care provider is able to perform a CPR.
+In the case in which an AND/DNR code is decided on, a document should be drafted. In some instances, different codes (0–3) are given to the AND/DNR code, but they are merely living will expressions or medical decisions.
+All of these documents should be made available for con- sultation by other health care professionals, in the event that the treating physician is not available (e.g. electronic patient ﬁle).
+
+updating advanced care planning
+An ACP strategy is a dynamic process. It should be regularly reviewed and, especially when the disease progresses, additional conditions may be added to the plan. This should be documen- ted in the patient ﬁle.
+
+organisational level
+The patient is cared for in an organisational structure (e.g. hos- pital, care institution, at home) and access to the ACP docu- ments should be assured so that they can be consulted when the usual care providers are not available (e.g. during holidays, off- duty periods).
+The different processes to ascertain access to the advanced care planning documents should be regularly evaluated and, if necessary, adapted for better performance.
+
+legal/ethical considerations
+European Charter on patient rights applicable within the European Union
+According to the European Charter on patient rights, every person has the following rights [6]:
+•	Right to information on health status. Health care providers must provide patient-tailored information, taking into account the religious, ethnic or linguistic speciﬁcities of the patient. A patient also has the right to refuse information about the health status.
+•	Right to informed consent. The patient has the right to access
+all information that might enable him/her to actively partici- pate in the decisions regarding health; this information is a prerequisite for any procedure and treatment. Health care providers must give the patient all information relative to a
+ 
+treatment, including the associated risks and discomforts, side-effects and alternatives. A patient has the right to refuse a medical treatment and to change his/her mind during the treatment, refusing its continuation.
+•	When, in an emergency situation, the appropriate consent
+cannot be obtained, any medically necessary intervention may be carried out immediately for the beneﬁt of the health of the individual. However, even in emergency situations, health care providers must make every reasonable effort to determine what the patient’s wishes are.
+•	Right to privacy and conﬁdentiality. Every individual has the
+right to the conﬁdentiality of personal information, including information regarding state of health and potential diagnostic or therapeutic procedures, as well as the protection of privacy during the performance of diagnostic exams, specialist visits and medical/surgical treatments in general.
+
+
+ethical considerations
+There are signiﬁcant disparities in ACP by people of different ethnic backgrounds, and cultural aspects should be taken into account when discussing ACP.
+Physicians are not ethically obligated to provide treatments that, in their best professional judgment, will not have a reason- able chance of beneﬁting the patient. Also, when further inter- vention to prolong the life of a patient becomes futile, physicians have the obligation to shift the intent of care toward
+ 
+In case of uncertainty of the validity of the advanced care plan, advice of a medical ethical committee of the institution may be called for.
+
+conﬂict of interest
+The authors have declared no conﬂicts of interest.
+
+references
+1.	Deﬁnition of advance care planning; http://www.advancecareplanning.ca/about- advance-care-planning.aspx (18 July 2014, date last accessed).
+2.	Mack JW, Cronin A, Taback N et al. End-of-life care discussions among patients with advanced cancer: a cohort study. Ann Intern Med 2012; 156: 204–210.
+3.	Lopez-Acevedo M, Havrilesky LJ, Broadwater G et al. Timing of end-of-life care discussion with performance on end-of-life quality indicators in ovarian cancer. Gynecol Oncol 2013; 130: 156–161.
+4.	Venneman SS, Narnor-Harris P, Perish M, Hamilton M. ‘Allow natural death’ versus
+‘do not resuscitate’: three words that can change a life. J Med Ethics 2008; 34: 2–6.
+5.	Cherny NI. Guidelines for the management of refractory symptoms at the end of life and the use of palliative sedation. Ann Oncol 2014; 25 (Suppl 3): iii143–iii152.
+6.	European Charter of Patients’ Rights; http://www.activecitizenship.net/images/ patientsrights/fr_english.pdf (18 July 2014, date last accessed).
+7.	American Medical Association. AMA Policy on End-of-Life Care; http://www.ama- assn.org/ama/pub/physician-resources/medical-ethics/about-ethics-group/ethics- resource-center/end-of-life-care/ama-policy-end-of-life-care.page?__utma= 247071366.492006140.1405694641.1405694641.1405694641.1& utmb= 247071366.0.10.1405694641&__utmc=247071366&__utmx=-&__utmz= 247071366.1405694641.1.1.utmcsr=ama-assn.org|utmccn=(referral)|utmcmd= referral|utmcct=/ama/pub/physician-resources/medical-ethics/code-medical-ethics.
+ 
+comfort and closure [7].
+ 
+page&
+ 
+utmv=-&
+ 
+utmk=177707814 (18 July 2014, date last accessed).

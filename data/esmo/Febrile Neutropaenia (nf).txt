@@ -1,0 +1,280 @@
+clinical practice guidelines	Annals of Oncology 27 (Supplement 5): v111–v118, 2016
+
+Management of febrile neutropaenia: ESMO Clinical Practice Guidelines†
+J. Klastersky1, J. de Naurois2, K. Rolston3, B. Rapoport4, G. Maschmeyer5, M. Aapro6 &
+J. Herrstedt7 on behalf of the ESMO Guidelines Committee*
+1Institut Jules Bordet—Centre des Tumeurs de l’ULB, Brussels, Belgium; 2St Luke's Cancer Centre, Royal Surrey County Hospital, Guildford, UK; 3M.D. Anderson Cancer Center, Houston, TX, USA; 4Medical Oncology Centre of Rosebank, Johannesburg, South Africa; 5Department of Hematology, Oncology and Palliative Care, Ernst von Bergmann Hospital, Potsdam, Germany; 6Multidisciplinary Institute of Oncology, Clinique de Genolier, Genolier, Switzerland; 7Department of Oncology, Odense University Hospital (OUH), Odense, Denmark
+
+
+
+
+ 
+deﬁnition of febrile neutropaenia
+Febrile neutropaenia (FN) is deﬁned as an oral temperature of
+>38.3°C or two consecutive readings of >38.0°C for 2 h and an absolute neutrophil count (ANC) of <0.5 × 109/l, or expected to fall below 0.5 × 109/l.
+
+incidence, morbidity, mortality and microorganisms
+Despite major advances in prevention and treatment, FN remains one of the most frequent and serious complications of cancer chemotherapy (ChT). It is a major cause of morbidity, healthcare resource use and compromised treatment efﬁcacy resulting from delays and dose reductions of ChT. Mortality from FN has diminished steadily, but remains signiﬁcant.
+Most standard-dose ChT regimens are associated with 6–8 days of neutropaenia, and FN is observed in ∼8 cases per 1000 patients receiving cancer ChT. FN is responsible for consider-
+able morbidity as 20%–30% of patients present complications that require in-hospital management, with an overall in-hospital mortality  of  ∼10%.  The  mean  cost  per  hospitalisation  in
+Western countries is ∼13 500E (15 000 US$).
+There is a clear relationship between the severity of neutro- paenia (which directly inﬂuences the incidence of FN) and the intensity of ChT. Currently, the different regimens are classiﬁed as producing a high risk (>20%), an intermediate risk (10%– 20%) or a low risk (<10%) of FN.
+It has been shown that several factors, other than ChT itself, are responsible for increasing the risk of FN and its complica- tions. Among them, age plays a major role [II, III] with older patients having a higher risk of FN following ChT, with worse
+ 
+morbidity and mortality rates. Other factors having a similar role are as follows:
+•	advanced disease,
+•	history of prior FN,
+•	no antibiotic prophylaxis or granulocyte colony-stimulating factor (G-CSF) use [III, IV],
+•	mucositis,
+•	poor performance status and/or
+•	cardiovascular disease [III, IV].
+The risk of FN and its complications increases when one or several co-morbidities are present in the patient. These consid- erations will be instrumental in deciding whether a ChT-treated patient should receive primary prophylaxis to decrease the po- tential risk of FN.
+In the case of FN, prognosis is worst in patients with proven bacteraemia, with mortality rates of 18% in Gram-negative and 5% in Gram-positive bacteraemia [for bacteraemias due to coagu- lase-negative Staphylococcus (CNS) only, no attributable mortality has been reported] [1]. The presence of a focal site of presumed infection (e.g. pneumonia, abscess, cellulitis) also makes the outcome worse. Mortality varies according to the Multinational Association of Supportive Care in Cancer (MASCC) prognostic
+index (Table 1): lower than 5% if the MASCC score is ≥21, but
+possibly as high as 40% if the MASCC score is <15 [2].
+Positive microbiological detection rates by standard blood cultures vary depending on whether or not patients have
+received prophylactic antibiotics. Overall, bacteraemia can be detected in ∼20% of patients with FN; this obviously helps to further adjust antibiotic therapy.
+It is crucial to understand that different centres experience dif- ferent patterns of frequency of causative pathogens. Consequently,
+ 
+ 		these guidelines are intended for use alongside appropriate local
+ 
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via L. Taddei 4, 6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+
+†Approved by the ESMO Guidelines Committee: October 2008, last update August 2016. This publication supersedes the previously published version–Ann Oncol 2010; 21 (Suppl. 5): v252–v256.
+ 
+antimicrobial policies adapted to the epidemiology of the centre. Over the last few decades, a shift has occurred from FN asso-
+ciated mainly with Gram-negative bacteria to FN associated with Gram-positive organisms. At the present time, most centres report Gram-positive and Gram-negative bacteraemia in
+ 
+
+© The Author 2016. Published by Oxford University Press on behalf of the European Society for Medical Oncology. All rights reserved. For permissions, please email: journals.permissions@oup.com.
+ 
+
+ 	
+   
+
+ 
+50% of patients with FN, although centres that do not use ﬂuoroquinolone prophylaxis report a predominance of Gram- negative bacteria. An increase in antibiotic-resistant strains has been noted, such as extended spectrum β-lactamase (ESBL)— producing Gram-negative bacteria, vancomycin-resistant en- terococci (VRE) and methicillin-resistant Staphylococcus aureus (MRSA). Increasing numbers of infections with ﬂuconazole-re- sistant Candida strains (e.g. Candida krusei and Candida glab- rata) have also been reported [3].
+
+chemoprophylaxis
+Antimicrobials (ﬁrst non-absorbable antibiotics and later, co-tri- moxazole) have been used for a long time for the prevention of episodes of FN in ChT-treated patients. This approach has been somewhat successful, but has also led to the emergence of resistant strains, limiting its efﬁcacy. Since the 1990s, ﬂuoroquinolones have been used extensively for chemoprophylaxis. Most studies have shown that ﬂuoroquinolones reduce the incidence of infection and, in some studies, also the infection-related mortality, but at the expense of the emergence of quinolone-resistant strains. This should, in the end, render the prophylaxis useless; moreover, these strains jeopardise the use of ﬂuoroquinolones as a therapy of FN in low-risk patients, as will be discussed elsewhere. For all of these reasons, the use of antimicrobials, including ﬂuoroquinolones, should be discouraged. Guidelines from the EORTC (European Organisation for Research and Treatment of Cancer) and American Society of Clinical Oncology (ASCO) recommend that clinicians limit the use of antibacterial prophylaxis to patients at high risk for FN; others recommend the mere avoidance of such practices for the prevention of FN. The most recent update of the Cochrane meta-analysis still recommended the use of ciproﬂoxacin or levoﬂoxacin in cancer patients undergoing intensive ChT [4].
+
+indications for primary prophylaxis of FN with G-CSF
+Several meta-analyses indicate that primary prophylaxis with G- CSF (i.e. G-CSF administered immediately after cycle 1 of ChT) reduces the risk of FN by at least 50% in patients with solid
+ 
+
+Figure 1. Algorithm to decide primary prophylactic granulocyte colony- stimulating factor usage, adapted from European Organisation for Research and Treatment of Cancer guidelines. FN, febrile neutropaenia; G-CSF, granulocyte colony-stimulating factor. Reprinted from [8], with permission from Elsevier.
+
+tumours without signiﬁcantly affecting tumour response or overall survival [I] [5–7].
+Most guidelines recommend that G-CSF be administered prophylactically if the risk of FN is >20% for all planned cycles of treatment [I, A]. Classiﬁcations of the risk according to the type of ChT have been published and updated [8]. For patients with an intermediate risk (10%–20%), it is important to con- sider the patient’s age and particularly any coexisting morbid- ities, as already mentioned [8–10].
+An algorithm for the decisions about primary prophylactic G-CSF use is presented in Figure 1.
+Besides this approach, G-CSF can be considered in patients with reduced bone marrow reserve due to extensive radiother- apy [III] or patients who are neutropaenic in the context of HIV infection [II].
+Recent meta-analysis of randomised, controlled trials [11] and ex- perience in real-world settings [12] conﬁrm the outstanding (>50% success) of primary prophylaxis with ﬁlgrastim or pegﬁlgrastim.
+With most ChT used for the treatment of common tumours, the risk of FN is maximal during the ﬁrst course; thus, it makes sense to recommend primary prophylaxis for the patients at risk rather than to systematically resort to secondary prophylaxis. Secondary prophylaxis (i.e. G-CSF given for a course of ChT following a course with FN) is indicated if dose reduction below threshold or delay of ChT is not desirable (e.g. treatment with a curative intent). There are few complications associated with G-CSF adminis- tration; the most common adverse effect is minor or moderate
+bone pain that can usually be handled with standard analgesics.
+
+dose schedule, route of application of G-CSF and pegﬁlgrastim
+Use 5 μg/kg/day of G-CSF subcutaneously (s.c.) 24–72 h after the last day of ChT until sufﬁcient/stable post-nadir ANC
+ 
+recovery (achieving a target ANC of >10–109/l is not necessary). Pegﬁlgrastim, injected s.c. as a single dose of either 100 μg/kg (individualised) or of a total dose of 6 mg (general approach), is
+considered equally effective [I, A]. The equivalent dose of ﬁlgras- tim is 5 μg/kg/day for ∼10 days. There are no adequate data for reduced numbers or days or alternate days of G-CSF instead of
+standard, neither for use on day 1 instead of on day 2. EMA/ FDA approved biosimilars can be considered.
+
+use of G-CSF in high-risk situations
+The therapy of acute leukaemias, autologous and allogeneic stem cell transplantations (TPLs) leads to higher risks of FN and potentially lethal complications [13].
+The incidence of FN in high-risk situations is as follows:
+•	common during autologous and allogeneic peripheral blood stem-cell (PBSC) TPLs and bone marrow TPL, during graft failure,
+•	in 35%–48% of acute myeloid leukaemia (AML) cases at diag-
+nosis and
+•	in 13%–30% during acute lymphoblastic leukaemia (ALL) in- duction ChT.
+FN-related mortality is described as follows:
+•	0%–10% in autologous TPL,
+•	highly variable in allogenic TPL,
+•	80% during graft failure,
+•	20%–26% during the ﬁrst 2 months in AML and
+•	2%–10% during induction ChT of ALL.
+
+ 
+management of FN: patient education and local policies
+Success in FN management requires prompt recognition of, and reaction to, potential infection. It is vital to educate outpatients to monitor their symptoms, including body temperature, and to provide clear written instructions on when and how to contact the appropriate service in the event of concerns. In addition, effective written local policies are essential to ensure a rapid response whenever FN is suspected. Some patients may present with FN at the Emergency Department, and in this situation, clear protocols must again be in place to manage these patients appropriately. The ﬁrst administration of therapy should be given in the hospital within 1 h from the admission of a patient with FN. Delay in anti- biotic administration has been associated with signiﬁcant pro- longation of the hospital stay and increased mortality.
+As already mentioned, the spectrum of infection in cancer patients is different from place to place and changes over time; therefore, paying attention to local epidemiology is crucial [14].
+
+initial assessment and investigations
+A detailed history should be taken including the nature of the ChT given, prior prophylactic antibiotics, concomitant steroid use, recent surgical procedures and the presence of allergies. To guide therapy, it is important to check the clinical record for past positive microbiology, in particular previous presence of antibiotic-resistant organisms or bacteraemia.
+ 
+
+
+
+An initial assessment (Table 2) of circulatory and respiratory function, with vigorous resuscitation where necessary, should be followed by careful examination for potential foci of infection. Signs and symptoms of infection in neutropaenic patients can be minimal, particularly in those receiving corticosteroids, or in elderly patients who often may present with a confusional state.
+Vigilance is required in patients at risk for FN who present unwell, are hypotensive (compared with the known previous blood pressure readings), with a low-grade temperature or afeb- rile, as they may be developing Gram-negative septicaemia, re- quiring prompt treatment.
+Urgent full blood counts, to ascertain the ANC along with other investigations listed in Table 2, are crucial in guiding early management.
+Two sets of blood cultures from a peripheral vein and any indwelling venous catheters should be taken as well as speci- mens for microbiological testing from any suspected sites of in- fection, before the prompt institution of empirical broad- spectrum antimicrobial therapy. Urinary tract infections have to be suspected even in asymptomatic patients with a past history of such infections.
+
+outcome risk assessment
+The vast majority of FN cases, as managed according to the al- gorithm set out in Figure 2, respond promptly to empirical
+ 
+
+ 
+
+ 
+
+ 
+Figure 2. Initial management of febrile neutropaenia. ANC, absolute neu- trophil count; MASCC, Multinational Association of Supportive Care in Cancer.
+
+ 
+therapy, suffering no major complications. A number of instru- ments have been developed in attempts to predict these low-risk cases where complications are not likely. The most widely used instrument, the MASCC index, allows the clinician to rapidly assess, on just a clinical basis, the risk of a patient with FN. The MASCC score has been prospectively validated in several studies. The criteria and weighting scores are listed in Table 1.
+Low-risk cases are those scoring ≥21. The serious medical com-
+plication rate in low-risk cases is estimated to be 6% and the mortality rate to be below 1%. If an obvious focus of infection is apparent, antibacterials should be tailored accordingly.
+
+low-risk patients
+oral therapy
+A recent review has concluded that inpatient oral antibacterial therapy can be safely substituted for conventional intravenous (i.v.) treatment in some low-risk FN patients, namely those who
+•	are haemodynamically stable,
+•	do not have acute leukaemia or evidence of organ failure and
+•	do not have pneumonia, an indwelling venous catheter or severe soft tissue infection [I, A].
+Precise criteria were not deﬁned as they varied between the trials reviewed. Single-agent quinolones (moxiﬂoxacin) were not in- ferior to combinations (quinolone with amoxicillin plus clavula- nic acid), but the latter are preferred given the rise in Gram- positive FN episodes. Oral quinolone therapy should not be used in patients who have taken a quinolone antibacterial as prophylaxis. The safety of early change to oral combinations in afebrile patients after 48 h on i.v. therapy is supported in the review and preferred by many physicians. Some low-risk patients may be treated with outpatient parenteral regimens.
+
+outpatient and early discharge policies
+The possibility of exclusive oral outpatient management for low-risk FN cases has become increasingly appealing on the grounds of the patient’s convenience, economy [15] and
+ 
+
+
+reduction in the incidence of nosocomial infections. There is also evidence to support an early discharge policy in these low- risk cases once they have become clinically stable, symptomatic- ally better and there is evidence of fever lysis after a minimum of 24 h in hospital [II, B], and provided that there is an adequate understanding of the risks and that patient surveillance is avail- able [16–19].
+
+high-risk patients
+Patients with FN who are at high risk as assessed by the MASCC criteria (<21), or have high-risk features as judged by the admit- ting doctor, should be admitted and commenced on broad- spectrum i.v. antibiotics, since the risk of bacterial sepsis is very high [20].
+
+choice of i.v. antibacterial
+Local epidemiological bacterial isolate and resistance patterns are crucially important in determining the ﬁrst-choice empirical therapy, since coverage for MRSA or resistant Gram-negative bacteria may be required [21]. A meta-analysis comparing monotherapy (e.g. an anti-pseudomonal cephalosporin like cef- tazidime or cefepime, imipenem, meropenem or piperacillin– tazobactam) with combination therapy found equivalent efﬁcacy [I, A] [22, 23]. This is less clear in the subsets at high risk of pro- longed neutropaenia and those with bacteraemia, where the bac- tericidal activity and synergistic effect of a β-lactam antibiotic in combination with an aminoglycoside might be preferable; namely, in case of Pseudomonas aeruginosa sepsis or in centres with known intermediate susceptibility of Gram-negative bacilli to β-lactams [3].
+Key recommendations about the management of febrile neu- tropenia are summarised in Table 3.
+
+speciﬁc indications for alternative therapy
+Apart from the standard treatment with broad-spectrum anti- bacterial agents, there are a number of situations, in clinical
+ 
+practice, that require a speciﬁc regimen. The duration of treat- ment may vary and local antibacterial guidelines should be fol- lowed in these circumstances.
+
+central i.v. catheters. If a patient has an i.v. catheter, catheter- related infection (CRI) should be suspected, and blood must be cultured from the catheter and peripherally to measure the differential time to positivity (DTTP), which is the difference in time between positivity of results between catheter culture and peripheral blood culture. A DTTP of ±2 h is a highly sensitive and speciﬁc indicator of catheter-related bacteraemia [I, A] [24]. All cases of CRI in the setting of FN require decision-making on the choice and duration of i.v. antibiotics, and the need for catheter removal. When CRI is suspected, and the patient  is stable, the catheter should not be removed without microbio-
+logical evidence of infection [25].
+A glycopeptide such as vancomycin should be administered through the line when possible to cover Gram-positive organ- isms [III, A]. Teicoplanin is a useful alternative as it can be administered once daily as a line lock. Success in treating CRI without removing the catheter depends on the pathogen isolated in the blood cultures.
+In CRI due to CNS, an attempt at preserving the catheter can be made if the patient is stable [III, B]. Catheter retention does not have an impact on the resolution of CNS bacteraemia but is a signiﬁcant risk factor for recurrence in those patients in whom the catheter was retained.
+Removal of the line is indicated in the context of tunnel infec- tions, pocket infections (implanted port system) [III, B], persist- ent bacteraemia despite adequate treatment, atypical mycobacterial infection and candidaemia. With regard to line infections caused by S. aureus, the literature is divided. The desire to preserve the line must be balanced against the risk of metastatic spread by bloodstream seeding. The recommendation should be to remove the line if at all possible, while recognising that, with careful management, it might be possible to maintain it for a short period. Persistent fever and bacteraemia despite ap- propriate antibiotics are indications for line removal.
+
+pneumonia. If pneumonia in an outpatient is diagnosed either on clinical grounds and/or on the basis of radiological imaging, antibiotic cover may be extended to treat atypical organisms such as Legionella and Mycoplasma by adding a macrolide or a ﬂuoroquinolone antibiotic to a β-lactam antibiotic [V, D]. Consideration for infection with Pneumocystis jirovecii should be given in patients who present with high respiratory rates and/ or desaturate readily off oxygen or on minimal exertion. Predisposing factors include prior corticosteroid therapy, use of immune suppressants after organ TPL and exposure to purine analogues, as well as lack of reliable chemoprophylaxis with co- trimoxazole [26]. In high-risk patients with profound prolonged neutropaenia and lung inﬁltrates, early treatment with a mould- active antifungal agent is recommended.
+
+lung inﬁltrates. Patients with AML during remission induction ChT and those undergoing allogeneic haematopoietic stem cell TPL with prior conditioning ChT are at risk of invasive fungal infections (namely aspergillosis) due to prolonged and profound neutropaenia [27]. Frequent assessment of initial
+ 
+response to antibacterial therapy is essential, and, in the absence of prompt improvement, further investigations are warranted. If invasive aspergillus is suspected, a high-resolution chest computed tomography (CT) scan should be carried out on the same day, looking for typical features such as nodules with halos or ground-glass change, and galactomannan should be measured in serum. If any inﬁltrate is found, bronchoalveolar lavage should be undertaken if possible.
+Advice from an infectious diseases (ID) specialist or clinical microbiologist is recommended, and an appropriate therapy against infection with fungi or Pneumocystis species should be instituted. The choice of antifungal agents will depend on centres, individual patients and use of prior prophylactic therapy [28].
+Therapy for presumed aspergillosis (for cases with typical inﬁltrates on CT) could consist of either voriconazole or liposo- mal amphotericin B [I, A] [29, 30]. These antifungals can be combined with an echinocandin in unresponsive disease [IV, B]. A precise microbiological diagnosis is highly desirable in patients suspected of invasive fungal infection, as the sensitivity to various antifungal agents is variable among different species.
+High-dose co-trimoxazole is the treatment of choice for sus- pected Pneumocystis infection [I, A].
+
+vesicular lesions/suspected viral infection. After appropriate samples are taken, therapy with aciclovir should be initiated [I, A]. Ganciclovir (or foscarnet) should be substituted only when there is a high suspicion of invasive cytomegalovirus infection [I, A] [31, 32].
+
+suspected meningitis or encephalitis. Lumbar puncture (if in any way possible before the institution of antibiotics) is mandatory in these rare cases. Bacterial meningitis should be treated with ceftazidime plus ampicillin (to cover for Listeria monocytogenes) or meropenem [II, A]. Viral encephalitis is treated with a high dose of aciclovir.
+
+cellulitis. The addition of vancomycin broadens the cover against skin pathogens [V, D]. Linezolid and daptomycin are emerging alternatives to glycopeptides; however, more clinical experience is needed, especially in neutropaenic patients.
+
+intra-abdominal or pelvic sepsis. If clinical or microbiological evidence of intra-abdominal or pelvic sepsis exists, metronidazole should be commenced [V, D], unless the patient is on a carbapenem or piperacillin–tazobactam, which have adequate anaerobic coverage.
+
+diarrhoea. Assessment for Clostridium difﬁcile is needed and, if suspected, oral vancomycin or metronidazole treatment should be administered [V, D].
+
+candidiasis. Patients at risk of disseminated candidiasis are those with prolonged neutropaenia and especially those with haematological malignancies undergoing myeloablative therapy [33]. Candidaemia can be diagnosed on blood culture; however, cultures may take several days to become positive. Empirical initiation of antifungal therapy is recommended in patients whose fever fails to respond to broad-spectrum antibiotics after
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+Figure 3. Assessment of response and subsequent management. ANC, absolute neutrophil count; i.v., intravenous; ID, infectious disease.
+
+3–7 days of appropriate treatment [I, A]. A CT scan of the liver and spleen should be carried out before commencing anti- Candida treatment, looking for typical changes.
+First-line empirical treatment depends on what is known about the patient. Liposomal amphotericin B and an echinocan- din antifungal such as caspofungin are appropriate ﬁrst-line treatments if the patient has already been exposed to an azole or if the patient is known to be colonised with non-albicans Candida [I, A]. Fluconazole can be given ﬁrst line provided the patient is at low risk of invasive aspergillosis; local epidemio- logical data suggest low rates of azole-resistant isolates of Candida and the patient has not received an azole antifungal as prophylaxis. Once begun, antifungal treatment should be con- tinued until neutropaenia has resolved, or for at least 14 days in patients with a demonstrated invasive Candida infection.
+Speciﬁc needs for preventing other opportunistic infections are
+required in patients with haematological malignancies, namely those undergoing haematopoietic stem cell transplants [34].
+
+ 
+daily follow-up and assessment of response
+The frequency of clinical assessment is determined by severity but may be required every 2–4 h in cases needing resuscitation. Daily assessment of fever trends, bone marrow and renal func- tion is indicated until the patient is afebrile and has an ANC of
+≥0.5 × 109/l (Figure 3) for 24 h. Repeated imaging may be
+required in patients with persistent pyrexia.
+If the patient is afebrile and has an ANC of ≥0.5 × 109/l at 48 h, has low risk and no cause of infection has been found, con-
+sider changing to oral antibiotics [II, A]. If the patient is at high risk with no cause found and is on dual therapy, aminoglycoside may be discontinued [V, D]. When the cause is found, continue on appropriate speciﬁc therapy [II, A].
+If the patient is still febrile at 48 h, but clinically stable, initial antibacterial therapy should be continued. If the patient is clin- ically unstable, antibacterial therapy should be rotated or broa- dened if clinical developments justify this. Some haematology
+ 
+
+
+
+
+
+
+
+
+
+
+
+units will add a glycopeptide to the regimen, while other centres will change the regimen to imipenem or meropenem and a gly- copeptide. This group of patients with persistent fever is at a high risk of serious complications, and prompt advice from an ID physician or clinical microbiologist should be sought. Unusual infections should be considered, particularly in the context of a rising C-reactive protein, with a view to proceeding to imaging of the chest and upper abdomen, to exclude probable fungal or yeast infection, or abscesses. When the pyrexia lasts
+ 
+for >4–6 days, empirical initiation of antifungal therapy may be needed [I, A].
+
+duration of therapy
+If the ANC is ≥0.5 × 109/l, the patient is asymptomatic and has been afebrile for 48 h and blood cultures are negative, antibac- terials can be discontinued [II, A].
+If the ANC is ≤0.5 × 109/l, the patient has suffered no complica- tions and has been afebrile for 5–7 days, antibacterials can be dis-
+continued except in certain high-risk cases with acute leukaemia and following high-dose ChT when antibacterials are often contin- ued for up to 10 days, or until the ANC is ≥0.5 × 109/l [II, A].
+Patients with persistent fever despite neutrophil recovery
+should be assessed by an ID physician or clinical microbiologist and antifungal therapy considered [II, A].
+An overall algorithm for the assessment of response and sub- sequent management is proposed in Figure 3.
+
+methodology
+These clinical practice guidelines were developed in accordance with the ESMO standard operating procedures for clinical prac- tice guidelines development, http://www.esmo.org/Guidelines/ ESMO-Guidelines-Methodology. The relevant literature has been selected by the expert authors. A summary of recommen- dations is shown in Table 3. Levels of evidence and grades of recommendation have been applied using the system shown in Table 4. Statements without grading were considered justiﬁed as standard clinical practice by the experts and the ESMO faculty. This manuscript has been subjected to an anonymous peer review process.
+
+conﬂict of interest
+JK has declared speaker’s fees and consulting fees from TEVA. JdN has declared no potential conﬂicts of interest. KR has reported research support from Merck, Allergan, and JMI Laboratories and participation in an advisory board for Allergan. BR has reported advisory boards for Sandoz/Hexal, Amgen and Roche, research support from Sandoz/Hexal and speaker's bureau for Teva, Amgen and Roche. GM has reported personal fees (outside the submitted work) from Merck/MSD, Astellas, Gilead, Pﬁzer, F2G, Roche and Basilea. MA has reported consultancy for Amgen, Hospira, Pﬁzer, Pierre Fabre, Roche, Sandoz, Teva and honoraria for lectures at symposia for Amgen, Chugai, Hospira, Kyowa Hakko Kirin, Pierre Fabre, Roche, Sandoz, Sanoﬁ, Taiho and Teva. JH has declared that he is a member of the rolapitant advisory board for Tesaro.
+
+references
+1.	Klastersky J, Ameye L, Maertens J et al. Bacteraemia in febrile neutropenic patients. Int J Antimicrob Agents 2007; 30(Suppl. 1): S51–S59.
+2.	Klastersky J, Paesmans M, Rubenstein EB et al. The Multinational Association for Supportive Care in Cancer risk index: a multinational scoring system for identifying low-risk febrile neutropenic cancer patients. J Clin Oncol 2000; 18: 3038–3051.
+3.	Moghnieh R, Estaitieh N, Mugharbil A et al. Third generation cephalosporin resistant Enterobacteriaceae and multidrug resistant gram-negative bacteria
+ 
+
+causing bacteremia in febrile neutropenia adult cancer patients in Lebanon, broad spectrum antibiotics use as a major risk factor, and correlation with poor prognosis. Front Cell Infect Microbiol 2015; 5: 11.
+4.	Gafter-Gvili A, Fraser A, Paul M, Leibovici L. Meta-analysis: antibiotic prophylaxis reduces mortality in neutropenic patients. Ann Intern Med 2005; 142: 979–995. [Erratum, Ann Intern Med 2006; 144:704].
+5.	Clark OA, Lyman GH, Castro AA et al. Colony-stimulating factors for chemotherapy-induced febrile neutropenia: a meta-analysis of randomized controlled trials. J Clin Oncol 2005; 23: 4198–4214.
+6.	Cooper KL, Madan J, Whyte S et al. Granulocyte colony-stimulating factors for febrile neutropenia prophylaxis following chemotherapy: systematic review and meta-analysis. BMC Cancer 2011; 11: 404.
+7.	Kuderer NM, Dale DC, Crawford J, Lyman GH. Impact of primary prophylaxis with granulocyte colony-stimulating factor in febrile neutropenia and mortality in adult cancer patients receiving chemotherapy: a systematic review. J Clin Oncol 2007; 25: 3158–3167.
+8.	Aapro MS, Bohlius J, Cameron DA et al. 2010 Update of EORTC guidelines for the use of granulocyte-colony stimulating factor to reduce the incidence of chemotherapy-induced febrile neutropenia in adult patients with lymphoproliferative disorders and solid tumours. Eur J Cancer 2011; 47: 8–32.
+9.	Smith TJ, Khatcheressian J, Lyman GH et al. 2006 update of recommendations for the use of white blood cell growth factors: an evidence-based clinical practice guideline. J Clin Oncol 2006; 24: 3187–3205.
+10.	Sung L, Nathan PC, Alibhai SM et al. Meta-analysis: effect of prophylactic hematopoietic colony-stimulating factors on mortality and outcomes of infections. Ann Intern Med 2007; 147: 400–411.
+11.	Wang L, Baser O, Kutikova L et al. The impact of primary prophylaxis with granulocyte colony-stimulating factors on febrile neutropenia during chemotherapy: a systematic review and meta-analysis of randomized controlled trials. Support Care Cancer 2015; 23: 3131–3140.
+12.	Mitchell S, Li X, Woods M et al. Comparative effectiveness of granulocyte colony- stimulating factors to prevent febrile neutropenia and related complications in cancer patients in clinical practice: a systematic review. J Oncol Pharm Pract 2016; 22: 702–716.
+13.	Hämäläinen S, Kuittinen T, Matinlauri I et al. Neutropenic fever and severe sepsis in adult acute myeloid leukemia (AML) patients receiving intensive chemotherapy: causes and consequences. Leuk Lymphoma 2008; 49: 495–501.
+14.	Nesher L, Rolston KV. The current spectrum of infection in cancer patients with chemotherapy related neutropenia. Infection 2014; 42: 5–13.
+15.	Elting LS, Lu C, Escalante CP et al. Outcomes and cost of outpatient or inpatient management of 712 patients with febrile neutropenia. J Clin Oncol 2008; 26: 606–611.
+16.	Freifeld A, Marchigiani D, Walsh T et al. A double-blind comparison of empirical oral and intravenous antibiotic therapy for low-risk febrile patients with neutropenia during cancer chemotherapy. N Engl J Med 1999; 341: 305–311.
+17.	Innes H, Lim SL, Hall A et al. Management of febrile neutropenia in solid tumours and lymphomas using the Multinational Association for Supportive Care in Cancer (MASCC) risk index: feasibility and safety in routine clinical practice. Support Care Cancer 2008; 16: 485–491.
+18.	Kern WV, Marchetti O, Drgona L et al. Oral antibiotics for fever in low-risk neutropenic patients with cancer: a double-blind, multicenter trial comparing single daily moxoﬂoxacin with twice daily ciproﬂoxacin plus amoxicillin-clavulanic acid combination therapy – EORTC infectious diseases group trial XV. J Clin Oncol 2013; 31: 1149–1156.
+19.	Pherwani N, Ghayad JM, Holle LM, Karpiuk EL. Outpatient management of febrile neutropenia associated with cancer chemotherapy: risk stratiﬁcation and treatment review. Am J Health Syst Pharm 2015; 72: 619–631.
+20.	Feld R. Bloodstream infections in cancer patients with febrile neutropenia. Int J Antimicrob Agents 2008; 32 (Suppl. 1): S30–S33.
+21.	Montassier E, Batard E, Gastinne T et al. Recent changes in bacteremia in patients with cancer: a systematic review of epidemiology and antibiotic resistance. Eur J Clin Microbiol Infect Dis 2013; 32: 841–850.
+22.	Furno P, Bucaneve G, Del Favero A. Monotherapy or aminoglycoside-containing combinations for empirical antibiotic treatment of febrile neutropenic patients: a meta-analysis. Lancet Infect Dis 2002; 2: 231–242.
+ 
+
+23.	Rolston KV, Bodey GP. Comment on: empirical antibiotic monotherapy for febrile neutropenia: systematic review and meta-analysis of randomized controlled trials. J Antimicrob Chemother 2006; 58: 478; author reply: 479–480.
+24.	Seifert H, Cornely O, Seggewiss K et al. Bloodstream infection in neutropenic cancer patients related to short-term nontunnelled catheters determined by quantitative blood cultures, differential time to positivity, and molecular epidemiological typing with pulsed-ﬁeld gel electrophoresis. J Clin Microbiol 2003; 41: 118–123.
+25.	Raad I, Kassar R, Ghannam D et al. Management of the catheter in documented catheter-related coagulase-negative staphylococcal bacteremia: remove or retain? Clin Infect Dis 2009; 49: 1187–1194.
+26.	Kovacs JA, Masur H. Evolving health effects of Pneumocystis: one hundred years of progress of diagnosis and treatment. JAMA 2009; 301: 2578–2585.
+27.	Maschmeyer G, Carratalà J, Buchheidt D et al. Diagnosis and antimicrobial therapy of lung inﬁltrates in febrile neutropenic patients (allogeneic SCT excluded): updated guidelines of the Infectious Diseases Working Party (AGIHO) of the German Society of Hematology and Medical Oncology (DGHO). Ann Oncol 2015; 26: 21–33.
+28.	Marr KA, Schlamm HT, Herbrecht R et al. Combination antifungal therapy for invasive aspergillosis: a randomized trial. Ann Intern Med 2015; 162: 81–89.
+ 
+
+29.	Cornely OA, Maertens J, Bresnik M et al. Liposomal amphotericin B as initial therapy for invasive mold infection: a randomized trial comparing a high-loading dose regimen with standard dosing (AmBiLoad Trial). Clin Infect Dis 2007; 44: 1289–1297.
+30.	Herbrecht R, Denning DW, Patterson TF et al. Voriconazole versus amphotericin B for primary therapy of invasive aspergillosis. N Engl J Med 2002; 347: 408–415.
+31.	Glenny AM, Fernandez Maulefﬁnch LM, Pavitt S, Walsh T. Interventions for the prevention and treatment of herpes simplex virus in patients being treated for cancer. Cochrane Database Syst Rev 2009; (1): CD006706.
+32.	Torrez-Madriz G, Boucher HW. Immunocompromised hosts: perspectives in the treatment and prophylaxis of cytomegalovirus disease in solid-organ transplant recipients. Clin Infect Dis 2008; 47: 702–711.
+33.	van der Velden WJ, Blijlevens NM, Feuth T, Donnelly JP. Febrile mucositis in haematopoietic SCT recipients. Bone Marrow Transplant 2009; 43: 55–60.
+34.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among haematopoietic stem cell transplant recipients. Clin Infect Dis 2001; 33: 139–144.
