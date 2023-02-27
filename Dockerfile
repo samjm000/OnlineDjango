@@ -25,8 +25,8 @@ COPY . .
 RUN python manage.py collectstatic --noinput
 
 # add and run as non-root user
-RUN adduser -D myuser
-USER myuser
+#RUN adduser -D myuser
+#USER myusers
 
 # run gunicorn
 CMD gunicorn onlinekai.wsgi:application --bind 0.0.0.0:$PORT
