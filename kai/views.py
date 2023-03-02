@@ -17,7 +17,7 @@ def result(request):
 
 class KaiListView(ListView):
     model = Question
-    template_name = "home.html"
+    template_name = "result.html"
 
 
 class QuestionDetailView(DetailView):
