@@ -24,9 +24,7 @@ COPY . .
 # collect static files
 RUN python manage.py collectstatic --noinput
 
-# add and run as non-root user
-#RUN adduser -D myuser
-#USER myusers
+EXPOSE 8000
 
-# run gunicorn
-CMD gunicorn onlinekai.wsgi:application --bind 0.0.0.0:8080
+ENTRYPOINT ["python3"] 
+CMD ["manage.py", "runserver", "0.0.0.0:8000"]
