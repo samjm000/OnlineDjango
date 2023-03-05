@@ -29,4 +29,4 @@ RUN python manage.py collectstatic --noinput
 #USER myusers
 
 # run gunicorn
-CMD gunicorn onlinekai.wsgi:application --bind 0.0.0.0:$PORT
+CMD gunicorn onlinekai.wsgi:application --bind 0.0.0.0:8080
