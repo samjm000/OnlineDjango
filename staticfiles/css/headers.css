@@ -15,11 +15,27 @@
 }
 
 .justify-content-center {
-    -ms-flex-pack: center!important;
-    justify-content: center!important;
+    -ms-flex-pack: center;
+    justify-content: center;
 }
 
 .search-bar {
   width: 100%;
-    max-width: 610px;
+  min-width: 400px!important;
+  max-width: 610px;
+}
+
+
+.form-outline.\.search-bar {
+  min-width: 200px;
+  width: 60%;
+}
+
+.results-page {
+  margin-left: 25px;
+}
+
+.crab {
+  width: 200px;
+  height: 200px;
 }
