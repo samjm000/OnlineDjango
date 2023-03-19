@@ -1,11 +1,15 @@
 
 {% extends "base.html" %}
+{% load static %}
 {% block content %}
 
     <body>
         <br>
-        <h3 style="text-align: center;">results</h3> <br>
-        <p>{{ home_input }}</p>
+        <h3 style="text-align: center;">Results</h3> <br>
+        <div class="results-view">
+            <p >RESULTs: {{ home_input }}</p>
+        </div>
+        
     </body>
 
 </html>

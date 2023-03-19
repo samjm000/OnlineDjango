@@ -25,12 +25,6 @@
   max-width: 610px;
 }
 
-
-.form-outline.\.search-bar {
-  min-width: 200px;
-  width: 60%;
-}
-
 .results-page {
   margin-left: 25px;
 }
@@ -45,4 +39,12 @@ justify-content: center;
 .crab {
   width: 200px;
   height: 200px;
+}
+
+.results-view {
+  width: 65%;
+  margin: auto;
+  text-align: left;
+  background-color: aquamarine;
+  color: red;
 }
