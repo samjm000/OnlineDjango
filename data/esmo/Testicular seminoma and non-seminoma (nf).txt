@@ -1,0 +1,522 @@
+
+
+
+
+
+ SPECIAL ARTICLE	
+
+Testicular seminoma and non-seminoma: ESMO-EURACAN Clinical Practice Guideline for diagnosis, treatment and follow-up5
+J. Oldenburg1,2, D. M. Berney3,4, C. Bokemeyer5, M. A. Climent6, G. Daugaard7, J. A. Gietema8, U. De Giorgi9,
+H. S. Haugnes10, R. A. Huddart11, R. Leão12, A. Sohaib13, S. Gillessen14,15,16 & T. Powles4, on behalf of the ESMO Guidelines Committee* and EURACAN
+1Department of Oncology, Akershus University Hospital, Lørenskog; 2Faculty of Medicine, University of Oslo, Oslo, Norway; 3Department of Cellular Pathology, Barts Cancer Institute, Queen Mary University of London, London; 4Barts Health NHS Trust, London, UK; 5Department of Oncology, Hematology, Bone Marrow Transplantation with section Pneumology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany; 6Fundacion Instituto Valenciano de Oncología, València, Spain; 7Department of Oncology, Copenhagen University Hospital, Rigshospitalet, Copenhagen, Denmark; 8Department of Medical Oncology, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands; 9Department of Medical Oncology, IRCCS Istituto Romagnolo per lo Studio dei Tumori (IRST), ‘Dino Amadori’, Meldola, Italy; 10Department of Oncology, University Hospital of North Norway and UiT-The Arctic University, Tromsoe, Norway; 11Institute of Cancer Research and Royal Marsden Foundation Trust, London, UK; 12Department of Urology, Hospital de Braga, Hospital CUF Coimbra, Faculty of Medicine University of Coimbra, Coimbra, Portugal; 13Department of Diagnostic Radiology, Royal Marsden Hospital, Sutton, Surrey, UK; 14Oncology Institute of Southern Switzerland, EOC, Bellinzona; 15Faculty of Biomedical Sciences, USI, Lugano, Switzerland; 16Division of Cancer Medicine, University of Manchester, Manchester
+
+
+Available online 19 January 2022
+
+
+
+ 
+
+INCIDENCE AND EPIDEMIOLOGY
+Germ-cell tumours (GCTs) affect predominantly younger males aged between 15 and 40 years, with nearly 74 500 new cases estimated globally in 2020.1 About one-third of all GCT cases worldwide are diagnosed in Europe. Testicular GCT (TGCT) is the most common malignant GCT, with noted geographic variations.2 The highest incidence rates in 2010 (per 100 000) were observed in Denmark with 10.2 and Norway with 11.5 and are currently declining in these two countries. TGCT incidence rates (per 100 000) will probably increase particularly in areas with low incidences, e.g. Eastern Europe exemplified by Belarus and Ukraine with 2010 rates of 2.3 and 2.2, respectively.2 Although exposure to endocrine-disrupting chemicals has been hypothesised, the aetiology of GCTs remains elusive.2 Also, in ageing Eu- ropean populations with relatively fewer younger men aged 15-40 years, unconfirmed factors are believed to increase the number of future GCT patients.
+TGCT is associated with cryptorchidism, hypospadias and decreased fertility, often referred to as the testicular dysgenesis syndrome.3 In utero exposure to endocrine
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, CH-6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+5Approved    by    the    ESMO    Guidelines    Committee    and    EURACAN: December 2021.
+0923-7534/© 2022 European Society for Medical Oncology. Published by Elsevier Ltd. All rights reserved.
+ 
+
+disruption chemicals might increase the likelihood of this syndrome. Among these chemicals, organochlorine in- secticides have been demonstrated to increase the risk of GCT.4 Furthermore, GCT seems to be more frequent in certain families,5 with higher risks among brothers [relative risk (RR) 6.3] than for sons or fathers (RR 4.4-4.7) of affected family members.
+So far, no highly penetrant GCT genes have been identi- fied. Genome-wide association studies have identified several low-risk and moderate-risk single nucleotide poly- morphisms associated with the risk of GCT, estimated to account for w37% of the familial GCT risk.6,7 A recent study found pathogenic germline DNA repair gene variants among 10% of TGCT cases, of which CHEK2 was suggested to be a potential novel moderate-penetrance susceptibility gene for GCT.8 About 5% of men with GCT are diagnosed with contralateral TGCT, further suggesting a genetic disposition.9 Regardless of whether GCT has genetic and/or environmental causes, the interindividual risk is remarkable as patients diagnosed with seminoma and non-seminoma have standardised incidence ratios of 13 and 29, respec- tively, of developing a contralateral TGCT as compared with the incidence of first GCT in the general population.10
+Approximately 55%-60% of the GCTs are pure semi- nomas and 40%-45% are non-seminomas.4 Probably due to a slower progression, w85% of seminomas are diagnosed as clinical stage I disease as compared with 60% among non-seminomas. Approximately 95% of GCTs arise in the
+ 
+J. Oldenburg et al.	Annals of Oncology
+
+ 
+testicles, with 5% developing outside the gonads, i.e. extragonadal GCT (EGGCT). EGGCTs are usually found in the body’s midline, e.g. retroperitoneum, mediastinum or ce- rebrum, sometimes posing diagnostic difficulties.
+
+DIAGNOSIS, PATHOLOGY AND MOLECULAR BIOLOGY
+Diagnosis
+Testicular cancer is usually diagnosed as a unilateral testicular mass detected by the patient or identified inci- dentally during an ultrasound (US). Together with an inci- dental or palpable mass, patients may have scrotal pain (27%) or back or ﬂank pain (11%), and 1% might present with gynaecomastia (germ-cell or sex cord/gonadal tumour of the testes).11-13
+Diagnosis of a GCT is based on histology of the testicular mass [II, A]. In patients with a testicular lesion (even when palpable), however, testicular US should be carried out with a high-frequency (>10 MHz) probe with colour Doppler assessment.14 In addition to confirming the presence of an intratesticular mass, US permits evaluation of the contra- lateral testicular volume, presence of synchronous tumours and microcalcifications. US may also reveal an impalpable
+testicular lesion in patients assessed for fertility problems, metastatic disease or elevated serum tumour markers.15-18 The broadening use of testicular US is detecting increasing numbers of impalpable tumours of which many turn out to be of no significance, such as small Leydig-cell tumours.19 The role of scrotal magnetic resonance imaging (MRI) is limited and it may be used to distinguish between an intra- and extra-testicular mass when this cannot be confirmed clinically or with US.20
+Serum tumour markers are part of the initial work-up and diagnosis for patients with suspected testicular cancer, see Table 1.11,16 a-Fetoprotein (AFP), beta subunit of human chorionic gonadotropin (b-hCG) and lactate dehydrogenase (LDH) levels should be determined before carrying out or- chiectomy, as they are associated with germ-cell cancer histology and support the diagnosis of testicular cancer.16,21 Overall, serum tumour markers have a low sensitivity (especially in seminoma) such that normal marker levels do not exclude GCTs. LDH has a low specificity since it may be elevated due to a number of reasons.21,22 Post-orchiectomy levels of serum tumour markers are nevertheless important for prognostic stratification and should be followed in pa- tients with initially elevated markers (AFP half-life is
+
+
+Table 1. Serum tumour markers for non-seminoma testicular cancer
+	LDH (U/l)	b-hCG (IU/l)	AFP (ng/ml)
+SX	Marker studies not available or not
+carried out	Marker studies not available or not
+carried out	Marker studies not available or not
+carried out
+S0	Normal	Normal	Normal
+S1	<1.5 × ULN	<5000	<1000
+S2	1.5-10 × ULN	5000-50 000	1000-10 000
+S3	>10 × ULN	>50 000	>10 000
+AFP, a-fetoprotein; b-hCG, beta subunit of human chorionic gonadotropin; LDH, lactate dehydrogenase; ULN, upper limit of normal.
+
+ 
+ 
+5-7 days and b-hCG half-life is 1-3 days) until normal- isation.21 Persistent or increasing tumour markers after or- chiectomy usually indicate metastatic disease. Circulating serum microRNAs (miRNAs) are reported to have a high sensitivity and specificity and are discussed in the section on personalised medicine.
+
+Pathology
+Testicular neoplasia is a complex and challenging area of pathology due to the large range of entities and relative rarity of diagnosis. More than 95% of malignant testicular tumours arise from germ cells. While immediate treatment may be based on classic clinical presentation of life- threatening GCT and elevated serum markers only, the vast majority of tumours are diagnosed on primary orchi- ectomy specimen. The rarity of these tumours, combined with their complex morphology, means that, in non-expert hands, there is a significant risk of misdiagnosis of both type and staging of these neoplasms.23-25 It has been rec- ommended by ESMO that expert pathologists should see a minimum of 30 cases a year.13 Testicular tumours should be typed in line with the World Health Organization (WHO) 2016 classification.26 This is a modified nomenclature from previous iterations to align morphology with molecular and outcome data. The major pre-neoplastic lesion of GCTs is germ-cell neoplasia in situ (GCNIS).27 GCTs may be simply divided into those derived from GCNIS (most adult GCTs) and those not derived from GCNIS. The latter is a hetero- geneous group including spermatocytic tumour and most prepubertal GCTs. A new classification was published by the WHO during the writing of this guideline; modifications are minor.28 Histopathologically, seminomas are characterised by cells analogous to the primordial germ cells/gonocytes present during early embryonic development, while non- seminomas show a variety of differentiation patterns from embryonic and extra-embryonic tissues.
+Biopsy for diagnosis of GCNIS in the contralateral testis and subsequent management. Around 5% of testicular cancer patients have GCNIS in the contralateral testis with the highest risk (w30%) in men with testicular atrophy (volume <12 ml) and age <40 years. Approximately 30%-40% of patients with retroperitoneal EGGCT harbour testicular GCNIS.29-31
+In 2%-5% of TGCT patients a GCT is diagnosed in the contralateral testicle, either metachronously or synchro- nously. A recent population-based study reported a 20-year crude cumulative incidence rate of a metachronous contralateral GCT of 5.4% [95% confidence interval (CI) 4.2-6.8] after surgery only. Treatment with three or more cycles of cisplatin-based chemotherapy (ChT) was associ- ated with significantly reduced risks of 3.2% (95% CI 2.5-4.0) for a second GCT.32 Radiotherapy (RT) is the standard treatment of GCNIS with 9-10 fractions of 2 Gy corre- sponding to a total dose of 18-20 Gy. As this treatment renders the patient infertile and also weakens testosterone production, the indication for, and timing of this treatment has to be discussed carefully with the patient.29
+ 
+Annals of Oncology	J. Oldenburg et al.
+
+ 
+The majority of European testicular cancer consensus experts do not consider a routine biopsy of the contralateral testis as indicated [V, C].13
+Recommendations
+Diagnosis of GCT should generally be based on histology [II, A] except when urgent ChT is required.
+Symptomatic patients with high tumour burden and elevated tumour markers should receive ChT without delay caused by attempts to achieve a biopsy when the clinical picture is clear [III, A].
+Serum tumour markers (AFP, b-hCG and LDH) should be
+determined before and after orchiectomy and throughout follow-up. They are used for accurate staging and risk stratification to monitor treatment and to detect relapse [II, A].
+Approximately 5% of GCT patients harbour GCNIS in the contralateral testis, requiring physical and/or US exami- nations during follow-up [III, A].
+As RT for GCNIS prevents fatherhood by natural means, upfront versus delayed RT should be carefully discussed with patients [III, A].
+
+STAGING AND RISK ASSESSMENT
+Post-orchiectomy management should be the responsibility of clinicians with experience in the classification and treatment of TGCT [III, A].
+Staging and risk group categorisation are carried out ac- cording to the Union for International Cancer Control (UICC) and the International Germ Cell Cancer Collaborative Group (IGCCCG), comprising the original publication from 1997 as well as updates with contemporary outcomes and refined risk categorisations for metastatic seminoma and non-seminoma, respectively, reﬂecting the extent of the disease based on clinical and radiological examinations and the results of serum tumour markers after orchiectomy, including LDH.33-35 Risk factors for recurrence in clinical stage I GCTs include tumour (T) stage comprising vascular invasion by the primary tumour as well as size, rete testis invasion and the amount of embryonal carcinoma in non-seminomas. Unfortunately, at present there is disparity between American Joint Committee on Cancer (AJCC) and UICC versions of the TGCT TNM (tumourenodeemetastasis) staging such that the applied staging system should always be specified.36
+Tumour markers (AFP, b-hCG, LDH) are determined
+preferably before and after orchiectomy and followed until normalisation or lack of further decrease. The half-life for b-hCG is 1-3 days and 5-7 days for AFP.
+For stage I disease, different risk factors have been iden- tified for seminoma and non-seminoma based on histological features in the primary tumour and the 5-year survival rate of adequately managed patients approaches 100%.37
+In non-seminoma stage I tumours, vascular invasion of blood   or   lymphatic   vessels    is    most    often    caused by embryonal carcinoma. Although the presence of embryonal carcinoma might represent an individual risk factor, most experts recommend considering the
+ 
+presence of vascular invasion as the single and most important predictor of micrometastases and subsequent recurrence.
+In seminoma clinical stage I, tumour size and possibly rete testis infiltration represent weaker risk factors identi- fying ‘higher-risk’ patients.38-41 The ESMO consensus con- ference voting resulted in >90% majority voting in favour of applying both rete testis infiltration and tumour size as continuous variables for risk categorisation.13 In the following text, this definition of ‘higher-risk’ seminoma, which is in line with the view of the European Association of Urology (EAU) testis panel as well, will be used when dis-
+cussing the indication of adjuvant treatment.16
+In patients without visible radiological metastatic lesions, a slower than expected decline of increased pre-orchiectomy b-hCG and AFP might indicate systemic disease. In some rare patients, b-hCG or AFP are elevated without GCT activity,
+e.g. liver disease, hypogonadism, hereditary AFP elevation. These patients should be referred to and at least discussed with GCT experts, before considering initiation of systemic treatment. Increasing serum markers without identification of metastases indicate the need of systemic treatment of (stage IS) testicular cancer (i.e. serum marker-positive without radiological evidence of metastases).
+In patients with metastatic disease, serum marker values are integrated into the IGCCCG risk classification.33-35 To rule out the presence of nodal or distant metastases, contrast-enhanced computed tomography (CT) of the chest, abdomen and pelvis should be carried out [III, A]. MRI has been established as a substitute for CT in the follow-up, but its role in staging is less clear. Accuracy of abdominalepelvic staging should be similar between MRI and CT, but for the chest and lungs, CT is superior. Therefore, and due to the lack of evidence for MRI-based staging, contrast-enhanced CT of chest, abdomen and pelvis is recommended as the standardised, robust, reproducible, widely available tech- nique. An MRI of the central nervous system (CNS) is advisable in non-seminoma patients with high b-hCG values or multiple lung metastases belonging to the poor- prognostic group. There is no evidence to support the routine use of [18F]2-ﬂuoro-2-deoxy-D-glucose-positron emission tomography (FDG-PET) in the staging of GCT [III, D]. Serum levels of total testosterone, sex hormone- binding globulin, luteinizing hormone and follicle- stimulating hormone should be determined.
+IGCCCG identified three prognostic groups for patients with metastatic GCTs (MGCTs) with a disease-specific survival rate of 95%, 85% and 64% for good, intermediate and poor prognosis, respectively (Table 2).42 A more recent update has shown that both progression-free survival (PFS) and overall survival (OS) have improved since the original IGCCCG publi- cation. In the updated IGCCCG analysis, age, presence of lung metastases and an LDH value higher than 2.5 the upper limit of normal (ULN) have been identified as additional prognostic factors.34 More precise risk categorisation should yield more homogenous groups of patients, thus facilitating more specific hypotheses and trials. For non-seminoma, use of the online calculator allowing incorporation of age,
+ 
+J. Oldenburg et al.	Annals of Oncology
+
+multiple lung metastases or in those with cerebral symp- toms [III, A].
+Routine positron emission tomography (PET) scanning is not recommended [V, D].
+IGCCCG is recommended for stratification of metastatic patients [III, A].
+
+MANAGEMENT OF LOCOREGIONAL DISEASE
+Before treatment, patients should be well informed about the potential treatment modalities, their acute and late toxicities and the overall outcome. The majority of patients with locoregional disease have stage I TCGT. A few patients, however, present with only small retroperitoneal lymph nodes, which require careful assessment regarding their potential likelihood of representing metastases. Locore- gional management might cure patients with early stage II MGCT without systemic ChT for metastatic disease.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adapted with permission from Beyer et al.35and Gillessen et al.34 Published by Walters Kluwer Health, Inc. on behalf of the American Society of Clinical Oncology.
+Pre-ChT serum tumour markers should be assessed after orchiectomy and imme- diately before the administration of ChT (same day).
+AFP, a-fetoprotein; ChT, chemotherapy; hCG, human chorionic gonadotropin;
+IGCCCG, International Germ Cell Cancer Collaborative Group; LDH, lactate dehy- drogenase; OS, overall survival; PFS, progression-free survival; ULN, upper limit of normal.
+
+ 
+
+
+presence of lung metastases as well as ULN of LDH may be helpful: https://www.eortc.org/IGCCCG-Update.
+
+
+Recommendations
+Post-orchiectomy management should only be carried out by highly experienced clinicians [III, A].
+CT scan with contrast enhancement of the thorax, abdomen and pelvis is mandatory for all patients [III, A]. MRI of the CNS is indicated in poor-prognosis patients, particularly in case of choriocarcinoma/high b-hCG,
+ 
+Management of the primary tumour
+Semen analysis and sperm cryopreservation should be offered to all patients, preferably before   orchiectomy [II, B].43,44 Semen preservation is the most cost-effective strategy for fertility preservation [II, A]. Radical orchiec- tomy provides the histological diagnosis and should be car- ried out before any further treatment, unless the clinical situation requires immediate ChT in patients with elevated tumour markers and a clinical presentation of a typical germ- cell malignancy. Any testicular mass of uncertain ranking must be explored by the inguinal approach to verify or exclude malignancy. Tumour markers should be assessed before and after surgery until normalisation, progression or plateau development, since this information is used for final staging.
+Radical orchiectomy is carried out through an inguinal inci- sion [III, A]. Any scrotal violation for biopsy or open surgery should be avoided. The tumour-bearing testis is resected with the spermatic cord at the level of the internal inguinal ring.
+In experienced centres, testis-sparing surgery may be feasible in case of a small tumour, particularly in patients with synchronous bilateral testicular tumours, tumour in a solitary testis or contralateral atrophic testis. Testis-sparing surgery should only be offered together with frozen section exami- nation (FSE), which in the hands of expert pathologists is reported to be reliable and highly concordant with final his- topathology. Nevertheless, patients should be informed about the risk of completion orchiectomy in case of discor- dance between FSE and final pathology. If a GCT is diagnosed, post-resection testicular RT or completion orchiectomy is mandatory due to a high risk of GCNIS in the remaining testis [III, A]. This renders the residual testicular tissue azoospermic but may retain some testosterone production.45
+Seminoma
+Stage I. Approximately 80% of patients with seminoma pre- sent with stage I disease, with a survival rate of w99% that is independent of the chosen strategy. In light of this very high cure rate, minimising toxicities is the priority. Surveillance is
+ 
+Annals of Oncology	J. Oldenburg et al.
+
+ 
+considered the preferred strategy.46 Adjuvant RT should not be given as the risk of second malignancies is considered too high [II, A].13 Adjuvant ChT with one course of carboplatin with an area under the curve (AUC) of 7 should be discussed with patients not willing or not able to undergo surveillance or higher-risk patients, defined by the presence of one or both risk factors, i.e. tumour size and rete testis invasion [III, B].40 Two cycles of carboplatin AUC 7 yield similar good or even better results than one cycle. Based on the modest benefit of the second course of carboplatin and the limited data available, one course of carboplatin AUC 7 is recom- mended. Approximately 15%-30% of higher-risk patients develop a relapse under surveillance.46
+In the absence of high evidence and due to dissensus among the panellists, the authors refer to the ESMO consensus meeting, which yielded >90% majority for:
+not offering carboplatin to low-risk patients [III, D];
+considering carboplatin and surveillance as options for higher-risk patients;
+taking patient autonomy into the decision-making process.13
+Adjuvant carboplatin reduces but does not eliminate the risk of recurrence and even late relapses after carboplatin can occur.47,48 Relapse occurs usually in the retroperitoneal or iliac lymph nodes. Rarely, late-occurring relapses may contain non-seminoma components [IV, B].49
+Stage IIA lymph nodes 1-2 cm. Lymph nodes might be enlarged for a number of reasons and the risk of over- treatment might be reduced by either histological/cytolog- ical verification of metastasis or at minimum, an observed radiological progression over time. Treatment consists of
+ 
+either ChT according to IGCCCG recommendations or RT to para-aortic and ipsilateral iliac lymph nodes (30 Gy in 2 Gy fractions for stage IIA) [II, A] (Figure 1), without randomised trials comparing the outcomes.
+A meta-analysis of stage IIA-IIB studies found that in clinical stage IIA with lymph nodes of <2 cm in axial diameter, RT and ChT seem to be equally effective at reducing recurrence, while in clinical stage IIB, ChT was more effective.50 ChT is associated with higher acute toxicity and late cardiovascular disease, while extended- field RT seems to be associated with a higher incidence of secondary malignancies.50,51
+A number of studies aim to spare patients with semi- noma stage IIA-IIB for the toxicities induced by RT or three cycles of bleomycin, etoposide and cisplatin (BEP) or four cycles of etoposide and cisplatin (EP). Patients should be encouraged and supported to participate in ongoing clinical trials.
+
+Non-seminoma
+Stage I. Stage I non-seminoma infers excellent survival rates of 98%-100% and is categorised by the absence or presence of vascular invasion into ‘low-risk’ (12% relapse rate) or ‘high-risk’ (40%-50% relapse rate), respectively.37
+Low-risk non-seminoma stage I. Surveillance is recom- mended. For the rare patients not suited for surveillance due to difficulties with repeated imaging or low compli- ance, adjuvant ChT with one cycle of BEP (see below) or open nerve-sparing retroperitoneal lymph node dissection (RPLND) in highly experienced centres are the alternative options. Some experts consider nerve-sparing RPLND the preferred treatment of patients with somatic
+ 
+
+
+ 
+Figure 1. Standard treatment strategies for seminoma. Purple: general categories or stratification; dark green: radiotherapy; blue: systemic anticancer therapy; turquoise: combination of treatments or other systemic treatments; red: surgery; white: other aspects of management. AUC 7, area under the curve of 7; BEP, bleomycineetoposideecisplatin; EP, etoposideecisplatin; PET, positron emission tomography; RT, radiotherapy.
+aLower and higher risk based on size of primary tumour and infiltration of rete testis with lower risk defined as absence of both risk factors and higher risk as presence of one or both risk factors.
+bIn case of contradiction against bleomycin, refer to text.
+ 
+J. Oldenburg et al.	Annals of Oncology
+
+ 
+transformation in the primary tumour.52 Patients with pure teratoma in the primary tumour may not benefit from adjuvant ChT either, as an assumed benefit of primary RPLND was not identified.53 Patients with low-risk non- seminoma stage I considering adjuvant therapy should be informed about the risk of overtreatment [IV, B].
+High-risk non-seminoma stage I. Patients with vascular invasion together with the presence of embryonal carci- noma in the primary tumour have a relapse rate of w40%- 50% if followed in a surveillance program.37 Ninety-five percent of the relapses belong to the good prognosis group and 5% to the intermediate or poor prognosis groups. Patients with vascular invasion are candidates for adjuvant ChT with one cycle of BEP. The relapse rate after one cycle of BEP is <5%.54,55 In case of relapse, outcome seems to be better after adjuvant BEP compared with patients
+relapsing after metastatic disease, but worse compared with de novo metastatic patients.56 The cancer-specific survival is the same whichever option is used, but long- term toxicities of one adjuvant BEP cycle versus three to four cycles of BEP in case of relapse have to be discussed with the patient (Figure 2).54,55
+Nerve-sparing RPLND should only be considered in case of contraindications against the strategies recommended above. Some experts consider nerve-sparing RPLND the preferred treatment of patients with somatic trans- formation in the primary tumour.52
+
+Stage IIA, marker-negative. In w15%-35% of patients with clinical stage IIA, the enlarged lymph nodes do not harbour metastases. The risk of overtreatment may be reduced by the following strategies:
+ 
+Close follow-up with abdominal imaging every 6 weeks until regression or progression, resulting in observation only or treatment, respectively. Treatment may consist of primary nerve-sparing RPLND in case of a single pro- gressing lymph node, suggestive of teratoma. These potentially curative RPLNDs should only be carried out by high-volume surgeons in expert centres. Patients with multiple progressive lymph nodes and/or rising tumour markers are to be treated for MGCT according to the IGCCCG risk classification (Figure 2);
+Lymph node biopsy or primary nerve-sparing RPLND. The latter approach comprising both diagnostic and therapeu- tic potential. In case of vital GCT in the specimen, adjuvant ChT post-RPLND should be considered.57 This is a rare sit- uation in a rare cancer and studies yielding a high level of evidence are lacking. In stage I non-seminoma, adjuvant ChT was reduced from two cycles of BEP to the current standard of one cycle of BEP. Thus, the ESMO consensus panellists consider one cycle of BEP as appropriate adju- vant ChT after RPLND revealing vital GCT13;
+Completely removed pure teratoma should not trigger ChT. For treatment of biopsy-proven vital GCT, see treat- ment of MGCT according to the IGCCCG categorisation.
+
+Stage IIA-IIB, marker-positive. Treatment according to IGCCCG recommendations, see section on Management of metastatic disease.
+
+
+Recommendations
+Management of the primary tumour
+ 
+
+ 
+Figure 2. Standard treatment strategies for non-seminoma. Purple: general categories or stratification; blue: systemic anticancer therapy; turquoise: combination of treatments or other systemic treatments; red: surgery; white: other aspects of management. BEP, bleomycineetoposideecisplatin; EP, etoposideecisplatin; RPLND, retroperitoneal lymph node dissection; VIP, etoposideeifosfamideecisplatin.
+a low risk and high risk based on absence and presence of vascular invasion, respectively.
+b (RPLND) marker-negative stage IIA/IIB.
+c (Dose intensification): In selected cases, e.g. poor marker decline.
+ 
+Annals of Oncology	J. Oldenburg et al.
+
+ 
+Semen analysis and sperm cryopreservation should be offered to all patients, preferably before orchiectomy [II, B].
+Semen preservation is the most cost-effective strategy for fertility preservation [II, A].
+Radical orchiectomy is carried out through an inguinal incision [III, A].
+Testis-sparing surgery is feasible in experienced centres for selected patients [III, A].
+If a GCT is diagnosed during testis-sparing surgery, completion orchiectomy or post-resection testicular RT (if solitary testis) is mandatory due to a high risk of GCNIS in the remaining testis [III, A].
+Seminoma stage I
+Inform patients about the post-orchiectomy manage- ment options: surveillance or adjuvant carboplatin; as well as treatment-specific recurrence rates and acute and long-term side-effects [II, A].
+Explain the impact of risk factors for the risk of microme- tastases and the rationale of adjuvant carboplatin for patients with larger tumour and/or rete testis infiltration [III, B].
+Do not offer adjuvant carboplatin to patients without risk factors [III, D].
+Patient autonomy should be taken into account for selecting the post-orchiectomy management following thorough provision of the pros and cons of surveillance as opposed to one cycle of carboplatin [III, B].
+Do not offer or apply RT as an adjuvant post-orchiectomy management option [II, D].
+Seminoma stage IIA
+Minimise overtreatment by histological/cytological veri- fication of metastasis or at minimum, an observed radio- logical progression over time [III, B].
+Participation in ongoing clinical trials should be encour- aged [III, B].
+Treat patients with seminoma stage IIA with either RT (30 Gy in 2 Gy fractions) or cisplatin-based ChT (three cy- cles of BEP or four cycles of EP) according to IGCCCG rec- ommendations [II, A].
+Non-seminoma stage I
+Inform patients with stage I non-seminoma about surveillance and adjuvant ChT as post-orchiectomy management options including treatment-specific recur- rence rates as well as acute and long-term side-effects [II, A].
+Patient autonomy should be taken into account for selecting the post-orchiectomy management following thorough provision of the pros and cons of surveillance as opposed to one cycle of adjuvant BEP [III, B].
+●	RPLND is not recommended [II, D].
+Non-seminoma stage IIA marker-negative
+Careful assessment is recommended to avoid overtreat- ment as w15%-35% of clinical stage IIA patients do not harbour metastases in the enlarged lymph nodes [II, A].
+ 
+Non-seminoma stage IIA-IIB marker-positive
+Treat patients with marker-positive non-seminoma stage IIA-IIB according to IGCCCG recommendations, e.g. three cycles of BEP or four cycles of EP if contraindications against bleomycin in good-risk patients [II, A].
+
+MANAGEMENT OF METASTATIC DISEASE
+First-line treatment
+Seminoma stage II-III. Whereas patients with limited retroperitoneal lymph node metastases only, i.e. stage IIA, may be managed by RT, treatment of more advanced seminoma consists principally of ChT according to the IGCCCG classification for advanced/metastatic disease.33-35 Three cycles of BEP represents the standard therapy for seminoma patients categorised as good prognosis and four cycles of BEP for intermediate prognosis (see updated IGCCCG classification).33-35
+If there are contraindications against bleomycin, e.g. reduction in lung capacity (diffusing capacity of lung for carbon monoxide score), emphysema or heavy smoking (including former smokers), four cycles of EP are recom- mended in good-prognosis patients and four cycles of etoposide, ifosfamide and cisplatin (VIP) in intermediate- prognosis patients (Figure 1).58,59 Only patients unfit for cisplatin-based ChT should be treated with carboplatin- based ChT (carboplatin, etoposide and bleomycin), which is inferior to BEP.60 Inadequate renal function due to compression of one or both ureters requires nephrostomy and may impact on the application of cisplatin and bleo- mycin. Furthermore, renal function should be continuously followed and the regeneration of adequate renal function should prompt application of cisplatin-based ChT for the remaining cycles, if relevant.
+Seminoma post-ChT management. Patients with com- plete response after ChT do not require further treatment and are candidates for follow-up [II, A]. In case of residual tumour >3 cm, an FDG-PET scan at least 6 weeks after completion of ChT is recommended [III, B].
+Based on the negative predictive value >90%, negative PET lesions require no further management and these pa- tients can be followed routinely by repeated imaging.
+Seventy-five percent of positive PET scans are falsely posi- tive, i.e. no vital seminoma present, such that a biopsy is recommended before RT or resection.61 Perioperative complications, however, are more common in seminoma than in non-seminoma due to desmoplastic reactions of ChT-exposed seminoma metastases.61 Alternatively, further follow-up is recommended with biopsy before treatment in case of repeated positivity or growth of the lesion.61
+Metastatic non-seminoma stage IIA marker-positive and stage IIB-III. Patients with IGCCCG good prognosis should receive three cycles of BEP or four cycles of EP, if contra- indications against bleomycin exist [II, A]. Four cycles of BEP represent the standard treatment of patients with inter- mediate or poor prognosis [I, A].33-35 In case of
+ 
+J. Oldenburg et al.	Annals of Oncology
+
+ 
+contraindications against bleomycin, four cycles of VIP with granulocyte colony-stimulating factor (G-CSF) support are used.
+A European Organisation for Research and Treatment of Cancer (EORTC) study randomising poor-risk patients to either four cycles of BEP or high-dose (HD) VIP therapy achieved a significant PFS but no OS benefit.62 The GETUG 13 study used a more individualised approach and identified 80% of poor-risk non-seminoma patients (203 of 254) to have unfavourable marker decline after the first cycle of BEP.58 These patients were randomised to either continue with standard BEP or to shift to a dose-dense regimen (continuous bleomycin infusions over 5 days with additional paclitaxel, ifosfamide and oxaliplatin, with G-CSF support), which demonstrated a significantly improved 3-year PFS of 59% versus 48% [hazard ratio (HR) 0.66, 95% CI 0.44-1.00]. The trend to improved OS did not reach statistical significance (HR 0.78, 95% CI 0.46-1.31). The dose-dense regimen caused relevant neurotoxicity and haematotoxicity but did not show an increase in grade 1-2 febrile neutropaenia or toxic deaths. The 3-year PFS of patients undergoing four cycles of BEP was 70% versus 48%, HR 0.66 for those with favourable
+versus unfavourable marker decline, respectively.
+Marker decline can be undertaken using an online calculation tool:
+https://www.gustaveroussy.fr/calculation-tumour/NSGCT. html.
+AFP and b-hCG decline should be assessed after the first
+cycle of BEP in poor-risk non-seminoma patients and pa- tients with poor decline should be considered for treatment intensification in a high-volume expert centre [II, A].
+Similarly, non-seminoma patients with CNS metastases or primary mediastinal tumours should always be treated at high-volume expert centres [II, A].
+Poor-prognosis patients with significantly symptomatic disease, including extensive metastatic lung and/or liver involvement, have a significant risk of toxicity with standard
+ 
+reported, e.g. 3.5 cm and 5 cm), as well as Khorana score 3 and most importantly, indwelling vascular access device
+(VAD) as TEE risk factors [III, A].66
+Data regarding the efficacy of thromboprophylaxis are conﬂicting67; however, the proportion of GCT patients developing a deep vein thrombosis was nearly halved by low molecular weight heparin (LMWH) prophylaxis to 9 out of 97 (9.2%) as compared with 9 out of 54 (16.6%) patients undergoing ChT without LMWH, although not statistically significant. With the exception from one patient with intratumour haemorrhage due to progressive brain metas- tases, no serious adverse events were observed in patients treated with preventive LMWH.
+Despite lacking level I evidence, TEE prevention should be considered in GCT patients receiving cisplatin-based ChT for metastatic disease. The benefit of this preventive treatment is expected to be most pronounced in patients with retro- peritoneal lymph nodes >3.5 cm and those with stage III or poor-risk features.66,68 VADs should be avoided whenever possible.69
+
+Non-seminoma post-ChT management
+In case of complete response, no further treatment is necessary. Residual lymph nodes >1 cm in axial diameter should be removed preferentially by open nerve-sparing RPLND [II, A].70 Laparoscopic or robotic post-ChT RPLND should preferably be carried out within clinical studies and otherwise only for select patients with low-volume disease at highly experienced centres.71
+Patients with complete resection of differentiated tera- toma or fibrotic tissue require no further treatment. Pa- tients with completely resected viable malignant tumour, comprising <10% of the specimen, do not benefit from adjuvant ChT [IV, C].72 In patients with IGCCCG intermediate or poor prognosis, >10% viable tumour in the specimen and/or incomplete resection, consolidation ChT, e.g. two
+cycles of VIP, may be considered, although surveillance
+ 
+BEP ChT.63 A first cycle with adapted cisplatin and etoposide
+doses should be considered.63 In that case, the full number
+ 
+appears justified as well.
+ 
+72,73
+ 
+of cycles should be applied after this induction cycle and orchidectomy may be carried out after finishing first-line ChT. In order to reduce intercycle treatment delay and to avoid dose reduction due to neutropaenia, prophylactic G- CSF should be considered to maintain the dose intensity in patients with intermediate and poor prognosis and in particular when using the VIP regimen.33
+Prevention of thromboembolic events
+Thromboembolic events (TEEs) occur more frequently in GCT patients receiving ChT than in young males under ChT for other cancers.64 In Denmark, comparison of TEE inci- dence between 5185 GCT patients and 51 850 men without GCT revealed that GCT patients undergoing BEP ChT had significantly more TEEs within the first year with HRs of 6.3,
+6.0 and 24.7 for myocardial infarction, cerebrovascular accident and venous thromboembolism, respectively.65 Several retrospective studies identified increasing stage and size of retroperitoneal lymph nodes (different cut-offs
+ 
+Patients with multiple visceral metastases should always
+be evaluated at expert centres for the possibility of radical resection, even in case of plateauing tumour markers [II, A]. Patients with rising tumour markers indicative of progres- sive disease usually require salvage ChT. The post-ChT management of multisite residual disease without elevated tumour markers should be carried out by highly specialised multidisciplinary teams.
+
+Salvage treatment
+Salvage can be achieved with HD-ChT or standard-dose cisplatin-based regimens such as cisplatin, ifosfamide and paclitaxel (TIP), VIP or cisplatin, ifosfamide and vinblastine (Figure 2).74,75 Several major retrospective series with multicycle HD-ChT showed that this could be the preferred treatment option. The International Prognostic Factor Study Group (IPFSG) categorised GCT patients relapsing after first- line ChT into five prognostic groups, with 2-year survival rates ranging from 75% (very low risk) to 6% (very high risk)
+ 
+Annals of Oncology	J. Oldenburg et al.
+
+ 
+[IV, C].76 Superior survival rates after HD-ChT compared with standard-dose ChT demonstrated a 10% survival benefit in nearly all prognostic subgroups.76 A randomised trial of intensification with a single course of HD-ChT after response to three versus four cycles of VIP, however, did not confer a survival advantage.77 The ongoing TIGER study randomising first-line relapsing patients to either four cycles of TIP or one mobilising course of paclitaxel-ifosfamide followed by three HD-ChT cycles will yield level I evi- dence. Until this is achieved, the evidence from the admittedly large IPFSG meta-analyses supporting HD-ChT as potentially superior to conventional ChT is not sufficient for its recommendation as first-salvage regimen.
+HD-ChT should be employed in third-line therapy, if not already used earlier, and might still cure selected patients in this setting [II, A].74 Experience with HD-ChT and the
+ 
+FDG-PET scan at least 6 weeks after completion of ChT is recommended for residual tumours >3 cm [III, B].
+Metastatic non-seminoma stage IIA marker-positive and
+stage IIB-III
+IGCCCG good-prognosis patients should receive three cy- cles of BEP or four cycles of EP, if contraindications against bleomycin exist four cycles of VIP with G-CSF sup- port are used [II, A].
+AFP and b-hCG decline should be assessed after the first
+cycle of BEP in poor-risk non-seminoma patients for treat- ment intensification at high-volume expert centres [II, A]. Non-seminoma patients with CNS metastases or primary mediastinal tumours should always be treated at high- volume expert centres [II, A].
+Prevention of TEEs
+●	Prophylaxis of TEEs should be considered in MGCT pa-
+ 
+accompanying side-effects require management by highly experienced GCT oncologists.
+In patients with relapse after salvage HD-ChT or with cisplatin-refractory disease, cure is infrequently achieved. The combination of gemcitabine and oxaliplatin (plus paclitaxel if not used in earlier lines) achieved remission response rates of up to 40% and if responding patients become resectable, long-term survival is reached in about 10%-15% of these patients.78
+Surgery should be part of the salvage strategy whenever possible, particularly in those patients with localised or late relapse, and with poor response to ChT. Multimodal ap- proaches are especially important for management of rare localisations of metastases, e.g. the brain.79 Principally, all ablative therapies, including stereotactic RT and radio- frequency ablation, should be considered within a multi- disciplinary approach with an expert centre.
+
+Late relapse
+A late relapse is defined as re-occurrence of tumour >2 years after complete response to at least three cycles of ChT. Late relapses occur in 2%-3% of patients and often comprise yolk-sac tumour or slow-growing teratoma [IV, C].49 Radical surgical resection of all lesions, if feasible, is
+the recommended approach in marker-negative patients. ChT must be individualised based on the histology of the late relapse and tumour marker development. If salvage ChT is the first late-relapse treatment, radical post-ChT surgery should be conducted whenever possible.
+
+Recommendations
+Seminoma stage II-III
+Cisplatin-based ChT according to the IGCCCG classifica- tion is standard for seminoma stage IIB-IIC and III [II, A]. Patients with stage IIB seminoma unsuitable for ChT should receive para-aortic and ipsilateral iliac field RT up to 36 Gy in 2 Gy fractions [II, A].
+Seminoma post-ChT management
+●	Patients with complete response after ChT do not
+ 
+tients for the ChT duration, especially when presenting
+with one or more of the established risk factors: retro- peritoneal lymph nodes >3.5 cm, stage III disease, cen- tral venous access catheter, intermediate or poor-risk features or immobilisation [III, B].
+Peripheral venous access should be used instead of an indwelling VAD [III, A].
+Non-seminoma post ChT management
+Residual lymph nodes >1 cm in axial diameter should be surgically removed preferentially by open nerve-sparing RPLND [II, A].
+Patients with multiple visceral metastases should always be evaluated at expert centres [II, A].
+Salvage treatment
+Second-line conventional dose ChT (e.g. TIP) at a specialist centre is recommended [II, A].
+HD-ChT might cure selected patients in third or later line [II, A].
+Surgery is an important part of the salvage strategy [III, A].
+Late relapse
+The 2%-3% of patients developing a late relapse should be managed in expert centres only [II, A].
+ChT should be based on the histology of the late relapse and tumour marker development [II, A].
+Surgery should be an integral part of curative treatment [II, A].
+
+
+
+PERSONALISED MEDICINE
+TGCTs are known for significant intra-tumoural and inter- tumoural heterogeneity which has made innovative research challenging. Moreover, as a result of the excellent prognosis in TGCTs, research in uro-oncology has drifted away from testis cancer and high-throughput research has not been tested or applied to GCTs.
+Therefore, there are numerous challenges and pitfalls in testis cancer care for how a reliable set of biomarkers could be useful to help80:
+ 
+require further treatment [II, A].
+ 
+●	Diagnose TGCTs (either seminoma or non-seminoma);
+ 
+370	https://doi.org/10.1016/j.annonc.2022.01.002	Volume 33 ■ Issue 4 ■ 2022
+ 
+J. Oldenburg et al.	Annals of Oncology
+
+ 
+Identify clinical stage I patients benefitting from adjuvant treatment after orchiectomy, i.e. identification of micrometastases;
+Monitor ChT response and guide possible treatment (de) escalation;
+Predict histology of post-ChT residual lesions;
+Identify platinum-refractory disease and select better treatment options.
+
+Serum miRNA showed promising clinical applicability: miR-371a-3p expression was associated with clinical stage, primary lesion size and burden and could differentiate seminoma from non-seminoma lesions.81-86 Further, miR-371a-3p correlates with ChT response and the presence of active germ-cell malignancy in surgical specimens in post- ChT RPLND patients.83,87-89 Nevertheless, miR-371a-3p is not expressed by mature teratoma lesions. Ongoing multi- institutional prospective studies aim to validate miRNA as a clinical biomarker.
+Management of metastatic refractory and platinum- resistant germ-cell cancers is challenging. The extraordinary histological and biological heterogeneity of TGCTs poses an obstacle for uniform treatment recommendation as well as biomarker research required for more individually tailored treatment.90 So far, gemcitabine, oxaliplatin and paclitaxel followed by surgical resection has been considered the standard treatment, however, with poor outcomes.78,91
+Phase I-II trials with tyrosine kinase inhibitors, anti- angiogenic agents, cyclin-dependent kinase inhibitors, antibody-drug conjugates, immune checkpoint inhibitors and poly (adenosine diphosphate-ribose) polymerase (PARP) in- hibitors failed to achieve significant clinical responsesdbut were not based on molecular treatment selection.90,92
+Palbociclib (or other cyclin-dependent kinase 4 and 6 inhibitors) postponed progression in patients with unre- sectable, growing teratoma, by median 23 weeks with acceptable toxicity in a small phase II trial.93
+Treatment-resistant TGCTs are found to harbour genomic alterations of the Ras and PI3K/AKT/mTOR pathways and alterations in p53-MDM2 axis.94,95 Unveiling specific alter- ations might guide clinical research to identify therapeutic targets, select patients and provide tailored therapies aim- ing for clinically meaningful responses.
+Poor-risk as well as relapsed TGCT patients should always be referred to high-volume centres with GCT experts.
+
+Recommendation
+Serum miRNA shows promising clinical applicability but cannot be recommended yet in routine clinical care [III, D].
+
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND SURVIVORSHIP
+The high cure rates of the usually young TGCT patients render late effects and long-term sequelae a particular concern. During follow-up of TGCT survivors, the gradual shift from relapse detection to identification of late effects
+ 
+and promotion of a healthy lifestyle is greatly supported by survivorship plans.
+
+Follow-up
+The main aim of the initial follow-up is the timely diagnosis of recurrent disease to ensure the possibility of curative treatment.73 Many published follow-up recommendations might expose TGCT survivors to unnecessary radiation, which is of concern with its inherent risk of carcinogenesis. Most guidelines have subsequently reduced the number of CT scans. One recent randomised trial and one prospective trial of MRI in stage I seminoma have indicated that MRI is equivalent to CT in the detection of recurrent disease in the abdomen [I, A].96,97
+Recommendations for the follow-up schedule need to be adapted according to national and institutional re- quirements which can be found   in   Supplementary Table S1, available at https://doi.org/10.1016/j.annonc. 2022.01.002.
+
+Long-term and late effects
+The most serious late effects after treatment of GCT are cardiovascular disease and secondary cancers, which typi- cally evolve many years after treatment. Cisplatin-based ChT is associated with increased risk for metabolic syn- drome and cardiovascular disease, and might accelerate the cardiovascular ageing process. The risk of developing a secondary non-germ-cell cancer malignancy is increased after RT or ChT for GCT. Importantly, counselling with regard to maintaining a healthy lifestyle to reduce the risk of these serious late effects is important.98
+All GCT survivors are at long-term risk of hypogonadism, in particular after treatment for metastatic disease. Testosterone replacement therapy should only be offered to testicular cancer survivors with testosterone levels below the normal range and clinical symptoms of hypogonadism [III, B].13
+Fatigue is a distressing and common symptom among GCT survivors. For men who present with moderate or se- vere fatigue, an adequate assessment should be carried out.99
+
+Survivorship care plan
+During follow-up of TGCT patients, there is a gradual shift of focus from detection of tumour recurrence to identification of late effects of treatment and promotion of general health in TGCT survivors.100 Patients are to be encouraged to maintain a healthy lifestyle to reduce the risk of serious late effects such as secondary cancers and cardiovascular dis- ease. Every cancer patient should have an informative end- of-treatment summary at completion of the treatment, together with a survivorship care plan. A survivorship care plan can be implemented in addition to the routine onco- logical follow-up or when the routine follow-up with the oncologist is terminated and taken over by another healthcare giver including cardiovascular risk management.
+ 
+
+Volume 33 ■ Issue 4 ■ 2022	https://doi.org/10.1016/j.annonc.2022.01.002	371
+ 
+Annals of Oncology	J. Oldenburg et al.
+
+ 
+Currently, the distribution of survivorship plans is recom- mended in a number of European countries.
+
+Recommendations
+GCT survivors should be followed with regular hormonal assessments regarding their long-term risk of hypo- gonadism [II, A].
+Testosterone replacement therapy should only be offered to testicular cancer survivors with testosterone levels below the normal range and clinical symptoms of hypogonadism [III, B].
+A healthy lifestyle should be encouraged for better well- being and minimisation of cardiovascular disease and secondary cancers, which are the most serious long- term toxicities [II, A].
+
+
+METHODOLOGY
+This Clinical Practice Guideline has been developed by ESMO in partnership with EURACAN, the European Refer- ence Network for rare adult solid cancers, in accordance with the ESMO standard operating procedures for Clinical Practice Guidelines development (http://www.esmo.org/ Guidelines/ESMO-Guidelines-Methodology). The relevant literature has been selected by the expert authors.
+The guideline is conceived to provide a standard approach to diagnosis, treatment and survivorship of testicular cancer. Recommended interventions are intended to correspond to the ‘standard’ approaches, according to current consensus among the European multidisciplinary testicular cancer community of experts. These are represented by the mem- bers of the ESMO Genitourinary Faculty and experts appointed by all institutions belonging to the genitourinary domain of EURACAN. Experimental interventions considered to be beneficial are labelled as ‘investigational’. Other non- standard approaches may be proposed to the single patient as ‘options’ for a shared patient-physician decision in condi- tions of uncertainty, as long as some supporting evidence (though not conclusive) is available. Algorithms accompany the text, covering the main typical presentations of disease, and are meant to guide the user throughout the text. Levels of evidence and grades of recommendation have been applied using the system shown in Supplementary Table S2, available at https://doi.org/10.1016/j.annonc.2022.01.002.101 Statements without grading were considered justified stan- dard clinical practice by the authors.
+ACKNOWLEDGEMENTS
+Manuscript editing support was provided by Louise Green and Jennifer Lamarre (ESMO Staff).
+
+FUNDING
+No external funding has been received for the preparation of this guideline. Production costs have been covered by ESMO from central funds.
+ 
+DISCLOSURE
+JO received honoraria for advisory boards for Bristol Myers Squibb (BMS), Merck Sharp & Dohme (MSD), Pfizer, Roche, Astellas, AstraZeneca, Bayer, Ipsen and Janssen-Cilag and undertaken institutional research as coordinating project lead for BMS, MSD and Sanofi; DMB received institutional research grants from Orchid and PCUK; CB received hono- raria for advisory boards for Merck Serono, Bayer Health Care, Sanofi Aventis, AstraZeneca, MSD, BMS, GSO Research Organisation, Janssen-Cilag, Berlin-Chemie and Novartis and invited speaker fees from Roche Pharma, AOK Germany and med update europe; MAC received honoraria for advisory boards and invited speaker fees for Roche, BMS, EUSA, Pfizer, Sanofi, Janssen, Astellas, Merck, Ipsen and MSD and as a representative for the Spanish Germinal Tumours Group; GD received honoraria for advisory boards for Jans- sen, Astellas, Bayer, MSD, BMS and reports institutional research roles as coordinating project lead for BMS, Roche and MSD; JAG received institutional research grants from Roche, Siemens and AbbVie; UDeG received honoraria for advisory boards for Pfizer, BMS, MSD, PharmaMar, Astellas, Bayer, Ipsen, Novartis, invited speaker fees for Roche, BMS, Sanofi, AstraZeneca and institutional research grants from AstraZeneca, Sanofi and Roche; RH received honoraria for advisory boards for Roche, Nektar Therapeutics, BMS, MSD, Astellas, expert testimony from National Institute of Clinical Excellence, other honoraria from the Cancer Centre London, institutional royalties from Janssen, institutional research grants from MSD, Roche and local project lead patient funding from Janssen, MSD, Nektar Therapeutics, Basilea Pharmaceutica, Astellas and Cancer Research UK; RL received honoraria for advisory board for MSD and Janssen and resources training support from Astellas and MSD; AS received honoraria for invited speaker fees from Pfizer and leadership role for the International Cancer Imaging Society; SG received personal honoraria for participation in advisory boards for Sanofi, Orion, Roche, Amgen, MSD and Aranda, other honoraria from RSI (Televisione Svizzera Italiana), invited speaker for ESMO, Swiss Group for Clinical Cancer Research (SAKK), Swiss Academy of Multidisciplinary Oncology (SAMO), China Anti-Cancer Association Genito- urinary Oncology Committee (CACA-GU), ORIKATA Academy research group and, speaker’s bureau for Janssen Cilag, travel grant from ProteoMEdiX, institutional honoraria for advisory boards for Bayer, Janssen Cilag, Roche, AAA Inter- national including Independent Data Monitoring Committee and Steering Committee member for Amgen, Menarini Sili- con Biosystems, Astellas Pharma, Tolero Pharmaceuticals, MSD, Pfizer, Telixpharma, BMS and Orion, patent royalties and other intellectual property for a research method for biomarker WO2009138392; TP received research funding from Merck Serono, MSD, Roche, BMS, AstraZeneca, Astel- las, Novartis, Johnson & Johnson, Seattle Genetics, Pfizer, Exelixis and Eisai and honoraria from Merck Serono, MSD, Roche, BMS, AstraZeneca, Astellas, Novartis, Johnson & Johnson, Seattle Genetics, Pfizer, Exelixis and Eisai. HSH has declared no conﬂicts of interest.
+ 
+J. Oldenburg et al.	Annals of Oncology
+
+ 
+REFERENCES
+1.	Sung H, Ferlay J, Siegel RL, et al. Global cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2021;71(3):209-249.
+2.	Znaor A, Skakkebaek NE, Rajpert-De Meyts E, et al. Testicular cancer incidence predictions in Europe 2010-2035: a rising burden despite population ageing. Int J Cancer. 2020;147(3):820-828.
+3.	Skakkebaek NE, Rajpert-De Meyts E, Buck Louis GM, et al. Male reproductive disorders and fertility trends: inﬂuences of environment and genetic susceptibility. Physiol Rev. 2016;96(1):55-97.
+4.	Rajpert-De Meyts E, McGlynn KA, Okamoto K, et al. Testicular germ cell tumours. Lancet. 2016;387(10029):1762-1774.
+5.	Del Risco Kollerud R, Ruud E, Haugnes HS, et al. Family history of cancer and risk of paediatric and young adult’s testicular cancer: a Norwegian cohort study. Br J Cancer. 2019;120(10):1007-1014.
+6.	Wang Z, McGlynn KA, Rajpert-De Meyts E, et al. Meta-analysis of five genome-wide association studies identifies multiple new loci associated with testicular germ cell tumor. Nat Genet. 2017;49(7): 1141-1147.
+7.	Loveday C, Law P, Litchfield K, et al. Large-scale analysis demonstrates familial testicular cancer to have polygenic aetiology. Eur Urol. 2018;74(3):248-252.
+8.	AlDubayan SH, Pyle LC, Gamulin M, et al. Association of inherited pathogenic variants in checkpoint kinase 2 (CHEK2) with suscepti- bility to testicular germ cell tumors. JAMA Oncol. 2019;5(4):514-522.
+9.	Andreassen KE, Grotmol T, Cvancarova MS, et al. Risk of metachro- nous contralateral testicular germ cell tumors: a population-based study of 7,102 Norwegian patients (1953e2007). Int J Cancer. 2011;129(12):2867-2874.
+10.	Hemminki K, Liu H, Sundquist J. Second cancers after testicular cancer diagnosed after 1980 in Sweden. Ann Oncol. 2010;21(7):1546-1551.
+11.	Germa-Lluch JR, Garcia del Muro X, Maroto P, et al. Clinical pattern and therapeutic results achieved in 1490 patients with germ-cell tumours of the testis: the experience of the Spanish Germ-Cell Cancer Group (GG). Eur Urol. 2002;42(6):553-562. discussion 562-553.
+12.	Baird DC, Meyers GJ, Hu JS. Testicular cancer: diagnosis and treat- ment. Am Fam Physician. 2018;97(4):261-268.
+13.	Honecker F, Aparicio J, Berney D, et al. ESMO Consensus Conference on testicular germ cell cancer: diagnosis, treatment and follow-up. Ann Oncol. 2018;29(8):1658-1686.
+14.	Auer T, De Zordo T, Dejaco C, et al. Value of multiparametric US in the assessment of intratesticular lesions. Radiology. 2017;285(2): 640-649.
+15.	Stephenson A, Eggener SE, Bass EB, et al. Diagnosis and treatment of early stage testicular cancer: AUA guideline. J Urol. 2019;202(2): 272-281.
+16.	Laguna MP, Albers P, Algaba F, et al. EAU Guidelines on testicular cancer EAU guidelines 2020. Available at https://uroweb.org/ guideline/testicular-cancer. Accessed January 25, 2022.
+17.	Richie JP, Birnholz J, Garnick MB. Ultrasonography as a diagnostic adjunct for the evaluation of masses in the scrotum. Surg Gynecol Obstet. 1982;154(5):695-698.
+18.	Angulo JC, Gonzalez J, Rodriguez N, et al. Clinicopathological study of regressed testicular tumors (apparent extragonadal germ cell neo- plasms). J Urol. 2009;182(5):2303-2310.
+19.	Scandura G, Verrill C, Protheroe A, et al. Incidentally detected testicular lesions <10 mm in diameter: can orchidectomy be avoi- ded? BJU Int. 2018;121(4):575-582.
+20.	Tsili AC, Bertolotto M, Turgut AT, et al. MRI of the scrotum: recom- mendations of the ESUR scrotal and penile imaging working group. Eur Radiol. 2018;28(1):31-43.
+21.	Gilligan TD, Seidenfeld J, Basch EM, et al. American Society of Clinical Oncology Clinical Practice Guideline on uses of serum tumor markers in adult males with germ cell tumors. J Clin Oncol. 2010;28(20): 3388-3404.
+22.	Barlow LJ, Badalato GM, McKiernan JM. Serum tumor markers in the evaluation of male germ cell tumors. Nat Rev Urol. 2010;7(11):610-617.
+23.	 
+Shamash J, Ansell W, Alifrangis C, et al. The impact of a supranetwork multidisciplinary team (SMDT) on decision-making in testicular can- cers: a 10-year overview of the Anglian Germ Cell Cancer Collabo- rative Group (AGCCCG). Br J Cancer. 2021;124(2):368-374.
+24.	Delaney RJ, Sayers CD, Walker MA, et al. The continued value of central histopathological review of testicular tumours. Histopatholo- gy. 2005;47(2):166-169.
+25.	Purshouse K, Watson RA, Church DN, et al. Value of supraregional multidisciplinary review for the contemporary management of testicular tumors. Clin Genitourin Cancer. 2017;15(1):152-156.
+26.	Williamson SR, Delahunt B, Magi-Galluzzi C, et al. The World Health Organization 2016 classification of testicular germ cell tumours: a review and update from the International Society of Urological Pathology Testis Consultation Panel. Histopathology. 2017;70(3): 335-346.
+27.	Berney DM, Looijenga LH, Idrees M, et al. Germ cell neoplasia in situ (GCNIS): evolution of the current nomenclature for testicular pre- invasive germ cell malignancy. Histopathology. 2016;69(1):7-10.
+28.	WHO Classification of Tumours Editorial Board. Genitourinary Tu- mours. 5th ed. Lyon (France): International Agency for Research on Cancer; 2021.
+29.	Gupta M, Cheaib JG, Patel HD, et al. Diagnosis and management of intratubular germ cell neoplasia in situ: a systematic review. J Urol. 2020;204(1):33-41.
+30.	Kristianslund S, Fossa SD, Kjellevold K. Bilateral malignant testicular germ cell cancer. Br J Urol. 1986;58(1):60-63.
+31.	Oldenburg J. Hypogonadism and fertility issues following primary treatment for testicular cancer. Urol Oncol. 2015;33(9):407-412.
+32.	Hellesnes R, Myklebust TÅ, Bremnes RM, et al. Metachronous contralateral testicular cancer in the cisplatin era: a population-based cohort study. J Clin Oncol. 2021;39(4):308-318.
+33.	International Germ Cell Consensus Classification: a prognostic factor- based staging system for metastatic germ cell cancers. International Germ Cell Cancer Collaborative Group. J Clin Oncol. 1997;15(2): 594-603.
+34.	Gillessen S, Sauve N, Collette L, et al. Predicting outcomes in men with metastatic nonseminomatous germ cell tumors (NSGCT): results from the IGCCCG update consortium. J Clin Oncol. 2021;39(14): 1563-1574.
+35.	Beyer J, Collette L, Sauve N, et al. Survival and new prognosticators in metastatic seminoma: results from the IGCCCG-update consortium. J Clin Oncol. 2021;39(14):1553-1562.
+36.	Delahunt B, Egevad L, Samaratunga H, et al. UICC drops the ball in the 8th edition TNM staging of urological cancers. Histopathology. 2017;71(1):5-11.
+37.	Daugaard G, Gundgaard MG, Mortensen MS, et al. Surveillance for stage I nonseminoma testicular cancer: outcomes and long-term follow-up in a population-based cohort. J Clin Oncol. 2014;32(34): 3817-3823.
+38.	Aparicio J, Germà JR, García del Muro X, et al. Risk-adapted man- agement for patients with clinical stage I seminoma: the Second Spanish Germ Cell Cancer Cooperative Group study. J Clin Oncol. 2005;23(34):8717-8723.
+39.	Aparicio J, Maroto P, García del Muro X, et al. Prognostic factors for relapse in stage I seminoma: a new nomogram derived from three consecutive, risk-adapted studies from the Spanish Germ Cell Cancer Group (SGCCG). Ann Oncol. 2014;25(11):2173-2178.
+40.	Tandstad T, Ståhl O, Dahl O, et al. Treatment of stage I seminoma, with one course of adjuvant carboplatin or surveillance, risk-adapted recommendations implementing patient autonomy: a report from the Swedish and Norwegian Testicular Cancer Group (SWENOTECA). Ann Oncol. 2016;27(7):1299-1304.
+41.	Boormans JL, Mayor de Castro J, Marconi L, et al. Testicular tumour size and rete testis invasion as prognostic factors for the risk of relapse of clinical stage I seminoma testis patients under surveillance: a systematic review by the testicular cancer guidelines panel. Eur Urol. 2018;73(3):394-405.
+42.	Kier MG, Lauritsen J, Mortensen MS, et al. Prognostic factors and treatment results after bleomycin, etoposide, and cisplatin in germ
+ 
+Annals of Oncology	J. Oldenburg et al.
+
+ 
+cell cancer: a population-based study. Eur Urol. 2017;71(2):290- 298.
+43.	de Wit M, Brenner W, Hartmann M, et al. [18F]-FDG-PET in clinical stage I/II non-seminomatous germ cell tumours: results of the German multicentre trial. Ann Oncol. 2008;19(9):1619-1623.
+44.	Huddart RA, O’Doherty MJ, Padhani A, et al. 18ﬂuorodeoxyglucose positron emission tomography in the prediction of relapse in patients with high-risk, clinical stage I nonseminomatous germ cell tumors: preliminary report of MRC Trial TE22–the NCRI Testis Tumour Clinical Study Group. J Clin Oncol. 2007;25(21):3090-3095.
+45.	Heidenreich A, Paffenholz P, Nestler T, et al. European association of urology guidelines on testis cancer: important take home messages. Eur Urol Focus. 2019;5(5):742-744.
+46.	Mortensen MS, Lauritsen J, Gundgaard MG, et al. A nationwide cohort study of stage I seminoma patients followed on a surveillance program. Eur Urol. 2014;66(6):1172-1178.
+47.	Oliver RT, Mead GM, Rustin GJ, et al. Randomized trial of carboplatin versus radiotherapy for stage I seminoma: mature results on relapse and contralateral testis cancer rates in MRC TE19/EORTC 30982 study (ISRCTN27163214). J Clin Oncol. 2011;29(8):957-962.
+48.	Fischer S, Tandstad T, Wheater M, et al. Outcome of men with relapse after adjuvant carboplatin for clinical stage I seminoma. J Clin Oncol. 2017;35(2):194-200.
+49.	Oldenburg J, Alfsen GC, Waehre H, et al. Late recurrences of germ cell malignancies: a population-based experience over three decades. Br J Cancer. 2006;94(6):820-827.
+50.	Giannatempo P, Greco T, Mariani L, et al. Radiotherapy or chemo- therapy for clinical stage IIA and IIB seminoma: a systematic review and meta-analysis of patient outcomes. Ann Oncol. 2015;26(4):657-668.
+51.	von Amsberg G, Hamilton R, Papachristofilou A. Clinical stage IIA-IIC seminoma: radiation therapy versus systemic chemotherapy versus retroperitoneal lymph node dissection. Oncol Res Treat. 2018;41(6): 360-363.
+52.	Giannatempo P, Pond GR, Sonpavde G, et al. Treatment and clinical out- comes of patients with teratoma with somatic-type malignant trans- formation: an international collaboration. J Urol. 2016;196(1):95-100.
+53.	Hajiran A, Azizi M, Aydin AM, et al. Retroperitoneal lymph node dissection versus surveillance for adult early stage pure testicular tera- toma: a nationwide analysis. Ann Surg Oncol. 2021;28(7):3648-3655.
+54.	Cullen M, Huddart R, Joffe J, et al. The 111 study: a single-arm, phase 3 trial evaluating one cycle of bleomycin, etoposide, and cisplatin as adjuvant chemotherapy in high-risk, stage 1 nonseminomatous or combined germ cell tumours of the testis. Eur Urol. 2020;77(3):344-351.
+55.	Tandstad T, Stahl O, Hakansson U, et al. One course of adjuvant BEP in clinical stage I nonseminoma mature and expanded results from the SWENOTECA group. Ann Oncol. 2014;25(11):2167-2172.
+56.	Fischer S, Tandstad T, Cohn-Cedermark G, et al. Outcome of men with relapses after adjuvant bleomycin, etoposide, and cisplatin for clinical stage I nonseminoma. J Clin Oncol. 2020;38(12):1322-1331.
+57.	Weissbach L, Bussar-Maatz R, Flechtner H, et al. RPLND or primary chemotherapy in clinical stage IIA/B nonseminomatous germ cell tumors? Results of a prospective multicenter trial including quality of life assessment. Eur Urol. 2000;37(5):582-594.
+58.	Fizazi K, Pagliaro L, LaPlanche A, et al. Personalised chemotherapy based on tumour marker decline in poor prognosis germ-cell tumours (GETUG 13): a phase 3, multicentre, randomised trial. Lancet Oncol. 2014;15(13):1442-1450.
+59.	de Wit R, Stoter G, Sleijfer DT, et al. Four cycles of BEP vs four cycles of VIP in patients with intermediate-prognosis metastatic testicular non-seminoma: a randomized study of the EORTC Genitourinary Tract Cancer Cooperative Group. European Organization for Research and Treatment of Cancer. Br J Cancer. 1998;78(6):828-832.
+60.	Horwich A, Sleijfer DT, Fosså SD, et al. Randomized trial of bleomycin, etoposide, and cisplatin compared with bleomycin, etoposide, and carboplatin in good-prognosis metastatic nonseminomatous germ cell cancer: a Multiinstitutional Medical Research Council/European Organization for Research and Treatment of Cancer Trial. J Clin Oncol. 1997;15(5):1844-1852.
+61.	 
+Cathomas R, Klingbiel D, Bernard B, et al. Questioning the value of ﬂuorodeoxyglucose positron emission tomography for residual le- sions after chemotherapy for metastatic seminoma: results of an international global germ cell cancer group registry. J Clin Oncol. 2018:3381-3387.
+62.	Daugaard G, Skoneczna I, Aass N, et al. A randomized phase III study comparing standard dose BEP with sequential high-dose cisplatin, etoposide, and ifosfamide (VIP) plus stem-cell support in males with poor-prognosis germ-cell cancer. An intergroup study of EORTC, GTCSG, and Grupo Germinal (EORTC 30974). Ann Oncol. 2011;22(5): 1054-1061.
+63.	Massard C, Plantade A, Gross-Goupil M, et al. Poor prognosis non- seminomatous germ-cell tumours (NSGCTs): should chemotherapy doses be reduced at first cycle to prevent acute respiratory distress syndrome in patients with multiple lung metastases? Ann Oncol. 2010;21(8):1585-1588.
+64.	Piketty AC, Flechon A, Laplanche A, et al. The risk of thrombo-embolic events is increased in patients with germ-cell tumours and can be predicted by serum lactate dehydrogenase and body surface area. Br J Cancer. 2005;93(8):909-914.
+65.	Lauritsen J, Hansen MK, Bandak M, et al. Cardiovascular risk factors and disease after male germ cell cancer. J Clin Oncol. 2020;38(6): 584-592.
+66.	Fankhauser CD, Tran B, Pedregal M, et al. A risk-benefit analysis of prophylactic anticoagulation for patients with metastatic germ cell tumours undergoing first-line chemotherapy. Eur Urol Focus. 2021;7(5):1130-1136.
+67.	Paffenholz P, Grein K, Heidegger I, et al. Predictors of thrombosis in testicular cancer during platinum-based chemotherapy. World J Urol. 2019;37(9):1907-1916.
+68.	Fankhauser CD, Oldenburg J, Albers P, et al. Recommendations to balance benefits and risks of thromboprophylaxis and to avoid central venous-access devices during first-line chemotherapy in men with metastatic germ cell tumors: the European Association of Urology Testicular Cancer Panel Position in 2021. Eur Urol. 2021;80(1):4-6.
+69.	Haugnes HS, Negaard HF, Jensvoll H, et al. Thromboembolic events during treatment with cisplatin-based chemotherapy in metastatic testicular germ-cell cancer 2000e2014: a population-based cohort study. Eur Urol Open Sci. 2021;32:19-27.
+70.	Heidenreich A, Pfister D. Retroperitoneal lymphadenectomy and resection for testicular cancer: an update on best practice. Ther Adv Urol. 2012;4(4):187-205.
+71.	Rosenvilde JJ, Pedersen GL, Bandak M, et al. Oncological outcome and complications of post-chemotherapy retroperitoneal surgery in non-seminomatous germ cell tumours - a systematic review. Acta Oncol. 2021;60(6):695-703.
+72.	Fizazi K, Oldenburg J, Dunant A, et al. Assessing prognosis and opti- mizing treatment in patients with postchemotherapy viable non- seminomatous germ-cell tumors (NSGCT): results of the sCR2 international study. Ann Oncol. 2008;19(2):259-264.
+73.	Beyer J, Albers P, Altena R, et al. Maintaining success, reducing treatment burden, focusing on survivorship: highlights from the third European consensus conference on diagnosis and treatment of germ- cell cancer. Ann Oncol. 2013;24(4):878-888.
+74.	Einhorn LH, Williams SD, Chamness A, et al. High-dose chemotherapy and stem-cell rescue for metastatic germ-cell tumors. N Engl J Med. 2007;357(4):340-348.
+75.	Feldman DR, Sheinfeld J, Bajorin DF, et al. TI-CE high-dose chemo- therapy for patients with previously treated germ cell tumors: results and prognostic factor analysis. J Clin Oncol. 2010;28(10):1706-1713.
+76.	Lorch A, Beyer J, Bascoul-Mollevi C, et al. Prognostic factors in pa- tients with metastatic germ cell tumors who experienced treatment failure with cisplatin-based first-line chemotherapy. J Clin Oncol. 2010;28(33):4906-4911.
+77.	Pico JL, Rosti G, Kramar A, et al. A randomised trial of high-dose chemotherapy in the salvage treatment of patients failing first-line platinum chemotherapy for advanced germ cell tumours. Ann Oncol. 2005;16(7):1152-1159.
+ 
+J. Oldenburg et al.	Annals of Oncology
+
+ 
+78.	Bokemeyer C, Oechsle K, Honecker F, et al. Combination chemotherapy with gemcitabine, oxaliplatin, and paclitaxel in patients with cisplatin- refractory or multiply relapsed germ-cell tumors: a study of the German Testicular Cancer Study Group. Ann Oncol. 2008;19(3):448-453.
+79.	Feldman DR, Lorch A, Kramar A, et al. Brain metastases in patients with germ cell tumors: prognostic factors and treatment options–an analysis from the global germ cell cancer group. J Clin Oncol. 2016;34(4):345-351.
+80.	Leao R, Ahmad AE, Hamilton RJ. Testicular cancer biomarkers: a role for precision medicine in testicular cancer. Clin Genitourin Cancer. 2019;17(1):e176-e183.
+81.	Dieckmann KP, Radtke A, Geczi L, et al. Serum levels of microRNA- 371a-3p (M371 test) as a new biomarker of testicular germ cell tu- mors: results of a prospective multicentric study. J Clin Oncol. 2019;37(16):1412-1423.
+82.	Syring I, Bartels J, Holdenrieder S, et al. Circulating serum miRNA (miR-367-3p, miR-371a-3p, miR-372-3p and miR-373-3p) as biomarkers in patients with testicular germ cell cancer. J Urol. 2015;193(1):331-337.
+83.	Dieckmann KP, Radtke A, Spiekermann M, et al. Serum levels of microRNA miR-371a-3p: a sensitive and specific new biomarker for germ cell tumours. Eur Urol. 2017;71(2):213-220.
+84.	Belge G, Dieckmann KP, Spiekermann M, et al. Serum levels of microRNAs miR-371-3: a novel class of serum biomarkers for testic- ular germ cell tumors? Eur Urol. 2012;61(5):1068-1069.
+85.	Dieckmann KP, Spiekermann M, Balks T, et al. MicroRNAs miR-371-3 in serum as diagnostic tools in the management of testicular germ cell tumours. Br J Cancer. 2012;107(10):1754-1760.
+86.	Leao R, Albersen M, Looijenga LHJ, et al. Circulating microRNAs, the next-generation serum biomarkers in testicular germ cell tumours: a systematic review. Eur Urol. 2021;80(4):456-466.
+87.	Nappi L, Thi M, Lum A, et al. Developing a highly specific biomarker for germ cell malignancies: plasma miR371 expression across the germ cell malignancy spectrum. J Clin Oncol. 2019;37(33):3090-3098.
+88.	Leão R, van Agthoven T, Figueiredo A, et al. Serum miRNA predicts viable disease after chemotherapy in patients with testicular non- seminoma germ cell tumor. J Urol. 2018;200(1):126-135.
+89.	Nappi L, Thi M, Fazli L, et al. Biological assessment of viable germ cell tumor (VT) in patients (pts) with seminoma (S) and non-seminoma (S) using miR371. Ann Oncol. 2017;28:v325.
+90.	Oing C, Seidel C, Bokemeyer C. Therapeutic approaches for refractory germ cell cancer. Expert Rev Anticancer Ther. 2018;18(4):389-397.
+91.	 
+Oechsle K, Kollmannsberger C, Honecker F, et al. Long-term survival after treatment with gemcitabine and oxaliplatin with and without paclitaxel plus secondary surgery in patients with cisplatin-refractory and/or multiply relapsed germ cell tumors. Eur Urol. 2011;60(4):850-855.
+92.	Squillante CM, Vaughn DJ. Targeted therapies in germ cell tumors.
+Urol Oncol. 2015;33(8):363-369.
+93.	Vaughn DJ, Hwang W-T, Lal P, et al. Phase 2 trial of the cyclin- dependent kinase 4/6 inhibitor palbociclib in patients with retino- blastoma protein-expressing germ cell tumors. Cancer. 2015;121(9): 1463-1468.
+94.	Bagrodia A, Lee BH, Lee W, et al. Genetic determinants of cisplatin resistance in patients with advanced germ cell tumors. J Clin Oncol. 2016;34(33):4000-4007.
+95.	Necchi A, Bratslavsky G, Corona RJ, et al. Genomic characterization of testicular germ cell tumors relapsing after chemotherapy. Eur Urol Focus. 2020;6(1):122-130.
+96.	Rustin GJ, Mead GM, Stenning SP, et al. Randomized trial of two or five computed tomography scans in the surveillance of patients with stage I nonseminomatous germ cell tumors of the testis: Medical Research Council Trial TE08, ISRCTN56475197–the National Cancer Research Institute Testis Cancer Clinical Studies Group. J Clin Oncol. 2007;25(11):1310-1315.
+97.	Laukka M, Mannisto S, Beule A, et al. Comparison between CT and MRI in detection of metastasis of the retroperitoneum in testicular germ cell tumors: a prospective trial. Acta Oncol. 2020;59(6):660- 665.
+98.	Chovanec M, Lauritsen J, Bandak M, et al. Late adverse effects and quality of life in survivors of testicular germ cell tumour. Nat Rev Urol. 2021;18(4):227-245.
+99.	Bower JE, Bak K, Berger A, et al. Screening, assessment, and man- agement of fatigue in adult survivors of cancer: an American Society of Clinical oncology clinical practice guideline adaptation. J Clin Oncol. 2014;32(17):1840-1850.
+100.	Haugnes HS, Stephenson AJ, Feldman DR. Beyond stage I germ cell tumors: current status regarding treatment and long-term toxicities. Am Soc Clin Oncol Educ Book. 2014;(34):e180-e190.
+101.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis. 2001;33(2):139-144 (Adapted from: Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards for infectious dis- eases. Clin Infect Dis. 1994:18(3):421).

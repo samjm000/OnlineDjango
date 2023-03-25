@@ -1,0 +1,481 @@
+ 
+Management of orphan symptoms: ESMO Clinical Practice Guidelines for diagnosis and treatment†
+
+D Santini,1 G Armento,1 R Giusti,2 M Ferrara,3 C Moro,4 F Fulfaro,5 P Bossi,6 F Arena,7 C.I Ripamonti,3 On behalf of ESMO Guidelines Committee
+
+
+ 
+
+To cite: Santini D, Armento G, Giusti R, et al. Management of orphan symptoms:
+ESMO Clinical Practice Guidelines for diagnosis and treatment†. ESMO Open
+2020;5:e000933. doi:10.1136/
+esmoopen-2020-000933
+
+†Approved by the ESMO Guidelines Committee: July 2020.
+
+ 
+Received 21 July 2020
+Revised 13 August 2020
+Accepted 15 August 2020
+
+
+Published online 18 November 2020
+
+
+
+
+
+
+
+
+
+
+
+
+© Author (s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No commercial re-use. Published by BMJ on behalf of the European Society for Medical Oncology.
+For numbered affiliations see end of article.
+
+ 
+Correspondence to
+On behalf of ESMO Guidelines Committee, ESMO Head Office, Via Ginevra 4, 6900 Lugano, Switzerland; clinicalguidelines@esmo.org
+ 
+
+INTRODUCTION
+There is no clear definition of orphan symptoms. There is a group of symptoms that are seldom evaluated in most symptom assessment tools which can be considered as orphan symptoms.1 These are generally prevalent symptoms that are unaddressed in clinical practice, yet often not reported by the patients or by healthcare professionals.2
+Orphan symptoms may be defined as symp- toms not regularly assessed in clinical prac- tice, and consequently little studied and not properly treated. No epidemiological or clin- ical studies generally exist to gauge the prev- alence of the symptoms chosen; nevertheless, these symptoms are distressing for patients and their families. Orphan symptoms remain unaddressed in clinical practice if not high- lighted by the patient or specifically sought by the healthcare professional. These symp- toms may have a significant impact on the remaining quality of life (QoL). In these guidelines, only selected orphan symptoms are discussed.
+Among the most frequent orphan symp- toms in patients with cancer that are related to the tumour or the antitumour treatment are muscle cramps, myoclonus, taste alter- ations, xerostomia, cough, hiccup, rectal tenesmus and restless legs syndrome (RLS).
+No epidemiological or clinical study exists regarding the prevalence of most orphan symptoms in patients with cancer. These symptoms are really distressing for patients and their families. Several case series and case reports, but very few prospective trials, have been published until now. For this reason, the levels of evidence (LoEs) and grades of recommendation (GoRs) are generally low. These European Society for Medical Oncology (ESMO) Clinical Practice Guide- lines on management of orphan symptoms are the first approach for practical guidelines on this topic.
+ 
+
+  Highlights	
+
+
+MUSCLE CRAMPS
+A muscle cramp is a sudden, involuntary, painful contraction of a muscle or part of it, self-extinguishing within a few minutes; it is often accompanied by a palpable knotting of the muscle. The incidence of muscle cramps is usually low (<5%) but changes according to the stage of cancer disease, treatments (active antitumour treatments during innovative therapies and after surgery), setting of care (hospital, home), comorbidities of patients and the concomitant polypharmacotherapy.3 Prospective studies evaluating muscle cramps in patients with cancer are lacking.
+Muscular cramps can be caused by several pathogenic mechanisms related to disease: dehydration, electrolyte imbalance, vascular, anticancer as well as other drugs (ie, ator- vastatin) and metabolic disorders. In a study evaluating 50 patients referred to a neuro- oncology unit for the onset of cramps, cancer-related or cancer treatment-related toxicity were identified as the cause in 84% of patients.3 In this study, peripheral neurop- athies were identified as the principal cause of muscular cramps in 44% of the patients, spinal nerve roots abnormalities were present in 26% and plexus pathology in 8%.3 Poly- myositis and cisplatin hypomagnesaemia occurred in <4% of patients.3
+Other potential causes of cramps are tumour infiltration of nerve roots or brachial and lumbar sacral plexus and leptomeningeal
+ 
+
+ 
+Santini D, et al. ESMO Open 2020;5:e000933. doi:10.1136/esmoopen-2020-000933	1
+ 
+infiltration. Patients with cancer often suffer due to meta- bolic (diabetes, thyroid disturbances) and electrolyte (hypomagnesaemia, hypokalaemia) alterations that can modify muscle contractility.3
+A major toxic and dose-limiting effect of cisplatin is a sensory peripheral neuropathy due to the toxic effect of cisplatin on the dorsal root ganglion cells; the accumu- lation of cisplatin in the extracellular space of muscle affects motor nerve and may induce muscle cramps.4
+Oxaliplatin is also associated with cramps, as a direct manifestation of acute toxicity.5
+Other neurotoxic agents like vinca alkaloids as well as hormonotherapy3 and biological drugs may be associ- ated with cramps.3 A painful necrotising myopathy is a rare complication of vincristine whose manifestations are myalgia and cramps.6
+Endocrine manipulation in breast and prostate cancer can induce cramps as well, and the incidence of cramps in these patients is unknown, but they have been reported with medroxyprogesterone acetate and tamoxifen. Several tyrosine kinase inhibitors have been associated with cramps with differences in incidence and severity. Muscle cramps are one of the major adverse events (AEs) of vismodegib. This effect is probably due to antagoni- sation of the Hedgehog signalling pathway causing cell membrane calcium channel activation.7 Online supple- mental table S1 shows examples of antineoplastic drugs potentially inducing cramps.
+
+Treatment
+The first step is the treatment of underlying causes of muscle cramps. Specific studies on the treatment of cramps in patients with cancer are lacking in literature. For this reason, all presented evidence is based on studies including non-cancer populations.
+
+Non-pharmacological treatments
+Several non-pharmacological therapies are suggested by physicians but there is little evidence supporting their use. Hydration is frequently recommended. However, there are no studies investigating its use and efficacy (IV, B). In a randomised study of 191 non-cancer patients comparing those who stretched their calves three times a day with patients instructed in moving the legs without stretching, no benefit of stretching on the frequency of cramps or number of cramp-free nights was found.8 Calf stretching is not helpful in reducing the frequency of muscle cramps (II, D).
+
+Pharmacological treatments
+Quinine derivatives
+Based on data from two randomised non-cancer patient studies, quinine derivatives (hydroquinine hydrobromide dihydrate 300 mg at night) are effective in reducing the frequency of muscle cramps, although the magnitude of benefit is small.9 10 However, these agents are associated with side effects. The most common serious side effects reported were thrombotic thrombocytopaenic purpura,
+ 
+haemolytic uraemic syndrome, disseminated intravas- cular coagulation and bleeding diathesis. The frequency of serious side effects was 2%–4%. Even if effective, the use of quinine derivatives for routine treatment of muscle cramps should be avoided and only be considered when the cramps are very disabling, with careful monitoring of potential side effects (II, D).
+Gabapentin
+In a double-blind, randomised controlled trial (RCT) of gabapentin (3600 mg a day) in 204 patients with amyo- trophic lateral sclerosis, the evaluation of muscle cramps found no difference between the treatment group and placebo with respect to any symptom score.11 The use of gabapentin for cramps is not recommended (II, D).
+Naftidrofuryl, vitamin B complex and diltiazem
+Based on small randomised studies, naftidrofuryl (300 mg two times per day), vitamin B complex (30 mg per day of vitamin B6) and diltiazem (30 mg per day of dilti- azem hydrochloride) might be effective in the treatment of muscle cramps. In particular, naftidrofuryl demon- strated to induce a significant reduction of cramps and an increase in cramp-free days (II, C). The study regarding vitamin B complex was a very small study of 28 patients showing that vitamin B complex (30 mg per day of vitamin B6) induced remission of muscle cramps in 86% of treated patients who were not known to be vitamin deficient compared with placebo, but the completion rate and compliance were not detailed in the study.12 For this reason, the results are unreliable. The use of vitamin B complex for the treatment of muscle cramps in patients with cancer cannot be routinely recommended (III, D). A double-blind, cross-over study of 13 patients investigated the effects of 30 mg of diltiazem hydrochloride on the number and intensity of cramps in patients experiencing
+2 cramps per week. This underpowered trial showed a reduction (−5.84 to −0.16 cramps per 2-week treatment phase, p=0.04) in the number of cramps over time in patients treated with diltiazem hydrochloride compared with placebo, with no effect on the intensity of cramps.13 The use of diltiazem hydrochloride in reducing the number of cramps may exert some efficacy (III, C). Data regarding the use of magnesium (magnesium citrate 900 mg per day or magnesium sulfate 300 mg per day) prepa- rations showed that these agents are most likely not effec- tive in the treatment of muscle cramps (III, D).14
+In an extremely small study, nine patients with vismodegib-induced muscle cramps were treated with calcium channel blocker amlodipine besilate 10 mg per day for 2 weeks. During a period of 8 weeks, the percentage change in cramp frequency was significantly reduced by
+−5.81% per week (95% CI, −10.15% to −1.48%; p =0.009)
+with amlodipine treatment. Amlodipine may be effective in vismodegib-induced muscle cramps (IV, C).15
+The American Society of Clinical Oncology Clinical Practice Guideline on chemotherapy (ChT)-induced peripheral sensory neurotoxicity does not recommend
+ 
+any established agent for prevention or treatment of muscle cramps.16
+Baclofen, carbamazepine and oxcarbazepine are frequently used in clinical practice for the treatment of muscle cramps but there are no clinical trials in the liter- ature evaluating their efficacy for this indication.17 Only case reports in non-cancer populations reporting the use of these agents in the treatment of particular neuropathic conditions such as cramp-fasciculation syndrome have been published (V, C).17
+Recommendations
+►	For vismodegib-induced cramps, amlodipine besilate 10 mg per day (to be used with caution in patients with hypotension) is recommended (IV, C).
+►	Use of naftidrofuryl demonstrated a significant reduc- tion in frequency of cramps and an increase in cramp- free days (II, C).
+►	Quinine 200–300 mg per day (II, D) is recommended.
+
+MYOCLONUS
+Myoclonus is defined as involuntary single or irregular repetitive movements of one part of the body, most frequently of the extremities, associated with either muscle contraction (positive myoclonus) or brief loss of muscle tone (negative myoclonus).18 Myoclonus occur- ring in patients with cancer can be multifactorial. The most common causes include:
+►	Brain tumours—primary or metastatic.
+►	Metabolic causes (hyperglycaemia, hyponatraemia, renal or hepatic failure, hypercalcaemia and hypoglycaemia).
+►	Drug toxicity (opiates, cyclic antidepressants, selective serotonin reuptake inhibitors, monoamine oxidase inhibitors).
+►	Immune checkpoint inhibitors (myoclonus-ataxia syndrome has been described following treatment with immune checkpoint inhibitors, for example, with nivolumab plus ipilimumab or pembrolizumab).18
+The main causes of this symptom are related to the use of medications acting at the central nervous system (CNS) or focal nervous system damage by primary tumours or metastases (or rarely paraneoplastic enceph- alitis). The frequency of opioid-related myoclonus varies widely, ranging from 2.7% to 87% of the population, and this discrepancy is due to the different assessments of perception.19 Opioid-induced myoclonus is not dose- related, and both myoclonus and hyperalgesia have been reported to occur with various opioids following a variety of doses, treatment durations and administration routes.20
+Hyperexcitability, hyperalgesia and myoclonus may be induced by high dose of intrathecal or systemic morphine.21 Several authors speculate that the neuro- excitatory metabolites of opioids, such as morphine and hydromorphone metabolites, may be responsible for opioid-induced myoclonus and hyperalgesia.22 Generally,
+ 
+naloxone is not able to reverse central excitatory potency of morphine and its metabolites.23
+Concomitant medications such as haloperidol or phenothiazine or neurotoxic antineoplastic agents may also have an influence on myoclonus manifestations.22
+Treatment
+There is a lack of data for myoclonus treatment in patients with cancer. Most articles are case reports or small series (placebo-controlled trials are not available). As a first step, all neuroleptic drugs should be reviewed and opioid rotation or dose reduction should be considered (V, B).22 Hydration is recommended to reduce renal failure and accumulation of drug metabolites or to resolve electrolyte disorders (V, B).22
+Benzodiazepines such as clonazepam, diazepam and anticonvulsants such as valproate have been suggested for the treatment of opioid-induced myoclonus as supported by the gamma-aminobutyric acid (GABA) mechanism of opioid toxicity (V, B).24
+Clonazepam can be used with a starting dose of 0.5–1 mg orally at bedtime or two times per day if neces- sary.24 Continuous infusion of midazolam has also been successful and the short half-life of the drug allows for rapid titration to an effective dose; however, clonazepam leads to increased sedation (V, C).25
+Dantrolene is a drug with a specific inhibitory mech- anism on the calcium release at the sarcoplasmic retic- ulum of the striated muscle and it has demonstrated in case reports only some effects at doses of 50–100 mg a day (V, C).26
+Use of botulin toxin type A has been reported to be effective. Administration by injection into targeted muscles has been demonstrated to reversibly block the neuromuscular junction (V, C).27
+Myoclonic spasms secondary to the intrathecal morphine have been controlled with oral baclofen, although doses and duration of treatment are not defined (V, C).28
+Recommendations
+►	All neuroleptic drugs should be reviewed and opioid rotation or dose reduction should be considered (V, B).
+►	Benzodiazepines such as clonazepam and diaz- epam and anticonvulsants such as valproate have been suggested for the treatment of opioid-induced myoclonus (V, B).
+►	Dantrolene 25–100 mg three times a day for a maximum of 7 days (V, C) is recommended.
+►	Botulin toxin type A 5–10 U per injection into targeted muscles (V, C) is recommended.
+
+TASTE ALTERATIONS
+Taste alterations occur as absence of taste sensation (ageusia), reduction in taste sensitivity (hypogeusia), increased sensitivity (hypergeusia) or distortion of the sense of taste (dysgeusia).
+ 
+In patients with cancer, altered taste perception is usually underestimated by clinicians and is hardly ever reported spontaneously by the patients. Dysgeusia has a large impact on food intake and consequently on weight loss, malnutrition, decreased enjoyment of a meal and QoL.29
+The incidence of dysgeusia depends on the cancer type, localisation and on its treatments. Of all patients receiving ChT, radiotherapy (RT) or both, 50%–75% have experienced alterations of taste perception.30 In patients with head and neck cancer undergoing multimodality treatments, the incidence of dysgeusia reached percent- ages between 75% and 100%.30 Prevalence estimates vary considering different measurement approaches.
+A systematic review of 14 studies (where the presence of dysgeusia induced by cancer therapies was correctly assessed using a standardised and validated scale) reported that prevalence in the ChT group was 56.3%,66.5% in the RT group and 76% in the combined ChT and RT group. Approximately 15% of patients treated with head and neck RT had continuous dysgeusia even after the comple- tion of treatment.31 Patients treated with RT had worse dysgeusia than ChT patients, and the severity was related with cumulative radiation dose and the onset of severe mucositis. Online supplemental table S2 shows examples of antineoplastic drugs potentially inducing dysgeusia.
+Dysgeusia is a subjective symptom and can be assessed with the use of the Common Terminology Criteria for Adverse Events (CTCAE) 5.0 and the Subjective Total Taste Acuity Scale (ChT-induced Taste Alteration Scale).32 Objective measures include the detection or recognition threshold values for the five fundamental tastes (sweet- ness, bitterness, sourness, saltiness and umami) in two different ways: with the use of an instrument called an elec- trogustometer (with electrical stimuli) or using threshold tests performed with natural stimuli.33 The heterogeneity of all used systems represents a limiting factor. No biolog- ical markers are available. A recent review on taste disor- ders states that there is no gold standard assessment tool for dysgeusia.34 Heterogeneity in study methods hinders conclusive identification of the most appropriate way to measure this symptom. Subjective measures may reflect the patient experience and more reliably predict changes in dietary behaviour. The aetiology of this disorder in patients with cancer is multifactorial. Tumour-related causes exist but the main source is related to cancer ther- apies (see online supplemental table S3).
+In particular, antineoplastic treatments may reduce the number of normal receptor cells, alter cell structures on receptors and stop neural coding.35 RT also damages salivary glands with consequent hyposalivation and xero- stomia that, according to some authors, may exacerbate dysgeusia.36
+ChT enters the mouth by diffusion through capillaries, giving an unpleasant taste or the ChT can directly destroy taste receptors. Dysgeusia has been reported to be most common among patients receiving taxanes, 5-fluorouracil and the oral analogue irinotecan.37 Patients treated with
+ 
+anthracyclines, platinum-based drugs and vinorelbine also suffered the highest frequencies for bad or metallic taste. Oxaliplatin-induced neurotoxicity could determine cold hypersensitivity.38 Other concomitant causes are documented in online supplemental table S3.
+Recent research shows that tumours produce an inflam- matory state through cytokines/chemokines that lead to cellular damage.36 In haematopoietic stem cell transplan- tation, dysgeusia is related with the conditioning regi- mens, supportive medications (antimicrobials, diuretics, antihypertensives), immunosuppressants, and infectious and allogenic-reactive complications.39 A new conceiv- able mechanism, that needs to be investigated in the future, is the role of microbiota. Cancer therapies are usually linked with disrupted microbiota, while alter- ations of microbiota are observed in oral cancer and lead to inflammation and taste disturbances.36
+
+Treatment
+While the origins of dysgeusia are multifactorial, there are dedicated approaches to minimise its impact on patients; once a cause has been identified, the corresponding strat- egies should be adopted.
+
+Pharmacological management strategies
+Zinc supplementation
+Zinc supplementation is one of the most common inter- ventions studied for preventing and/or treating dysgeusia related to various causes, including cancer-related ther- apies.40 It is the cofactor for alkaline phosphatase, the most abundant enzyme in the taste bud membrane. Zinc and other metals control the conformation of the protein (‘gatekeeper’) that regulates the passage of tastants through the taste bud pore. Although this element is closely associated with taste, trials using zinc, gluconate or sulfate in patients with cancer have reported conflicting results.
+A randomised study that included 18 patients showed that zinc taken orally during RT for head and neck cancer limited the degree of objective and subjective taste distur- bances and showed early recovered gustative acuity.41 In another pilot study involving 12 lung patients with cancer, a zinc-containing fluid was infused with ChT and the taste thresholds measured using an electrogustometer. No taste disorder was reported in the arm that received zinc supplementation.42
+An orally bioavailable chelate composed of zinc and L-carnosine known as polaprezinc improved taste alter- ations in 70% of patients with breast cancer that under- went high-dose ChT.43 Similar results were observed in a randomised placebo-controlled trial where zinc sulfate prevented RT-induced taste alterations in patients with head and neck cancer. Taste acuity was determined by measuring detection and recognition thresholds for four taste qualities using the Henkin method.44 In the study by Halyard et al, 143 patients receiving RT±ChT for head and neck cancer were randomised to receive zinc sulfate orally or placebo starting on the first day of RT and for
+ 
+4 weeks after RT completion. No statistically significant differences between the two groups in terms of taste alter- ation (measured through subjective parameters) were found.45 Furthermore, one of the most recent trials (58 patients included) comparing zinc with placebo for ChT- related taste alterations showed no significant difference between the two arms. The measurement of the improve- ment in altered taste and smell was made using a 0–100 scale.46
+Zinc salts are well tolerated in most cases, they can cause dyspepsia and should be administered during meals to reduce these potential symptoms.
+An excess intake of zinc may have negative effects on the immune system, so it must be used with caution when administered to immunocompromised patients with cancer46 and should only be limited to patients with a zinc deficiency (II, C).
+Amifostine
+Amifostine is an organic cytoprotective agent that plays a role in the protection of salivary gland function. Two randomised studies investigated its use in preventing dysgeusia: while amifostine may decrease the severity and incidence of acute and late gastrointestinal and other types of toxicities, it does not appear to decrease the occurrence of dysgeusia and may paradoxically increase it.47 48 Therefore, it is not recommended (II, D).
+Other substances like glutamine, megestrol acetate (MGA) and the miracle fruit (Synsepalum dulcificum) were studied for the treatment of dysgeusia. Glutamine results showed no effect at preventing taxane-induced dysgeusia.49
+MGA, a potent agonist of progesterone receptors, was administered daily in a randomised placebo control trial to weight-losing patients with advanced cancer experi- encing taste disturbances. Findings supported the posi- tive outcome on dysgeusia in the MGA group, but the trial had several limitations.50
+Miraculin, a glycoprotein extracted from the fruit of Synsepalum dulcificum, when used as a sugar substitute improved the taste in patients with cancer in two very small (eight patients) pilot studies.51 These studies indi- cated that miracle fruit improved patients’ taste percep- tion, which might ultimately lead to better eating. Further research is necessary before it can be recommended in patients with taste alterations.
+Dronabinol (delta-9-tetrahydrocannabinol, 2.5 mg) showed promising results in a phase II randomised double-blind placebo-controlled study, so it may be useful in treating taste alteration and increasing oral intake of food.52 These preliminary results require further confir- mation studies with larger randomised trials.
+
+Non-pharmacological management strategies
+Self-care strategies
+Previous studies suggested the importance of information about self-management, teaching and education to treat dysgeusia. Observational trials proposed some methods
+ 
+for behavioural modification, categorised into three kinds: strategies related to food and eating, focusing on the mouth, and avoiding strong smell or taste.53 There is weak evidence supporting home remedies and little evidence for adding artificial flavours during ChT.54 It is particularly important to increase saliva production through artificial saliva or other options. Bethanechol has been shown to stimulate saliva production but it was not effective in reducing the incidence of taste alteration when taken with RT.55 Regarding the use of acupuncture in the treatment of idiopathic dysgeusia, very low-quality evidence was insufficient to conclude that acupuncture improves taste discrimination in cases of idiopathic dysgeusia and hypogeusia.56
+Dietary counselling
+Two RCTs investigated the role of dietary counselling and educational videos: both studies showed that dietary counselling had a minor impact on acute dysgeusia but a more significant impact on long-term dysgeusia; addition- ally, it may enhance QoL.57 58
+For additional treatment recommendations for dysgeusia, see online supplemental material.
+Recommendation
+►	For ChT-induced and/or RT-induced dysgeusia, patients should be informed about dietary counsel- ling and self-care strategies (II, B).
+
+XEROSTOMIA (DRY MOUTH)
+Xerostomia, also known as dry mouth, may be associated with a change in the composition of saliva or reduced sali- vary flow.
+The concept of ‘orphan symptom’ applies to xero- stomia not because it is a rare AE or a neglected symptom without any classifications. In fact, it has been reported as one of the most frequent late toxicities, around 40%, after head and neck RT.59 The reason to attribute xero- stomia to the category of orphan symptoms relies on the relative paucity of effective treatments to relieve it.60
+There are several scales and questionnaires developed to evaluate xerostomia. The most frequently used tools are the CTCAE and the Radiation/Oncology Toxicity Grade (Radiation Therapy Oncology Group) Scales; the first one is composed by a subjective and an objec- tive (saliva flow) assessment, while the second intro- duces the concept of the response on stimulation. One should consider the frequent discrepancies between AEs as judged by the physician and by the patients; a correla- tive study examined the concordance between observer- assessed and patient-assessed symptoms and showed that the sensitivity of the observer for xerostomia was 74%.61 It is fundamental to use patient-reported outcome (PRO) measures to complement other QoL analyses.
+RT technique as well as a dose on the parotid glands affect the risk of developing late and persisting dry mouth. The first rational preventative measure is to limit the volume and radiation dose to the radiosensitive
+ 
+structures. The use of intensity-modulated radiotherapy (IMRT) improves late xerostomia and QoL without compromising tumour control (I, A).62 With IMRT, the schedules commonly used are mean dose of 24–26 Gy at least to one parotid and approximately mean dose of 39 Gy to the submandibular gland (IV, B).63 In addition, it has been demonstrated that severe xerostomia can be avoided if either the mean dose to both parotid glands is <25 Gy or if one parotid gland is spared to a mean dose of <20 Gy (II, B).64 Due to the presence of minor salivary glands in the oral cavity, sparing the oral cavity from unnecessary radiation doses may help decrease both acute mucositis and late xerostomia (III, B).65
+Other causal agents are radioiodine therapy, ChT and targeted treatments (eg, dacomitinib and multitar- geted angiogenesis inhibitors having the highest risk, about 4%–14%) as well as immune checkpoint inhibitors (nivolumab and pembrolizumab may induce xerostomia in 4%–8% of the cases).66 The role of other concurrent drugs employed by the patients should be considered as possible causes of xerostomia (such as opioids, antipsy- chotics, anxiolytics, histamine antagonists and others).67
+
+Treatment
+Drugs that act on stimulating muscarinic receptors at the surfaces of the salivary gland cells represent a class of ther- apies. A systematic review and meta-analysis including 736 patients confirmed that preventive administration of pilo- carpine, a cholinergic agonist, could increase the unstim- ulated salivary flow rate during RT, with an advantage for only a period of 3–6 months and this may improve patient-reported xerostomia at 6 months and possibly 12 months after treatment has ended (I, B).68 Long-term use of systemic pilocarpine 5 mg three times a day or cevime- line 30 mg three times a day demonstrated an advantage in reducing xerostomia in irradiated head and neck cancer survivors, with a greater magnitude of benefit for pilocarpine.68 However, the clinical significance of the obtained benefit is unknown, and the cholinergic AEs of the long-term use (bronchospasm, bradycardia, vaso- dilation and diarrhoea) should be considered in clin- ical practice (I, C). No evidence exists about the topical use of these drugs. Similarly, gustatory and masticatory stimulants, such as acidic substances, are only purely symptomatic measures, with very limited data available. Moreover, lubricants and saliva substitutes are widely used with a palliative intent, with insufficient evidence regarding their long-term benefit (V, C).69 Acupuncture has been studied in two trials in respect to sham/superfi- cial acupuncture, showing no added benefit in improving salivary flow (II, D).70 There is weak evidence for the effi- cacy of hyperbaric oxygen therapy, because of a scarce number of patients treated and the limited follow-up to ensure safety of the treatment (IV, C).71
+
+Recommendations
+►	For head and neck RT-induced xerostomia, the following treatments are recommended:
+ 
+–	Pilocarpine 5 mg orally every 8 hours (I, B).
+–	Hyperbaric oxygen therapy (IV, C).
+
+COUGH
+Cough is a disturbing symptom in patients with advanced cancer and may be accompanied by other signs or symp- toms of disease.72 73 It occurs approximately in 65% of patients with advanced lung cancer.73 Cough can often be preceded by a sensation of airway irritation often likened to itching and referred to as an ‘urge-to-cough’.74
+A cough that persists for more than 8 weeks is termed ‘chronic’.75 In patients with advanced cancer, chronic cough can persist for months and remains a difficult problem to manage because of the lack of effective anti- tussive therapies.76 It is mandatory to assess the impact of symptom on QoL and to establish the severity, the time of onset and the duration of the cough. Cough may be described as dry, wet, wheezy, barking and/or bovine and may be associated with left recurrent laryngeal nerve palsy or abductor paralysis of vocal cords. Other associ- ated symptoms may be nasal discharge, sputum purulent/ coloured, bronchorrhoea, haemoptysis and dyspnoea. Online supplemental table S4 details possible casues of cough.
+
+Treatment
+The management options include the treatment of specific conditions causing cough, and the use of drugs to suppress this symptom. In cases when the underlying condition is potentially reversible, in chest infection or in the case of assumption of ACE inhibitor, cough may be reversible.77 78 Many non-drug measures, such as bron- chopulmonary hygiene therapy, hydration and suction, have been adopted, even if evidence on clinical outcome measures is lacking. Various protussive agents, for example, N-acetylcysteine, hypertonic saline, have been used to facilitate the expectoration.77 78 A recent Cochrane review has analysed the effectiveness of interventions, both pharmacological and non-pharmacological (other than ChT and external beam RT), in the management of cough in malignant diseases (especially in lung cancer).79 For brachytherapy (II, C), laser therapy (III, C) and photodynamic therapy (II, C), eight studies were exam- ined under this category. Even if some of these studies showed a certain grade of benefit in the symptom treat- ment, final data for these strategies were of low quality, with high risk of bias. The advantage of these strategies over other available palliation approaches remains to be
+proven.79
+There were nine studies of pharmacological treatments for cough. These studies had several limitations and bias (small sample size, difficulties in data recovering and major concern in the assessment of the symptom). The products tested included hydropropizine, oxadiazol, butamirate citrate linctus, a mixture of codeine with phenyltoloxamine and dihydrocodeine, two different Chinese herbal preparations, morphine and codeine,
+ 
+levodropropizine and dihydrocodeine, sodium cromo- glycate and dihydrocodeine. In the absence of RCTs in this field, no firm conclusions could be drawn for any of the pharmacological treatments presented, although butamirate linctus, codeine (60 mg), morphine, dihydro- codeine (10 mg), cromoglycate and hydropropizine or levodropropizine seemed to exercise some positive effect on cough related to lung cancer (IV, C).79 80 The effect of these latter treatments should be balanced with the potential side effects, including nausea, dizziness or diar- rhoea with butamirate linctus or drowsiness and consti- pation with opioids.79 The effect of sodium cromoglycate in the absence of asthma or other respiratory pathology may be limited.
+A double-blind, placebo-controlled trial randomised adults with refractory chronic cough to receive gabapentin (maximum tolerable per day dose of 1800 mg) or matching placebo for 10 weeks. The primary end point was a change in cough-specific QoL. Gabapentin significantly improved cough-specific QoL compared with placebo. The treatment of refractory chronic cough with gabapentin (per day dose of 1800 mg) may be suggested to treat cough in oncological patients (II, C).81
+Several reported outcomes for the use of gabapentin warrant further investigation as a potential role of antiepi- leptics in this field. At the time of this review of the litera- ture, there is insufficient evidence on the management of cough with gabapentin in patients with cancer.82
+For the indicative doses for antitussives, demulcents and topical anaesthetics, please refer to online supple- mental table S5.
+
+Recommendations
+►	For coughs related to lung cancer, the following treat- ments are recommended:
+–	Codeine 30–60 mg per day or morphine low doses, dihydrocodeine 10 mg orally every 12 hours, cro- moglycate 10 mg four times a day inhaled via nebu- lisation and hydropropizine or levodropropizine 75 mg three times a day (IV, C).
+–	Gabapentin for refractory chronic cough (1800 mg per day) (II, C).
+
+RECTAL TENESMUS
+Rectal tenesmus is the painful sensation of incomplete evacuation of the bowel, resulting in the sensation of needing to defaecate many times a day. It represents a distressing symptom that significantly affects QoL.83
+The real incidence and prevalence of tenesmus among a cancer population, especially in the palliative care setting, remain unknown. In patients with recurrent rectal carcinoma, the reported prevalence is around 14%,84 but there are few reported statistics about this symptom and probably the real prevalence may be higher.
+The pathophysiology of tenesmus is not fully under- stood. It is possible that direct tumour invasion of the sacral plexus results in neuropathic pain; tumour
+ 
+inflammation transmits pain through somatic afferents and smooth muscle contraction transmits pain through autonomic afferents.85
+Pelvic malignant diseases are frequently associated with rectal tenesmus directly by compression and/or tissue infiltration and indirectly as an AE of locoregional treat- ments (surgery, RT, etc).
+Diagnosis of rectal tenesmus caused by RT or cancer invasion is typically based on patients’ medical history and clinical examination. The temporal relationship between timing of administration of radiation in relation to the symptoms and signs is often sufficient to clinically document the condition.
+There is no known measurement scale for rectal tenesmus in the palliative setting. Rectal mucositis, anal mucositis, abdominal pain and constipation are terms that can be scored separately in the CTCAE V.5.0 within the system organ class ‘Gastrointestinal Disorders’, while the global estimate of the rectal tenesmus can be clas- sified in the section ‘Gastrointestinal Disorders-Other, specify’ as follows:
+►	Grade 1: symptomatic or mild symptoms; clinical or diagnostic observations only; intervention not indicated.
+►	Grade 2: moderate; minimal, local or non-invasive intervention indicated; limiting age-appropriate instrumental activities of daily living (ADLs).
+►	Grade 3: severe or medically significant but not imme- diately life-threatening; hospitalisation or prolonga- tion of existing hospitalisation indicated; disabling; limiting self-care ADLs.
+►	Grade 4: life-threatening consequences; urgent inter- vention indicated.
+►	Grade 5: death.
+Rectal tenesmus is a subjective experience and therefore assessment should include PROs without filtering by a healthcare professional.
+Among clinical trials and systematic reviews, the primary outcome measure was reduction in severity of tenesmus (measured by numerical rating scales, categorical scales: complete, partial and no relief, reduced sensation to defaecate or a patient’s account of improvement).83
+
+Treatment
+The management should be focused on the cause of tenesmus, and not on the tenesmus itself as a symptom, by treating the underlying malignancy with surgery, ChT and RT.
+In patients without these therapeutic options due to disease status or patient status, symptom control is chal- lenging. Symptomatic management of tenesmus has been frequently reported in the palliative care setting of patients with rectal cancer.86 Since tenesmus is largely unresponsive to strong opioids, benzodiazepines and phenothiazines are used to treat this symptom but evidences of their efficacy remain poor.87 Pharmacolog- ical intervention may be the better approach in the palli- ative setting, but other studies have analysed anaesthetic
+ 
+and endoscopic laser therapy (ELT) interventions with promising results.
+Several trials about pharmacological interventions in the management of tenesmus are reported in literature. In some cases, authors reported retrospective data with very small case series. For all these study types, the quality is very poor. All reported papers were conducted among patients with colorectal or other pelvic tumours (see online supplemental table S6).
+Lumbar sympathectomy was also reported as an inter- esting approach for the management of tenesmus, resulting in 10/12 patients gaining complete relief with low side effects (temporary hypotension occurred in one patient). Resolution/reduction in severity of tenesmus was also seen in three patients who underwent neurol- ytic superior hypogastric plexus block, with no AEs.88 Due to low quality of evidence of these studies and very old data, the authors do not recommend this approach in the palliative setting (V, D). ELT was also reported as a possible approach to management of tenesmus. Several reports with very low quality of evidence resulted in gaining complete relief from tenesmus. Due to important side effects including blood or mucus from rectum, rectal discomfort and death in five cases, this approach is not recommended in the palliative setting (V, E).89
+Due to the lower quality of evidence and the absence of RCTs, a first-choice treatment cannot be recommended. Several case series report anecdotal approaches with drugs used for symptoms (pain) management.
+It is reported that opioids are effective for tenesmus management among patients with cancer.86 90 One patient experienced significant pain relief with an opioid rotation from morphine to methadone. A second patient had tenesmus resolution and decreased systemic opioid requirements after rectal administration of morphine gel. One patient on opioids for a protruding rectal cancer experienced immediate and sustained analgesia after the application of topical lidocaine and prilocaine. Another patient with rectal pain and tenesmus refractory to opioids, ketamine and midazolam was treated with rectal bupivacaine.91 92
+Four patients received a vasodilator for tenesmus. Three out of four patients experienced significant relief of tenesmus with nifedipine.93 Two patients had reduced pain, tenesmus and opioid requirements with diltiazem.94 This approach was well tolerated but confounded by the use of other analgesics.
+
+Recommendations
+►	For malignancy-associated (colorectal or other pelvic tumour) rectal tenesmus, the following treatments are recommended:
+–	Diltiazem orally 30 mg every 6 hours (V, C).
+–	2% topical methadone 2.5 mg every hour or 2.5 mg orally every 8 hours with titration (V, C).
+–	Nifedipine 10–20 mg orally two times per day (V, C).
+ 
+HICCUP
+Hiccups are uncontrolled spasms of the diaphragm between normal breaths. A hiccup can be defined as a quick, involuntary inhalation that follows a spasm of the diaphragm and is suddenly checked by closure of the glottis, producing a short, relatively sharp sound. Hiccups are defined as acute if the episode lasts for minutes to hours, persistent if the episode lasts for more than 48 hours and intractable in instances in which the hiccups last for more than 1 month.95
+There are several potential causes of hiccups, most of which have gastrointestinal origin and include vagal and phrenic nerve stimulation. Other causes involve CNS disorders, metabolic disorders, psychogenic disorders and drugs. Metabolic causes of hiccups include hypokalaemia, hypocalcaemia, hypocarbia (hyperventilation) and uraemia. Interestingly, some of the same medications used to treat hiccups have also, at times, been implicated in their cause (eg, steroids, benzodiazepines, opioids and antido- paminergics). Hiccups, particularly those of non-CNS origin, are more common in men. Patients with advanced cancer can have more than one cause for hiccups. Several drugs can induce hiccups such as dexamethasone, diaz- epam, opioids, antibiotics, perphenazine, short-acting barbiturates and ChT agents (eg, cisplatin, carboplatin, cyclophosphamide, docetaxel, etoposide, gemcitabine, irinotecan, paclitaxel, vindesine, vinorelbine, ifosfamide, levofolinate), and aprepitant with a reported incidence of 4.6% (derived from the package insert).95
+
+Treatment
+Pharmacological treatments
+Baclofen
+Baclofen (5–20 mg three times per day orally) has been used in case reports with a low number of treated patients. This drug is a GABA analogue, an inhibitory neurotransmitter that acts on presynaptic motor neurons at the spinal level and produces a central antispastic response. Sedation is the most common side effect, but insomnia, dizziness, ataxia and mental confusion can also occur. Baclofen seems to improve the severity but not the frequency of hiccups (IV, C).96
+Gabapentin
+In a retrospective study, 43 patients were initially treated with 300 mg gabapentin, increasing the dose as needed until 1200 mg per day. There was an improvement in 83% of the cases, with minimal side effects (mainly somno- lence) (IV, C).96
+Chlorpromazine
+Chlorpromazine has been used in a case report with 50 patients97 and in a retrospective chart review of 8 patients. Chlorpromazine effectiveness in the treatment of hiccups is probably due to the antidopaminergic effect, with strong antiemetic results as well as anticholinergic activity, resulting in important sedative and antihiccup effect (IV, C).
+ 
+Midazolam
+The use of benzodiazepine midazolam (10–60 mg/per day) has been reported in two case reports, with three patients in total. Midazolam exerts a central action, along with anticonvulsant and general sedation effects with amnesia, allowing a tonic depressant effect on striated muscle reflexes, and reducing the number of hiccup episodes. Midazolam should only be considered in very selected patients with very refractory hiccups, due to its important side effects (V, C).98
+Haloperidol
+Haloperidol (1.5–3 mg at night orally) has been shown to be effective via dopamine antagonism. It might be better tolerated than chlorpromazine (V, C).98
+Non-pharmacological treatments
+Peppermint
+Peppermint facilitates belching by relaxing the lower oesophageal sphincter. Although this has been noted as a potential treatment of hiccup, there is little evidence in using it along with a prokinetic agent, as their effects are somewhat opposite (V, D).99
+Acupuncture
+Acupuncture has long been used to treat hiccups in China. Acupuncture is a well-known alternative therapy practised worldwide, but its effectiveness for treating hiccups has rarely been tested. Few rigorous RCTs evaluating the effects of acupuncture for hiccups in patients with cancer are actually available, and these studies provide limited evidence of the superiority of acupuncture over conven- tional therapies for cancer-related hiccups (IV, D).100
+Steroid rotation
+Dexamethasone, one of the key medications for the prevention of ChT-induced nausea and vomiting (CINV), may cause hiccups as an AE. In a randomised, multi- centre, phase III trial, hiccup intensity was significantly lower when the antiemetic corticosteroid was rotated from dexamethasone to methylprednisolone without a change in emesis intensity.101
+It has been demonstrated in different case series that switching dexamethasone to an equipotent dosage of either methylprednisolone or prednisolone resolved the hiccups while maintaining adequate control of CINV.
+Steroid rotation for the treatment of steroid-induced hiccups is recommended (II, B).98 101
+Recommendations
+►	For ChT-induced, steroid-induced or CNS damage, the following treatments are recommended:
+–	Baclofen 5–20 mg three times a day orally (IV, C).
+–	Gabapentin 300–1200 mg per day orally (IV, C).
+–	Chlorpromazine 10–25 mg orally or intravenously (V, C).
+–	Haloperidol 1.5–3 mg at night orally (V, C).
+–	Steroid rotation (II, B).
+–	Midazolam 10–60 mg per day (V, C).
+ 
+–	Haloperidol 1.5–3 mg at night orally (V, C).
+–	Acupuncture (IV, D).
+
+RESTLESS LEGS SYNDROME
+RLS, is a neurological condition that causes sleep and movement disorders, in particular as an uncontrollable desire to move the limbs. It is usually associated with paresthesias and/or dysesthesias with motor restlessness. RLS-related symptoms start or worsen at rest and improve with activity. Worsening of symptoms in the evening and/or at night often results in disturbance of sleep and daytime tiredness.
+RLS is generally considered idiopathic (primary) or symptomatic (secondary). The primary form (60%–80% of all RLS) might be better defined as cryptogenic, indi- cating that in most cases the aetiology and pathogenesis are uncertain. Secondary or RLS-associated conditions include end-stage renal disease, iron deficiency (with or without anaemia), thyroid disorders, neuropathies and radiculopathies, rheumatoid arthritis, myelopa- thies, syringomyelia, Parkinson’s disease and pregnancy. However, there is still little understanding of this disorder and many patients with cancer suffer from RLS symptoms without a diagnosis from the medical profession. One recent study showed that even though 45% of the patients interviewed had moderate-to-severe symptoms of RLS, none of them had been diagnosed or treated.102
+Sleep disturbances are frequent in patients with cancer during ChT; the contributory role of RLS in this setting has been investigated in a prospective trial that included
+173 patients with cancer. The authors found a direct correlation between sleep disturbances and RLS in 20% of patients.103
+Few concrete conclusions can be made about RLS epide- miology in patients with cancer because this disorder is underdiagnosed and poorly understood.
+The four criteria that are essential for diagnosis of RLS are described in online supplemental table S7.
+
+Treatment
+At present there are no studies on RLS conducted in the oncological population: the therapeutic indications are based on trials conducted in mixed populations.
+The therapeutic choice is based on three factors: iron status, clinical intensity of the symptoms and indica- tions for comorbid conditions. Iron status should always be evaluated even in very mild cases. Iron deficiency has been implicated in the pathophysiology of RLS, based on the clinical findings that patients with iron deficiency have a higher frequency of RLS (30%) than those without deficiency and that severity of RLS symp- toms correlates with the severity of iron deficiency.104
+Low iron stores can usually be replenished with prolonged oral iron administration (ferrous sulfate 325 mg two times per day) if it is tolerated (II, C).105 Clinical intensity of the symptoms must be carefully evaluated. Mild RLS can often be managed by lifestyle
+ 
+adjustments without any medication, except for oral iron, if indicated. moderate-to-severe RLS classified as chronic and persistent usually requires daily medi- cations. Comorbid conditions that could produce or exacerbate symptoms such as depression, anxiety disor- ders, neuropathy and iron deficiency must be carefully considered.106 Since the 1990s, dopaminergic therapies have been considered the first-line treatment for adults with RLS, both for sleep disturbance and for daytime symptoms. In the past 5 years, treatment efficacy of dopamine agonists (such as pramipexole, ropinirole and rotigotine) approved by the US Food and Drug Administration and the European Medicines Agency for the treatment of RLS have been further confirmed in analyses of the drugs in RCTs.107 108 Although this class of drugs is generally well tolerated, treatment effi- cacy diminishes in many patients over time. Moreover, dopaminergic drugs can specifically worsen overall disease severity through a process called augmentation (the intensifying of symptoms or manifestation earlier in the day after a period of successful dopaminergic treatment). This RLS augmentation can be severe and appears to happen gradually with continued use of the medications.
+
+Alpha-2-delta ligands
+Seven RCTs that examined the efﬁcacy of gabapentin enacarbil in RLS have been published that qualify for inclusion. These seven high-quality studies, ranging in duration from 2 weeks to 12 weeks, indicate that gabap- entin enacarbil is efﬁcacious up to 12 weeks at a dose of 1200 mg. A high rate of dropouts compared with placebo is evident in several studies (I, B).107
+Pregabalin is another efﬁcacious medication for the treatment of moderate-to-severe idiopathic RLS when taken at doses between 150 mg/day and 450 mg/day, 1–3 hours before bedtime. Three RCTs which examined the efﬁcacy of pregabalin in more than 900 patients with RLS over 6–52 weeks have been published that qualify for inclusion. The most frequently reported AEs were dizzi- ness, somnolence, fatigue and headache (I, B).107 Given that pregabalin is metabolised renally, lower doses may be necessary in older populations.
+Non-ergot-derived dopamine agonists
+Several published RCTs about the use of rotigotine in the treatment of RLS have been analysed (104). There is sufﬁcient evidence to conclude that a rotigotine trans- dermal patch is clinically useful for the management of RLS in patients with moderate-to-severe clinical symp- toms (I, A).
+There is also evidence that pramipexole at doses of 0.25 mg, 0.50 mg and 0.75 mg is efficient for the management of RLS in patients with moderate-to-severe clinical symp- toms (I, B).109
+Sufﬁcient evidences support another dopamine agonist ropinirole as clinically useful for both RLS symptoms and improving sleep in patients with moderate-to-severe
+ 
+clinical symptoms. One trial comparing ropinirole with gabapentin found that they were equally efﬁcient in treating RLS, but this study only included 16 patients who were treated for 4 weeks (I, B).110
+
+Benzodiazepines
+Benzodiazepines can induce and maintain sleep and are thought to be beneficial for people with RLS. Although benzodiazepines, particularly clonazepam, are used to treat RLS symptoms, a systematic review done by the American Academy of Sleep Medicine stated that benzo- diazepines should not be used as a first-line treatment, although they could be used as a coadjuvant therapy.111
+It has been shown that clonazepam can alleviate sensory symptoms and favour/induce sleep. Randomised controlled studies among non-cancer populations demonstrated an improvement in patients’ QoL (II, C). Given the lack of knowledge about the role of clonaz- epam or other benzodiazepines in the treatment of RLS, only well-designed clinical trials will answer this question. This is of relevance, since clonazepam is suggested to be beneficial for the control of augmentation, an emergent clinical problem associated with the use of dopaminergic agonists for the treatment of RLS.112
+Despite limited data on the QoL improvement with clonazepam, the last Cochrane systematic review about efficacy and safety of benzodiazepines showed that there were no data to support or refute the use of these drugs to treat RLS symptoms (II, C).111
+Although some features of these drugs may benefit people with RLS, others might act in the opposite way: for instance, this class of drugs may act as opioid antagonists attenuating opioid antinociception.111
+
+Opioids
+Opioids are most commonly used for RLS in the first steps of treatment failure. In the opioid class of drugs, oxycodone/naloxone combination is efficacious when used at low doses two times per day for improving both daytime and night-time symptoms in patients with severe or refractory RLS.
+A double-blind, randomised, placebo-controlled trial showed that prolonged release oxycodone/naloxone was effective and safe for RLS treatment after primary treat- ment medications had failed (II, B).113
+However, commonly occurring AEs such as fatigue, constipation, nausea, induction or worsening of sleep- disordered breathing and the potential for misuse should be taken into account. Oxycodone/naloxone is licensed for severe RLS as a second-line therapy in Europe.114
+The absence of ongoing studies on opioids, as on benzodiazepines, may reflect the lack of interest of clin- ical researchers in this class of drugs for the treatment of RLS.
+Online supplemental table S8 summarises the most commonly used drugs for RLS (in non-cancer population).
+ 
+Recommendations
+►	For ChT-induced, steroid-induced or CNS damage, the following treatments are recommended:
+–	Gabapentin enacarbil 1200 mg per day (I, B).
+–	Pregabalin 100–450 mg per day (I, B).
+–	Rotigotine patch 1–3 mg per day (I, A).
+–	Pramipexole 0.25 mg, 0.5 mg or 0.75 mg per day (I, B).
+–	Ropinirole 0.78–4.6 mg per day (I, B).
+–	Clonazepam 0.25 mg at bedtime, maximum dose 3–4 mg per day in divided doses (II, C).
+–	Prolonged-release oxycodone/naloxone two times per day (oxycodone 10–40 mg and naloxone 5–20 mg two times per day) (II, B).
+
+METHODOLOGY
+These clinical practice guidelines were developed in accordance with the ESMO standard operating proce- dures for Clinical Practice Guidelines development http://www.esmo.org/Guidelines/ESMO-Guidelines- Methodology. The relevant literature has been selected by the expert authors. LoE and GoR have been applied using the system shown in online supplemental table S9115. Statements without grading were considered justi- fied standard clinical practice by the experts and the ESMO faculty. This manuscript has been subjected to an anonymous peer review process.
+
+Author affiliations
+1Department of Clinical Oncology, University Campus Bio-Medico of Rome, Oncologia Medica, Italy
+2Department of Oncology, Azienda Ospedaliero-Universitaria Sant'Andrea, Rome, Italy
+3Oncology- Supportive Care in Cancer Unit, Department of Medical Oncology & Haematology, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy 4Department of Clinical Oncology, Azienda Ospedaliera Papa Giovanni XXIII, Bergamo, Italy
+5Department of Clinical Oncology, Policlinico Paolo Giaccone, Palermo, Italy 6Medical Oncology, University of Brescia, ASST-Spedali Civili, Brescia, Italy 7Unit of Blood Diseases and Stem Cell Transplantation, University of Brescia, Brescia, Italy
+
+Acknowledgements The authors thank Dr Paolo Manca for the format editing. The ESMO Guidelines Committee thanks the ESMO Faculty and other experts who provided critical reviews of these ESMO Clinical Practice Guidelines.
+Funding No external funding has been received for the preparation of these guidelines. Production costs have been covered by ESMO from central funds.
+Competing interests DS has reported honoraria from Merck Sharp & Dohme, Merck, Amgen, Boehringer, Pfizer, Janssen, Astellas, Roche, Ipsen, Novartis, Italfarmaco, Sanofi, Bristol-Myers Squibb and AstraZeneca.
+Patient consent for publication Not required.
+Provenance and peer review ESMO-commissioned faculty review completed; externally peer reviewed.
+Supplemental material This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer-reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the
+content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible
+ 
+
+for any error and/or omissions arising from translation and adaptation or otherwise.
+Open access This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited, any changes made are indicated, and the use is non-commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+
+
+
+
+REFERENCES
+1	Mercadante S, Porzio G, Valle A, et al. Orphan symptoms in advanced cancer patients followed at home. Support Care Cancer 2013;21:3525–8.
+2	Gleeson A, Noble S. Orphan symptoms in palliative care. Medicine
+2015;43:730–5.
+3	Siegal T. Muscle cramps in the cancer patient: causes and treatment. J Pain Symptom Manage 1991;6:84–91.
+4	Siegal T, Haim N. Cisplatin-Induced peripheral neuropathy. frequent off-therapy deterioration, demyelinating syndromes, and muscle cramps. Cancer 1990;66:1117–23.
+5	Krexner E, Stickler A, Prainer C, et al. Acute, generalised but transient muscle cramping and weakness shortly after first oxaliplatin infusion. Med Oncol 2012;29:3592–3.
+6	Bradley WG, Lassman LP, Pearce GW, et al. The neuromyopathy of vincristine in man. Clinical, electrophysiological and pathological studies. J Neurol Sci 1970;10:107–31.
+7	Sekulic A, Migden MR, Oro AE, et al. Efficacy and safety of vismodegib in advanced basal-cell carcinoma. N Engl J Med 2012;366:2171–9.
+8	Coppin RJ, Wicke DM, Little PS. Managing nocturnal leg cramps--calf-stretching exercises and cessation of quinine treatment: a factorial randomised controlled trial. Br J Gen Pract 2005;55:186–91.
+9	Jansen PH, Veenhuizen KC, Wesseling AI, et al. Randomised controlled trial of hydroquinine in muscle cramps. Lancet 1997;349:528–32.
+10	Diener HC, Dethlefsen U, Dethlefsen-Gruber S, et al. Effectiveness of quinine in treating muscle cramps: a double-blind, placebo- controlled, parallel-group, multicentre trial. Int J Clin Pract 2002;56:243–6.
+11	Miller RG, Moore DH, Gelinas DF, et al. Phase III randomized trial of gabapentin in patients with amyotrophic lateral sclerosis. Neurology 2001;56:843–8.
+12	Chan P, Huang TY, Chen YJ, et al. Randomized, double-blind, placebo-controlled study of the safety and efficacy of vitamin B complex in the treatment of nocturnal leg cramps in elderly patients with hypertension. J Clin Pharmacol 1998;38:1151–4.
+13	Voon WC, Sheu SH. Diltiazem for nocturnal leg cramps. Age Ageing
+2001;30:91–2.
+14	Garrison SR, Allan GM, Sekhon RK, et al. Magnesium for skeletal muscle cramps. Cochrane Database Syst Rev 2012;173:Cd009402.
+15	Ally MS, Tang JY, Lindgren J, et al. Effect of calcium channel blockade on Vismodegib-Induced muscle cramps. JAMA Dermatol 2015;151:1132–4.
+16	Hershman DL, Lacchetti C, Dworkin RH, et al. Prevention and management of chemotherapy-induced peripheral neuropathy in survivors of adult cancers: American Society of clinical oncology clinical practice guideline. J Clin Oncol 2014;32:1941–67.
+17	Lagueny A. [Cramp-fasciculation syndrome]. Rev Neurol
+2005;161:1260–6.
+18	Caviness JN. Treatment of myoclonus. Neurotherapeutics
+2014;11:188–200.
+19	Mercadante S. Pathophysiology and treatment of opioid-related myoclonus in cancer patients. Pain 1998;74:5–9.
+20	Woodward OB, Naraen S, Naraen A. Opioid-Induced myoclonus and hyperalgesia following a short course of low-dose oral morphine. Br J Pain 2017;11:32–5.
+21	Mercadante S. Intrathecal morphine and bupivacaine in advanced cancer pain patients implanted at home. J Pain Symptom Manage 1994;9:201–7.
+22	de Stoutz ND, Bruera E, Suarez-Almazor M. Opioid rotation for toxicity reduction in terminal cancer patients. J Pain Symptom Manage 1995;10:378–84.
+23	Mercadante S, Villari P, Ferrera P. Naloxone in treating central adverse effects during opioid titration for cancer pain. J Pain Symptom Manage 2003;26:691–3.
+ 
+
+24	Eisele JH, Grigsby EJ, Dea G. Clonazepam treatment of myoclonic contractions associated with high-dose opioids: case report. Pain 1992;49:231–2.
+25	Holdsworth MT, Adams VR, Chavez CM, et al. Continuous midazolam infusion for the management of morphine-induced myoclonus. Ann Pharmacother 1995;29:25–9.
+26	Mercadante S. Dantrolene treatment of opioid-induced myoclonus.
+Anesth Analg 1995;81:1307–8.
+27	Blasi J, Chapman ER, Link E, et al. Botulinum neurotoxin a selectively cleaves the synaptic protein SNAP-25. Nature 1993;365:160–3.
+28	Krames ES, Gershow J, Glassberg A, et al. Continuous infusion of spinally administered narcotics for the relief of pain due to malignant disorders. Cancer 1985;56:696–702.
+29	Ponticelli E, Clari M, Frigerio S, et al. Dysgeusia and health-related quality of life of cancer patients receiving chemotherapy: a cross- sectional study. Eur J Cancer Care 2017;26:ecc.12633.
+30	Chaveli-López B. Oral toxicity produced by chemotherapy: a systematic review. J Clin Exp Dent 2014;6:e81–90.
+31	Hovan AJ, Williams PM, Stevenson-Moore P, et al. A systematic review of dysgeusia induced by cancer therapies. Support Care Cancer 2010;18:1081–7.
+32	Kano T, Kanda K. Development and validation of a chemotherapy- induced taste alteration scale. Oncol Nurs Forum 2013;40:E79–85.
+33	Mueller C, Kallert S, Renner B, et al. Quantitative assessment of gustatory function in a clinical context using impregnated "taste strips". Rhinology 2003;41:2–6.
+34	Spotten LE, Corish CA, Lorton CM, et al. Subjective and objective taste and smell changes in cancer. Ann Oncol 2017;28:969–84.
+35	Thorne T, Olson K, Wismer W. A state-of-the-art review of the management and treatment of taste and smell alterations in adult oncology patients. Support Care Cancer 2015;23:2843–51.
+36	Murtaza B, Hichami A, Khan AS, et al. Alteration in taste perception in cancer: causes and strategies of treatment. Front Physiol 2017;8:134.
+37	Cohen J, Wakefield CE, Laing DG. Smell and taste disorders resulting from cancer and chemotherapy. Curr Pharm Des 2016;22:2253–63.
+38	Descoeur J, Pereira V, Pizzoccaro A, et al. Oxaliplatin-Induced cold hypersensitivity is due to remodelling of ion channel expression in nociceptors. EMBO Mol Med 2011;3:266–78.
+39	Scordo M, Shah GL, Peled JU, et al. Unlocking the complex flavors of Dysgeusia after hematopoietic cell transplantation. Biol Blood Marrow Transplant 2018;24:425–32.
+40	MUNANKARMI D. Management of Dysgeusia related to cancer. J Lumbini Med Coll;5:3–12.
+41	Ripamonti C, Zecca E, Brunelli C, et al. A randomized, controlled clinical trial to evaluate the effects of zinc sulfate on cancer patients with taste alterations caused by head and neck irradiation. Cancer 1998;82:1938–45.
+42	Yamagata T, Nakamura Y, Yamagata Y, et al. The pilot trial of the prevention of the increase in electrical taste thresholds by zinc containing fluid infusion during chemotherapy to treat primary lung cancer. J Exp Clin Cancer Res 2003;22:557–63.
+43	Mizukami Y, Sato J, Nihei S, et al. [The Effectiveness of Polaprezinc Preparation for Taste Alteration in Cancer Chemotherapy]. Gan To Kagaku Ryoho 2016;43:979–83.
+44	Najafizade N, Hemati S, Gookizade A, et al. Preventive effects of zinc sulfate on taste alterations in patients under irradiation for head and neck cancers: a randomized placebo-controlled trial. J Res Med Sci 2013;18:123–6.
+45	Halyard MY, Jatoi A, Sloan JA, et al. Does zinc sulfate prevent therapy-induced taste alterations in head and neck cancer patients? results of phase III double-blind, placebo-controlled trial from the North central cancer treatment group (N01C4). Int J Radiat Oncol Biol Phys 2007;67:1318–22.
+46	Lyckholm L, Heddinger SP, Parker G, et al. A randomized, placebo controlled trial of oral zinc for chemotherapy-related taste and smell disorders. J Pain Palliat Care Pharmacother 2012;26:111–4.
+47	Büntzel J, Schuth J, Küttner K, et al. Radiochemotherapy with amifostine cytoprotection for head and neck cancer. Support Care Cancer 1998;6:155–60.
+48	Komaki R, Lee JS, Milas L, et al. Effects of amifostine on acute toxicity from concurrent chemotherapy and radiotherapy for inoperable non-small-cell lung cancer: report of a randomized comparative trial. Int J Radiat Oncol Biol Phys 2004;58:1369–77.
+49	Strasser F, Demmer R, Böhme C, et al. Prevention of docetaxel- or paclitaxel-associated taste alterations in cancer patients with oral glutamine: a randomized, placebo-controlled, double-blind study. Oncologist 2008;13:337–46.
+ 
+
+50	Erkurt E, Erkisi M, Tunali C. Supportive treatment in weight- losing cancer patients due to the additive adverse effects of radiation treatment and/or chemotherapy. J Exp Clin Cancer Res 2000;19:431–9.
+51	Soares HP, Cusnir M, Schwartz MA, et al. Treatment of taste alterations in chemotherapy patients using the “miracle fruit”: Preliminary analysis of a pilot study. Journal of Clinical Oncology 2010;28:e19523.
+52	Brisbois TD, de Kock IH, Watanabe SM, et al. Delta-9- Tetrahydrocannabinol may palliate altered chemosensory perception in cancer patients: results of a randomized, double- blind, placebo-controlled pilot trial. Ann Oncol 2011;22:2086–93.
+53	Boltong A, Keast R, Aranda S. Experiences and consequences of altered taste, flavour and food hedonics during chemotherapy treatment. Support Care Cancer 2012;20:2765–74.
+54	Speck RM, DeMichele A, Farrar JT, et al. Taste alteration in breast cancer patients treated with taxane chemotherapy: experience, effect, and coping strategies. Support Care Cancer 2013;21:549–55.
+55	Jham BC, Chen H, Carvalho AL, et al. A randomized phase III prospective trial of bethanechol to prevent mucositis, candidiasis, and taste loss in patients with head and neck cancer undergoing radiotherapy: a secondary analysis. J Oral Sci 2009;51:565–72.
+56	Kumbargere Nagraj S, George RP, Shetty N, et al. Interventions for managing taste disturbances. Cochrane Database Syst Rev 2017;12:Cd010470.
+57	Ravasco P, Monteiro Grillo I, Camilo M. Cancer wasting and quality of life react to early individualized nutritional counselling! Clin Nutr 2007;26:7–15.
+58	Ravasco P, Monteiro-Grillo I, Marques Vidal P, et al. Impact of nutrition on outcome: a prospective randomized controlled trial in patients with head and neck cancer undergoing radiotherapy. Head Neck 2005;27:659–68.
+59	Strojan P, Hutcheson KA, Eisbruch A, et al. Treatment of late sequelae after radiotherapy for head and neck cancer. Cancer Treat Rev 2017;59:79–92.
+60	Riley P, Glenny A-M, Hua F, et al. Pharmacological interventions for preventing dry mouth and salivary gland dysfunction following radiotherapy. Cochrane Database Syst Rev 2017;7:CD012744.
+61	Jensen K, Bonde Jensen A, Grau C. The relationship between observer-based toxicity scoring and patient assessed symptom severity after treatment for head and neck cancer. A correlative cross sectional study of the DAHANCA toxicity scoring system and the EORTC quality of life questionnaires. Radiother Oncol 2006;78:298–305.
+62	Nutting CM, Morden JP, Harrington KJ, et al. Parotid-Sparing intensity modulated versus conventional radiotherapy in head and neck cancer (PARSPORT): a phase 3 multicentre randomised controlled trial. Lancet Oncol 2011;12:127–36.
+63	Brouwer CL, Steenbakkers RJHM, Bourhis J, et al. Ct-Based delineation of organs at risk in the head and neck region: DAHANCA, EORTC, GORTEC, HKNPCSG, NCIC CTG, NCRI, NRG oncology and TROG consensus guidelines. Radiother Oncol 2015;117:83–90.
+64	Deasy JO, Moiseenko V, Marks L, et al. Radiotherapy dose-volume effects on salivary gland function. Int J Radiat Oncol Biol Phys 2010;76:S58–63.
+65	Wang X, Eisbruch A. Imrt for head and neck cancer: reducing xerostomia and dysphagia. J Radiat Res 2016;57:i69–75.
+66	Vigarios E, Epstein JB, Sibaud V. Oral mucosal changes induced by anticancer targeted therapies and immune checkpoint inhibitors. Support Care Cancer 2017;25:1713–39.
+67	Wolff A, Joshi RK, Ekström J, et al. A guide to medications inducing salivary gland dysfunction, xerostomia, and subjective sialorrhea:
+a systematic review sponsored by the world workshop on oral medicine VI. Drugs R D 2017;17:1–28.
+68	Yang W-fa, Liao G-qing, Hakim SG, et al. Is pilocarpine effective in preventing radiation-induced xerostomia? A systematic review and meta-analysis. Int J Radiat Oncol Biol Phys 2016;94:503–11.
+69	Jensen SB, Pedersen AML, Vissink A, et al. A systematic review of salivary gland hypofunction and xerostomia induced by cancer therapies: management strategies and economic impact. Support Care Cancer 2010;18:1061–79.
+70	Mercadante V, Al Hamad A, Lodi G, et al. Interventions for the management of radiotherapy-induced xerostomia and
+hyposalivation: a systematic review and meta-analysis. Oral Oncol
+2017;66:64–74.
+71	Fox NF, Xiao C, Sood AJ, et al. Hyperbaric oxygen therapy for the treatment of radiation-induced xerostomia: a systematic review. Oral Surg Oral Med Oral Pathol Oral Radiol 2015;120:22–8.
+ 
+
+72	Laugsand, PhD-student EA, Kaasa, MD S, De Conno, MD F,
+et al. Intensity and treatment of symptoms in 3,030 palliative care patients: a cross-sectional survey of the EAPC research network. J Opioid Manag 2009;5:11–21.
+73	Kvale PA. Chronic cough due to lung tumors: ACCP evidence- based clinical practice guidelines. Chest 2006;129:147S–53.
+74	Pacheco A. Chronic cough: from a complex dysfunction of the neurological circuit to the production of persistent cough. Thorax 2014;69:881–3.
+75	Bonvini SJ, Birrell MA, Smith JA, et al. Targeting TRP channels for chronic cough: from bench to bedside. Naunyn Schmiedebergs Arch Pharmacol 2015;388:401–20.
+76	Canning BJ, Woo A, Mazzone SB. Neuronal modulation of airway and vascular tone and their influence on nonspecific airways responsiveness in asthma. J Allergy 2012;2012:1–7.
+77	Irwin RS, Baumann MH, Bolser DC, et al. Diagnosis and management of cough executive summary: ACCP evidence-based clinical practice guidelines. Chest 2006;129:1S–23.
+78	Molassiotis A, Smith JA, Mazzone P, et al. Symptomatic treatment of cough among adult patients with lung cancer: chest guideline and expert panel report. Chest 2017;151:861–74.
+79	Molassiotis A, Bailey C, Caress A, et al. Interventions for cough in cancer. Cochrane Database Syst Rev 2015;5:CD007881.
+80	Molassiotis A, Smith JA, Bennett MI, et al. Clinical expert guidelines for the management of cough in lung cancer: report of a UK task group on cough. Cough 2010;6:9.
+81	Ryan NM, Birring SS, Gibson PG. Gabapentin for refractory chronic cough: a randomised, double-blind, placebo-controlled trial. Lancet 2012;380:1583–9.
+82	Razzak R, Waldfogel JM, Doberman DJ, et al. Gabapentin for cough in cancer. J Pain Palliat Care Pharmacother 2017;31:195–7.
+83	Ní Laoire Áine, Fettes L, Murtagh FE. A systematic review of the effectiveness of palliative interventions to treat rectal tenesmus in cancer. Palliat Med 2017;31:975–81.
+84	Rao AR, Kagan AR, Chan PY, et al. Effectiveness of local radiotherapy in colorectal carcinoma. Cancer 1978;42:1082–6.
+85	Ang S. Tenesmus, strangury, and malodor. Palliative Med
+2009:947–50.
+86	Mercadante S, Fulfaro F, Dabbene M. Methadone in treatment of tenesmus not responding to morphine escalation. Support Care Cancer 2001;9:129–30.
+87	Hanks GW. Opioid-responsive and opioid-non-responsive pain in cancer. Br Med Bull 1991;47:718–31.
+88	Turker G, Basagan-Mogol E, Gurbet A, et al. A new technique for superior hypogastric plexus block: the posteromedian transdiscal approach. Tohoku J Exp Med 2005;206:277–81.
+89	Gevers A-M, Macken E, Hiele M, et al. Endoscopic laser therapy for palliation of patients with distal colorectal carcinoma: analysis of factors influencing long-term outcome. Gastrointest Endosc 2000;51:580–5.
+90	Krajnik M, Zylicz Z, Finlay I, et al. Potential uses of topical opioids in palliative care – report of 6 cases. Pain 1999;80:121–5.
+91	Stegman MB, Stoukides CA. Resolution of tumor pain with EMLA cream. Pharmacotherapy 1996;16:694–7.
+92	Zaporowska-Stachowiak I, Kosicka K, Kowalski G, Luczak J,
+et al. Bupivacaine administered intrathecally versus rectally in the management of intractable rectal cancer pain in palliative care. Onco Targets Ther 2014;7:1541–50.
+93	McLoughlin R, McQuillan R. Using nifedipine to treat tenesmus.
+Palliat Med 1997;11:419–20.
+94	Stowers KH, Hartman AD, Gustin J. Diltiazem for the management of malignancy-associated perineal pain and tenesmus. J Palliat Med 2014;17:1075–7.
+95	Hosoya R, Uesawa Y, Ishii-Nozawa R, et al. Analysis of factors associated with hiccups based on the Japanese adverse drug event report database. PLoS One 2017;12:e0172057.
+ 
+
+96	Porzio G, Aielli F, Verna L, et al. Gabapentin in the treatment of hiccups in patients with advanced cancer: a 5-year experience. Clin Neuropharmacol 2010;33:179–80.
+97	Friedgood CE, Chlorpromazine RCB. Chlorpromazine (thorazine) in the treatment of intractable hiccups. J Am Med Assoc 1955;157:309–10.
+98	Moretto EN, Wee B, Wiffen PJ, et al. Interventions for treating persistent and intractable hiccups in adults. Cochrane Database Syst Rev 2013;13:Cd008768.
+99	Regnard C. Dysphagia, dyspepsia and hiccup. In: Doyle D, Hanks G, Cherny NI, et al, eds. Oxford textbook of palliative medicine. 4th ed. New York, USA, 2010: 499–512.
+100	Choi T-Y, Lee MS, Ernst E. Acupuncture for cancer patients suffering from hiccups: a systematic review and meta-analysis. Complement Ther Med 2012;20:447–55.
+101	Go S-I, Koo D-H, Kim ST, et al. Antiemetic corticosteroid rotation from dexamethasone to methylprednisolone to prevent dexamethasone-induced hiccup in cancer patients treated with
+chemotherapy: a randomized, single-blind, crossover phase III trial.
+Oncologist 2017;22:1354–61.
+102	Högl B, Kiechl S, Willeit J, et al. Restless legs syndrome: a community-based study of prevalence, severity, and risk factors. Neurology 2005;64:1920–4.
+103	Saini A, Berruti A, Ferini-Strambi L, et al. Restless legs syndrome as a cause of sleep disturbances in cancer patients receiving chemotherapy. J Pain Symptom Manage 2013;46:56–64.
+104	Earley CJ, Allen RP, Beard JL, et al. Insight into the pathophysiology of restless legs syndrome. J Neurosci Res 2000;62:623–8.
+105	Wang J, O'Reilly B, Venkataraman R, et al. Efficacy of oral iron in patients with restless legs syndrome and a low-normal ferritin: a randomized, double-blind, placebo-controlled study. Sleep Med 2009;10:973–5.
+106	Allen RP. Restless legs syndrome/Willis Ekbom disease: evaluation and treatment. Int Rev Psychiatry 2014;26:248–62.
+107	Winkelman JW, Armstrong MJ, Allen RP, et al. Practice guideline summary: treatment of restless legs syndrome in adults: report of the Guideline development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology. Neurology 2016;87:2585–93.
+108	Winkelmann J, Allen RP, Högl B, et al. Treatment of restless legs syndrome: Evidence-based review and implications for clinical practice (Revised 2017) §. Movement Disorders 2018;33:1077–91.
+109	Montagna P, Hornyak M, Ulfberg J, et al. Randomized trial of pramipexole for patients with restless legs syndrome (RLS) and RLS-related impairment of mood. Sleep Med 2011;12:34–40.
+110	Happe S, Sauter C, Klösch G, et al. Gabapentin versus ropinirole in the treatment of idiopathic restless legs syndrome. Neuropsychobiology 2003;48:82–6.
+111	Carlos K, Prado GF, Teixeira CDM, et al. Benzodiazepines for restless legs syndrome. Cochrane Database Syst Rev 2017;71:Cd006939.
+112	Kurlan R, Rabin M. Augmentation in restless legs syndrome: poor response to sudden withdrawal of dopaminergic therapy. Journal of Parkinsonism and Restless Legs Syndrome 2013;3:49–52.
+113	Trenkwalder C, Beneš H, Grote L, et al. Prolonged release oxycodone-naloxone for treatment of severe restless legs syndrome after failure of previous treatment: a double-blind, randomised, placebo-controlled trial with an open-label extension. Lancet Neurol 2013;12:1141–50.
+114	Malvezzi M, Carioli G, Bertuccio P, et al. European cancer mortality predictions for the year 2017, with focus on lung cancer. Annals of Oncology 2017;28:1117–23.
+115	Dykewicz CA, Centers for Disease Control and Prevention (U.S.), Infectious Diseases Society of America. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis 2001;33:139–44. (Adapted from: Gross PA, Barrett TL, Dellinger EP et al. Purpose of quality standards for infectious diseases. Clin Infect Dis 1994; 18: 421).

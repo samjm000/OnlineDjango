@@ -4,12 +4,13 @@ from django.template import loader
 from django.views.generic import ListView, DetailView, CreateView, TemplateView
 from kai.models import Question
 from . import q_a_system
+from . import haystack_system
 
 def result(request):
     search_data = request.GET["search_data"]
     search_response = "Updating Data"
-    search_response = q_a_system.predictionModel(search_data)
-    return render(request, "result.html", {"home_input": search_response},)
+    search_response = haystack_system.predictionModel(search_data)
+    return render(request, "result.html", {"home_input": search_response})
 
 
 class KaiListView(ListView):

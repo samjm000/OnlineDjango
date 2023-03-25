@@ -1,0 +1,229 @@
+Cancer-related fatigue: ESMO Clinical Practice Guidelines for diagnosis and treatment
+
+INTRODUCTION
+Fatigue is the most common symptom experienced by pa- tients during the cancer trajectory from diagnosis to the end of life and is defined as a distressing, persistent, sub- jective sense of physical, emotional and/or cognitive tired- ness or exhaustion related to cancer or cancer treatment that is not proportional to recent physical activity and that interferes with usual functioning.1,2 Cancer-related fatigue (CRF) is different from other types of fatigue by its severity and persistence and the inability to alleviate it through rest or sleep. CRF affects almost 65% of patients with cancer; over two-thirds of these patients describe CRF as severe for at least 6 months and one-third reports this as persistent fatigue for a number of years after treatment.3e5 Up to 40% of patients report fatigue at cancer diagnosis, 80%e90% during chemotherapy (ChT) and/or radiotherapy (RT), in particular 17%e21% during ChT alone and 33%e53% dur- ing association of ChT and RT.2,3 Moreover, hormonal therapy, targeted therapy and also immunotherapy can be responsible for fatigue. CRF related to immunotherapy has an incidence from 12% to 37% up to 71% when immuno- therapy is combined with ChT, monoclonal antibodies, antiangiogenic agents and targeted therapies. In addition, immunotherapy can be a cause of fatigue when it is complicated by endocrinological disorders.6,7
+The aetiology of CRF has not yet been thoroughly eluci- dated, although it may involve several physiological and
+
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, 6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+y Approved by the ESMO Guidelines Committee: February 2020.
+0923-7534/© 2020 European Society for Medical Oncology. Published by Elsevier Ltd. All rights reserved.
+ 
+
+biochemical systems which, in turn, might vary according to the type of tumour, stage of disease and treatment.1,3,8
+CRF probably starts in the skeletal muscles due to a pro- gressive reduction of physical activity (sometimes with physical interruption), but the brain is also critical as a central regulator of fatigue perception. Recently, tryptophan degra- dation and several cytokines and other pro-inﬂammatory mediators produced in response to cancer have been asso- ciated with fatigue; however, their direct role in pathogenesis of fatigue is controversial. Cytokines have been implicated in the pathophysiology of fatigue by possibly acting at multiple levels, including mood, muscle mass, strength and metabolic status. A recent review showed a positive correlation be- tween fatigue and circulating levels of inﬂammatory markers; interleukin (IL)-6, IL-1 and neopterin values, in particular, were significantly associated with CRF.1,3,8
+
+GENERAL PRINCIPLES OF CARE
+Shared decision-making between the fatigued cancer pa- tient and health care professionals (oncologists and speci- alised nurses when available) should take place during diagnosis and all phases of care [II, B].
+The health care professional should:
+
+acknowledge the reality and impact of the condition and the symptoms;
+provide information on the possible causes, nature and course of CRF;
+provide information about the range of interventions and management strategies available to the patient; take into account the person’s age, the severity of their fatigue, their preferences and experiences and the outcome of previous treatment(s) by means of a careful assessment on a regular basis;
+ 
+
+Volume 31 ■ Issue 6 ■ 2020	https://doi.org/10.1016/j.annonc.2020.02.016	713
+ 
+Annals of Oncology	A. Fabi et al.
+
+ 
+offer information about support groups for people with fatigue and their carers, if available.
+
+
+DIAGNOSIS
+In the last two decades, progress has been made in the understanding of CRF including its measurement in adults and children, but a specific diagnostic algorithm is not yet well defined.9 In an effort to address what constitutes CRF, specific diagnostic criteria were developed and proposed for inclusion in the International Statistical Classification of Diseases and Related Health Problems 10th edition (ICD- 10).10,11 The criteria define CRF as a syndrome by the presence of the following specific symptoms: diminished energy, increased need to rest (which is disproportionate to changes in activity level) and related symptoms across physical, emotional and cognitive domains. The symptoms must have persisted for or recurred during a defined period of time and caused significant distress or impaired social, occupational or other important areas of functioning. The symptoms are believed to be a result of the malignant disease or its therapy. The presence of an active psychiatric
+ 
+comorbidity such as a major depressive disorder or diseases requiring prophylactic medication that could explain the state of fatigue are excluded from the classification of CRF.10,11 Although the findings of a systematic review support the reliability and validity of the diagnostic criteria for a CRF diagnosis,12 further rigorous validation is needed.9
+
+
+SCREENING AND RISK ASSESSMENT
+Given the prevalence of CRF and its impact on functioning of cancer patients and their overall quality of life (QoL), as well as adherence to treatment, there is accordance among guidelines that cancer patients should be screened for the presence of symptoms of fatigue. Screening should occur as part of a holistic needs assessment, at regular intervals during therapy and aftercare, and, whenever possible, be performed by a clinical nurse specialist.
+Due to the overlapping of CRF with depression, differ- ential diagnosis must be made with validated instruments.13 Further assessment should follow a positive screen for fa- tigue.1,14e16 The recommended approach for screening and for diagnostic assessment is shown in Figure 1.
+As a subjective experience, CRF is measured most effi- ciently via self-report, and a recent analysis suggests that a 10-point numerical rating scale (NRS) for fatigue is the best screening tool.16 There is an agreement that fatigue in- tensity is graded as mild, with scores of 1e3, moderate as 4e6 and severe as 7e10.17 However, as fatigue often oc- curs with associated symptoms, a screening tool that cap- tures multiple symptoms may also be of clinical value and could help to identify patients who could significantly benefit from targeted symptom management.14
+Patients with similar fatigue intensity may have widely divergent levels of disability. Therefore, screening for symptoms of fatigue should also evaluate the ability to carry out daily activities. The NRS is simple and immediate, but when the score reaches 4, it is necessary to use a more specific questionnaire, such as the Brief Fatigue Inventory (BFI), which integrates the assessment of fatigue severity and its impact on important functional domains.18 The BFI has proved to be a reliable and easy-to-understand ques- tionnaire, validated in many languages, in clinical screening and in research.18
+Regardless of which screening tool is used, there is a need for comparable data to reliably detect changes over time.
+For research purposes, several instruments measuring fatigue have been developed.19 Many of these instruments take into account the multifactorial nature of fatigue and meet accepted standards of validity and reliability. They are based on the conceptualisation of fatigue as a subjective experience, which is comparable to other symptoms: it is what the person experiencing it says it is. At the moment, there is no clear recommendation regarding the most appropriate subjective measure. Most recently, the multi- dimensional QoL questionnaire (QLQ-FA12) module has been developed and evaluated following the methodolog- ical guidelines of the European Organisation for Research and Treatment of Cancer (EORTC).20,21 Supplementary Table S1, available at Annals of Oncology online, shows a sample of specific instruments that have reasonable reli- ability and are validated in cancer patients.
+All patients identified with moderate to severe intensity of fatigue through screening should undergo a diagnostic assessment with the aim of identifying contributing and comorbid conditions that require treatment.1,14,15 This assessment should include a focused fatigue history, a thorough medical examination, an evaluation of the status of the underlying malignant disease, a review of body sys- tems, a mental status examination and laboratory blood tests (see Figure 1).
+As part of the diagnostic assessment, the oncologist should consider contributing factors requiring treatment (e.g. pain, emotional distress, anaemia, active infection, malnutrition and thyroid, renal, cardiovascular and pulmo- nary disease), and such that require evaluation over time to determine the extent to which they contribute to CRF (e.g. effects of medications, unstable diabetes mellitus, infection, sleep pattern disorders including restless leg syndrome and periodic limb movement, chronic organ dysfunctions,
+ 
+neurological disorders and activity levels). To rapidly and sensitively screen for comorbidities or contributing depressive disorders in clinical practice, the two-question test could be of help22:
+In the last month, have you often felt dejected, sad, depressed or hopeless?
+In the last month, did you experience significantly less pleasure than usual with the things you normally like to do?
+
+Furthermore, fatigue symptoms should be reviewed with specific attention to social and environmental contributors. Although predictive values of laboratory tests are low in CRF, some parameters should also be considered (Figure 1). A thorough clinical evaluation establishes the ‘phenotype’ of the individual patient’s fatigue, which helps to sharpen the thinking about underlying mechanisms and tailoring of treatment or referral to an appropriately trained profes- sional. As part of the process of guideline implementation, it should be determined who is responsible for screening
+and for initiating subsequent assessment if indicated.
+
+Recommendations
+
+All cancer patients should be routinely screened for the presence and severity of fatigue from the point of diag- nosis onward, at regular intervals during therapy and aftercare and if clinically indicated [II, B].
+Screening should be done using brief and validated tools with established cut-off values for severity (e.g. NRS) [II, B]. Patients who screen positively for fatigue (values of 4 out of 10 or higher indicating moderate to severe fa- tigue) should undergo a comprehensive and focused diagnostic assessment, with the aim to identify treatable contributing and comorbid conditions [II, B].
+The diagnostic assessment should involve a focused fa- tigue history, a thorough medical examination, a status of the underlying malignant disease, a review of body systems, a mental status examination and a minimum battery of laboratory tests [II, B].
+
+MANAGEMENT
+Physical exercise
+Systematic reviews and meta-analyses focusing on the role of physical exercise in patients with cancer during active treatment have documented an improvement in domains such as CRF, physical and muscular strength, activity levels and aerobic fitness.23,24 There is growing evidence that physical exercise can attenuate systemic inﬂammation and improve CRF, allowing patients with or without cachexia to become more capable of carrying out the activities of daily living (ADLs) and thereby to improve the functional QoL.25 Despite significant evidence for exercise in the manage- ment of CRF, an exact exercise prescription for patients with CRF does not exist. Current exercise prescription guidelines focus broadly on the general well-being of patients with
+ 
+
+Volume 31 ■ Issue 6 ■ 2020	https://doi.org/10.1016/j.annonc.2020.02.016	715
+ 
+Annals of Oncology	A. Fabi et al.
+
+ 
+cancer, encouraging 150 min/week of aerobic exercise, 2 days/week of strength training and ﬂexibility exercises on days when aerobic or resistance exercise is not carried out.26 Some observational and interventional studies have also suggested that patients with cancer who engage in at least 3e5 hours of moderate activity weekly may experi- ence better outcomes and have fewer side-effects of anti- cancer therapy, including CRF.23
+Type of physical exercise. Exercises of moderate intensity include brisk walking (5 km/h), stationary bike with light effort and home-based exercises.27 There has been a growing interest in using physical exercise as a supple- mentary treatment modality, with increasing research in patients at various stages of their cancer trajectory. In pa- tients with cancer, during and post-treatment, prolonged inactivity and lack of exercise may lead to loss of skeletal muscle mass and strength, which gradually affects their ability to carry out simple ADLs (e.g. walking up the stairs or maintaining body balance). This ‘deconditioned’ state of the body can lead to the occurrence of physical ailments, decreased muscle strength and cardiovascular fitness, low self-esteem and an increase in anxiety and depression. ‘Reconditioning’ can be achieved through a structured ex- ercise programme designed to increase a patient’s skeletal muscle mass and strength, thereby also improving the QoL of these patients.28
+Moderate-intensity resistance training is documented as safe by randomised controlled trials (RCTs) and has been shown to decrease blood lipids, optimise immune activity and promote an anti-inﬂammatory state in pa- tients with cancer.29,30 Another RCT in non-cachectic pa- tients with cancer31 has revealed that resistance training significantly improved self-esteem, muscular strength and lean body mass. A resistance exercise programme may also increase muscle strength and maintain patients’ functional ability.32 A meta-analysis of 44 studies including 3254 patients with cancer concluded that moderate-intensity resistance exercise reduced fatigue.33 Another meta-analysis of 70 studies, including 4881 pa- tients with cancer during or after treatment, suggested that exercise can reduce CRF by a mean effect of 0.32 [95% confidence interval (CI), 0.21e0.43] and 0.38 (95% CI 0.21e0.54) during and after cancer therapy, respec- tively. Muscle strength and better physical functioning were also shown to be significantly greater in patients undergoing moderate- to high-intensity combined resis- tance and aerobic exercise.34 Aerobic exercise utilises large muscle groups for prolonged periods of time. Ex- amples of aerobic exercises include walking, running, cycling and swimming. A 2012 Cochrane analysis included 56 randomised trials (n 4826), 36 of which were con- ducted among participants undergoing active cancer treatment. Exercise resulted in a decrease in fatigue from baseline to 12 weeks’ follow-up.25
+Based on current knowledge and the results of multiple
+RCTs and systematic reviews,35,36 physical exercise can be recommended in non-cachectic patients with cancer.
+ 
+Aerobic, resistance and moderate physical exercises are recommended in patients with CRF because they provide symptomatic relief in depression, anxiety, pain and improve muscle strength.
+Walking can also be recommended in non-cachectic pa- tients with cancer as the main type of physical activity carried out (minimum of 2e3 times/week, 30e60 minutes, perceived as moderately strenuous), although cycling or more vocational forms of activity (e.g. heavy housework or gardening) can be done as long as they provoke the desired level of response on exertion. It has been documented that home-based walking at a moderate intensity (50%e70% of maximum heart rate), carried out for 10e45 minutes daily, 4e6 days weekly for 1e6 months, during ChT and RT for breast cancer reduced CRF, sleep disruption, depression and anxiety while improving cardiopulmonary function and QoL in non-cachectic patients with cancer.37 A systematic review of patients with cancer showed that aerobic exercise and resistance exercise are su- perior to no exercise for improving patient-reported physical functioning in cancer patients receiving treatment. This sys- tematic review demonstrated that aerobic and resistance ex- ercises improve upper and lower body muscle strength more than usual care.25 A study focusing on the rest interval be- tween sets in strength training38 suggested that functional resistance exercises involving major muscle groups in the upper and lower body should be prescribed at least two to three times weekly. A more intense aerobic training includes 30e60 minutes of continuous or intermittent aerobic activity training (minimum of 10-minute bouts accumulated during the day) at 50%e90% of maximal heart rate.39
+Systematic reviews and meta-analyses of patients with advanced cancer indicate that QoL benefits resulting from increased physical activity may vary with stage of cancer, treatment modality and the patient’s current lifestyle.25 Improvement may be attributed to the exercise pro- grammes, increased attention by health care personnel and perceived benefits from carrying out group activities with fellow patients. In the future, larger RCTs with a focus on study quality are required to explore the effect of physical exercise on the QoL of patients with advanced cancer.
+
+Recommendations
+Based on the results of RCTs and systematic reviews, physical exercise can be recommended in non- cachectic patients with cancer [I, B].
+Physical exercise of moderate intensity and aerobic and functional resistance exercise are recommended in pa- tients with CRF [I, B].
+Physical activities like walking and home-based aerobic and resistance exercises are recommended to improve CRF and QoL [II, B].
+Pharmacological treatments
+Several randomised, double-blind, placebo-controlled, phase IIeIII clinical trials evaluating drugs and nutraceutical in- terventions for CRF treatment have been carried out in oncological patients during all phases of disease.
+Nevertheless, these studies present many limitations due to the variability in the enrolled patients and type of cancers, the type of interventions and the scales used to evaluate CRF.
+Psychostimulants. The mechanism of action of psychosti- mulants is not completely known; they probably act as dopamine and norepinephrine reuptake inhibitors, increasing the level of dopamine in the central nervous system (CNS). Small open studies with psychostimulants suggest possible benefits in the control of CRF. Subse- quently so far, 19 randomised, double-blind, placebo- controlled, phase II and III clinical trials have been published on the following psychostimulants:
+
+●	methylphenidate and dexmethylphenidate;
+●	long-acting methylphenidate;
+●	dexamphetamine;
+●	modafinil;
+●	armodafinil.
+In all of these studies, the control of CRF was the primary end point and the fatigue score at entry was generally 4.40e58 For study details, see supplementary Data, avail-
+able at Annals of Oncology online.
+In conclusion, 15 studies showed no superiority of the psychostimulants with respect to placebo, while four studies (three with methylphenidate and one with dexme- thylphenidate) showed less fatigue with respect to pla- cebo.43e45,48 Furthermore, a subgroup analysis suggested a benefit in the control of severe fatigue in another two trials (one with long-acting methylphenidate and the other with modafinil).49,52
+Antidepressants. Two studies evaluated the efficacy of paroxetine (a selective serotonin reuptake inhibitor known to modulate brain serotonin) in reducing CRF.
+The first study was carried out in 704 patients undergoing ChT for different cancers (>50% breast cancer). Five hun- dred and forty-nine patients, reporting fatigue at the sec- ond cycle of ChT, were randomly assigned to receive oral paroxetine 20 mg daily or placebo for 8 weeks.59 Fatigue was evaluated with the Fatigue Symptom Checklist ques- tionnaire and no difference was detected in fatigue be- tween the two groups. At the end of the study, there was a difference in the mean level of depression in favour of
+paroxetine.
+In the second study, carried out in 94 breast cancer pa- tients undergoing ChT, no difference was shown in the fa- tigue incidence or intensity between paroxetine 20 mg daily and placebo, while paroxetine reduced depression more than placebo.60
+Acetylcholinesterase inhibitors. Donepezil, a long-acting selective acetylcholinesterase inhibitor, has been evalu- ated in a double-blind, placebo-controlled trial in 142 pa- tients with advanced cancer (>50% breast cancer patients) and fatigue 4 as assessed by the Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) and/or Edmonton Symptom Assessment Scale (ESAS), at a dose of 5 mg daily
+ 
+for 7 days.61 On day 8, the fatigue incidence improved significantly in both the donepezil and placebo groups, but no significant differences in efficacy and toxicity were shown between the two treatments.
+Corticosteroids. Corticosteroids are frequently recommended in patients with metastatic cancer for the control of CRF based on the results of some studies showing an improvement in QoL. Two studies evaluated corticosteroids in CRF.
+A double-blind, placebo-controlled study evaluated dexa- methasone 4 mg twice a day (b.i.d.) for 14 days.62 Eligible patients reported a fatigue score 4 with three or more CRF-related symptoms in the previous 24 hours measured by ESAS (pain, nausea, appetite lost, depression, anxiety or sleep disturbances). The primary end point was the change in fatigue scores measured by FACIT-F. Eighty-four patients entered the study. The mean improvement of fatigue at day 15 was significantly superior with dexamethasone compared with placebo. The rate of adverse events was not signifi- cantly different between the two treatments.
+Another study evaluated the effects of methylpredniso- lone 16 mg b.i.d. versus placebo administered for 7 days on pain, fatigue and appetite loss in 50 patients with advanced cancer.63 Patients receiving methylprednisolone experi- enced an improvement on the EORTC-QOL C30 question- naire compared with the placebo group. Long-term steroid use should be avoided due to the possible side-effects.
+Other drugs. Eszopiclone, a sedative hypnotic drug, has been evaluated in 45 inpatients without significant fatigue improvement.64
+The progestin agent megestrol acetate has been evalu- ated in a randomised, double-blind, crossover study in 53 patients with advanced cancer.65 In this study, in which the impact on anorexia was the primary end point, megestrol acetate ameliorated fatigue with respect to placebo.
+No significant effect on CRF improvement was found with melatonin in a randomised, crossover study in 72 patients with advanced cancer in palliative care units.66
+
+Recommendations
+The use of modafinil and armodafinil is not recommen- ded for the control of CRF [II, D].
+Concerning the use of methylphenidate, dexmethylphe- nidate, long-acting methylphenidate and dexamphet- amine, the panel has not reached a consensus:
+B for three panel members, the psychostimulants could be considered in thoroughly selected patients and their usefulness and safety should be evaluated after a very short time period [II, C];
+B for the other six panel members, psychostimulants cannot be recommended, because most trials failed to show the intended effects on the primary outcome measures [II, D].
+The use of antidepressants, and in particular paroxetine, is not recommended for the control of CRF [II, D].
+The use of donepezil for the control of CRF is not recom- mended [II, D].
+ 
+
+Volume 31 ■ Issue 6 ■ 2020	https://doi.org/10.1016/j.annonc.2020.02.016	717
+ 
+Annals of Oncology	A. Fabi et al.
+
+ 
+●	Short-term use of dexamethasone or methylpredniso-
+ 
+CRF72; the second one in patients with various solid tu-
+ 
+lone is recommended for the control of CRF in metastatic cancer patients [II, B].
+The use of eszopiclone, megestrol acetate and melatonin is not recommended for the control of CRF [II, D].
+Nutraceutical treatments
+L-Carnitine. A prospective double-blind, placebo-controlled study was carried out evaluating the role of L-carnitine administered at dose of 2 g daily for 4 weeks in 376 patients with advanced cancer and fatigue (evaluated with BFI).67 Eighty-five percent of these patients were undergoing RT or ChT. In both groups of patients, there was an improve- ment for fatigue but no differences were shown between L-carnitine and placebo-treated patients, even in patients with a baseline deficiency of L-carnitine (33% of the enrolled patients).
+A post hoc analysis of a double-blind, placebo-controlled study carried out in terminal cancer patients referring fatigue and L-carnitine deficiency showed that 1 g b.i.d. of L-carnitine supplementation ameliorated fatigue symptoms.68
+Coenzyme Q10. A double-blind, placebo-controlled study evaluated the use of coenzyme Q10 in women with breast cancer having adjuvant ChT.69 Coenzyme Q10 was used at doses of 100 mg three times daily (t.i.d.) in combination with vitamin E (100 mg for each dose of coenzyme Q10) for 24 weeks, without a difference in CRF.
+Wisconsin ginseng. Several studies investigated the possible role of ginseng in the treatment of CRF. These trials are very heterogeneous, mainly due to the use of different kinds and doses of ginseng and to the variability of enrolled patients and type of cancers.
+The double-blind, randomised, placebo-controlled, phase III trial on fatigued cancer survivor patients evaluated 2000 mg of Wisconsin ginseng (a common type of American ginseng) versus placebo for 8 weeks. CRF was evaluated by the general subscale of the Multidimensional Fatigue Symptom InventoryeShort Form (MFSI-SF) at baseline and at 4 and 8 weeks.70 Three hundred and sixty-four partici- pants undergoing or having undergone curative intent treatment were enrolled. A statistically significant differ- ence was seen at 8 weeks, with greater benefit reported in patients receiving active cancer treatment versus those who had completed treatment. Toxicities did not differ signifi- cantly. The study included a heterogeneous population, with different neoplasms and different stages of disease.
+Other nutraceutical treatments. Better planned studies are needed to define the role of astragalus, guarana and mistletoe in the control of CRF.
+Astragalus, a ﬂowering plant in the family Fabaceae, has been studied in a randomised trial in patients with advanced cancer showing a greater fatigue-improvement response rate compared with placebo.71
+Guarana has been investigated in two randomised, placebo-controlled trials. The first one in patients with breast cancer undergoing ChT showed an improvement in
+ 
+mours treated with ChT showed no difference compared with placebo.73
+Mistletoe was administrated as an aqueous extract in 352 breast cancer patients during ChT with cyclophosphamide, methotrexate and ﬂuorouracil (CMF). The results showed an improvement in QoL, fatigue and other symptoms for mistletoe compared with placebo.74
+Moreover, mistletoe extract has been evaluated in an open-label, randomised, phase III study in 220 patients with advanced pancreatic cancer receiving only best supportive care.75 Mistletoe extract was given in escalating doses by subcutaneous injection t.i.d. The planned interim analysis indicated that mistletoe treatment was associated with longer overall survival (OS). Therefore, the trial was termi- nated prematurely as an improvement in QoL, fatigue and other symptoms with mistletoe was shown. However, the study has some shortcomings as there was no placebo control group and patients receiving mistletoe had more contact with the caregivers, which might indicate a more intensive supportive care therapy.
+
+Recommendations
+
+Concerning the use of Wisconsin ginseng, the panel has not reached a consensus:
+B for three panel members, extracts of Wisconsin ginseng could be considered for patients with fatigue and no other treatable reasons and where the fatigue lasts >4 weeks during active cancer treatment [II, C];
+B for the other six panel members, Wisconsin ginseng
+cannot be recommended [II, D].
+The use of L-carnitine, coenzyme Q10, astragalus and gua- rana is not recommended currently for the control of CRF [II, D].
+Concerning the use of mistletoe extracts, the panel has not reached a consensus:
+B for three panel members, mistletoe extracts could be considered for the control of fatigue in advanced pancreatic cancer [II, C];
+B for the other six panel members, mistletoe cannot be recommended [II, D].
+
+Psychosocial interventions
+Psychosocial interventions for treating CRF cover a broad range of various interventions such as psychosocial coun- selling, psychotherapy or psychoeducation and mind-body interventions.76 Apart from communicating information about CRF, the main goals of interventions are to help pa- tients restructure their cognitive appraisal of CRF, change their coping strategies and behaviour and address self-help or self-care strategies. Some interventions include elements such as relaxation techniques, energy conservation and stress management. Most of the psychosocial interventions may be carried out as both individual and group in- terventions. Some of the psychosocial interventions are combined with physical activity or training.
+Information and counselling. Information and counselling can help patients to gain a better understanding of CRF and see it not only as a result of cancer and its treatment but also as a condition inﬂuenced by various psychosocial fac- tors. As a first step, information on the multifactorial nature of CRF and its potential causes and inﬂuencing factors should be given. Counselling can help the patients to devise a personalised activity plan, taking restrictions due to CRF into account. Counselling should include recommendations for energy preservation, task prioritisation, activity pacing and advice on how to delegate less important activities.77
+There is some evidence showing that such strategies can improve QoL and reduce the subjective feeling of fatigue.77 Information and counselling may be supported by bro- chures or interactive media, including internet platforms. Information and counselling should be provided not only for the individual patient but also for partners or family members, which can help prevent negative psychosocial implications, such as misunderstandings and emotional withdrawal.
+Psychoeducation. Psychoeducational interventions focus on the management of CRF and help patients to promote self- management, adaptation and adjustment to their current condition and treatments. The most important goal of psychoeducational intervention is to facilitate self-care for the person with cancer.78 Recognising that emotional distress is highly correlated with fatigue, psychoeducational interventions should focus on identification of coping stra- tegies to optimise the patient’s ability to deal with anxiety, depression and psychosocial distress.
+It may be helpful for patients to identify sources of psychosocial distress and to eliminate stress-producing ac- tivities where possible. Another important element is to focus the patient’s attention on the patterns of fatigue and on finding a balance between rest and activity during the day. This can be done by using diary techniques, including subjective rating of each activity in terms of the perceived level of fatigue. These techniques can be helpful for the patient to identify fatigue-promoting activities and develop specific strategies to avoid or modify these activities. It is important to support the patients in setting realistic goals to avoid frustration and to partake in self-restoring activ- ities.79 An individual activity/rest programme can be included, based on an assessment of the patient’s fatigue patterns such as relaxation techniques or meditation, which may target underlying biological mechanisms and reduce cancer-related distress by diminishing activation of the hy- pothalamic pituitary adrenal (HPA) axis.80 Outcomes of psychoeducational programmes have been investigated in several studies demonstrating a measurable reduction in CRF as well as an increase of vitality, with small to moderate effects on overall CRF.81,82
+Cognitive behavioural therapy. Cognitive behavioural therapy (CBT) addresses emotions, behaviours and cogni- tive processes and applies them toward goal-oriented and systematic activities. CBT in CRF takes into account the
+ 
+thoughts and functional behaviours relevant to the syn- drome and focuses on the individual and their pattern of psychological factors.83 CBT is generally used post- treatment and in the long term but may also be used for patients with acute fatigue still undergoing ChT.84 CBT is generally used to address the following factors:
+
+coping with the experience of cancer; fear of disease recurrence;
+dysfunctional thoughts and beliefs regarding fatigue85; sleep dysregulation ;
+●	activity dysregulation ;
+●	low social support/negative social interactions.
+There have been several studies on the evaluation of CBT, but fatigue has been investigated as the primary outcome in just a few of them.81,84,87 In these studies, a clinically sig- nificant decrease in fatigue severity and functional impair- ment has been demonstrated.
+Mind-body interventions.
+Mindfulness-based stress reduction: Mindfulness-based clinical interventions combine meditation exercises with psychoeducational elements, cognitive-behavioural in- terventions and movement exercises. The core practices are sitting meditation with breath awareness and focused attention, awareness of sensations in the body (body scan), yoga exercises (e.g. hatha yoga, mindful movement), walking meditation and insight meditation. The two most used mindfulness-based clinical interventions in oncology are mindfulness-based stress reduction (MBSR) and mindfulness-based cognitive therapy (MBCT).
+MBSR is a specific multimodal programme focused on improving well-being and health. It has been used as an intervention for cancer patients. A meta-analysis showed the effects of MBSR on the mental health of cancer patients (Cohen’s effect size d 0.18).88 Documented benefits after programme participation include improvements in:
+
+●	stress;
+●	mood;
+●	anxiety;
+●	depressive mood;
+●	sleep;
+●	fatigue;
+●	psychological functioning;
+●	psychosocial adjustment;
+●	stress reduction;
+●	enhancements in coping and well-being symptoms;
+●	QoL;	89
+●	fear of recurrence.
+Most of the studies do not specifically use CRF reduction as an outcome criterion, but a combination of the multiple health-related outcomes, including fatigue. However, studies have shown that MBSR may be helpful for improving CRF.90 More prospective, randomised studies are needed to deter- mine whether MBSR can be recommended for CRF.
+ 
+Volume 31 ■ Issue 6 ■ 2020	https://doi.org/10.1016/j.annonc.2020.02.016	719
+ 
+Annals of Oncology	A. Fabi et al.
+
+ 
+Yoga: Yoga is a mind-body intervention comprising a combination of physical poses with a focus on breathing and meditation. There are several studies in which the benefits of yoga have been investigated in cancer patients, with most of these studies addressing multimodal outcome criteria, including fatigue.82 In 2012, a systematic review and meta-analysis investigated the role of yoga91; a sys- tematic review published in 2019 included a total of 29 RCTs.92 Most studies showed that yoga compared with placebo improved overall QoL, fatigue and stress/distress during treatment.93 Some studies found yoga had a moderate-to-high effect on decreasing fatigue severity.91,92 Although patients practicing yoga may perceive improve- ments in QoL, there is a need for randomised controlled studies, especially on women with breast cancer.91e93 Regarding cancer survivors, a phase III RCT compared the effect of yoga with standard survivorship care on CRF, and a significant benefit of yoga was reported.94
+Acupuncture: After a pilot study demonstrating prom- ising findings, several RCTs have been published on the role of acupuncture in the control of CRF. A meta-analysis including seven RCT studies, some with methodological ﬂaws, has been published.95 No recommendations have been suggested. More recently, another meta-analysis of 10 randomised clinical trials including 1327 patients (733 submitted to acupuncture and 594 to control) has been reported.96 Acupuncture had a marked effect on fatigue in cancer patients, independently of concurrent anticancer treatment, particularly for breast cancer patients, but in six studies, adverse events have been reported. Furthermore, acupuncture was shown to reduce fatigue more than sham acupuncture or usual care. In conclusion, acupuncture ses- sions (20e30 minute sessions three times weekly for 2e3 weeks, twice weekly for 2 weeks and weekly for 6 weeks thereafter) have been suggested as efficacious for CRF.
+
+Recommendations
+Information and counselling are recommended in cancer pa- tients and their caregivers to help them in understanding CRF and to educate them about ways to either prevent fatigue, avoid it becoming a chronic condition or to manage it [II, B]. Psychoeducation is recommended to manage CRF [II, B]. CBT is recommended to manage CRF [II, B].
+MBSR could be an option to improve CRF [II, C].
+Yoga could be an option to improve CRF in cancer survi- vors and QoL [II, C].
+Concerning the use of acupuncture, the panel has not reached a consensus:
+B for three panel members, it could be an option [II, C]
+B for the other six panel members, it cannot be recom- mended [II, D].
+
+Elderly cancer patients and CRF
+Few data are available about fatigue in the elderly cancer patient (ECP; patients 65 years old), both for its evalua- tion and treatment.
+ 
+Fatigue has a negative impact on patient-reported QoL and is frequently responsible for impaired activity and functional dependence in the ECP.97 Very few studies have evaluated the prevalence of fatigue in the ECP.
+In a review on elderly patients with head and neck cancer receiving cancer treatment, fatigue was reported in up to 60% of patients.98 Other studies on American and Canadian elderly populations with different tumours reported a fa- tigue prevalence between 69% and 72%.99,100
+The highest fatigue level in older cancer patients is re- ported in a retrospective cross-sectional study on 214 pa- tients >70 years old with different types of malignancies (breast cancer, non-Hodgkin lymphoma, prostate cancer, colorectal cancer and others); fatigue prevalence was 81%.97 The difference in the reported fatigue prevalence in the studies mentioned above could be derived from the few data about ECPs or from the different ways fatigue is investigated (presence/absence or fatigue reported only if
+the intensity is moderate). In the elderly patients, some comorbidity (anaemia, depression) and conditions (loss of lean mass, sarcopaenia) are correlated with fatigue.
+
+Screening and assessment
+The approach to screening and scoring CRF in the ECP is the same as in adult cancer patients (see Figure 1). Because every clinical intervention can impact the fatigue status, it is necessary to repeat fatigue assessment. Cancer survivors can also experience fatigue so their fatigue status should be monitored.
+There is no specific instrument to investigate or measure fatigue in elderly patients, but an NRS from 0 to 10 has been used in the elderly setting as an easy way to measure fatigue. In elderly patients, there is an increased risk of drug interaction due to polypharmacy and also a higher risk of potentially inappropriate medication. It is, therefore, very important that an inventory or review of all drugs taken by the patient is carried out during the fatigue assessment.101
+
+Management
+In the elderly setting, the objective of CRF therapy is to maintain the patients’ functional independence. The inter- vention on fatigue has to be tailored individually. Only an accurate report about patient history can identify the relevant issue that has to be treated.
+Very little evidence about treatment in the ECP is avail- able. No randomised, double-blind, placebo-controlled studies evaluating pharmacological treatments have spe- cifically been carried out in the ECP. The same is true for nutraceutical treatments, physical exercise, psychosocial treatments and mind-body interventions. The only excep- tion is a study evaluating the effect of a 4-week yoga intervention in older cancer survivors ( 60 years of age) with fatigue. This study reported the results of a secondary analysis on data from a phase III RCT with two arms (standard care versus standard care and yoga). In 97 pa- tients, yoga significantly reduced the CRF compared with standard care.102
+Recommendations
+Patient and family education is recommended to reduce fatigue and emotional distress [II, C].
+Physical activity including aerobic and resistance is rec- ommended for the control of CRF [II, B].
+Psychosocial intervention (behavioural therapy, psycho- therapy, support groups, changing coping strategies, relaxation, energy conservation, stress management) is recommended to improve fatigue in ECPs experienced during oncological treatment [II, C].
+Pharmacological interventions are not recommended for the control of CRF [II, D].
+
+

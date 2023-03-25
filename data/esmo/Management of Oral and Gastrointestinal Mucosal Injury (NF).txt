@@ -1,0 +1,608 @@
+
+Annals of Oncology 26 (Supplement 5): v139–v151, 2015
+doi:10.1093/annonc/mdv202 Published online 4 July 2015
+
+
+Management of oral and gastrointestinal mucosal injury: ESMO Clinical Practice Guidelines for diagnosis, treatment, and follow-up†
+D. E. Peterson1, C. B. Boers-Doets2, R. J. Bensadoun3 & J. Herrstedt4, on behalf of the ESMO Guidelines Committee*
+1Department of Oral Health and Diagnostic Sciences, School of Dental Medicine, Program in Head and Neck Cancer and Oral Oncology Program, Neag Comprehensive Cancer Center, UConn Health, Farmington, USA; 2Department of Clinical Oncology, Leiden University Medical Center, Leiden and IMPAQTT, Wormer, The Netherlands; 3Centre de Haute Energie (CHE), Nice, France; 4Department of Oncology, Odense University Hospital, University of Southern Denmark, Odense, Denmark
+
+
+
+
+ 
+terminology
+Oral and gastrointestinal mucositis caused by high-dose chemo- therapy and/or radiation continues to be an important clinical problem. Fortunately, there have been strategic advances over the past decade in understanding the molecular basis of the injury, providing opportunities for the development of drugs and devices to manage toxicity. The guidelines detailed below represent updates from the version published in the 2011 Annals of Oncology [1], which were primarily based on the previous version of the guidelines produced by the Mucositis Study Group of the Multinational Association of Supportive Care in Cancer/ International Society for Oral Oncology (MASCC/ISOO) [2].
+Three key advances have occurred in the four years following publication of the previous ESMO mucositis guidelines. Each of these advances (listed below) have been completed at the inter- national, inter-professional level:
+•	A comprehensive update of oral and gastrointestinal tract mucositis guidelines previously produced by the Mucositis Study Group of MASCC in 2007 [2]. The most recent updated evidence-based guidelines, published in 2014 [3], represent the state-of-the-science for mucositis management in patients receiving conventional chemotherapy and/or head and neck radiation.
+•	Expert opinion on the management of mucosal injury caused
+by targeted cancer therapies such as vascular endothelial growth factor receptor (VEGFR) inhibitor, epidermal growth factor receptor (EGFR) inhibitors, (multi-targeted) tyrosine kinase inhibitors (TKIs), and mammalian target of rapamycin (mTOR) inhibitors [4]. Since oral complaints associated with mTOR inhibitors have been studied in detail, we are able to
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via, L. Taddei 4, CH- 6962 Viganello-Lugano, Switzerland.
+E-mail: clinicalguidelines@esmo.org
+
+†Approved by the ESMO Guidelines Committee: January 2008, last update May 2015. This publication supersedes the previously published version—Ann Oncol 2011; 22 (Suppl. 6): vi78–vi84.
+ 
+
+provide more in depth information about this speciﬁc side- effect. From other targeted treatments such as BRAF-, PARP-, CTLA4-, and MEK inhibitors there is no expert consensus available upon which to base recommendations or suggestions for treatment.
+•	Novel approaches to enteral nutrition in patients receiving head
+and neck radiation [5–9]. In France and French-speaking coun- tries, the Société Francophone de Nutrition et Métabolisme (SFNEP) and the Association Francophone pour les Soins Oncologiques de Support (AFSOS) published comprehensive recommendations for cancer patients [10–12].
+Mucositis is deﬁned as inﬂammatory and/or ulcerative lesions of the oral and/or gastrointestinal tract. Infectious disease, immune deﬁciency and medications can be causative. High-dose cancer chemotherapy and radiotherapy in head and neck cancer are two of the major causes of mucositis.
+The terms oral mucositis and stomatitis are often used inter- changeably, but they do not reﬂect identical processes [4, 13].
+‘Mucositis’ is a Medical Subject Heading term that describes in- ﬂammation of mucosa resulting from chemotherapeutic agents or ionising radiation. It typically manifests as erythema or ulcerations and may be exacerbated by local factors, such as secondary infec- tions and trauma. Examples of chemotherapeutic agents which may cause oral mucositis are cyclophosphamide, doxorubicin, vin- cristine, etoposide, ifosfamide, methotrexate, docetaxel, paclitaxel, cisplatin, carboplatin, oxaliplatin, irinotecan, 5-ﬂuorouracil (5-FU), leucovorin, and vinorelbine.
+
+‘Stomatitis’ refers more generally to any inﬂammatory condition of oral tissues [13]. This term should be used for oral complaints not related to chemotherapeutic agents or ionising radiation, such as targeted therapies. Clinically important adverse events (AEs) that disrupt the normal oral function have been described related to use of targeted therapies. These include altered taste and taste loss, oral sensitivity and pain without the presence of clinical oral lesions, and xerostomia [4]. Compared with mTOR inhibitor-associated stomatitis, less attention has been paid to these AEs and they have not been accurately described. Examples
+ 
+
+© The Author 2015. Published by Oxford University Press on behalf of the European Society for Medical Oncology. All rights reserved. For permissions, please email: journals.permissions@oup.com.
+ 
+of targeted agents which may cause stomatitis are bevacizumab, erlotinib, sorafenib, sunitinib, geﬁtinib, and lapatinib.
+Regarding stomatitis induced by mTOR inhibitors, Sonis et al. proposed the term ‘mTOR inhibitor-associated stomatitis’ (mIAS) in order to provide clarity and delineation from oral mucositis due to conventional cytotoxic chemotherapy and radi- ation [14]. There is consensus among oral medicine specialists managing patients with oral mucosal lesions associated with mTOR inhibitors that the term mIAS is preferable to the term oral mucositis [4, 15–18]. Examples of mTOR inhibitors are tem- sirolimus and everolimus.
+‘Alimentary tract mucositis’ refers to the expression of mucosal injury across the continuum of oral and gastrointestinal mucosa, from the mouth to the anus.
+
+oral mucositis in patients receiving head and neck radiation
+Incidence of World Health Organization (WHO) grade 3 or 4 oral mucositis in patients receiving head and neck radiation (e.g. 60–70 Gy) to the oral cavity approaches 85%, but all treated patients have some degree of oral mucositis. Mucositis is one of the prime limiting factors of chemoradiation for advanced head and neck carcinoma. The oral pain associated with the lesions frequently leads to the need for enteral nutritional support with or without use of a feeding tube or gastrostomy, as well as use of opioids, with the objective of maintaining dose intensity throughout the entire radiation regimen.
+
+oral and gastrointestinal mucositis in patients undergoing haematopoietic stem cell transplantation
+Incidence of WHO grade 3 or 4 oral mucositis can be as high as 75% in patients undergoing haematopoietic stem cell transplantation (HSCT), depending on the intensity of the conditioning regimen used and the use of methotrexate prophy- lactically to prevent graft-versus-host disease. Management of oral and gastrointestinal mucositis is one of the main challenges during the period of aplasia, with risk of sepsis related to degree of mucosal barrier breakdown and depth of marrow suppression.
+
+alimentary tract mucositis associated with standard single or multi-cycle chemotherapy (with or without radiotherapy)
+A wide range of standard or high-dose chemotherapeutic regi- mens continues to be causative of clinically signiﬁcant oral and gastrointestinal mucositis [1].
+Chemotherapy with 5-FU, capecitabine, irinotecan, or tegafur can lead to a clinically signiﬁcant incidence of alimentary tract mucositis (e.g. ∼25% of advanced colorectal cancer patients ex- periencing grade 3–4 diarrhoea secondary to irinotecan and
+oxaliplatin [2]). Eighteen percent of patients receiving carbopla- tin and paclitaxel plus radiotherapy develop severe oesophagitis. Phase I modelling of drug dose and sequence may be of beneﬁt to future patients relative to these treatment paradigms.
+ 
+stomatitis in patients undergoing targeted therapy
+In recent years, unique oral mucosal lesions have been reported in association with administration of targeted cancer therapeu- tics (e.g. TKIs and mTOR inhibitors).
+Elting et al. determined via meta-analysis that mucosal toxici- ties associated with selected targeted agents were most frequent among patients treated with bevacizumab, erlotinib, sorafenib, or sunitinib, although this difference was conﬁned to low-grade stomatitis [19]. The clinical signiﬁcance of these ﬁndings is unclear given its low incidence and mild severity. This analysis by Elting et al. shows that stomatitis, gastritis, oesophagitis, and xerostomia are occasional complications of therapy with the tar- geted agents that they studied, but these problems are not sig- niﬁcantly more common or more serious than those observed with standard of care regimens.
+In a systematic review evaluating 44 studies of mTOR inhibi- tors, mIAS has been identiﬁed as the most frequent AE overall (73.4%) [20]. The lesion was the third most frequent severe AE (20.7%), accounting for 27.3% of dose reductions, and 13.1% of discontinuations, and was the most frequent dose-limiting tox- icity (52.5%). The majority of mIAS occurs soon after initiation of the agent [21].
+
+gastrointestinal mucositis in patients undergoing targeted therapy
+The study by Elting et al. further showed most of the targeted agents studied were associated with signiﬁcantly higher risks (2- to 8-fold) of developing either all-grade or high-grade diarrhoea than the conventional regimens [19]. Their analysis showed that patients treated with erlotinib, geﬁtinib, lapatinib, sorafenib, and sunitinib have a signiﬁcantly higher risk of having both all- grade and high-grade diarrhoea than those receiving conven- tional regimens. The risk can be as high as 8-fold for patients treated with lapatinib. These results are consistent with prior reviews and case series on this topic. Keefe et al. indicated that diarrhoea is a common side-effect of targeted therapy and, when used in combination with chemotherapy, these targeted drugs can cause severe diarrhoea [22]. Harandi et al. also reported that diarrhoea is strongly associated with the use of anti-EGFR TKIs [23]. Other studies cited diarrhoea as a common side-effect as well [24, 25].
+Mechanisms underlying diarrhoea caused by targeted therapies have been less extensively studied than diarrhoea occurring sec- ondary to chemotherapy. Additional research is thus needed rela- tive to pathobiology of targeted therapy-associated diarrhoea, as well as optimal strategies for its prevention and treatment.
+
+diagnosis and pathology/molecular biology
+Diagnosis of oral and gastrointestinal mucositis caused by cancer therapy is typically based upon history and clinical examination. The temporal relationship between timing of administration of chemotherapy or radiation in relation to the symptoms and signs is often sufﬁcient to clinically document the condition.
+ 
+Diagnosis of oral mucosal lesions caused by targeted cancer therapies can typically be clinically conﬁrmed by history and clin- ical examination. However, unlike oral mucositis caused by con- ventional cancer therapy, oral mucosal lesions may ﬁrst occur several weeks or months after the initial dose exposure [14].
+
+staging and risk assessment
+staging
+A variety of assessment scales exist for staging of oral and/or gastrointestinal injury. The WHO scale is frequently utilised in the context of grading mucosal injury as a primary outcome. The National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE) [26] instrument is also com- monly utilised in oncological clinical trials. Scales developed for oral mucositis secondary to conventional chemotherapy and ra- diation therapy have several limitations when applied to targeted agents. Two assessment tools, the Vanderbilt Head and Neck Symptom Survey version 2.0 (VHNSS2.0) [27] and the mIAS scale [28] can be of use within this population. The VHNSS was designed to screen both for tumour and for treatment-speciﬁc symptoms in patients with head and neck cancer undergoing concurrent chemoradiation and following cancer therapy. The list of possible symptoms is quite detailed. Since the oral com- plaints associated with targeted therapies are not fully explored, the VHNSS2.0 can be used to assess signs and symptoms of oral complaints, also not developed for this population [27]. In add- ition, the Bristol stool chart is available for the assessment of the consistency of the stool [29].
+
+oral mucositis grading
+Two of the most commonly utilised scales for oral mucositis are the WHO and NCI-CTCAE scales [26]:
+WHO scale for oral mucositis
+Grade 0 = no oral mucositis Grade 1 = erythema and soreness Grade 2 = ulcers, able to eat solids
+Grade 3 = ulcers, requires liquid diet (due to mucositis) Grade 4 = ulcers, alimentation not possible (due to mucositis)
+National Cancer Institute Common Terminology Criteria for Adverse Events version 4.03 [26]
+The deﬁnition used for this grading is ‘A disorder charac- terised by inﬂammation of the oral mucosal [sic: “mucosa”]’.
+Grade 1 = asymptomatic or mild symptoms; intervention not indicated
+Grade 2 = moderate pain; not interfering with oral intake; modiﬁed diet indicated
+Grade 3 = severe pain; interfering with oral intake
+Grade 4 = life-threatening consequences; urgent intervention indicated
+Grade 5 = death
+Most of the scales that are utilised for clinical care incorporate the collective measurement of oral symptoms, signs, and func- tional disturbances. By comparison, some scales are primarily
+ 
+centred on clinician-based observation of mucosal tissue injury (e.g. erythema, ulceration). These latter scales have particular value in clinical trial-based assessment of oral mucositis.
+
+gastrointestinal mucositis grading
+In contrast, there is a limited number of instruments available for assessment of gastrointestinal mucositis. These scales typic- ally measure indirect outcomes of mucosal injury, including diarrhoea. However, interpretation of such data can be con- founded by other clinical conditions and interventions that also contribute to the event being measured. New technologies may lead to enhanced assessment strategies for gastrointestinal mucositis. Tracheal mucositis, pharyngeal mucositis, laryngeal mucositis, small intestinal mucositis, rectal mucositis, and anal mucositis are terms that can be scored separately in the CTCAEv4.03 within the system organ class ‘Gastrointestinal disorders–Other, specify’. Diarrhoea is a term that is scored fre- quently within gastrointestinal mucositis also, which should not be confused with loose stool. The Bristol stool chart [29] is a useful tool to help identify variation in consistency of stool. The stools are classiﬁed into seven types, with types 5 and 6 tending towards diarrhoea but still loose stool and type 7 actu- ally as diarrhoea, since that is watery stool. Since according to the NCI-CTCAE deﬁnition only watery stool is diarrhoea, this delineation between the two types is important. Furthermore, it is important to delineate this range of stool consistency in order to optimise clinical decision making for these patients. For example, one can consider low-dose loperamide, with no chemotherapy dose modiﬁcation, for the patient with a loose or mushy stool. Conversely, either high-dose loperamide with risk for resultant constipation, and/or chemotherapy dose delay/ dose interruption, may be warranted in the patient with system- atically graded severe diarrhoea.
+
+diarrhoea
+Deﬁnition: A disorder characterised by frequent and watery bowel movements
+NCI-CTCAE version 4.03 [26].
+Grade 1 = increase of <4 stools per day over baseline; mild in- crease in ostomy output compared with baseline
+Grade 2 = increase of 4–6 stools per day over baseline; moder-
+ate increase in ostomy output compared with baseline
+Grade 3 = increase of ≥7 stools per day over baseline; incon- tinence; hospitalisation indicated; severe increase in ostomy
+output compared with baseline; limiting self-care activities of daily living (ADL)
+Grade 4 = life-threatening consequences; urgent intervention indicated
+Grade 5 = death
+
+targeted therapy-associated stomatitis grading. There is no separate deﬁnition for targeted therapy-associated stomatitis deﬁned in the NCI-CTCAE version 4.03 [26].
+Undeﬁned AEs can be graded within the system organ class ‘Gastrointestinal disorders–Other, specify’ with the addition of stomatitis.
+ 
+Grade 1 = asymptomatic or mild symptoms; clinical or diag- nostic observations only; intervention not indicated
+Grade 2 = moderate; minimal, local, or non-invasive interven- tion indicated; limiting age appropriate instrumental ADL Grade 3 = severe or medically signiﬁcant but not immediately life-threatening; hospitalisation or prolongation of existing hospitalisation indicated; disabling; limiting self-care ADL Grade 4 = life-threatening consequences; urgent intervention indicated
+Grade 5 = death
+Use of clinical assessment tools that are primarily driven by ulcer- ation size may underestimate mIAS, and that assessment should include patient-reported outcomes. Boers-Doets and Lalla have thus proposed a new scale, with a subjective component measur- ing pain and an objective component measuring duration of lesions [28]. It is suggested that dose modiﬁcation be considered only when both subjective and objective grades are 3, representing persistent lesions with signiﬁcant pain despite use of supportive care interventions and analgesics. Measurement of mIAS using this scale is designed to maintain dose intensity of the treatment of the underlying malignancy, resulting in improved outcomes.
+Subjective
+Grade 0 = no oropharyngeal pain attributed to mIAS
+Grade 1 = oropharyngeal pain attributed to mIAS, with average oropharyngeal pain score (over the last 24 h) reported as 2 or less on a 0–10 scale
+Grade 2 = oropharyngeal pain attributed to mIAS, with average oropharyngeal pain score (over the last 24 h) reported as 5 or less on a 0–10 scale
+Grade 3 = oropharyngeal pain attributed to mIAS, with average oropharyngeal pain score (over the last 24 h) reported as 6 or more on a 0–10 scale
+Objective
+Grade 0 = no visible mIAS (i.e. no erythema and no ulcer- ation, attributed to mIAS, in the oropharyngeal area)
+Grade 1 = oral and/or pharyngeal erythema, attributed to mIAS, but no ulceration
+Grade 2 = visible oral and/or pharyngeal ulceration(s), attribu- ted to mIAS, of duration <7 days
+Grade 3 = visible oral and/or pharyngeal ulceration(s), attribu- ted to mIAS, with at least one ulceration persisting for ≥ 7 days
+risk assessment
+Risk of developing mucositis has classically been directly asso- ciated with modality, intensity, and route of delivery of the cancer therapy. Combination therapy (e.g. head and neck radi- ation with concurrent chemotherapy) may increase the severity of oral mucositis. Unlike success in reducing long-term salivary hypofunction and xerostomia when parotid glands are spared [30], incidence and severity of acute mucosal toxicity have not generally been signiﬁcantly reduced by utilisation of state-of- the-science radiation technologies (e.g. volumetric modulated arc therapy).
+While this modelling continues to be valid, there appear to be additional risk factors (e.g. genetic polymorphisms) in some cohorts that account for a degree of clinical expression. Further
+ 
+study of these more recently deﬁned factors will likely strategic- ally advance the pathobiological model in relation to clinical ex- pression of toxicity.
+Among patient-related risk factors, comorbidities (e.g. malnu- trition) can contribute important risk. All patients should be screened for nutritional risk and early enteral nutrition initiated in the event swallowing difﬁculties develop. In addition, patients who develop clinically signiﬁcant salivary hypofunction/xerosto- mia due to anti-emetic or other anti-cholinergic drugs adminis- tered during acute cancer treatment may experience increased discomfort from oral mucositis.
+preventive measures
+Preventive measures are important in reducing the severity of sto- matitis. Sources of trauma (e.g. sharp edges and ill-ﬁtting pros- theses) should be eliminated and painful stimuli such as hot foods and drinks and hard, sharp, or spicy foods should be avoided. Effective oral hygiene is crucial; it is important that patients be ap- propriately educated about oral complications before treatment. Patients should also be advised to have regular dental examina- tions in order to have the oral cavity assessed and that they should inform the health care professional at ﬁrst signs and symptoms of oral complications [4].
+basic oral care and good clinical practice
+mucositis caused by chemotherapy and/or head & neck radiation. Basic oral care is key in preventing and reducing oral injury; educating the patient regarding oral hygiene is thus very important. A comprehensive Basic Oral Care protocol is outlined in Table 1. McGuire et al. concluded that, due to inadequate and/ or conﬂicting evidence, no guidelines for the prevention or treatment of oral mucositis were possible for the interventions of dental care, normal saline, sodium bicarbonate, mixed medication mouthwash, chlorhexidine in patients receiving chemotherapy or haematopoietic stem cell transplant, or calcium phosphate [31]. Based on this conclusion, no recommendation in favour of normal saline mouthwashes is possible. Rather, plain water can be used; this approach is typically well tolerated by patients and may promote patient adherence to basic mouth care practices.
+
+mIAS. Comparable measures can be followed for basic oral care in patients on targeted therapy, with one exception. With targeted agents, saline-containing mouthwashes should be used instead of plain water because of the microbial burden that is considered to intensify formation of oral injury in this population. There is currently no systemically derived evidence for this approach, but since targeted therapies are associated with inﬂammation and localised and systemic infections, this mucosal hygiene approach may be considered until a more comprehensive, evidence-based approach has been developed.
+Evidence related to this modelling provides guidance as to types of microbial colonisation and clinical infection. For example, in a retrospective study of 221 patients treated with EGFR inhibitors, 38% demonstrated evidence of infection at sites of dermatological toxic effect [32]. Furthermore, 22.6% had cultures positive for Staphylococcus aureus (S. aureus), and 5.4% of the 221 patients cultured positive for methicillin-resistant
+S. aureus. Less frequent infections included herpes simplex (3.2%), herpes zoster (1.8%), and dermatophytes (10.4%), with
+ 
+
+ 
+
+Two key strategies for mitigation of oral mucosal injury before and during treatment are
+•	Maintenance of optimal nutritional support throughout the entire period of cancer therapy.
+•	Developing a daily oral hygiene routine, including brushing teeth and the gums four times a day with a soft brush and using mouth rinses. This approach can contribute to the reduction and, ideally, prevention of oral tissue injury and associated pain, nutritional compromise, and related adverse outcomes.
+The following information is presented as a portfolio of patient-based instructions for which health professional guidance is recommended
+General measures	• Inspect your oral mucosa daily.
+•	Have your dental team eliminate sources of trauma (e.g. ill-fitting prostheses; fractured teeth).
+•	Lubricate lips with (sterile) vaseline/white paraffin (petrolatum), lip balm, or lip cream. Be aware that vaseline/white paraffin (petrolatum) should not be used chronically on the lips, as this promotes mucosal cell dehydration and is occlusive leading to risk of secondary infection.
+•	Drink ample amount of fluids to keep the mouth moist.
+ 
+Brushing teeth and gums
+ 
+•	Use a soft toothbrush or swab (as tolerated) after meals and before sleep. Brushing with a soft toothbrush reduces risk of bleeding. Each month you should utilise a new soft toothbrush.
+•	Clean the dentition and gingiva with a mild fluoride-containing, non-foaming toothpaste.
+•	Brush teeth twice a day (after meals and at bedtime) according to the Bass or modified Bass method. If using an electric toothbrush, utilise the techniques cited in the product description instead.
+•	Rinse the brush thoroughly after use with water and store the toothbrush in a cup with the brush head facing upward.
+•	If you are used to do so, clean the area between the teeth once a day. Consult a dental hygienist/dentist about the most appropriate interdental cleaner (floss, toothpick, brushes). In case you are not used to use interdental cleaners on a regular base, do not start with it while on cancer therapy, since it can break the epithelial barrier, visible through gingival bleeding.
+ 
+Rinse mouth	• Rinse mouth with an alcohol-free mouthwash upon awakening and at least four times a day after brushing, for ∼1 min with 15 ml mouthwash; gargle; and then spit out. During the first half hour after rinsing, avoid eating and drinking.
+Denture care	• Remove dentures before performing oral care. Brush dentures with toothpaste and rinse with water; clean the gums.
+•	Defer wearing dental prostheses as much as possible until the lining tissues of your mouth are healed. If in the hospital, soak the denture for 10 min in an antimicrobial solution (e.g. chlorhexidine 0.2% if available) before inserting in your mouth.
+Avoid painful stimuli	• Smoking
+•	Alcohol
+•	Certain foods such as tomatoes, citrus fruits, hot drinks and spicy, hot, raw, or crusty foods.
+
+
+
+ 
+Candida onychomycosis being the most common yeast infection (5.9%). The seborrhoeic region is the most frequently documen- ted site of infection. In addition, patients with leucopenia have higher risk for infection than those patients who do not experi- ence leucopenia (P = 0.005). Others have reported dermatologic- al infection and inﬂammation associated with EGFR inhibitors [33, 34] as well as with VEGFR inhibitors [35, 36].
+mTOR inhibitors such as everolimus and temsirolimus have immunosuppressive properties and may predispose patients to bacterial, fungal, viral, or protozoal infections, including infec- tions with opportunistic pathogens. Localised and systemic infec- tions, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections (such as aspergil- losis or candidiasis), and viral infections (including reactivation of hepatitis B virus) have occurred in patients taking everolimus. Some of these infections can be severe, leading to sepsis, respira- tory and/or hepatic failure, and fatality [37, 38].
+It thus seems clinically prudent to optimise oral mucosal hygiene by utilising saline-based oral rinses. As is the case with other types of oral mucosal injury caused by cancer therapy, patient education relative to types and management of oral mucosal injury caused by mTOR inhibitors is of prime importance to reducing severe oral ulcerations, maximising patient compliance, and clinical outcomes.
+ 
+management
+Several health professional organisations have reported strategies for management of oral and/or gastrointestinal mucositis caused by high-dose cancer therapies. These organisations include:
+•	Multinational Association of Supportive Care in Cancer/ International Society of Oral Oncology (MASCC/ISOO)
+•	Oncology Nursing Society (ONS)
+•	American Society of Clinical Oncology (ASCO)
+•	National Comprehensive Cancer Network (NCCN).
+The strategy for development of this management informa- tion ranges from systematic reviews (e.g. MASCC/ISOO) to a combination of  systematic  reviews  and  expert  opinion (e.g. NCCN).
+The 2015 ESMO mucosal injury guidelines are comprised of three domains:
+
+(i)	MASCC/ISOO guidelines for management of mucositis caused by chemotherapy and/or head and head radiation [3]
+(ii)	Recently emergent data relative to systematic enteral nutri- tion [5–9]
+(iii)	Expert opinion on management of mucosal injury caused by targeted cancer therapies [4, 17, 18, 39], in part based
+ 
+
+ 
+
+Oral mucositis
+
+RECOMMENDATIONS IN FAVOR OF AN INTERVENTION (i.e. strong evidence supports effectiveness in the treatment setting listed)
+1)	The panel recommends that 30 min of oral cryotherapy be used to prevent oral mucositis in patients receiving bolus 5-fluorouracil chemotherapy (II).
+2)	The panel recommends that recombinant human keratinocyte growth factor-1 (KGF-1/palifermin) be used to prevent oral mucositis (at a dose of 60 μg/kg per day for 3 days before conditioning treatment and for 3 days after transplant) in patients receiving high-dose chemotherapy and total body irradiation, followed by autologous stem cell transplantation, for a hematological malignancy (II).
+3)	The panel recommends that low-level laser therapy (wavelength at 650 nm, power of 40 mW, and each square centimeter treated with the required time to a tissue energy dose of 2 J/cm2), be used to prevent oral mucositis in patients receiving HSCT conditioned with high-dose chemotherapy, with or without total body irradiation (II).
+4)	The panel recommends that patient-controlled analgesia with morphine be used to treat pain due to oral mucositis in patients undergoing HSCT (II).
+5)	The panel recommends that benzydamine mouthwash be used to prevent oral mucositis in patients with head and neck cancer receiving moderate dose radiation therapy (up to 50 Gy), without concomitant chemotherapy (I).
+SUGGESTIONS IN FAVOR OF AN INTERVENTION (i.e. weaker evidence supports effectiveness in the treatment setting listed)
+1)	The panel suggests that oral care protocols be used to prevent oral mucositis in all age groups and across all cancer treatment modalities (III).
+2)	The panel suggests that oral cryotherapy be used to prevent oral mucositis in patients receiving high-dose melphalan, with or without total body irradiation, as conditioning for HSCT (III).
+3)	The panel suggests that low-level laser therapy (wavelength ∼632.8 nm) be used to prevent oral mucositis in patients undergoing radiotherapy, without
+concomitant chemotherapy, for head and neck cancer (III).
+4)	The panel suggests that transdermal fentanyl may be effective to treat pain due to oral mucositis in patients receiving conventional or high-dose chemotherapy, with or without total body irradiation (III).
+5)	The panel suggests that 0.2% morphine mouthwash may be effective to treat pain due to oral mucositis in patients receiving chemoradiation therapy for
+head and neck cancer (III).
+6)	The panel suggests that 0.5% doxepin mouthwash may be effective to treat pain due to oral mucositis (IV).
+7)	The panel suggests that systemic zinc supplements administered orally may be of benefit to prevent oral mucositis in oral cancer patients receiving radiation therapy or chemoradiation (III).
+RECOMMENDATIONS AGAINST AN INTERVENTION (i.e. strong evidence indicates lack of effectiveness in the treatment setting listed)
+1)	The panel recommends that PTA (polymyxin, tobramycin, amphotericin B) and BCoG (bacitracin, clotrimazole, gentamicin) antimicrobial lozenges and PTA paste not be used to prevent oral mucositis in patients receiving radiation therapy for head and neck cancer (II).
+2)	The panel recommends that iseganan antimicrobial mouthwash not be used to prevent oral mucositis in patients receiving high-dose chemotherapy, with or without total body irradiation, for HSCT (II), or in patients receiving radiation therapy or concomitant chemoradiation for head and neck cancer (II).
+3)	The panel recommends that sucralfate mouthwash not be used to prevent oral mucositis in patients receiving chemotherapy for cancer (I), or in patients receiving radiation therapy (I) or concomitant chemoradiation (II) for head and neck cancer.
+4)	The panel recommends that sucralfate mouthwash not be used to treat oral mucositis in patients receiving chemotherapy for cancer (I), or in patients
+receiving radiation therapy (II) for head and neck cancer.
+5)	The panel recommends that intravenous glutamine not be used to prevent oral mucositis in patients receiving high-dose chemotherapy, with or without total body irradiation, for HSCT (II).
+SUGGESTIONS AGAINST AN INTERVENTION (i.e. weaker evidence indicates lack of effectiveness in the treatment setting listed)
+1)	The panel suggests that chlorhexidine mouthwash not be used to prevent oral mucositis in patients receiving radiation therapy for head and neck cancer (III).
+2)	The panel suggests that granulocyte–macrophage colony-stimulating factor (GM-CSF) mouthwash not be used to prevent oral mucositis in patients
+receiving high-dose chemotherapy, for autologous or allogeneic stem cell transplantation (II).
+3)	The panel suggests that misoprostol mouthwash not be used to prevent oral mucositis in patients receiving radiation therapy for head and neck cancer (III).
+4)	The panel suggests that systemic pentoxifylline, administered orally, not be used to prevent oral mucositis in patients undergoing bone marrow
+transplantation (III).
+5)	The panel suggests that systemic pilocarpine, administered orally, not be used to prevent oral mucositis in patients receiving radiation therapy for head and neck cancer (III), or in patients receiving high-dose chemotherapy, with or without total body irradiation, for HSCT (II).
+Gastrointestinal Mucositis (not including the oral cavity)
+RECOMMENDATIONS IN FAVOR OF AN INTERVENTION (i.e. strong evidence supports effectiveness in the treatment setting listed)
+1)	The panel recommends that i.v. amifostine be used, at a dose of ≥340 mg/m2, to prevent radiation proctitis in patients receiving radiation therapy (II).
+2)	The panel recommends that octreotide, at a dose of ≥100 μg s.c. twice daily, be used to treat diarrhea induced by standard- or high-dose chemotherapy
+associated with HSCT, if loperamide is ineffective (II).
+
+Continued
+ 
+Table 2. Continued
+
+
+SUGGESTIONS IN FAVOR OF AN INTERVENTION (i.e. weaker evidence supports effectiveness in the treatment setting listed)
+1)	The panel suggests that i.v. amifostine be used to prevent esophagitis induced by concomitant chemotherapy and radiation therapy in patients with non- small-cell lung carcinoma (III).
+2)	The panel suggests that sucralfate enemas be used to treat chronic radiation-induced proctitis in patients with rectal bleeding (III).
+3)	The panel suggests that systemic sulfasalazine, at a dose of 500 mg administered orally twice a day, be used to prevent radiation-induced enteropathy in patients receiving radiation therapy to the pelvis (II).
+4)	The panel suggests that probiotics containing Lactobacillus species be used to prevent diarrhea in patients receiving chemotherapy and/or radiation therapy for a pelvic malignancy (III).
+5)	The panel suggests that hyperbaric oxygen be used to treat radiation-induced proctitis in patients receiving radiation therapy for a solid tumor (IV).
+RECOMMENDATIONS AGAINST AN INTERVENTION (i.e. strong evidence indicates lack of effectiveness in the treatment setting listed)
+1)	The panel recommends that systemic sucralfate, administered orally, not be used to treat gastrointestinal mucositis in patients receiving radiation therapy for a solid tumor (I).
+2)	The panel recommends that 5-acetyl salicylic acid (ASA), and the related compounds mesalazine and olsalazine, administered orally, not be used to
+prevent acute radiation-induced diarrhea in patients receiving radiation therapy for a pelvic malignancy (I).
+3)	The panel recommends that misoprostol suppositories not be used to prevent acute radiation-induced proctitis in patients receiving radiation therapy for prostate cancer (I).
+SUGGESTIONS AGAINST AN INTERVENTION (i.e. weaker evidence indicates lack of effectiveness in the treatment setting listed) None.
+
+Reprinted from [3]. © 2014 The Authors. Cancer published by Wiley Periodicals, Inc. on behalf of American Cancer Society. This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+Gy, grays; HSCT, hematopoietic stem cell transplantation; MASCC/ISOO, Multinational Association of Supportive Care in Cancer and International Society of Oral Oncology.
+
+
+ 
+on previously reported management of recurrent aphthous ulceration [40].
+a)	MASCC/ISOO guidelines for management of mucositis caused by chemotherapy and/or head and head radiation. These guidelines produced by MASCC/ISOO [3] represent the current state-of-the-science in this ﬁeld at
+the systematic review level (Table 2).
+The authors of this version of ESMO guidelines have reformatted the content in the MASCC/ISOO guideline in order to further facilitate clinician use (Tables 3 and 4).
+In addition to this reformatting the following revision has been included in Table 3, directed to the use of pali- fermin to prevent oral mucositis in patients undergoing haematopoietic cell transplantation:
+…with haematological malignancy treated with chemo- therapy and/or targeted agents, and/or HSCT with or without total body irradiation (TBI) (local-regional radiotherapy alone not included), and who are antici- pated to develop Grade 3 or Grade 4 oral mucositis.
+
+This revision emerged as a result of changes in the la- belling as approved by the United States Food and Drug Administration in recent years [41].
+
+b)	Recently emergent data relative to systematic enteral nutrition.
+Recent data have emerged regarding the impact of systematic enteral nutrition as a prophylactic measure.
+ 
+In this modelling, systemic enteral nutrition is admi- nistered before initiation of chemoradiation, to pre- vent oral mucositis-associated nutritional compromise and to optimise therapeutic dose intensity, during chemoradiation for head and neck and oesophageal carcinomas [5–9].
+In French-speaking countries, SFNEP and AFSOS published comprehensive recommendations for cancer patients [10–12]. Due  to  mucositis  incidence,  and for the optimisation of cancer treatment of this type of patient, a prophylactic approach with systematic gastrostomy or feeding tube was explored in several trials in at-risk patients receiving chemoradiation for head and neck cancer. Unfortunately, only retrospect- ive analyses or randomised trials with signiﬁcant limitations are available [7–9]. No strong recommen- dation is possible in favour of this prophylactic approach.
+Hence, identiﬁcation of at-risk patients who would need systematic enteral nutrition before chemoradiation remains unclear and is at the discretion of the clinicians in charge of the patient’s oncological treatment.
+c)	Expert opinion on management of mucosal injury caused by targeted cancer therapies
+In the absence of conﬁrmatory data from clinical trials, expert opinion-based recommendations in the review by Boers-Doets et al. [4] and others [17, 18] can be considered as delineated in Table 5. These statements reﬂect the state-of-the-science as it presently exists.
+ 
+
+
+
+
+
+ 
+
+ 
+Diagnosis	Therapy	Prevention/ treatment
+Cancer of any kind	All cancer treatment modalities	Prevention
+
+Treatment Bolus 5-fluorouracil chemotherapy   Prevention Bone marrow transplant	Prevention
+ 
+Intervention
+ 
+Conventional and high-dose chemotherapy, with or without total body irradiation
+ 
+Treatment
+ 
+Stem cell transplant	Prevention
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Treatment
+
+Chemotherapy	Prevention
+
+Radiation therapy	Treatment
+ 
+Head & neck cancer	Moderate dose radiation therapy
+without concomitant chemotherapy
+ 
+Prevention
+ 
+Radiation therapy	Prevention
+
+
+
+
+
+
+
+
+
+Treatment
+
+
+ 
+
+Radiation therapy or concomitant chemoradiation
+
+
+
+Radiation therapy, without concomitant chemotherapy
+ 
+
+Prevention
+
+
+
+
+Prevention
+ 
+
+ 
+Haematological malignancy
+ 
+Stem cell transplant revised from 2014 MASCC/ISOO Guidelines based on current labeling indication
+ 
+Prevention
+ 
+
+
+
+
+
+
+
+Oral cancer	Radiation therapy or chemoradiation	Prevention
+
+▪	RECOMMENDATIONS IN FAVOR OF AN INTERVENTION, i.e. strong evidence supports effectiveness in the treatment setting listed.
+▪	SUGGESTIONS IN FAVOR OF AN INTERVENTION, i.e. weaker evidence supports effectiveness in the treatment setting listed.
+▪	SUGGESTIONS AGAINST AN INTERVENTION, i.e. weaker evidence indicates lack of effectiveness in the treatment setting listed.
+▪	RECOMMENDATIONS AGAINST AN INTERVENTION, i.e. strong evidence indicates lack of effectiveness in the treatment setting listed.
+MASCC/ISOO, Multinational Asociation of Supportive Care in Cancer and International Society of Oral Oncology; HSCT, hematopoietic stem cell transplantation; Gy, grays; BCoG, bacitracin, clotrimazole, gentamicin.
+ 
+
+
+
+
+
+
+Cancer of any kind	Radiation therapy	Prevention	Amifostine: The panel recommends that i.v. amifostine be used, at a dose of
+≥340 mg/m2, to prevent radiation proctitis in patients receiving radiation therapy (II).
+
+
+
+
+
+
+
+
+
+Non-small-cell lung carcinoma
+
+
+Pelvic malignancy
+
+
+
+
+
+
+
+Prostate cancer
+
+
+
+Solid tumors	
+
+Radiation therapy to the pelvis
+
+
+Stem cell transplant
+
+
+
+Concomitant chemotherapy and radiation therapy
+
+
+Chemotherapy and/or radiation therapy
+
+Radiation therapy
+
+
+
+
+Radiation therapy
+
+
+
+Radiation therapy	Treatment Prevention
+
+Treatment
+
+
+
+Prevention
+
+
+
+Prevention
+
+
+
+
+
+
+
+Prevention
+
+
+
+Treatment	Sucralfate enemas: The panel suggests that sucralfate enemas be used to treat
+chronic radiation-induced proctitis in patients with rectal bleeding (III). Sulfasalazine: The panel suggests that systemic sulfasalazine, at a dose of 500 mg administered orally twice a day, be used to prevent radiation-induced enteropathy in patients receiving radiation therapy to the pelvis (II).
+			Octreotide: The panel recommends that octreotide, at a dose of ≥100 μg s.c.
+twice daily, be used to treat diarrhea induced by standard- or high-dose
+chemotherapy associated with HSCT, if loperamide is ineffective (II).
+			Amifostine: The panel suggests that i.v. amifostine be used to prevent esophagitis induced by concomitant chemotherapy and radiation therapy in patients with non-small-cell lung carcinoma (III).
+			Probiotics: The panel suggests that probiotics containing Lactobacillus species be used to prevent diarrhea in patients receiving chemotherapy and/or radiation therapy for a pelvic malignancy (III).
+			ASA: The panel recommends against that ASA, and the related compounds mesalazine and olsalazine, administered orally, be used to prevent acute radiation-induced diarrhea in patients receiving radiation therapy for a pelvic malignancy (I).
+			Misoprostol suppositories: The panel recommends against that misoprostol suppositories be used to prevent acute radiation-induced proctitis in patients receiving radiation therapy for prostate cancer (I).
+			Hyperbaric oxygen: The panel suggests that hyperbaric oxygen be used to treat radiation-induced proctitis in patients receiving radiation therapy for a solid tumor (IV).
+			Sucralfate: The panel recommends against that systemic sucralfate, administered orally, be used to treat gastrointestinal mucositis in patients
+receiving radiation therapy for a solid tumor (I).
+
+
+
+
+
+
+
+
+ 
+personalised medicine
+In recent years, research has increasingly demonstrated that patient-speciﬁc genetic characteristics are an important variable in determining risk and incidence of cancer therapy-related tox- icity, including, but not limited to, oral mucosal injury [42–44]. It is now clear that genetic variation across individuals, including single nucleotide polymorphisms, is a key contributor to the tox- icity trajectory for mucosal injury as well as for other toxicities caused by cancer therapies. Additional research in this domain will likely allow the clinician to individualise the therapeutic ap- proach for each patient before initiation of cancer treatment, to maximise tumour response while minimising toxicity.
+ 
+follow-up and long-term implications
+Guidelines for prevention and treatment of mucositis caused by conventional cancer therapies as reported in this version of the ESMO Clinical Practice Guidelines are based on the recommen- dations of the recently updated guidelines from MASCC/ISOO. Those guidelines included a new recommendation directed to level II evidence regarding the use of low-level laser therapy to prevent oral mucositis caused by high-dose chemotherapy con- ditioning regimens in the haematopoietic cell transplant setting (Table 2).
+In addition, new recommendations based on expert consensus opinion have been included, to address the state-of-the-science
+ 
+
+ 
+
+ 
+Diagnosis	Therapy	Prevention/ treatment
+ 
+Intervention
+ 
+Cancer of any kind
+ 
+All targeted therapy modalities
+ 
+Prevention
+ 
+
+
+Treatment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▪	SUGGESTIONS IN FAVOR OF AN INTERVENTION: based on expert opinion [17, 18].
+WHO, World Health Organization; NSAID, nonsteroidal anti-inflammatory drug; mIAS, mTOR inhibitor-associated stomatitis.
+
+
+
+ 
+relative to oral mucosal lesions caused by targeted cancer ther- apies.
+There continues to be key progress relative to the molecular pathobiology, computational biology, and clinical impact of mucosal injury in cancer patients that may generate strategic re- search and clinical advances in the future. These advances will likely result in revisions of mucositis guidelines in the next 2–5
+ 
+years. Examples of novel, important future opportunities based on the recent advances include [45]:
+
+Molecular modelling
+•	mucosal homeostasis
+•	naturally occurring mucosal disease
+ 
+
+ 
+
+•	oral pain
+•	oral mucosa and the oral microbiome
+•	molecular basis for cancer patient-based variation in inci- dence and severity of oral mucosal injury
+•	molecular imaging
+Development of molecularly targeted drugs, biologics, and devices
+
+•	systems biological technologies to deﬁne key pathobiological pathways for targeting
+•	incorporation of patient-based risk proﬁling into clinical trial
+designs
+Clinical practice - utilisation of state-of-the-science technologies for:
+•	dissemination
+•	measurement of clinical and health resource cost outcomes.
+There is also need and opportunity to conduct clinical trials with devices that have been initially reported as effective and safe in reducing the incidence and severity of oral mucositis in cancer patients. Such studies are essential to (i) validate current commercial claims, (ii) identify which patients may experience highest beneﬁt, and (iii) assess the feasibility for use by these patients.
+It is important that basic, translational, and clinical research continue to investigate preventive and treatment modalities for oral mucositis, gastrointestinal mucositis, and stomatitis. This collective research could lead to the approval of new drugs and devices for which evidence-based, cancer patient-speciﬁc identi- ﬁcation of risk and associated management of mucositis and stomatitis could become possible.
+
+methodology
+These clinical practice guidelines were developed in accordance with the ESMO standard operating procedures for clinical prac- tice guidelines development. The relevant literature has been selected by the expert authors. Levels of evidence and grades of recommendation have been applied using the system described in the MASCC/ISOO guidelines (Table 2) and Tables 3 and 4
+ 
+and are published in the MASCC/ISOO Clinical Practice Guidelines for Oral and Gastrointestinal Mucositis [3] and shown in Table 6. This manuscript has been subjected to an an- onymous peer review process.
+
+conﬂict of interest
+The authors have declared no potential conﬂicts of interest.
+
+references
+1.	Peterson DE, Bensadoun RJ, Roila F. Management of oral and gastrointestinal mucositis: ESMO Clinical Practice Guidelines. Ann Oncol 2011; 22(Suppl 6): vi78–vi84.
+2.	Keefe DM, Schubert MM, Elting LS et al. Updated clinical practice guidelines for the prevention and treatment of mucositis. Cancer 2007; 109: 820–831.
+3.	Lalla RV, Bowen J, Barasch A et al. MASCC/ISOO clinical practice guidelines for the management of mucositis secondary to cancer therapy. Cancer 2014; 120: 1453–1461.
+4.	Boers-Doets CB, Raber-Durlacher JE, Treister NS et al. Mammalian target of rapamycin inhibitor-associated stomatitis. Future Oncol 2013; 9: 1883–1892.
+5.	Nugent B, Lewis S, O’Sullivan JM. Enteral feeding methods for nutritional management in patients with head and neck cancers being treated with radiotherapy and/or chemotherapy. Cochrane Database Syst Rev 2013; 1: CD007904.
+6.	Koyfman SA, Adelstein DJ. Enteral feeding tubes in patients undergoing deﬁnitive chemoradiation therapy for head-and-neck cancer: a critical review. Intl J Radiat Oncol Biol Phys 2012; 84: 581–589.
+7.	Williams GF, Teo MT, Sen M et al. Enteral feeding outcomes after chemoradiotherapy for oropharynx cancer: a role for a prophylactic gastrostomy? Oral Oncol 2012; 48: 434–440.
+8.	Rutter CE, Yovino S, Taylor R et al. Impact of early percutaneous endoscopic gastrostomy tube placement on nutritional status and hospitalization in patients with head and neck cancer receiving deﬁnitive chemoradiation therapy. Head Neck 2011; 33: 1441–1447.
+9.	Silander E, Nyman J, Bove M et al. Impact of prophylactic percutaneous endoscopic gastrostomy on malnutrition and quality of life in patients with head and neck cancer: a randomized study. Head Neck 2012; 34: 1–9.
+10.	SFNEP (Societe Francophone de Nutrition Enterale et Parenterale) SFNEP Oncology Nutrition Guidelines. In: Nutrition Clinique et Métabolisme, Vol. 26 (4), 2012; http:/ www.em-consulte.com/revue/NUTCLI/26/4/table-des-matieres/: (20 April 2015, date last accessed).
+11.	Bachmann P, Romero G, Deneuve S et al. Référentiel de pratiques professionnelles: prise en charge nutritionnelle des cancers des voies aérodigestives supérieures. Nutr Clin Métab 2014; 28: 207–215.
+12.	French Speaking Society of Clinical Nutrition and Metabolism. Clinical nutrition guidelines of the French Speaking Society of Clinical Nutrition and Metabolism (SFNEP): summary of recommendations for adults undergoing non-surgical anticancer treatment. Dig Liver Dis 2014; 46: 667–674.
+13.	National Cancer Institute PDQ®. Oral mucositis. In Oral Complications of Chemotherapy/Head & Neck Radiation; http://www.cancer.gov/cancertopics/pdq/ supportivecare/oralcomplications/HealthProfessional/page5 (9 April 2015, date last accessed).
+14.	Sonis S, Treister N, Chawla S et al. Preliminary characterization of oral lesions associated with inhibitors of mammalian target of rapamycin in cancer patients. Cancer 2010; 116: 210–215.
+15.	Watters AL, Epstein JB, Agulnik M. Oral complications of targeted cancer therapies: a narrative literature review. Oral Oncol 2011; 47: 441–448.
+16.	Li E, Trovato JA. New developments in management of oral mucositis in patients with head and neck cancer or receiving targeted anticancer therapies. Am J Health Syst Pharm 2012; 69: 1031–1037.
+17.	Pilotte AP, Hohos MB, Polson KM et al. Managing stomatitis in patients treated with mammalian target of rapamycin inhibitors. Clin J Oncol Nurs 2011; 15: E83–E89.
+18.	de Oliveira MA, Martins E Martins F, Wang Q et al. Clinical presentation and management of mTOR inhibitor-associated stomatitis. Oral Oncol 2011; 47: 998–1003.
+ 
+19.	Elting LS, Chang YC, Parelkar P et al. Risk of oral and gastrointestinal mucosal injury among patients receiving selected targeted agents: a meta-analysis. Support Care Cancer 2013; 21: 3243–3254.
+20.	Kwitkowski VE, Prowell TM, Ibrahim A et al. FDA approval summary: temsirolimus as treatment for advanced renal cell carcinoma. Oncologist 2010; 15: 428–435.
+21.	Rugo HS, Pritchard KI, Gnant M et al. Incidence and time course of everolimus- related adverse events in postmenopausal women with hormone receptor-positive advanced breast cancer: insights from BOLERO-2. Ann Oncol 2014; 25: 808–815.
+22.	Keefe D, Stringer A. The potential successes and challenges of targeted anticancer therapies. Curr Opin Support Palliat Care 2010; 4: 16–18.
+23.	Harandi A, Zaidi AS, Stocker AM, Laber DA. Clinical efﬁcacy and toxicity of anti- EGFR therapy in common cancers. J Oncol 2009; 2009: 567486 (9 April 2015, date last accessed).
+24.	Elez E, Macarulla T, Tabernero J. Handling side-effects of targeted therapies: safety of targeted therapies in solid tumours. Ann Oncol 2008; 19(Suppl 7): vii146–vii152.
+25.	Pessi MA, Zilembo N, Haspinger ER et al. Targeted therapy-induced diarrhea: a review of the literature. Crit Rev Oncol Hematol 2014; 90: 165–179.
+26.	National Cancer Institute CTCAE; http://evs.nci.nih.gov/ftp1/CTCAE/About.html (9 April 2015, date last accessed).
+27.	Cooperstein E, Gilbert J, Epstein JB et al. Vanderbilt Head and Neck Symptom Survey version 2.0: report of the development and initial testing of a subscale for assessment of oral health. Head Neck 2012; 34: 797–804.
+28.	Boers-Doets CB, Lalla RV. The mIAS scale: a scale to measure mTOR inhibitor- associated stomatitis. Support Care Cancer 2013; 21: S140.
+29.	Lewis SJ, Heaton KW. Stool form scale as a useful guide to intestinal transit time. Scand J Gastroenterol 1997; 32: 920–924.
+30.	Nutting CM, Morden JP, Harrington KJ et al. Parotid-sparing intensity modulated versus conventional radiotherapy in head and neck cancer (PARSPORT): a phase 3 multicentre randomised controlled trial. Lancet Oncol 2011; 12: 127–136.
+31.	McGuire DB, Fulton JS, Park J et al. Systematic review of basic oral care for the management of oral mucositis in cancer patients. Support Care Cancer 2013; 21: 3165–3177.
+32.	Eilers RE, Jr, Gandhi M, Patel JD et al. Dermatologic infections in cancer patients treated with epidermal growth factor receptor inhibitor therapy. J Natl Cancer Inst 2010; 102: 47–53.
+ 
+33.	Duvic M. EGFR inhibitor-associated acneiform folliculitis: assessment and management. Am J Clin Dermatol 2008; 9: 285–294.
+34.	Amitay-Laish I, David M, Stemmer SM. Staphylococcus coagulase-positive skin inﬂammation associated with epidermal growth factor receptor-targeted therapy: an early and a late phase of papulopustular eruptions. Oncologist 2010; 15: 1002–1008.
+35.	Kajiya K, Sawane M, Huggenberger R, Detmar M. Activation of the VEGFR-3 pathway by VEGF-C attenuates UVB-induced edema formation and skin inﬂammation by promoting lymphangiogenesis. J Invest Dermatol 2009; 129: 1292–1298.
+36.	Roigas J. Clinical management of patients receiving tyrosine kinase inhibitors for advanced renal cell carcinoma. Europ Urol Suppl 2008; 7: 593–600.
+37.	Novartis Pharmaceutical Corp. Highlights of prescribing information; http://www. pharma.us.novartis.com/product/pi/pdf/aﬁnitor.pdf (9 April 2015, date last accessed).
+38.	Malizzia LJ, Hsu A. Temsirolimus, an mTOR inhibitor for treatment of patients with advanced renal cell carcinoma. Clin J Oncol Nurs 2008; 12: 639–646.
+39.	Boers-Doets CB, Epstein JB, Raber-Durlacher JE et al. Oral adverse events associated with tyrosine kinase and mammalian target of rapamycin inhibitors in renal cell carcinoma: a structured literature review. Oncologist 2012; 17: 135–144.
+40.	Scully C. Clinical practice. Aphthous ulceration. N Engl J Med 2006; 355: 165–172.
+41.	National Cancer Institute. FDA approval for palifermin; http://www.cancer.gov/ cancertopics/druginfo/fda-palifermin (9 April 2015, date last accessed).
+42.	Venkatesh GH, Manjunath VB, Mumbrekar KD et al. Polymorphisms in radio- responsive genes and its association with acute toxicity among head and neck cancer patients. PLoS One 2014; 9: e89079.
+43.	Sonis S, Antin J, Tedaldi M, Alterovitz G. SNP-based Bayesian networks can predict oral mucositis risk in autologous stem cell transplant recipients. Oral Dis 2013; 19: 721–727.
+44.	Peterson DE, Keefe DM, Sonis ST. New frontiers in mucositis. In Govindan R (ed.) Am Soc Clin Oncol Educ Book 2012; 545–551.
+45.	Jensen SB, Peterson DE. Oral mucosal injury caused by cancer therapies: current management and new frontiers in research. J Oral Pathol Med 2014; 43: 81–90.
+46.	Somerﬁeld MR, Padberg JR, Pﬁster DG, et al. ASCO clinical practice guidelines: process, progress, pitfalls, and prospects. Class Pap Curr Comments 2000; 4: 881–886.

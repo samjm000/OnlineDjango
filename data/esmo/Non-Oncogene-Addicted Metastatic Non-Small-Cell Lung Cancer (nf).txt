@@ -1,0 +1,849 @@
+Journal Pre-proof
+
+Non-oncogene addicted metastatic non-small-cell lung cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up†
+L.E. Hendriks, K.M. Kerr, J. Menis, T.S. Mok, U. Nestle, A. Passaro, S. Peters, D. Planchard, E.F. Smit, B.J. Solomon, G. Veronesi, M. Reck, on behalf of the ESMO Guidelines Committee
+PII:	S0923-7534(22)04785-8
+DOI:	https://doi.org/10.1016/j.annonc.2022.12.013 Reference:	ANNONC 1166
+
+To appear in:	Annals of Oncology
+
+Received Date: 9 September 2022
+Revised Date:	19 December 2022
+Accepted Date: 20 December 2022
+
+
+Please cite this article as: Hendriks LE, Kerr KM, Menis J, Mok TS, Nestle U, Passaro A, Peters S, Planchard D, Smit EF, Solomon BJ, Veronesi G, Reck M, on behalf of the ESMO Guidelines Committee,
+Non-oncogene addicted metastatic non-small-cell lung cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up†, Annals of Oncology (2023), doi: https://doi.org/10.1016/ j.annonc.2022.12.013.
+
+This is a PDF file of an article that has undergone enhancements after acceptance, such as the addition of a cover page and metadata, and formatting for readability, but it is not yet the definitive version of record. This version will undergo additional copyediting, typesetting and review before it is published
+in its final form, but we are providing this version to give early visibility of the article. Please note that, during the production process, errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+© 2023 European Society for Medical Oncology. Published by Elsevier Ltd. All rights reserved.
+ 
+Non-oncogene addicted metastatic non-small-cell lung cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up†
+L. E. Hendriks1, K. M. Kerr2, J. Menis3, T. S. Mok4, U. Nestle5,6, A. Passaro7, S. Peters8, D. Planchard9, E.F Smit10,11, B. J. Solomon12, G. Veronesi13,14 & M. Reck15, on behalf of the ESMO Guidelines Committee*
+
+1Department of Pulmonology, GROW School for Oncology and Reproduction, Maastricht University Medical Center, Maastricht, The Netherlands; 2Aberdeen Royal Infirmary, Aberdeen University Medical School, Aberdeen, UK; 3Medical Oncology Department, University and Hospital Trust of Verona, Verona; 4Department of Clinical Oncology, The Chinese University of Hong Kong, Prince of Wales Hospital, Hong Kong, China; 5Department of Radiation Oncology, University Hospital Freiburg, Freiburg; 6Department of Radiation Oncology, Kliniken Maria Hilf, Moenchengladbach, Germany; 7Division of Thoracic Oncology, European Institute of Oncology IRCCS, Milan, Italy; 8Department of Oncology, Centre Hospitalier Universitaire Vaudois, Lausanne University, Lausanne, Switzerland; 9Department of Medical Oncology, Thoracic Group, Gustave-Roussy, Villejuif, France; 10Thoracic Oncology Service, Netherlands Cancer Institute, Amsterdam, The Netherlands; 11Department of Pulmonary Diseases, Leiden University Medical Center, Leiden, The Netherlands; 12Department of Medical Oncology, Peter MacCallum Cancer Centre, Melbourne, Victoria, Australia; 13Faculty of Medicine and Surgery-Vita-Salute San Raffaele University, Milan; 14Division of Thoracic Surgery, IRCCS San Raffaele Scientific Institute, Milan, Italy; 15Department of Thoracic Oncology, Airway Research Center North, German Center for Lung Research, Lung Clinic, Grosshansdorf, Germany.
+
+
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Office, Via Ginevra 4, CH-6900 Lugano, Switzerland. E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+ 
+†Approved by the ESMO Guidelines Committee: February 2022, last update December 2022. This publication supersedes the previously published version—Ann Oncol 2018;27 (Suppl 4): iv192-iv237.
+
+Running header: ESMO Clinical Practice Guidelines for Non-oncogene addicted mNSCLC
+
+Word count: 12,207 (count excluding title page, acknowledgements, funding and disclosure sections); References: 112; Tables: 1; Figures: 4; Supplementary
+material: 1.
+
+Key words:
+
+ESCAT, ESMO Clinical Practice Guideline, ESMO-MCBS, metastatic non-small-cell lung cancer, treatment, immunotherapy
+
+Highlights (online only):
+
+●	This ESMO Clinical Practice Guideline provides key recommendations and algorithms for managing non-oncogene addicted mNSCLC.
+
+●	The guideline covers diagnosis, staging, risk assessment, treatment and disease monitoring.
+
+●	ESMO-MCBS scores are given to describe the levels of evidence for treatment choices.
+
+●	ESCAT scores are given to describe the evidence level for genomic alterations as biomarkers for using targeted therapies.
+
+●	Recommendations are based on available scientific data and the authors’ collective expert opinion.
+
+●	In clinical practice, all recommendations provided need to be discussed with patients in a shared decision-making approach.
+ 
+INCIDENCE AND EPIDEMIOLOGY
+
+Details on incidence and epidemiology are covered in the Supplementary Material Section 1.
+
+DIAGNOSIS, PATHOLOGY AND MOLECULAR BIOLOGY
+
+Diagnostic procedures
+
+Details on diagnostic procedures are covered in the Supplementary Material Section 2.
+
+Pathology and molecular biology
+
+Diagnosis of tumour type allows prognostication and triage for biomarker testing (see the Supplementary Material Section 3 and Figure S1). In stage IV lung cancer, usually only small biopsy and/or cytology samples are available, more frequently from sites within the thorax, and usually acquired through endoscopy or facilitated by imaging. Lung cancer may be diagnosed at various metastatic sites. Systematic collaboration and frequent communication between pathologists and interventionalists is recommended to maximize diagnostic yield of samples, e.g. rapid onsite evaluation of samples.
+
+Pathological diagnosis and subtyping are carried out according to WHO guidelines (2021.1 Terminology specifically for use when diagnosing small samples is given in Table 1. Biopsy site, clinical information and tumour morphology should allow for primary lung cancer to be appropriately diagnosed in most cases. Clinical information is vital to prevent waste of limited tumour tissue in inappropriate pursuit of alternative, non-pulmonary origins of a tumour. This and other techniques for sparing tissue during diagnosis preserves material for biomarker testing. All handling, processing and preparation must allow for and facilitate biomarker testing, including molecular techniques [for further information please refer to the ESMO Clinical Practice Guideline (CPG) on Oncogene addicted metastatic non-small-cell lung carcinoma (NSCLC)].2
+ 
+Triage of cases based on non-squamous non-small-cell carcinoma subtype for molecular profiling (including the use of ctDNA) for driver oncogene targets is discussed in the ESMO CPG on oncogene addicted metastatic NSCLC. All stage IV NSCLC cases (squamous and non-squamous) are recommended for programmed death-ligand 1 (PD-L1) immunohistochemistry (IHC) testing. PD-L1 expression >50% [≥50% of at least 100 tumour cells (TCs) showing membrane expression] is a required selection criterion for use of pembrolizumab or cemiplimab monotherapy in first line while PD-L1 ≥1% on TCs is required for nivolumab plus ipilimumab in first line (not EMA approved) and pembrolizumab in second line. PD-L1 ≥50% on TCs or
+≥10% on tumour-infiltrating immune cells (ICs) is a required selection criterion for atezolizumab monotherapy in first line.3, 4
+Several anti-PD-L1 assays (22C3, SP263, SP142, 28-8, 73-10) are available and were used in clinical trials.3-5 These IHC clones, plus others, have also been used in laboratory-developed tests (LDTs) for clinical PD-L1 testing. All such tests will not necessarily give the same results. Comparative studies have shown that trial- validated 22C3, SP263 and 28-8 assays are effectively interchangeable; SP142 and 73-10 assays differ significantly.3-5 Regardless of the method of PD-L1 testing, rigorous internal and external quality assurance is essential to ensure accurate results. Both biopsy- and cytology-type samples are suitable for PD-L1 IHC testing provided they are suitably prepared for IHC, there is adequate tumour (at least 100 assessable TCs) and prior validation is undertaken.6 For further information see the Supplementary Material Section 3). PD-L1 IHC scores should be reported within a minimum of three ranges (<1%, 1% to 49%, ≥50%) but reporting in 10% intervals is strongly recommended. More detailed information for PD-L1 testing in lung cancer is available in the dedicated IASLC Atlas.3, 4
+Amongst other NSCLC immunotherapy biomarkers, the SP142 assay for atezolizumab scores PD-L1 in both TCs and ICs. The value of IC PD-L1 expression beyond this registrational setting, notably as a single predictive biomarker in NSCLC, is not established. The presence or absence of various IC types may be important, but data showing clinical utility are lacking. Therefore, this is not currently a recommended practice outside of trials and academic study. Tumour mutational
+ 
+burden (TMB) as a surrogate predictor of tumour immunogenicity is capable of enriching NSCLC populations for response but compelling evidence for adoption of this complex biomarker, as well as its standardization, is lacking.
+
+Mutations in, for example, STK11 and KEAP1 are associated with a poor prognosis, and exploratory subgroup analysis of clinical trials suggest they are, especially in KRAS mutated tumours, associated with lower ICI efficacy. The predictive value should be confirmed in prospective trials.7, 8
+Recommendations
+
+•	Preferably, a metastatic lesion is biopsied for diagnostic as well as staging purposes [IV, B]
+•	Bronchoscopy is a technique ideally suited to central lesions and can be used with bronchial washing, brushing, and bronchial and transbronchial biopsy [IV, A].
+•	Endobronchial ultrasound (EBUS) and/or endoscopic ultrasound (EUS) allows evaluation of regional lymph nodes [IV, A].
+•	Transthoracic fine needle aspiration and/or core biopsy, under imaging guidance [typically computed tomography (CT)], is indicated in case of mid to peripheral lesions [IV, A].
+•	In the presence of a pleural effusion, thoracentesis could represent both a diagnostic tool and a symptomatic treatment [IV, A].
+•	When less invasive techniques (EBUS, EUS, transthoracic fine needle aspiration, core biopsy) cannot allow for accurate diagnosis, more invasive, surgical approaches (mediastinoscopy, mediastinotomy, thoracoscopy etc.) in the diagnostic workup should be considered [IV, B].
+•	Systematic collaboration and constant communication between pathologists and interventionalists is encouraged to improve diagnostic yields. This may include use of rapid on-site sample evaluation (ROSE) [IV, A].
+•	Adequate tissue material for histological diagnosis and molecular testing should be obtained to allow for individual treatment decisions. This may require re- biopsy, where possible, when initial sampling is inadequate [IV, A].
+•	Pathological diagnosis should be made according to the 2021 WHO classification of lung tumours [IV, A].
+ 
+•	Specific subtyping of all NSCLCs is necessary for therapeutic decision making and should be carried out wherever possible. IHC stains should be used to reduce the NSCLC-not otherwise specified (NOS) rate to fewer than 10% of cases diagnosed [IV, A].
+•	PD-L1 IHC should be systematically determined in advanced NSCLC [I, A].
+•	If cytology samples are used for clinical PD-L1 testing, individual laboratories should validate their assays in their own cytology preparations against tissue biopsy samples of the same tumour [IV, A].
+•	PD-L1 testing is required for pembrolizumab, atezolizumab and cemiplimab monotherapy and nivolumab plus ipilimumab (not EMA approved) in first line, and pembrolizumab in second line [I, A].
+
+STAGING AND RISK ASSESSMENT
+
+Details on staging and risk assessment are covered in the Supplementary Material Section 4.
+Recommendations
+
+•	A complete history including a precise smoking history and comorbidities, weight loss, performance status (PS) and physical examination must be recorded [IV, A].
+•	Standard tests including routine haematology, renal and hepatic functions and bone biochemistry tests are required, additional endocrine and serological tests are necessary if receiving immune checkpoint inhibitors (ICIs) [IV, A].
+•	Contrast-enhanced CT scan of the chest and (upper) abdomen including the liver and the adrenal glands should be carried out at diagnosis [IV, A].
+•	Imaging of the central nervous system (CNS) should be considered at diagnosis for all patients with metastatic disease [IV, B] and is required for patients with neurological symptoms or signs [IV, A].
+•	If bone metastases are clinically suspected, bone imaging is required [IV, B].
+•	Bone scan or [18F]2-fluoro-2-deoxy-D-glucose (FDG)-positron emission tomography (PET), ideally coupled with CT, can be used for detection of bone metastasis [IV, B]. FDG-PET-CT is the most sensitive and specific modality [III, B].
+ 
+•	FDG-PET-CT and brain imaging are recommended in patients with suspected oligometastatic (≤5 metastases) disease [IV, A].
+•	NSCLC must be staged according to the American Joint Committee on Cancer (AJCC)/Union for International Cancer Control (UICC) TNM (tumour–node– metastasis) 8th edition staging manual and must be grouped into the stage categories shown in Supplementary Tables S2 and S3 [IV, A]. In the presence of a solitary metastatic site on imaging studies, efforts should be made to obtain a cytological or histological confirmation of stage IV disease [IV, A].
+•	Response evaluation is recommended after two to three cycles of systemic therapy, using the same initial radiographic investigation that demonstrated tumour lesions [IV, B]. Follow-up with PET is not routinely recommended, due to its high sensitivity and relatively low specificity [IV, C].
+•	Measurements and response assessment should follow Response Evaluation Criteria in Solid Tumours (RECIST) v1.19 [IV, A].
+•	In the case of ICI therapy, RECIST should formally be used. Immune-related RECIST (irRECIST)10, immunotherapy RECIST (iRECIST)11 and immune- modified RECIST (imRECIST)12 have not been validated, but may have a role in the overall assessment of therapy [IV, C].
+
+
+MANAGEMENT OF ADVANCED AND METASTATIC DISEASE
+
+Systemic treatment without contraindication for use of ICIs
+
+See Figure 1 and Figure 2 and for treatment algorithms for systemic treatment without contraindications for the use of ICIs for squamous cell carcinoma and non- squamous non-small-cell carcinoma, respectively. Contraindications for the use of ICIs are discussed in the ESMO CPG on management of toxicities from immunotherapy.13
+The treatment strategy for a patient with a newly diagnosed, metastatic NSCLC without an oncogenic driver includes consideration of histology, tumour genotype, PD-L1 expression, PS, co-morbidities, and the patient’s preferences (Supplementary Figure S1). Furthermore, consideration should be given by the multidisciplinary tumour board (MTB) for whether a patient has oligometastatic
+ 
+disease and is eligible for therapy with radical intent (please refer to the ‘Special populations: oligometastases’ subsection for further information). In general, systemic therapy should be offered to all patients with stage IV NSCLC with an Eastern Cooperative Oncology Group (ECOG) PS of 0-2. For treatment options for those with a PS of 2, please refer to the ‘Special populations: PS and beyond’ subsection for further information. Treatment for those with a contraindication for ICI is discussed under ‘First-line treatment with contraindications for use of immunotherapy’ (Figure 3 and Figure 4).
+
+
+
+First-line combination treatment of patients with PS 0-1, regardless of PD-L1 status and without contra-indication for ICI
+
+A combination of platinum-based ChT plus programmed cell death protein 1 (PD- 1)/PD-L1 blockade is the most common treatment approach for a patient with newly- diagnosed stage IV NSCLC (monotherapy ICI for patients with PD-L1 ≥50% is discussed in the “first-line monotherapy immunotherapy” subsection below). Several combination regimens have successfully demonstrated improved overall survival (OS) compared with ChT alone. These have included platinum-based ChT plus: pembrolizumab (non-squamous non-small-cell carcinoma and squamous cell carcinoma),14, 15 atezolizumab with or without bevacizumab (non-squamous non- small-cell carcinoma only),16, 17 nivolumab plus ipilimumab (non-squamous non- small-cell carcinoma and squamous cell carcinoma),18 cemiplimab (non-squamous non-small-cell carcinoma and squamous cell carcinoma),19 and durvalumab plus tremelimumab (non-squamous non-small-cell carcinoma and squamous cell carcinoma).20 Several ICI have demonstrated progression-free survival (PFS) benefit while still awaiting more mature OS data (reviewed in Reck et al.).21 Nivolumab– ipilimumab also improved OS compared with ChT.22
+Details of the designs (blinding, histology allowed, dose of immunotherapy, number of cycles, duration, endpoints) of all trials with positive OS data are summarised in Supplementary Table S1. Cemiplimab plus platinum-doublet ChT (EMPOWER- Lung 3),19 durvalumab plus tremelimumab plus platinum-doublet ChT (POSEIDON)20
+ 
+and nivolumab plus ipilimumab (CheckMate 227, only for PD-L1 ≥1% tumours)20 are FDA but not EMA approved.
+
+Current EMA-approved first-line combination regimens for non-squamous NSCLC are discussed in the next paragraphs. The pivotal trials all enrolled patients with WHO PS 0-1, and no contraindication for ICI therapy.
+
+Pembrolizumab plus ChT. This approval is based on KEYNOTE-189
+(N = 616),14 in which patients were randomised to receive pemetrexed and platinum plus either pembrolizumab or placebo, followed by pemetrexed–pembrolizumab or pemetrexed–placebo maintenance therapy. At the final analysis with median follow- up of 31 months (range 26.5-38.8), OS was substantially improved by the addition of pembrolizumab (HR 0.56, 95% CI 0.46-0.69), with a median OS (mOS) of 22.0 versus 10.6 months.23 There was improved survival compared with ChT across each of the PD-L1 strata as well. Based on the results from KEYNOTE-189, pembrolizumab in combination with pemetrexed and platinum ChT should be considered a standard treatment option in metastatic non-squamous non-small-cell carcinoma.
+
+Atezolizumab and bevacizumab plus carboplatin and paclitaxel. In the IMpower150 trial (N = 1202)16, patients were randomised to ChT plus bevacizumab or ChT plus atezolizumab or ChT plus atezolizumab and bevacizumab. At final analysis with 32 months minimum follow-up, the addition of atezolizumab and bevacizumab significantly improved OS compared with ChT plus bevacizumab (HR 0.80, 95% CI 0.67-0.95), with a median OS of 19.5 versus 14.7 months in the intention-to-treat wildtype population.24 OS was not significantly superior for atezolizumab-ChT versus bevacizumab-ChT (HR 0.84, 95% CI 0.71-1.00). Results from IMpower150 place the combination of atezolizumab and bevacizumab with carboplatin and paclitaxel as a therapeutic option in patients with metastatic non- squamous non-small-cell carcinoma.
+
+Nivolumab plus ipilimumab plus abbreviated ChT. In CheckMate-9LA
+(N = 719; n = 495 non-squamous non-small-cell carcinoma patients),18 patients were randomised 1:1 to receive an abbreviated course of ChT (two cycles, optional
+ 
+pemetrexed maintenance in non-squamous non-small-cell carcinoma) plus nivolumab–ipilimumab or standard ChT alone. With a median follow-up of 31 months, the addition of ICIs improved OS: mOS 15.8 versus 11.0 months (HR 0.72, 95% CI 0.61-0.86).25
+
+Atezolizumab plus ChT. In IMpower130 (n = 679 EGFR/ALK wildtype) patients were randomised to ChT (carboplatin plus nab–paclitaxel) with or without atezolizumab. The combination with atezolizumab improved OS: mOS 18.6 versus 13.9 months (HR 0.79, 95% CI 0.64-0.98, P = 0.033).17
+Current EMA-approved first-line combination regimens for squamous NSCLC are discussed in the next paragraphs. The pivotal trials all enrolled patients with WHO PS 0-1, and no contraindication for ICI.
+
+Pembrolizumab plus ChT. In KEYNOTE-407 (N = 559)15, patients were randomised to receive carboplatin and (nab)–paclitaxel plus pembrolizumab or placebo, followed by pembrolizumab or placebo maintenance. At the final analysis with median 14 months follow-up, the combinations of ChT plus pembrolizumab improved OS: mOS 17.1 versus 11.6 months (HR 0.71, 95% CI 0.58-0.88).26 The benefit in OS was generally preserved across PD-L1 expression strata, although the statistical significance was diminished in these subgroups. Results from KEYNOTE- 407 place the combination of pembrolizumab plus carboplatin and (nab)-paclitaxel as a standard choice in patients with metastatic squamous NSCLC.
+
+Nivolumab plus ipilimumab plus abbreviated ChT. CheckMate-9LA
+(n = 224 squamous cell carcinoma patients) demonstrated improved OS in NSCLC (both non-squamous non-small-cell carcinoma and squamous cell carcinoma), as described above. The benefit was enriched in patients with squamous cell carcinoma (OS HR for squamous cell carcinoma 0.63 and 0.78 for non-squamous non-small- cell carcinoma).25
+ 
+First-line treatment of patients with PS 0-1, PD-L1 ≥50% and without contra- indication for ICI
+
+The use of single-agent ICI has become the standard treatment for patients with squamous cell carcinoma as well as non-squamous non-small-cell carcinoma and a high PD-L1 expression (TC ≥50%, atezolizumab also IC≥10%).
+
+Details of the designs (blinding, histology allowed, dose of immunotherapy, number of cycles, duration, endpoints) of all trials with positive OS data are summarised in Supplementary Table S1.
+
+Pembrolizumab. In the KEYNOTE-024 trial (N = 305) patients with PD-L1
+≥50% on TC were randomised to receive pembrolizumab or platinum-doublet ChT.27 Pembrolizumab was superior for all efficacy endpoints: overall response rate (ORR) (46% versus 31%), PFS [median PFS (mPFS) 7.7 versus 5.5 months; HR 0.50, 95%
+CI 0.39-0.65] and OS (mOS 26.3 versus 13.4 months; HR 0.62, 95% CI 0.48-0.81).
+In addition, the 5-year OS was significantly better for pemetrexed (32% [95% CI 24.5-39.5]) compared with ChT (16% [95% CI 10.6-23.0]).28
+
+Cemiplimab. Similar results were found for cemiplimab monotherapy in the EMPOWER-Lung 1 trial (n = 563 evaluable patients with PD-L1 ≥50% on TCs), compared with investigator’s choice platinum-doublet ChT. With a median follow-up of
+10.8 months, mOS for cemiplimab was not reached versus 14.2 months for ChT (HR 0.57, 95% CI 0.42-0.77).29
+
+Atezolizumab. In the iMpower110 trial (N = 572; n = 554 EGFR/ALK wildtype), patients with PD-L1 ≥1% on TCs or iCs were randomised to atezolizumab 1200 mg or platinum-doublet ChT. OS was hierarchically tested in PD-L1 expression subgroups. In the subgroup of patients (n = 205) with high PD-L1 (≥50% TCs or ≥10% on iCs), atezolizumab showed a continued OS improvement in the exploratory updated OS analysis (median follow-up 31 months): mOS was 20.2 months for atezolizumab versus 14.7 months for ChT, respectively (HR 0.76, 95% CI 0.54-1.09). The OS improvement was not significant for patients with high/intermediate PD-L1 (≥5% on TCs or iCs), precluding formal testing in any PD-L1-expressing patients.30
+ 
+In all trials with available data, health-related quality of life (QoL) was maintained or improved with ICI compared with ChT.29, 31
+Based on the results of these three pivotal trials, pembrolizumab32, 33, cemiplimab34, 35 and atezolizumab36, 37 received FDA and EMA approval for treatment-naïve metastatic NSCLC, with PD-L1 ≥50% on TCs (or ≥10% on iCs for atezolizumab).
+
+In addition, KEYNOTE-042 and CHECKMATE-026 evaluated the role of monotherapy ICIs, pembrolizumab and nivolumab, respectively, with a lower PD-L1 threshold.38, 39 In KEYNOTE-042, an OS benefit was found for patients with high PD-L1, while no significant improvement was seen in those patients with 1% to 49% PD-L1 expression (HR 0.92, 95% CI 0.77-1.11).38 In CHECKMATE-026 no OS benefit for nivolumab was found for high PD-L1 expressors, and OS was similar for nivolumab and ChT for patients with metastatic NSCLC and a PD-L1 ≥5%.39 Therefore, monotherapy ICI is not recommended for patients with tumours with a PD-L1 expression <50%, although the FDA approved pembrolizumab for patients with PD-L1 ≥1% NSCLC.
+
+A key source of ongoing discussion is in patients with PD-L1-high (TCs ≥50%, for atezolizumab also ICs ≥10%) NSCLC, in whom there is uncertainty whether to prioritise ICI–ChT combinations or rather favour PD-(L)1 blockade alone. There is currently no head-to-head comparison, and there are no validated biomarkers to select patients for any particular treatment. Although cross-trial comparisons should be performed with caution, 24 months OS in patients with high PD-L1 expression seems comparable across trials with monotherapy ICI compared with ICI–ChT or ICI-ICI.22-24, 26, 28-30 Real-world data also show similar survival data for monotherapy ICI versus ICI– ChT except for never-smokers, in which ICI monotherapy is less effective.40 It seems reasonable to prioritise combinations in patients in whom the clinical status or disease trajectory suggests that there may not be opportunity for second-line therapy as well as in never-smokers. But in all other scenarios for tumours with a high PD-L1 expression, which should include a discussion about the patient’s preference, PD-(L)1 monotherapy may be reasonable to favour.
+
+Second-line and beyond treatment without contraindications for use of immunotherapy
+ 
+The second-line treatment strategy is heavily influenced by the treatment given in the first line. In general, ChT should be considered in patients with a PS 0-2 without major comorbidities. If the patient previously obtained a substantial clinical benefit from ICI (if ICI was discontinued previously, but not for progressive disease), rechallenge with anti-PD-(L)1 might be considered since it has showed reasonable efficacy and good tolerability.28, 41 Recommendations regarding challenge after discontinuation because of immune related toxicities can be found in the ESMO CPG for diagnosis, treatment and follow-up of toxicities from immunotherapy.13
+
+Disease progression during first-line ICI. For patients with disease progression during first-line ICI, ChT recommendations are the same as for the first- line treatment of those with a contraindication for ICI. For patients with disease progression during first-line ChT–ICI, ChT recommendations are the same as for the second-line treatment of those with a contraindication for ICI. For these recommendations, the reader is referred to the next section of this manuscript. Oligoprogression is discussed under ‘Special populations: ‘oligometastases’.
+
+Second-line ICI after first-line platinum doublet therapy. Importantly, in some cases, patients could not access, or were not eligible for, first-line ICIs and were treated with a platinum doublet but became eligible for ICI in the second line. In this situation, monotherapy anti-PD-(L)1 is recommended. Three anti-PD-(L)1 agents, nivolumab, pembrolizumab and atezolizumab, have been approved by regulatory bodies and are the treatment of choice for most patients (except for never smokers) with advanced, previously treated, PD-(L)1 inhibitor-naïve NSCLC, irrespective of PD- L1 expression (pembrolizumab only in PD-L1 ≥1%). No major differences in terms of efficacy or safety and no comparative studies have been conducted. All phase III randomised controlled trials (RCTs) with these agents demonstrated an OS benefit for monotherapy ICI over monotherapy ChT.41-47 Design and outcomes of these trials are summarised in Supplementary Tables S1 and S4.
+
+Third-line and beyond. For patients treated with ICIs in the first or second line, treatment recommendations in the third line and beyond are the same as the second line and beyond recommendations for those with a contraindication for ICI. For these recommendations, the reader is referred to the part on second-line therapy with
+ 
+contraindications for use of immunotherapy. The only exception is that in some selected cases a rechallenge with anti-PD-(L)1 can be considered since it has showed reasonable efficacy and good tolerability.28, 41
+Systemic treatment with contraindication for use of ICIs
+
+See Figure 3 and Figure 4 for treatment algorithms for systemic treatment without contraindications for the use of ICIs.
+
+First-line treatment with contraindications for use of immunotherapy. The preferred treatment is a platinum-based ChT doublet according to the histological subtype and organ function.48 Benefits of ChT versus best supportive care (BSC), namely a 23% reduction in risk of death, a 1-year survival gain of 9% and improved QoL, were observed irrespective of age, sex, histology and PS in two meta- analyses.48-50 The survival benefit of two-agent over one-agent ChT regimens was reported in a meta-analysis in 2004; no survival benefit was observed for three-agent over two-agent regimens.51 A meta-analysis showed a statistically significant reduction (equal to 22%) in the risk of death at one year for platinum over non- platinum combinations, without induction of unacceptable increase in toxicity.52 Several platinum-based regimens with third-generation cytotoxics (paclitaxel, gemcitabine, docetaxel, vinorelbine) have shown comparable efficacy.53, 54 The expected toxicity profile should contribute to the selection of the ChT regimen. A Cochrane review including 10 studies with a total of 3973 patients available for meta- analysis could not demonstrate any difference between carboplatin-based and cisplatin-based ChT in OS. However, cisplatin causes more nausea or vomiting and carboplatin causes more thrombocytopenia and neurotoxicity, while there is no difference in the incidence of grade 3-4 anaemia, neutropenia, alopecia or renal toxicity.55 As carboplatin–nab–paclitaxel has higher ORR compared with solvent- based paclitaxel–carboplatin, and less neurotoxicity,56 a carboplatin–nab–paclitaxel regimen could be considered a chemotherapeutic option in advanced NSCLC patients, particularly in patients with greater risk of neurotoxicity, pre-existing hypersensitivity to paclitaxel or contraindications for standard paclitaxel premedication.
+ 
+Six cycles are not superior to four cycles and increases toxicity.57 Therefore, four cycles of platinum-based doublets followed by less toxic maintenance monotherapy, or four cycles in patients not suitable for maintenance monotherapy, up to a maximum of six cycles, is currently recommended. Specific recommendations for squamous cell carcinoma and non-squamous non-small-cell carcinoma are described below.
+
+First-line treatment of squamous cell carcinoma. Platinum-based doublets with the addition of a third-generation cytotoxic agent (gemcitabine, vinorelbine, taxanes) are recommended in patients with advanced squamous cell carcinoma without major comorbidities and PS 0-2, as most individual trials and meta-analyses demonstrated no differential efficacy.48
+
+First-line treatment of non-squamous non-small-cell carcinoma. For non- squamous non-small-cell carcinoma, any platinum-based doublet with a third- generation agent including pemetrexed, gemcitabine, vinorelbine or taxanes can be used. Pemetrexed showed a slight but significant survival benefit compared with gemcitabine- or docetaxel-based combinations, although this was restricted to the combination with cisplatin and not carboplatin.58 The combination of carboplatin with pemetrexed can be an option in patients with a contraindication for cisplatin.
+Pemetrexed use should be restricted to non-squamous non-small-cell carcinoma in any line of treatment in advanced disease.59 Adding bevacizumab to ChT is an option as bevacizumab improves OS when combined with paclitaxel–carboplatin regimens in patients with non-squamous non-small-cell carcinoma and PS 0-1. Two randomised clinical trials revealed that bevacizumab improves OS when combined with paclitaxel–carboplatin regimens and, therefore, may be offered in the absence of contraindications in eligible patients with advanced non-squamous non-small-cell carcinoma (bevacizumab should be given until progression).60, 61 In the PointBreak trial, which compared carboplatin–paclitaxel–bevacizumab followed by bevacizumab with carboplatin–pemetrexed–bevacizumab followed by pemetrexed–bevacizumab, OS was comparable in both arms.62 A randomised phase III trial evaluating gemcitabine–cisplatin combination with or without bevacizumab demonstrated an ORR benefit and modest PFS advantage, but no OS benefit.63 Treatment with
+ 
+bevacizumab has also shown encouraging efficacy and acceptable safety in patients with non-squamous non-small-cell carcinoma and asymptomatic, untreated brain metastases.64 Bevacizumab might therefore be considered with platinum-based regimens in the absence of contraindications.
+
+Maintenance. Decision-making about maintenance therapy must take into account histology, residual toxicity after ChT, response to platinum doublet, PS and patient preference. A phase III trial of continuation maintenance with pemetrexed versus placebo after four induction cycles of cisplatin plus pemetrexed demonstrated a PFS and OS improvement.65, 66 In another phase III study comparing maintenance bevacizumab, with or without pemetrexed, after first-line induction with bevacizumab, cisplatin and pemetrexed showed a benefit in PFS for the pemetrexed combination but no improvement in OS.67, 68 In the PointBreak trial, OS was not superior for the pemetrexed-containing regimen.62 In a phase III trial, it was also shown that continuation maintenance with gemcitabine significantly reduces disease progression with a non-significant OS improvement after four cycles of cisplatin– gemcitabine but the study was not powered for OS.69
+Continuing pemetrexed following completion of four cycles of first-line cisplatin– pemetrexed ChT is, therefore, recommended in patients with non-squamous non- small-cell carcinoma, in the absence of progression after first-line ChT and upon recovery from toxicities from the previous treatment.
+
+Second-line therapy with contraindications for use of immunotherapy. In this situation, monotherapy ChT according to the histological subtype, organ function and ChT already given in first-line treatment is recommended. Docetaxel and pemetrexed (for non-squamous non-small-cell carcinoma only, if not administered frontline) as single agents have demonstrated a consistent and comparable efficacy improvement.
+
+Docetaxel has shown improved OS compared with BSC in a randomised phase III trial70, and a longer 1-year survival compared with vinorelbine or ifosfamide in the TAX 320 trial.71 In both trials all histologies were included. Similar efficacy but more
+ 
+favourable tolerability for the weekly compared with 3-weekly docetaxel schedule was observed.72, 73
+Pemetrexed demonstrated comparable OS to docetaxel in a phase III RCT but had a more favourable toxicity profile, with lower rates of neutropaenia, alopecia and gastrointestinal events.74 An analysis of two phase III trials confirmed a predictive impact of histology with an improved mOS for pemetrexed compared with docetaxel in patients with non-squamous non-small-cell carcinoma (9.0 versus 8.3 months; HR 0.78, 95% CI 0.61-1.0, P = 0.004).59
+Treatment duration should be individualised based on disease control and toxicity, although registration trials of both agents, except for disease progression, did not limit the number of treatment cycles.
+
+Ramucirumab and docetaxel75, 76 and docetaxel plus nintedanib (for adenocarcinoma only)77, 78 represent treatment options for patients with NSCLC progressing after previous ChT–ICI, with PS 0-2. These trials are summarised in Supplementary Table S5.
+
+Third-line and beyond with contraindications for use of immunotherapy. Options for third- and further lines of treatment will be heavily influenced by the treatment given in the previous lines and is an option in patients with PS 0-2.
+
+None of the possible active agents have been formally assessed since no prospective trial has determined the best therapy. Therefore, treatment needs to be personalised and carefully selected based on disease characteristics, patient PS, comorbidities and organ function.
+
+In addition, in patients with advanced squamous cell carcinoma unfit for ChT or ICI, afatinib had superior PFS and OS versus erlotinib (mPFS 2.4 versus 1.9 months;HR 0.82, 95% CI 0.68-1.00, P = 0.041; mOS 7.9 versus 6.8 months; HR 0.81, 95% CI
+0.69-0.95, P = 0.0077, respectively).79
+ 
+On the contrary, erlotinib, in a meta-analysis of six randomised trials, had a significantly inferior PFS compared with ChT in patients with EGFR-wildtype tumours (HR 1.37, 95% CI 1.20-1.56, P < 0.00001).80
+Special populations
+
+PS2 and beyond. In patients with NSCLC and PS of 2, ChT prolongs OS and improves QoL compared with BSC alone.81 Furthermore, first-line carboplatin-based doublets are superior in terms of ORR and OS compared with single-agent ChT. However, toxicity (mainly haematological) increases with doublet therapy.82-85
+All published phase III studies with ICIs excluded patients with PS ≥2 and data come from subgroup analyses of phase II studies, retrospective series and expanded access programmes. In general, survival is lower compared with PS 0-1, although toxicity does not seem to increase.86-89 The single-arm PEPS2 trial (N = 62) is the only reported trial that specifically focused on patients with PS 2 (not selected for PD-L1 expression level nor treatment line). Pembrolizumab monotherapy was safe
+and PD-L1 level-dependent durable clinical benefit (i.e. no progressive disease at 18 weeks) was observed in 22% to 53%.90 For ChT-ICI, no trial data exist for PS 2.Insufficient data are available to date on the use of monotherapy ICI for patients with PS 2, but this treatment option can be considered based on the PEPS2 trial.
+ChT-ICI has not been formally evaluated and cannot be recommended.
+
+Elderly. Single-agent ChT is superior over BSC in patients aged >70 years.91 Carboplatin-based combinations are superior to non-platinum combinations as well as monotherapy ChT as they result in improvements in OS, PFS and ORR, although at the cost of increased toxicity (without significantly compromising QoL).85, 92, 93 Comprehensive geriatric assessment has not proven its value in treatment selection.94
+RCTs specifically focusing on ICI efficacy in the elderly are ongoing. Based on subgroup analyses of the phase III monotherapy ICI RCTs (first as well as second line), elderly patients seem to derive the same OS benefit as younger patients, without additional toxicity.95 Of note, age cut-off was often >65 instead of >70 years, and these patients were fit enough to be enrolled in these trials. Patients aged >65
+ 
+years also seem to benefit from ChT-ICI combinations, although the evidence of benefit in those aged ≥75 years remains to be firmly established.95, 96
+
+Oligometastases. ‘Oligometastatic’ refers to a state of a limited number of metastases in a limited number of organs.97 Different types of oligometastatic disease exist (for example synchronous, metachronous, oligopersistent/induced and oligoprogressive; for a detailed description see Guckenberger et al.98). The prognosis of patients with metachronous metastases is superior to those with synchronous metastases, and mediastinal involvement is a negative prognostic factor.99
+To consider a disease oligometastatic, the most accepted maximum number of metastatic lesions is five, even if in the majority of studies patients with only one to two distant lesions were included.100 A special situation is the case of a solitary lesion in the contralateral lung (second primary versus metastasis); for differentiation, these patients should be discussed in the multidisciplinary team (MDT).101
+In the trials addressing oligometastatic local ablative concepts, all metastases, the primary tumour and, if applicable, involved mediastinal lymph nodes had to be eligible for radical treatment by local therapy (radiotherapy, resection or both). Of note, not all completed trials mandated baseline FDG-PET-CT and brain imaging, while these are both recommended in the European Organisation for Research and Treatment of Cancer (EORTC) synchronous oligometastatic NSCLC consensus.100
+Trial data evaluating local radical radiotherapy (LRT) in synchronous oligometastatic NSCLC are limited. A single arm phase II trial (N = 40; 87% with a single metastasis, one patient with a known EGFR mutation) reported five- and six-year survival rates of 8% and 3%, respectively.102 Two phase II RCTs (n = 49, including 8 patients with an oncogenic driver and N = 29) showed that PFS improved with the addition of LRT to systemic therapy in patients with oligometastatic NSCLC that responded to induction systemic therapy (ChT or tyrosine kinase inhibitor, no ICI used). Of note, both trials were closed prematurely due to impressive PFS benefits,103, 104 and one
+ 
+trial also demonstrated an OS benefit (other trial no OS data reported yet): mOS
+41.2 versus 17.0 months, with no difference in adverse events.104
+
+For metachronous metastases, even fewer RCTs are available. The phase II RCT SABR-COMET enrolled patients with controlled different primary tumours (n = 18/99 NSCLC) and up to five metachronous metastatic lesions. Patients were randomised to standard of care (SoC) or to SoC + stereotactic ablative radiotherapy (SABR) to all metastatic lesions. Both mPFS and mOS were significantly longer in the SABR arm:
+12.0 versus 6.0 months (HR 0.47, P = 0.001) and 41.0 versus 28.0 months (HR 0.57,
+P = 0.09), respectively.105
+
+In a single arm phase II trial (N = 51, either synchronous or metachronous metastases, 45 received pembrolizumab, 28 of these 45 had only one metastasis) ICI was used as systemic therapy. Patients were treated with LRT and, if no progression after LRT, with pembrolizumab. mPFS from start of LRT was 19.1 months, mOS was 41.6 months, and 1- and 2-year OS rates were 91% and 78%, respectively.106
+Prospective data evaluating the addition of LRT to (ChT)-ICI in patients with oligoprogression (either brain or extracranial) on ICI do not exist, although retrospective data suggest this is beneficial for patients (reviewed in Remon et al
+107).
+
+No randomised trials are available to assess the best LRT approach in the setting of oligometastatic NSCLC. Both surgery and radiotherapy (either stereotactic or conventional) are safe according to recent data. The choice is based on different considerations: radiotherapy or chemoradiotherapy on the primary tumour should be preferred when the tumour is not resectable, when a pneumonectomy is needed, for high-risk surgical patients or when the patient prefers the non-surgical treatment.
+
+The optimal sequence of treatment is not clear (systemic therapy followed by LRT, systemic therapy and LRT concurrently, or LRT followed by systemic therapy).
+Furthermore, the best systemic therapy (ChT, ICI or combinations), whether systemic therapy should be combined with radiotherapy, or the optimal duration of
+ 
+therapy is not known. Therefore, all patients with oligometastatic disease should be discussed in MDTs to evaluate the best treatment and its sequence.
+
+Brain metastases. Therapeutic strategies for patients with brain metastases are discussed in the EANO-ESMO CPG on Brain metastasis from solid tumours.108
+
+Bone metastases. Therapeutic strategies for patients with bone metastases are discussed in the ESMO CPG on Bone health in cancer.109
+
+Role of palliative radiotherapy in stage IV
+
+Details on the role of radiotherapy are covered in Supplementary Material Section
+5. For recommendations regarding radiotherapy for brain metastases, please refer to the EANO-ESMO CPG on Brain metastasis from solid tumours.108
+Role of surgery in stage IV
+
+Surgery may be indicated for diagnosis, evaluation of response to systemic therapy and palliation. Details on surgery are covered in Supplementary Material Section 6.
+
+Role of minimally invasive procedures in stage IV
+
+Details on minimally invasive procedures are covered in Supplementary Material Section 7.
+
+Palliative care in stage IV
+
+Details on palliative care are covered in Supplementary Material Section 8.
+
+
+Recommendations
+
+General recommendations
+
+•	The treatment strategy should consider the histology, molecular pathology, age, PS, comorbidities and the patient’s preferences [IV, A].
+•	Systemic therapy should be offered to all stage IV patients with PS 0-2 [I, A]
+ 
+•	In any stage of NSCLC, smoking cessation should be highly encouraged, because it improves the outcome [II, A]
+•	The treatment strategy for patients with oligometastatic disease should be discussed upfront in the MTB [IV, A]
+•	Pemetrexed use is restricted to non-squamous non-small-cell carcinoma in any line of treatment [I, A].
+
+
+
+
+
+
+First-line combination treatment of advanced NSCLC with PS 0-1, regardless of PD-L1 status and without contraindication for ICI
+•	Combinations of platinum-based ChT and anti-PD-(L1) inhibitors are preferred to platinum-based ChT [I, A].
+•	For patients with non-squamous non-small-cell carcinoma, first-line ChT-ICI options consist of pembrolizumab–pemetrexed–platinum [I, A; ESMO MCBS v1.1 score: 4], atezolizumab–bevacizumab–paclitaxel–carboplatin [I, A; ESMO MCBS v1.1 score: 3], atezolizumab–carboplatin–nab-paclitaxel [I, A; ESMO MCBS v1.1 score: 3] or nivolumab–ipilimumab plus two cycles of ChT (and optional pemetrexed maintenance) [I, A; ESMO MCBS v1.1 score: 4].
+•	For patients with squamous cell carcinoma, first-line ChT–ICI options consist of pembrolizumab–carboplatin–(nab)-paclitaxel [I, A; ESMO MCBS v1.1 score: 4] or nivolumab–ipilimumab plus two cycles of ChT [I, A; ESMO MCBS v1.1 score: 4].
+•	Cemiplimab plus platinum-doublet ChT (with pemetrexed maintenance for non- squamous histology) [I, A] and durvalumab plus tremelimumab plus platinum- doublet ChT are options regardless of histology but are not EMA approved [I, A; ESMO MCBS v1.1 score: 4].
+•	Nivolumab plus ipilimumab is an option for PD-L1≥1% tumors regardless of histology but is not EMA approved [I, A].
+•	Duration of treatment should be adjusted to clinical efficacy and tolerability [IV, A]. In most registered strategies, duration of ICI treatment was limited to two years, and therefore these ICI can be discontinued after two years [I, B]. Because
+ 
+of risk of toxicity, especially nivolumab–ipilimumab maintenance should be discontinued after two years [I, A].
+
+
+First-line treatment of advanced NSCLC with PS 0-1, PD-L1 ≥50% and without contraindication for ICI
+•	Pembrolizumab is considered a standard first-line option [I, A; ESMO-MCBS v1.1 score: 5]. Alternatives are atezolizumab (also if IC ≥10%) [I, A; ESMO-MCBS v1.1 score: 5] and cemiplimab [I, A; ESMO-MCBS v1.1 score: 4].
+•	ChT-ICI or nivolumab–ipilimumab with two cycles of ChT (and optional pemetrexed maintenance in non-squamous non-small-cell carcinoma) instead of monotherapy anti-PD-(L)1 is an option for patients with PS 0-1, PD-L1 ≥50%, a need for a fast tumour load reduction and without contraindications for immunotherapy [IV, B].
+•	Monotherapy ICI is not recommended for patients with tumours with a PD-L1 expression <50% or for never-smokers [I, D].
+•	Duration of treatment should be adjusted to clinical efficacy and tolerability [IV, A]. In most registered strategies, duration of ICI treatment was limited to two years, and therefore these ICI can be discontinued after two years [I, A. Because of risk of toxicity, especially nivolumab–ipilimumab maintenance should be discontinued after two years [I, A].
+
+
+
+
+
+
+First-line treatment for patients with advanced NSCLC and PS ≥2
+
+•	Platinum-based (preferably carboplatin) doublets should be considered in eligible patients with PS2 [I, A].
+•	Single-agent ChT with gemcitabine, vinorelbine, docetaxel [I, B] or pemetrexed (restricted to non-squamous non-small-cell carcinoma) is an alternative option [II, B].
+ 
+•	Insufficient data are available to date on the use of monotherapy ICI for patients with PS2, but this treatment option can be considered [III, B].
+•	Patients with PS3-4 should be offered BSC [III, A].
+
+
+
+First-line treatment for elderly patients with advanced NSCLC
+
+•	Treatment recommendations for elderly patients with good PS and adequate organ function are similar to the general population, although the benefit of ChT- ICI is unclear in patients aged ≥75 years [III, A].
+•	The toxicity of platinum-doublets should be discussed; however, carboplatin is the preferred option when toxicity is deemed tolerable [I, A].
+•	For patients not eligible for doublet ChT, single-agent ChT remains the SoC [I, B].
+
+
+
+Second-line treatment of advanced NSCLC with PS 0-2 treated with first-line ICI
+
+
+•	Second-line treatment should be offered to patients without major comorbidities and a PS 0-2. The type of second-line treatment heavily depends on the agents used in the first line. [I, A].
+•	If the patient previously obtained a substantial clinical benefit from (ChT)-ICI (if ICI was discontinued previously, but not for progressive disease or severe toxicity), rechallenge with anti-PD-(L)1 might be considered since it has showed reasonable efficacy and good tolerability [III, B].
+•	If monotherapy ICI has been given as first line, please refer to the recommendations for first-line treatment of NSCLC with contraindication for ICI. If ChT–ICI has been given as first line, please refer to the recommendations for second-line treatment of NSCLC with contraindication for ICI.
+
+Second-line treatment of advanced NSCLC with PS 0-2 not treated in first line with ICI, without contraindication for ICI
+ 
+•	PD-(L)1 inhibitors (nivolumab, pembrolizumab and atezolizumab) are the treatment of choice for most patients (except for never smokers) [I, A].
+•	Nivolumab and atezolizumab are recommended irrespective of PD-L1 expression [I, A; nivolumab ESMO-MCBS v1.1 score: 5; atezolizumab ESMO-MCBS v1.1 score: 3].
+•	Pembrolizumab is recommended in NSCLC with PD-L1 expression ≥1% [I, A; ESMO-MCBS v1.1 score: 5].
+
+
+First-line treatment of advanced NSCLC with contraindication for ICI and PS 0- 2
+•	ChT with platinum doublets should be considered in all patients without major comorbidities and PS 0-2 [I, A; ESMO MCBS v1.1 score: 4].
+•	Four cycles of platinum-based doublets followed by less toxic maintenance monotherapy [I, A], or four cycles in patients not suitable/eligible for maintenance monotherapy [I, A], up to a maximum of six cycles [IV, B], is currently recommended.
+•	The carboplatin–nab-paclitaxel regimen could be considered a chemotherapeutic option, particularly in patients with greater risk of neurotoxicity, pre-existing hypersensitivity to paclitaxel or contraindications for standard paclitaxel premedication [I, B].
+•	Platinum-based doublets with a third-generation cytotoxic agent (gemcitabine, vinorelbine, taxanes) are recommended in squamous cell carcinoma patients without major comorbidities and PS 0-2 [I, A].
+•	Pemetrexed-based combination ChT is preferred to gemcitabine- or docetaxel- based combinations in patients with non-squamous non-small-cell carcinoma [I, A; ESMO MCBS v1.1 score: 4].
+•	Bevacizumab might be considered with a carboplatin-paclitaxel or carboplatin- pemetrexed based regimen in the absence of contraindications [I, B].
+•	Maintenance ChT should be offered only to patients with PS 0-1 after first-line ChT. Decisions about maintenance should consider histology, response to
+ 
+platinum-doublet ChT and remaining toxicity after first-line ChT as well as PS and the patient’s preference.
+•	In patients with non-squamous non-small-cell carcinoma and PS 0-1, pemetrexed switch maintenance should be considered in patients having disease control following four cycles of non-pemetrexed-containing platinum-based ChT [I, B].
+•	Pemetrexed continuation maintenance should be considered in patients having disease control following four cycles of cisplatin–pemetrexed [I, A; ESMO-MCBS v1.1 score: 4].
+•	Continuation maintenance with gemcitabine is an option in patients treated with four cycles of cisplatin–gemcitabine [I, C].
+•	Treatment duration, except in case of disease progression, should be individualised based on disease control and toxicity [II, B]
+
+
+
+Second-line and beyond in patients with contraindication for ICI
+
+•	Patients clinically or radiologically progressing after first-line therapy with PS 0-2 should be offered second-line therapy irrespective of administration of maintenance treatment [I, A].
+•	Comparable options as second-line therapy consist of pemetrexed (if not given in first line and non-squamous non-small-cell carcinoma only), or docetaxel (all histologies), with a more favourable tolerability profile for pemetrexed [I, B].
+•	Treatment may be prolonged if disease is controlled and toxicity is acceptable [II, B].
+•	Nintedanib–docetaxel is a treatment option in patients with adenocarcinoma progressing after previous ChT [II, B].
+•	Ramucirumab–docetaxel is a treatment option in patients with NSCLC progressing after first-line ChT [I, B; ESMO-MCBS v1.1 score: 1].
+•	In patients with advanced squamous cell carcinoma with PS 0-2 unfit for ChT, afatinib is a potential option with unknown EGFR status or EGFR wildtype tumours [I, C; ESMO-MCBS v1.1 score: 2].
+ 
+Patients with oligometastatic disease
+
+•	Patients with oligometastatic NSCLC (synchronous, metachronous, oligoprogressive) should be staged with FDG-PET-CT and brain imaging [IV, B].
+•	LRT in addition to systemic treatment is recommended as it may increase PFS and OS [II, B].
+•	The choice of LRT (radiotherapy, surgery) should be discussed in the MTB as both are safe and effective [III, B].
+•	Solitary lesions in the contralateral lung should, in most cases, be considered as synchronous second primary tumours and, if possible, treated with curative- intent therapy [IV, B].
+
+Palliative radiotherapy in stage IV
+•	External beam radiotherapy (EBRT) is indicated in cases of haemoptysis and symptomatic airway obstruction [III, B].
+•	Radiotherapy can achieve symptom control for a variety of clinical scenarios including haemoptysis, symptomatic airway obstruction, painful chest wall disease and bone metastasis, superior vena cava syndrome, soft tissue or neural invasion and should be considered in these cases [II, B].
+•	Administration of high-dose radiotherapy does not result in greater levels of palliation and is therefore not recommended for this purpose [II, D].
+•	EBRT alone is more effective for palliation than endobronchial brachytherapy (EBB) alone and is preferred over EBB [II, B].
+•	For patients previously treated with EBRT who are symptomatic from recurrent endobronchial central obstruction, EBB may be considered in selected cases [III, C].
+•	Neurological symptoms from spinal cord compression can be relieved by early radiotherapy and therefore early radiotherapy is advised [II, B].
+
+
+
+Surgery in stage IV
+•	Highly selected patients may be considered for lung resection with therapeutic intent (see paragraph on oligometastatic disease) or even for a salvage
+ 
+procedure for a primary or metastatic lesion in case of specific complications that can be treated with salvage surgery [IV, C].
+•	When metastatic disease is suspected on PET scanning, invasive surgical procedures such as incisional biopsies, mediastinoscopy, thoracoscopy (video- assisted thoracoscopic surgery) or laparoscopy may be required to obtain relevant biopsy samples. Adequate samples should be provided to the pathologist for detailed routine staining, IHC and molecular genetic testing [III, B].
+•	Persisting or recurrent pleural effusions are usually managed by pleurodesis to improve dyspnoea. Talc is the preferred agent and thoracoscopic poudrage may be better than injection of talc slurry in patients with primary lung cancer [II, B]. Both indwelling pleural catheters and talc poudrage are an option to manage recurrent malignant pleural effusions [II, C].
+•	In case of a trapped lung by a thickened visceral pleural peel, indwelling pleural catheters or pleuroperitoneal shunts are an option to provide symptomatic relief [IV, B].
+
+
+Role of minimally-invasive procedures in stage IV
+•	In case of symptomatic major airways obstruction or post-obstructive infection, endoscopy debulking by laser, cryotherapy or stent placement may be helpful [III, C].
+•	Endoscopy (endobronchial or by guiding endovascular embolisation) is useful in the diagnosis and treatment of haemoptysis [III, C].
+•	Vascular stenting might be useful in NSCLC-related superior vena cava compression [III, B].
+
+Palliative care in stage IV
+•	Early palliative care intervention is recommended, in parallel with standard oncological care [I, A].
+
+FOLLOW-UP, LONG-TERM IMPLICATIONS AND SURVIVORSHIP
+ 
+Details on follow-up, long-term implications and survivorship are covered in the
+Supplementary Material Section 9.
+
+
+Recommendations
+
+•	Follow-up every 6-12 weeks should be performed if there is an option for a next line of therapy [IV, B].
+•	For patients who completed their scheduled ICI without signs of disease progression, follow-up CT scans should be made every 3-4 months. This interval can be increased for patients off therapy at 5 years [IV, B]
+•	Psychosocial support should be offered if needed [IV, A].
+•	Smoking cessation should be encouraged [II, A].
+
+
+
+METHODOLOGY
+
+This CPG was developed in accordance with the ESMO standard operating procedures for CPG development (https://www.esmo.org/Guidelines/ESMO- Guidelines-Methodology). The relevant literature has been selected by the expert authors. An ESMO-MCBS table with ESMO-MCBS scores is included in Supplementary Table S6. ESMO-MCBS v1.1110 was used to calculate scores for new therapies/indications approved by the European Medicines Agency (EMA) or Food and Drug Administration (FDA) (https://www.esmo.org/Guidelines/ESMO- MCBS). The scores have been calculated by the ESMO-MCBS Working Group and validated by the ESMO Guidelines Committee. The FDA/EMA or other regulatory body approval status of new therapies/indications is reported at the time of writing this CPG. Levels of evidence and grades of recommendation have been applied using the system shown in Supplementary Table S7.111, 112 Statements without grading were considered justified standard clinical practice by the authors. For future updates to this CPG, including Living Guidelines, please see the ESMO Guidelines website at https://www.esmo.org/guidelines/guidelines-by-topic/lung-and-chest- tumours/clinical-practice-living-guidelines-metastatic-non-small-cell-lung-cancer.
+ACKNOWLEDGEMENTS
+ 
+Manuscript editing support was provided by Fraser Simpson, Claire Bramley and Catherine Evans (ESMO Guidelines staff); this support was funded by ESMO. Nathan Cherny, Chair of the ESMO-MCBS Working Group, Urania Dafni ESMO- MCBS Working Group Member/Frontier Science Foundation Hellas and Giota Zygoura of Frontier Science Foundation Hellas provided review and validation of the ESMO-MCBS scores. Nicola Latino (ESMO Scientific Affairs staff) provided coordination and support of the ESMO-MCBS scores and Angela Corstorphine of KMC provided medical writing and editing support in the preparation of the ESMO- MCBS table; this support was funded by ESMO. Matt Hellmann provided initial writing support during the conception of this guideline.
+
+FUNDING
+
+No external funding has been received for the preparation of these guidelines. Production costs have been covered by ESMO from central funds.
+
+DISCLOSURE
+
+LEH reports personal fees as an invited speaker from Benecke, Medtalks and VJOncology; personal fees for participation in mentorship programme funded by AstraZeneca; personal fees for travel support from Roche; personal fees as member of the committee that revised the Dutch guidelines on NSCLC, brain metastases and leptomeningeal metastases; fees paid to her institution for an educational webinar from Janssen; fees paid to her institution for advisory board membership from Amgen, BMS, Boehringer Ingelheim, Janssen, Lilly, Merck, MSD, Novartis, Pfizer, Roche and Takeda; fees paid to her institution as an invited speaker from AstraZeneca, Bayer, high5oncology, Lilly and Merck Sharp & Dohme (MSD); fees paid to her institution for interview sessions from Roche; fees paid to her institution for podcast appearance from Takeda; institutional research grants from AstraZeneca, Boehringer Ingelheim, Roche, Takeda, Pfizer and Merck; institutional funding as a local principal investigator (PI) from AbbVie, AstraZeneca, Blueprint Medicines, Gilead, GlaxoSmithKline (GSK), Merck Serono, Mirati, MSD, Novartis, Roche and Takeda; non-remunerated roles as chair for metastatic NSCLC of the lung cancer group for EORTC (European Organisation for Research and Treatment
+ 
+of Cancer) and as the secretary of the studies foundation for NVALT (Nederlandse Vereniging van Artsen voor Longziekten en Tuberculose).
+
+KK reports personal fees as an invited speaker from Amgen, AstraZeneca, Boehringer Ingelheim, Bristol Myers Squibb (BMS), Eli Lilly, Medscape, Merck Serono, MSD, Novartis, Pfizer, Prime Oncology, Roche and Roche Diagnostics/Ventana; personal fees for consultancy and advisory board membership from AbbVie, Amgen, AstraZeneca, Bayer, Debiopharm, Diaceutics, Janssen, Merck Serono, MSD, Novartis, Pfizer, Regeneron, Roche and Roche Diagnostics/Ventana; non-remunerated roles as the past Pathology Committee Chair for IASLC (International Association for the Study of Lung Cancer) and member of the UK Lung Cancer Consortium.
+
+JM reports fees paid to her institution as an invited speaker from AstraZeneca, Boehringer Ingelheim, BMS, MSD and Roche; fees paid to her institution for expert testimony from AstraZeneca, Boehringer Ingelheim and MSD; fees paid to her institution for travel expenses from Ipsen.
+
+TSM reports personal fees as an invited speaker from AbbVie, ACEA Pharma, Alpha Biopharma, Amgen, Amoy Diagnostics, BeiGene, Boehringer Ingelheim, BMS, Daiichi Sankyo, Daz Group, Eli Lilly, Fishawack Facilitate, InMed Medical Communication,Janssen, Jiahui Holdings Co., LiangYiHui Healthcare, Lucene Health Inc., Lunit USA, Inc., MD Health, Medscape/WebMD, Merck Serono, MSD, MiRXES, Novartis, OrigiMed, PeerVoice, PER, Permanyer SL, Pfizer, Prime Oncology, Research to Practice, Roche, Sanofi-Aventis, Shanghai BeBirds Translation & Consulting Co., Taiho Pharmaceutical Co., Takeda and Touch Medical Media; personal fees for advisory board membership from AbbVie, ACEA Pharma, Alpha Biopharma, Amgen, Amoy Diagnostics, BeiGene, Berry Oncology, Blueprint Medicines, Boehringer Ingelheim, BMS, C4 Therapeutics, Cirina Ltd., Covidien LP, CStone Pharma, Curio Science, D3 Bio Ltd., Da Volterra, Daiichi Sankyo, Eisai, Eli Lilly, Fishawack Facilitate, G1 Therapeutics, Gilead Sciences, Gritstone Oncology, Guardant Health, Hengrui, Ignyta, Incyte, Inivata, IQVIA, Janssen, Lakeshore Biotech, Loxo Oncology, Lucene Health Inc., Lunit USA, Inc., Medscape/WebMD, Merck Serono, Mirati Therapeutics, MiRXES, MoreHealth, MSD, Novartis, OrigiMed,
+ 
+OSE Immunotherapeutics, Pfizer, Puma Tech, Qiming Development, Roche, Roche/Genentech, Sanofi-Aventis, SFJ Pharmaceutical Ltd., Synergy Research, Takeda, Tigermed, Vertex Pharmaceuticals, Virtus Medical and Yuhan; personal fees as the Chairman for ACT Genomics-Sanomics Group; personal fees as a member of the board of directors from AstraZeneca and HutchMed; holds stocks/shares from AstraZeneca, Aurora Tele-Oncology, Biolidics Ltd., HutchMed and Sanomics Ltd.; institutional funding from AstraZeneca, BMS, Clovis Oncology, G1 Therapeutics, Merck Serono, MSD, Novartis, Pfizer, Roche, SFJ Pharmaceuticals, Takeda and XCovery; non-remunerated roles as an invited speaker with AstraZeneca, Aurora Tele-Oncology, Lunit USA, Inc. and Sanomics Ltd. and for an advisory role with geneDecode; non-remunerated leadership roles with ASCO (American Society of Clinical Oncology), ATORG (Asian Thoracic Oncology Research Group), CLCRF (Chinese Lung Cancer Research Foundation Limited), CSCO (Chinese Society of Clinical Oncology), HKCF (Hong Kong Cancer Fund), HKCTS (Hong Kong Cancer Therapy Society), IASLC and St. Stephen’s College & Prep School (Hong Kong).
+
+UN reports fees paid to her institution as an invited speaker from MSD; fees paid to her institution for advisory board membership and a writing engagement from AstraZeneca; institutional funding as a coordinating PI for Bayer; non-remunerated roles as a PI for clinical trials funded by Deutsche Krebshilfe and as a member of the board of directors and vice-chair of “Strahlenschutzkommission” from the German Commission on Radiological Protection.
+
+AP reports personal fees as an invited speaker from AstraZeneca, Boehringer Ingelheim, Eli Lilly, Janssen, Mundipharma and Takeda; personal fees for advisory board membership from AstraZeneca, Boehringer Ingelheim, BMS, Eli Lilly, Janssen, MSD, Pfizer and Roche; non-remunerated activities with AIOM (Italian Association of Medical Oncology) as member of the Scientific Committee for lung cancer guidelines.
+SP reports personal fees for an editorial role as an Associate Editor for Annals of Oncology; fees paid to her institution as an invited speaker from AstraZeneca, BMS, Boehringer Ingelheim, e-cancer, Eli Lilly, Fishawack, Illumina, Imedex, Medscape,
+ 
+Mirati, MSD, Novartis, OncologyEducation, PER, Pfizer, PRIME, RMEI, Roche/Genentech, RTP, Sanofi and Takeda; fees paid to her institution for advisory board membership from AbbVie, Amgen, Arcus, AstraZeneca, Bayer, BeiGene, Bio Invent, Biocartis, Blueprint Medicines, BMS, Boehringer Ingelheim, Daiichi Sankyo, Debiopharm, Eli Lilly, F-Star, Foundation Medicine, Genzyme, Gilead, GSK, Illumina, Incyte, IQVIA, iTeos, Janssen, Merck Serono, Mirati, MSD, Novartis, Novocure, Pfizer, Pharma Mar, Phosplatin Therapeutics, Regeneron, Roche/Genentech, Sanofi, Seattle Genetics, Takeda and Vaccibody; institutional funding as a steering committee member from AstraZeneca, BeiGene, BMS, iTeos, Mirati, MSD, Pharma Mar, Phosplatin Therapeutics and Roche/Genentech; institutional funding as a coordinating PI from AstraZeneca; institutional funding as a trial chair from GSK and Roche/Genentech; non-remunerated role as President and Council Member for the Ballet Béjart Lausanne Foundation; non-remunerated leadership roles as President of ESMO (2020-2022), Vice-President of SAMO (Swiss Academy of Multidisciplinary Oncology), Vice-President of Lung Group for SAKK (Swiss Group for Clinical Cancer Research); non-remunerated role as PI involved in academic trials for ETOP (European Thoracic Oncology Platform)/EORTC/SAKK; non-remunerated role as Council Member and Scientific Committee Chair for ETOP/IBCSG Partners (International Breast Cancer Study Group); member of AACR (American Association for Cancer Research), ASCO, ASMAC/VSAO (Association of Swiss Interns and Residents), FMH (Association of Swiss Physicians) and IASLC.
+
+DP reports personal fees as an invited speaker from AbbVie, AstraZeneca, Janssen, Novartis, Peer CME, Pfizer, priME Oncology and Samsung; personal fees for advisory board membership from AbbVie, AstraZeneca, BMS, Celgene, Daiichi Sankyo, Janssen, Merck, Novartis, Pfizer, Roche and Samsung; institutional funding as a PI from AbbVie, AstraZeneca, BMS, Daiichi Sankyo, Janssen, Merck, Novartis, Pfizer, Pierre Fabre, Roche, Sanofi and Sanofi-Aventis.
+
+ES reports personal fees as an invited speaker from Boehringer Ingelheim and Daiichi Sankyo; personal fees for advisory board membership from Merck Serono; fees paid to his institution for advisory board membership from AstraZeneca, BMS, Boehringer Ingelheim, Daiichi Sankyo, Eli Lilly, Janssen, MSD, Roche, Sanofi and
+ 
+Takeda; institutional funding as a local PI from AstraZeneca, Genmab, Gilead and Pfizer.
+
+BJS reports personal fees as an invited speaker from AstraZeneca, Pfizer and Roche/Genentech; personal fees for advisory board membership from Amgen and Roche/Genentech; fees paid to his institution for advisory board membership from AstraZeneca, BMS, Merck and Novartis; fees paid to his institution for steering committee membership from Novartis, Pfizer and Roche/Genentech; personal fees as a member of the board of directors from Cancer Council Victoria and Thoracic Oncology Group of Australasia; personal fees as a consultant from Peter MacCallum Cancer Centre; royalties from UpToDate.
+
+GV reports personal fees as an invited speaker and for advisory board membership from Roche; personal fees as a consultant from Ab Medica; institutional funding as a PI from AIRC (Fondazione AIRC per la ricerca sul cancro ETS) and the Italian Ministry of Health.
+
+MR reports personal fees as an invited speaker from Amgen, AstraZeneca, BMS, Boehringer Ingelheim, Lilly, Merck, MSD, Novartis, Roche and Sanofi; personal fees for advisory board membership from Amgen, AstraZeneca, BMS, Boehringer Ingelheim, Mirati, MSD, Pfizer, Roche and Sanofi.
+ 
+REFERENCES
+
+1	The World Health Organisation Classification of Thoracic Tumours. WHO Classification of Tumours Editorial Board 2021. 5th Edition. Vol 5, Lyon: IARC Press 2021.
+2	Hendriks LE, Kerr K., Menis J et al. Oncogene-addicted metastatic non-small- cell lung cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up†. In Writing 2022.
+3	Tsao M, Kerr K, Dacic S et al. IASLC Atlas of PD-L1 testing in Lung Cancer. IASLC Press 2017.
+4	Lantuejoul S, Sound-Tsao M, Cooper WA et al. PD-L1 Testing for Lung Cancer in 2019: Perspective From the IASLC Pathology Committee. J Thorac Oncol 2020; 15 (4): 499-519.
+5	Tsao MS, Kerr KM, Kockx M et al. PD-L1 Immunohistochemistry Comparability Study in Real-Life Clinical Samples: Results of Blueprint Phase 2 Project. J Thorac Oncol 2018; 13 (9): 1302-1311.
+6	Gosney JR, Boothman AM, Ratcliffe M et al. Cytology for PD-L1 testing: A systematic review. Lung Cancer 2020; 141: 101-106.
+7	Di Federico A, De Giglio A, Parisi C et al. STK11/LKB1 and KEAP1 mutations in non-small cell lung cancer: Prognostic rather than predictive? Eur J Cancer 2021; 157: 108-113.
+8	Ricciuti B, Arbour KC, Lin JJ et al. Diminished Efficacy of Programmed Death- (Ligand)1 Inhibition in STK11- and KEAP1-Mutant Lung Adenocarcinoma Is Affected by KRAS Mutation Status. J Thorac Oncol 2022; 17 (3): 399-410.
+9	Eisenhauer EA, Therasse P, Bogaerts J et al. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer 2009; 45 (2): 228-247.
+10	Bohnsack O, Hoos A, Ludajic K. Adaptation and modification of the immune related response criteria (IRRC): IrRECIST. J Clin Oncol 2014; 32.
+11	Seymour L, Bogaerts J, Perrone A et al. iRECIST: guidelines for response criteria for use in trials testing immunotherapeutics. Lancet Oncol 2017; 18 (3): e143-e152.
+ 
+12	Hodi FS, Ballinger M, Lyons B et al. Immune-Modified Response Evaluation Criteria In Solid Tumors (imRECIST): Refining Guidelines to Assess the Clinical Benefit of Cancer Immunotherapy. J Clin Oncol 2018; 36 (9): 850-858.
+13	Haanen J, Obeid M, Spain L et al. Management of toxicities from immunotherapy: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Annals of Oncology 2022.
+14	Gandhi L, Rodriguez-Abreu D, Gadgeel S et al. Pembrolizumab plus Chemotherapy in Metastatic Non-Small-Cell Lung Cancer. N Engl J Med 2018; 378 (22): 2078-2092.
+15	Paz-Ares L, Luft A, Vicente D et al. Pembrolizumab plus Chemotherapy for Squamous Non-Small-Cell Lung Cancer. N Engl J Med 2018; 379 (21): 2040- 2051.
+16	Socinski MA, Jotte RM, Cappuzzo F et al. Atezolizumab for First-Line Treatment of Metastatic Nonsquamous NSCLC. N Engl J Med 2018; 378 (24): 2288-2301.
+17	West H, McCleod M, Hussein M et al. Atezolizumab in combination with carboplatin plus nab-paclitaxel chemotherapy compared with chemotherapy alone as first-line treatment for metastatic non-squamous non-small-cell lung cancer (IMpower130): a multicentre, randomised, open-label, phase 3 trial. Lancet Oncol 2019; 20 (7): 924-937.
+18	Paz-Ares L, Ciuleanu TE, Cobo M et al. First-line nivolumab plus ipilimumab combined with two cycles of chemotherapy in patients with non-small-cell lung cancer (CheckMate 9LA): an international, randomised, open-label, phase 3 trial. Lancet Oncol 2021; 22 (2): 198-211.
+19	Gogishvili M, Melkadze T, Makharadze T et al. Cemiplimab plus chemotherapy versus chemotherapy alone in non-small cell lung cancer: a randomized, controlled, double-blind phase 3 trial. Nat Med 2022; 28 (11): 2374-2380.
+20	Johnson ML, Cho BC, Luft A et al. Durvalumab With or Without Tremelimumab in Combination With Chemotherapy as First-Line Therapy for Metastatic Non–Small-Cell Lung Cancer: The Phase III POSEIDON Study. Journal of Clinical Oncology 2022; 0 (0): JCO.22.00975.
+ 
+21	Reck M, Remon J, Hellmann MD. First-Line Immunotherapy for Non-Small- Cell Lung Cancer. J Clin Oncol 2022; 40 (6): 586-597.
+22	Paz-Ares LG, Ramalingam SS, Ciuleanu TE et al. First-Line Nivolumab Plus Ipilimumab in Advanced NSCLC: 4-Year Outcomes From the Randomized, Open-Label, Phase 3 CheckMate 227 Part 1 Trial. J Thorac Oncol 2022; 17 (2): 289-308.
+23	Rodriguez-Abreu D, Powell SF, Hochmair MJ et al. Pemetrexed plus platinum with or without pembrolizumab in patients with previously untreated metastatic nonsquamous NSCLC: protocol-specified final analysis from KEYNOTE-189. Ann Oncol 2021; 32 (7): 881-895.
+24	Socinski MA, Nishio M, Jotte RM et al. IMpower150 Final Overall Survival Analyses for Atezolizumab Plus Bevacizumab and Chemotherapy in First-Line Metastatic Nonsquamous NSCLC. J Thorac Oncol 2021; 16 (11): 1909-1924.
+25	Reck M, Ciuleanu TE, Cobo M et al. First-line nivolumab plus ipilimumab with two cycles of chemotherapy versus chemotherapy alone (four cycles) in advanced non-small-cell lung cancer: CheckMate 9LA 2-year update. ESMO Open 2021; 6 (5): 100273.
+26	Paz-Ares L, Vicente D, Tafreshi A et al. A Randomized, Placebo-Controlled Trial of Pembrolizumab Plus Chemotherapy in Patients With Metastatic Squamous NSCLC: Protocol-Specified Final Analysis of KEYNOTE-407. J Thorac Oncol 2020; 15 (10): 1657-1669.
+27	Reck M, Rodriguez-Abreu D, Robinson AG et al. Pembrolizumab versus Chemotherapy for PD-L1-Positive Non-Small-Cell Lung Cancer. N Engl J Med 2016; 375 (19): 1823-1833.
+28	Reck M, Rodriguez-Abreu D, Robinson AG et al. Five-Year Outcomes With Pembrolizumab Versus Chemotherapy for Metastatic Non-Small-Cell Lung Cancer With PD-L1 Tumor Proportion Score >/= 50. J Clin Oncol 2021; 39 (21): 2339-2349.
+29	Sezer A, Kilickap S, Gumus M et al. Cemiplimab monotherapy for first-line treatment of advanced non-small-cell lung cancer with PD-L1 of at least 50%: a multicentre, open-label, global, phase 3, randomised, controlled trial. Lancet 2021; 397 (10274): 592-604.
+ 
+30	Jassem J, de Marinis F, Giaccone G et al. Updated Overall Survival Analysis From IMpower110: Atezolizumab Versus Platinum-Based Chemotherapy in Treatment-Naive Programmed Death-Ligand 1-Selected NSCLC. J Thorac Oncol 2021; 16 (11): 1872-1882.
+31	Brahmer JR, Rodriguez-Abreu D, Robinson AG et al. Health-related quality- of-life results for pembrolizumab versus chemotherapy in advanced, PD-L1- positive NSCLC (KEYNOTE-024): a multicentre, international, randomised, open-label phase 3 trial. Lancet Oncol 2017; 18 (12): 1600-1609.
+32	EMA. Keytruda - Summary of Product Characteristics. 2022.
+33	FDA. Prescribing Information - KEYTRUDA® (pembrolizumab) injection, for intravenous use. 2022.
+34	EMA. Libtayo - Summary of Product Characteristics. 2022.
+35	FDA. Prescribing Information - LIBTAYO® (cemiplimab-rwlc) injection, for intravenous use. 2022.
+36	FDA. Prescribing Information - TECENTRIQ® (atezolizumab) injection, for intravenous use. 2022.
+37	EMA. Tecentriq - Summary of Product Characteristics. 2022.
+38	Mok TSK, Wu YL, Kudaba I et al. Pembrolizumab versus chemotherapy for previously untreated, PD-L1-expressing, locally advanced or metastatic non- small-cell lung cancer (KEYNOTE-042): a randomised, open-label, controlled, phase 3 trial. Lancet 2019; 393 (10183): 1819-1830.
+39	Carbone DP, Reck M, Paz-Ares L et al. First-Line Nivolumab in Stage IV or Recurrent Non-Small-Cell Lung Cancer. N Engl J Med 2017; 376 (25): 2415- 2426.
+40	Perol M, Felip E, Dafni U et al. Effectiveness of PD-(L)1 inhibitors alone or in combination with platinum-doublet chemotherapy in first-line (1L) non- squamous non-small-cell lung cancer (Nsq-NSCLC) with PD-L1-high expression using real-world data. Ann Oncol 2022; 33 (5): 511-521.
+41	Herbst RS, Garon EB, Kim DW et al. Five Year Survival Update From KEYNOTE-010: Pembrolizumab Versus Docetaxel for Previously Treated, Programmed Death-Ligand 1-Positive Advanced NSCLC. J Thorac Oncol 2021; 16 (10): 1718-1732.
+ 
+42	Borghaei H, Paz-Ares L, Horn L et al. Nivolumab versus Docetaxel in Advanced Nonsquamous Non-Small-Cell Lung Cancer. N Engl J Med 2015; 373 (17): 1627-1639.
+43	Brahmer J, Reckamp KL, Baas P et al. Nivolumab versus Docetaxel in Advanced Squamous-Cell Non-Small-Cell Lung Cancer. N Engl J Med 2015; 373 (2): 123-135.
+44	Borghaei H, Gettinger S, Vokes EE et al. Five-Year Outcomes From the Randomized, Phase III Trials CheckMate 017 and 057: Nivolumab Versus Docetaxel in Previously Treated Non-Small-Cell Lung Cancer. J Clin Oncol 2021; 39 (7): 723-733.
+45	Herbst RS, Baas P, Kim DW et al. Pembrolizumab versus docetaxel for previously treated, PD-L1-positive, advanced non-small-cell lung cancer (KEYNOTE-010): a randomised controlled trial. Lancet 2016; 387 (10027): 1540-1550.
+46	Rittmeyer A, Barlesi F, Waterkamp D et al. Atezolizumab versus docetaxel in patients with previously treated non-small-cell lung cancer (OAK): a phase 3, open-label, multicentre randomised controlled trial. Lancet 2017; 389 (10066): 255-265.
+47	Mazieres J, Rittmeyer A, Gadgeel S et al. Atezolizumab Versus Docetaxel in Pretreated Patients With NSCLC: Final Results From the Randomized Phase 2 POPLAR and Phase 3 OAK Clinical Trials. J Thorac Oncol 2021; 16 (1): 140-150.
+48	Non-Small Cell Lung Cancer Collaborative G. Chemotherapy and supportive care versus supportive care alone for advanced non-small cell lung cancer. Cochrane Database Syst Rev 2010 (5): CD007309.
+49	Group N-sCLCC. Chemotherapy in non-small cell lung cancer: a meta- analysis using updated data on individual patients from 52 randomised clinical trials. Non-small Cell Lung Cancer Collaborative Group. BMJ 1995; 311 (7010): 899-909.
+50	Group NM-AC. Chemotherapy in addition to supportive care improves survival in advanced non-small-cell lung cancer: a systematic review and meta-
+ 
+analysis of individual patient data from 16 randomized controlled trials. J Clin Oncol 2008; 26 (28): 4617-4625.
+51	Delbaldo C, Michiels S, Syz N et al. Benefits of adding a drug to a single- agent or a 2-agent chemotherapy regimen in advanced non-small-cell lung cancer: a meta-analysis. JAMA 2004; 292 (4): 470-484.
+52	Pujol JL, Barlesi F, Daures JP. Should chemotherapy combinations for advanced non-small cell lung cancer be platinum-based? A meta-analysis of phase III randomized trials. Lung Cancer 2006; 51 (3): 335-345.
+53	Schiller JH, Harrington D, Belani CP et al. Comparison of four chemotherapy regimens for advanced non-small-cell lung cancer. N Engl J Med 2002; 346 (2): 92-98.
+54	Grossi F, Aita M, Defferrari C et al. Impact of third-generation drugs on the activity of first-line chemotherapy in advanced non-small cell lung cancer: a meta-analytical approach. Oncologist 2009; 14 (5): 497-510.
+55	de Castria TB, da Silva EM, Gois AF et al. Cisplatin versus carboplatin in combination with third-generation drugs for advanced non-small cell lung cancer. Cochrane Database Syst Rev 2013 (8): CD009256.
+56	Socinski MA, Bondarenko I, Karaseva NA et al. Weekly nab-paclitaxel in combination with carboplatin versus solvent-based paclitaxel plus carboplatin as first-line therapy in patients with advanced non-small-cell lung cancer: final results of a phase III trial. J Clin Oncol 2012; 30 (17): 2055-2062.
+57	Rossi A, Chiodini P, Sun JM et al. Six versus fewer planned cycles of first-line platinum-based chemotherapy for non-small-cell lung cancer: a systematic review and meta-analysis of individual patient data. Lancet Oncol 2014; 15 (11): 1254-1262.
+58	Li M, Zhang Q, Fu P et al. Pemetrexed plus platinum as the first-line treatment option for advanced non-small cell lung cancer: a meta-analysis of randomized controlled trials. PLoS One 2012; 7 (5): e37229.
+59	Scagliotti G, Hanna N, Fossella F et al. The differential efficacy of pemetrexed according to NSCLC histology: a review of two Phase III studies. Oncologist 2009; 14 (3): 253-263.
+ 
+60	Sandler A, Gray R, Perry MC et al. Paclitaxel-carboplatin alone or with bevacizumab for non-small-cell lung cancer. N Engl J Med 2006; 355 (24): 2542-2550.
+61	Zhou C, Wu YL, Chen G et al. BEYOND: A Randomized, Double-Blind, Placebo-Controlled, Multicenter, Phase III Study of First-Line Carboplatin/Paclitaxel Plus Bevacizumab or Placebo in Chinese Patients With Advanced or Recurrent Nonsquamous Non-Small-Cell Lung Cancer. J Clin Oncol 2015; 33 (19): 2197-2204.
+62	Patel JD, Socinski MA, Garon EB et al. PointBreak: a randomized phase III study of pemetrexed plus carboplatin and bevacizumab followed by maintenance pemetrexed and bevacizumab versus paclitaxel plus carboplatin and bevacizumab followed by maintenance bevacizumab in patients with stage IIIB or IV nonsquamous non-small-cell lung cancer. J Clin Oncol 2013; 31 (34): 4349-4357.
+63	Reck M, von Pawel J, Zatloukal P et al. Phase III trial of cisplatin plus gemcitabine with either placebo or bevacizumab as first-line therapy for nonsquamous non-small-cell lung cancer: AVAil. J Clin Oncol 2009; 27 (8): 1227-1234.
+64	Besse B, Le Moulec S, Mazieres J et al. Bevacizumab in Patients with Nonsquamous Non-Small Cell Lung Cancer and Asymptomatic, Untreated Brain Metastases (BRAIN): A Nonrandomized, Phase II Study. Clin Cancer Res 2015; 21 (8): 1896-1903.
+65	Paz-Ares LG, de Marinis F, Dediu M et al. PARAMOUNT: Final overall survival results of the phase III study of maintenance pemetrexed versus placebo immediately after induction treatment with pemetrexed plus cisplatin for advanced nonsquamous non-small-cell lung cancer. J Clin Oncol 2013; 31 (23): 2895-2902.
+66	Paz-Ares L, de Marinis F, Dediu M et al. Maintenance therapy with pemetrexed plus best supportive care versus placebo plus best supportive care after induction therapy with pemetrexed plus cisplatin for advanced non- squamous non-small-cell lung cancer (PARAMOUNT): a double-blind, phase 3, randomised controlled trial. Lancet Oncol 2012; 13 (3): 247-255.
+ 
+67	Barlesi F, Scherpereel A, Rittmeyer A et al. Randomized phase III trial of maintenance bevacizumab with or without pemetrexed after first-line induction with bevacizumab, cisplatin, and pemetrexed in advanced nonsquamous non- small-cell lung cancer: AVAPERL (MO22089). J Clin Oncol 2013; 31 (24): 3004-3011.
+68	Barlesi F, Scherpereel A, Gorbunova V et al. Maintenance bevacizumab- pemetrexed after first-line cisplatin-pemetrexed-bevacizumab for advanced nonsquamous nonsmall-cell lung cancer: updated survival analysis of the AVAPERL (MO22089) randomized phase III trial. Ann Oncol 2014; 25 (5): 1044-1052.
+69	Perol M, Chouaid C, Perol D et al. Randomized, phase III study of gemcitabine or erlotinib maintenance therapy versus observation, with predefined second-line treatment, after cisplatin-gemcitabine induction chemotherapy in advanced non-small-cell lung cancer. J Clin Oncol 2012; 30 (28): 3516-3524.
+70	Shepherd FA, Dancey J, Ramlau R et al. Prospective randomized trial of docetaxel versus best supportive care in patients with non-small-cell lung cancer previously treated with platinum-based chemotherapy. J Clin Oncol 2000; 18 (10): 2095-2103.
+71	Fossella FV, DeVore R, Kerr RN et al. Randomized phase III trial of docetaxel versus vinorelbine or ifosfamide in patients with advanced non-small-cell lung cancer previously treated with platinum-containing chemotherapy regimens. The TAX 320 Non-Small Cell Lung Cancer Study Group. J Clin Oncol 2000; 18 (12): 2354-2362.
+72	Schuette W, Nagel S, Blankenburg T et al. Phase III study of second-line chemotherapy for advanced non-small-cell lung cancer with weekly compared with 3-weekly docetaxel. J Clin Oncol 2005; 23 (33): 8389-8395.
+73	Gridelli C, Gallo C, Di Maio M et al. A randomised clinical trial of two docetaxel regimens (weekly vs 3 week) in the second-line treatment of non- small-cell lung cancer. The DISTAL 01 study. Br J Cancer 2004; 91 (12): 1996-2004.
+ 
+74	Hanna N, Shepherd FA, Fossella FV et al. Randomized phase III trial of pemetrexed versus docetaxel in patients with non-small-cell lung cancer previously treated with chemotherapy. J Clin Oncol 2004; 22 (9): 1589-1597.
+75	Garon EB, Ciuleanu TE, Arrieta O et al. Ramucirumab plus docetaxel versus placebo plus docetaxel for second-line treatment of stage IV non-small-cell lung cancer after disease progression on platinum-based therapy (REVEL): a multicentre, double-blind, randomised phase 3 trial. Lancet 2014; 384 (9944): 665-673.
+76	Reck M, Paz-Ares L, Bidoli P et al. Outcomes in patients with aggressive or refractory disease from REVEL: A randomized phase III study of docetaxel with ramucirumab or placebo for second-line treatment of stage IV non-small- cell lung cancer. Lung Cancer 2017; 112: 181-187.
+77	Reck M, Kaiser R, Mellemgaard A et al. Docetaxel plus nintedanib versus docetaxel plus placebo in patients with previously treated non-small-cell lung cancer (LUME-Lung 1): a phase 3, double-blind, randomised controlled trial. Lancet Oncol 2014; 15 (2): 143-155.
+78	Novello S, Kaiser R, Mellemgaard A et al. Analysis of patient-reported outcomes from the LUME-Lung 1 trial: a randomised, double-blind, placebo- controlled, Phase III study of second-line nintedanib in patients with advanced non-small cell lung cancer. Eur J Cancer 2015; 51 (3): 317-326.
+79	Soria JC, Felip E, Cobo M et al. Afatinib versus erlotinib as second-line treatment of patients with advanced squamous cell carcinoma of the lung (LUX-Lung 8): an open-label randomised controlled phase 3 trial. Lancet Oncol 2015; 16 (8): 897-907.
+80	Zhao N, Zhang XC, Yan HH et al. Efficacy of epidermal growth factor receptor inhibitors versus chemotherapy as second-line treatment in advanced non- small-cell lung cancer with wild-type EGFR: a meta-analysis of randomized controlled clinical trials. Lung Cancer 2014; 85 (1): 66-73.
+81	Gridelli C, Ardizzoni A, Le Chevalier T et al. Treatment of advanced non- small-cell lung cancer patients with ECOG performance status 2: results of an European Experts Panel. Ann Oncol 2004; 15 (3): 419-426.
+ 
+82	Zukin M, Barrios CH, Pereira JR et al. Randomized phase III trial of single- agent pemetrexed versus carboplatin and pemetrexed in patients with advanced non-small-cell lung cancer and Eastern Cooperative Oncology Group performance status of 2. J Clin Oncol 2013; 31 (23): 2849-2853.
+83	Bronte G, Rolfo C, Passiglia F et al. What can platinum offer yet in the treatment of PS2 NSCLC patients? A systematic review and meta-analysis. Crit Rev Oncol Hematol 2015; 95 (3): 306-317.
+84	Gridelli C, Perrone F, Gallo C et al. Chemotherapy for elderly patients with advanced non-small-cell lung cancer: the Multicenter Italian Lung Cancer in the Elderly Study (MILES) phase III randomized trial. J Natl Cancer Inst 2003; 95 (5): 362-372.
+85	Quoix E, Zalcman G, Oster JP et al. Carboplatin and weekly paclitaxel doublet chemotherapy compared with monotherapy in elderly patients with advanced non-small-cell lung cancer: IFCT-0501 randomised, phase 3 trial. Lancet 2011; 378 (9796): 1079-1088.
+86	Tomasik B, Bienkowski M, Braun M et al. Effectiveness and safety of immunotherapy in NSCLC patients with ECOG PS score >/=2 - Systematic review and meta-analysis. Lung Cancer 2021; 158: 97-106.
+87	Spigel DR, McCleod M, Jotte RM et al. Safety, Efficacy, and Patient-Reported Health-Related Quality of Life and Symptom Burden with Nivolumab in Patients with Advanced Non-Small Cell Lung Cancer, Including Patients Aged 70 Years or Older or with Poor Performance Status (CheckMate 153). J Thorac Oncol 2019; 14 (9): 1628-1639.
+88	Felip E, Ardizzoni A, Ciuleanu T et al. CheckMate 171: A phase 2 trial of nivolumab in patients with previously treated advanced squamous non-small cell lung cancer, including ECOG PS 2 and elderly populations. Eur J Cancer 2020; 127: 160-172.
+89	Ardizzoni A, Azevedo S, Rubio-Viqueira B et al. Primary results from TAIL: a global single-arm safety study of atezolizumab monotherapy in a diverse population of patients with previously treated advanced non-small cell lung cancer. J Immunother Cancer 2021; 9 (3).
+ 
+90	Middleton G, Brock K, Savage J et al. Pembrolizumab in patients with non- small-cell lung cancer of performance status 2 (PePS2): a single arm, phase 2 trial. Lancet Respir Med 2020; 8 (9): 895-904.
+91	Group TELCVIS. Effects of vinorelbine on quality of life and survival of elderly patients with advanced non-small-cell lung cancer. The Elderly Lung Cancer Vinorelbine Italian Study Group. J Natl Cancer Inst 1999; 91 (1): 66-72.
+92	Santos FN, de Castria TB, Cruz MR et al. Chemotherapy for advanced non- small cell lung cancer in the elderly population. Cochrane Database Syst Rev 2015 (10): CD010463.
+93	Fiteni F, Anota A, Bonnetain F et al. Health-related quality of life in elderly patients with advanced non-small cell lung cancer comparing carboplatin and weekly paclitaxel doublet chemotherapy with monotherapy. Eur Respir J 2016; 48 (3): 861-872.
+94	Corre R, Greillier L, Le Caer H et al. Use of a Comprehensive Geriatric Assessment for the Management of Elderly Patients With Advanced Non- Small-Cell Lung Cancer: The Phase III Randomized ESOGIA-GFPC-GECP 08-02 Study. J Clin Oncol 2016; 34 (13): 1476-1483.
+95	Naltet C, Besse B. Immune checkpoint inhibitors in elderly patients treated for a lung cancer: a narrative review. Transl Lung Cancer Res 2021; 10 (6):
+3014-3028.
+96	EMA. Keytruda - summary of product characteristics. 2021.
+97	Hellman S, Weichselbaum RR. Oligometastases. J Clin Oncol 1995; 13 (1): 8- 10.
+98	Guckenberger M, Lievens Y, Bouma AB et al. Characterisation and classification of oligometastatic disease: a European Society for Radiotherapy and Oncology and European Organisation for Research and Treatment of Cancer consensus recommendation. Lancet Oncol 2020; 21 (1): e18-e28.
+99	Ashworth AB, Senan S, Palma DA et al. An individual patient data metaanalysis of outcomes and prognostic factors after treatment of oligometastatic non-small-cell lung cancer. Clin Lung Cancer 2014; 15 (5): 346-355.
+ 
+100	Dingemans AC, Hendriks LEL, Berghmans T et al. Definition of Synchronous Oligometastatic Non-Small Cell Lung Cancer-A Consensus Report. J Thorac Oncol 2019; 14 (12): 2109-2119.
+101	Detterbeck FC, Franklin WA, Nicholson AG et al. The IASLC Lung Cancer Staging Project: Background Data and Proposed Criteria to Distinguish Separate Primary Lung Cancers from Metastatic Foci in Patients with Two Lung Tumors in the Forthcoming Eighth Edition of the TNM Classification for Lung Cancer. J Thorac Oncol 2016; 11 (5): 651-665.
+102	De Ruysscher D, Wanders R, van Baardwijk A et al. Radical treatment of non- small-cell lung cancer patients with synchronous oligometastases: long-term results of a prospective phase II trial (Nct01282450). J Thorac Oncol 2012; 7 (10): 1547-1555.
+103	Iyengar P, Wardak Z, Gerber DE et al. Consolidative Radiotherapy for Limited Metastatic Non-Small-Cell Lung Cancer: A Phase 2 Randomized Clinical Trial. JAMA Oncol 2018; 4 (1): e173501.
+104	Gomez DR, Tang C, Zhang J et al. Local Consolidative Therapy Vs. Maintenance Therapy or Observation for Patients With Oligometastatic Non- Small-Cell Lung Cancer: Long-Term Results of a Multi-Institutional, Phase II, Randomized Study. J Clin Oncol 2019; 37 (18): 1558-1565.
+105	Palma DA, Olson R, Harrow S et al. Stereotactic Ablative Radiotherapy for the Comprehensive Treatment of Oligometastatic Cancers: Long-Term Results of the SABR-COMET Phase II Randomized Trial. J Clin Oncol 2020; 38 (25): 2830-2838.
+106	Bauml JM, Mick R, Ciunci C et al. Pembrolizumab After Completion of Locally Ablative Therapy for Oligometastatic Non-Small Cell Lung Cancer: A Phase 2 Trial. JAMA Oncol 2019.
+107	Remon J, Menis J, Levy A et al. How to optimize the incorporation of immunotherapy in trials for oligometastatic non-small cell lung cancer: a narrative review. Transl Lung Cancer Res 2021; 10 (7): 3486-3502.
+108	Le Rhun E, Guckenberger M, Smits M et al. EANO-ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up of patients with brain metastasis from solid tumours. Ann Oncol 2021; 32 (11): 1332-1347.
+ 
+109	Coleman R, Hadji P, Body JJ et al. Bone health in cancer: ESMO Clinical Practice Guidelines. Ann Oncol 2020; 31 (12): 1650-1663.
+110	Cherny NI, Dafni U, Bogaerts J et al. ESMO-Magnitude of Clinical Benefit Scale version 1.1. Ann Oncol 2017; 28 (10): 2340-2366.
+111	Dykewicz CA, Centers for Disease C, Prevention et al. Summary of the Guidelines for Preventing Opportunistic Infections among Hematopoietic Stem Cell Transplant Recipients. Clin Infect Dis 2001; 33 (2): 139-144.
+112	Gross PA, Barrett TL, Dellinger EP et al. Purpose of quality standards for infectious diseases. Infectious Diseases Society of America. Clin Infect Dis 1994; 18 (3): 421.
+ 
+FIGURES
+
+
+
+Figure 1: Treatment algorithm for stage IV SqCC without contraindications for immunotherapy.
+
+Purple: general categories or stratification; blue: systemic anticancer therapy.
+
+BSC, best supportive care; ChT, chemotherapy; CPG, Clinical Practice Guideline; ECOG, Eastern Cooperative Oncology Group; ICI, immune checkpoint inhibitor; LRT, local radical radiotherapy; MCBS, ESMO-Magnitude of Clinical Benefit Scale; NSCLC, non-small-cell lung cancer; PD-L1, programmed death-ligand 1; PS, performance score; SqCC, squamous cell carcinoma.
+
+a Please see the ESMO CPG for oncogene addicted metastatic NSCLC for MET/EGFRex20ins/KRAS/NTRK/HER2 testing necessary for second-line treatment options and the decision rationale for platinum-doublet chemotherapy, immunotherapy monotherapy or chemo-immunotherapy.2
+ 
+b ESMO-MCBS v1.1110 was used to calculate scores for new therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO- MCBS Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).
+
+c If oligoprogression, consider local therapy and continue systemic therapy.
+
+d Selection of type of ChT also dependent on 1st line therapy.
+
+e Not EMA approved.
+ 
+
+ 
+
+Figure 2: Treatment algorithm for stage IV NSqNSCC after negative findings on molecular tests and without contraindication for immunotherapy.
+
+Purple: general categories or stratification; blue: systemic anticancer therapy.
+
+BSC, best supportive care; ChT, chemotherapy; CPG, Clinical Practice Guideline; ECOG, Eastern Cooperative Oncology Group; ICI, immune checkpoint inhibitor; LRT, local radical radiotherapy; MCBS, ESMO-Magnitude of Clinical Benefit Scale; NSqNSCC, non-squamous non-small-cell carcinoma; NSCLC, non-small-cell lung cancer; PD-L1, programmed death-ligand 1; PS, performance score.
+
+a Please see the ESMO CPG for oncogene addicted metastatic NSCLC for MET/EGFRex20ins/KRAS/NTRK/HER2 testing necessary for second-line treatment options and the decision rationale for platinum-doublet chemotherapy, immunotherapy monotherapy or chemo-immunotherapy.2
+b If positive molecular test, please refer to the ESMO CPG for oncogene addicted metastatic NSCLC.2
+ 
+c ESMO-MCBS v1.1110 was used to calculate scores for new therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO- MCBS Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).d If oligoprogression, consider local therapy and continue systemic therapy.
+e Selection of type of ChT also dependent on 1st line therapy.
+
+f Not EMA approved.
+
+g Other options are pemetrexed if not given in first line [I, B], docetaxel [I, B], nintedanib–docetaxel [II, B], ramucirumab–docetaxel [I, B; MCBS 1].
+ 
+
+ 
+
+
+Figure 3: Treatment algorithm for stage IV SqCC with contraindication for immunotherapy
+
+Purple: general categories or stratification; blue: systemic anticancer therapy.
+
+BSC, best supportive care; ChT, chemotherapy; CPG, Clinical Practice Guideline; ECOG, Eastern Cooperative Oncology Group; LRT, local radical therapy; MCBS, ESMO-Magnitude of Clinical Benefit Scale; NSCLC, non-small-cell lung cancer; PS, performance score; SqCC, squamous cell carcinoma.
+
+a Please see the ESMO CPG for oncogene addicted metastatic NSCLC for MET/EGFRex20ins/KRAS/NTRK/HER2 testing necessary for second-line treatment options and the decision rationale for platinum-doublet chemotherapy, immunotherapy monotherapy or chemo-immunotherapy.2
+b ESMO-MCBS v1.1110 was used to calculate scores for new therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO-
+ 
+MCBS Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).
+ 
+
+ 
+
+
+Figure 4: Treatment algorithm for stage IV NSqNSCC after negative findings on molecular tests and with contraindication for immunotherapy
+
+Purple: general categories or stratification; blue: systemic anticancer therapy.
+
+BSC, best supportive care; ChT, chemotherapy; CPG, Clinical Practice Guideline; ECOG, Eastern Cooperative Oncology Group; LRT, local radical therapy; MCBS, ESMO-Magnitude of Clinical Benefit Scale; NSCLC, non-small-cell lung cancer; NSqNSCC, non-squamous non-small-cell carcinoma; PS, performance score.
+
+a Please see the ESMO CPG for oncogene addicted metastatic NSCLC for MET/EGFRex20ins/KRAS/NTRK/HER2 testing necessary for second-line treatment options and the decision rationale for platinum-doublet chemotherapy, immunotherapy monotherapy or chemo-immunotherapy.2
+b If positive molecular test please refer to the ESMO CPG for oncogene addicted metastatic NSCLC.2
+ 
+c ESMO-MCBS v1.1110 was used to calculate scores for new therapies/indications approved by the EMA or FDA. The scores have been calculated by the ESMO- MCBS Working Group and validated by the ESMO Guidelines Committee (https://www.esmo.org/guidelines/esmo-mcbs/esmo-mcbs-evaluation-forms).
+
+d Selection of type of ChT also dependent on 1st line therapy.
+ 
+TABLES
+
+Table 1: Usage of terminology for diagnosing small samples
+
+
+WHO recommended terminology for small sample lung cancer diagnosisa	Comment on usage
+Small cell carcinoma	Usually a morphological diagnosis. Neuroendocrine IHC may help but is not mandatory
+Squamous cell carcinoma	Morphological features clearly present
+Non-small-cell carcinoma, probably/favour squamous	Undifferentiated morphology but P40 IHC positive
+Adenocarcinoma	Morphological features clearly present
+Non-small-cell carcinoma, probably/favour adenocarcinoma	Undifferentiated morphology but TTF1 IHC positive
+Non-small-cell carcinoma, not otherwise specified (NSCC NOS)	Undifferentiated tumour; IHC not predictive (TTF1 and P40 negative or not done)
+Non-small-cell carcinoma with neuroendocrine morphology and positive neuroendocrine markersb (possible large cell neuroendocrine carcinoma where appropriate)	Neuroendocrine IHC positive but not SCLC by morphology
+Any of above (with pleomorphic features)	When significant pleomorphism or sarcomatoid/spindle cell morphology is present
+ 
+
+Salivary-type carcinomas	Rare – largely a morphological diagnosis
+
+
+IHC, immunohistochemistry; NSCC, non-squamous cell carcinoma; NOS, not otherwise specified; SCLC, small-cell lung carcinoma, WHO World Health Organization.
+
+a Abridged from source reference.1 This adaptation covers most eventualities but refer to the source for full recommendations.1
+b ‘High-grade neuroendocrine carcinoma’ can be useful in some cases. Adapted with permission from The WHO.1
+ 
+
+ 
+
+ECOG PS and PD-L1 expression IewI
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS 0—Z
+ 
+
+
+PS 0-2 and
+PD LV SOY
+
+
+
+
+
+
+
+
+
+
+
+Disease progressiond
+
+
+
+PS 3—4
+ 
+
+
+PS 0-1 and any expression of PD-L1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disease progressiond
+ 
+
+
+PS 1 and
+PD-L1 ‹50Y‹
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disease progression
+ 
+
+PS 64
+regardless of PD-L1
+ 
+
+ 
+PS D-2
+ 
+PS 3-4
+ 
+
+PS 0-2	PS 3-4
+ 
+
+
+ 
+Never or former âgkt smoker (<15 packyears)
+
+
+
+
+!golecular tests'
+FR/ALK/R0S1/BRAFyR
+MET/fifiFRex20ins/
+”RAS si2 tlTRivHER2l
+ 
+
+Oligometastatic
+ 
+
+ECOS PS
+ 
+
+
+
+
+
+
+
+
+
+PS 0-2
+ 
+
+
+ECOG PS
+
+
+PS 0-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS 3-4

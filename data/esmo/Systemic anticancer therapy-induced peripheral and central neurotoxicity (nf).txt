@@ -1,0 +1,528 @@
+
+
+
+
+
+ SPECIAL ARTICLE	
+
+Systemic anticancer therapy-induced peripheral and central neurotoxicity: ESMOeEONSeEANO Clinical Practice Guidelines for diagnosis, prevention, treatment and follow-up5
+B. Jordan1, A. Margulies2, F. Cardoso3, G. Cavaletti4, H. S. Haugnes5,6, P. Jahn7, E. Le Rhun8,9,10,11, M. Preusser12, F. Scotté13,
+M. J. B. Taphoorn14 & K. Jordan15, on behalf of the ESMO Guidelines Committee*, the EONS Education Working Group* and the EANO Guideline Committee*
+1Department of Neurology, University Hospital of Heidelberg, Heidelberg, Germany; 2European Oncology Nursing Society, Brussels, Belgium; 3Breast Unit, Champalimaud Clinical Center/Champalimaud Foundation, Lisbon, Portugal; 4Experimental Neurology Unit, School of Medicine and Surgery, University of Milano- Bicocca, Monza, Italy; 5Department of Oncology, University Hospital of North Norway, Tromsoe; 6Institute of Medicine, UIT e The Arctic University, Tromsoe, Norway; 7University of Halle, Nursing Research Unit, Halle, Germany; 8University of Lille, Inserm, U-1192, Lille; 9CHU Lille, Neuro-oncology, General and Stereotaxic Neurosurgery Service, Lille; 10Breast Cancer Department, Oscar Lambret Center, Lille cedex, France; 11Department of Neurology and Clinical Neuroscience Center, University Hospital and University of Zurich, Zurich, Switzerland; 12Clinical Division of Oncology, Comprehensive Cancer Center CNS Tumours Unit, Department of Medicine I, Medical University of Vienna, Vienna, Austria; 13Gustave Roussy Cancer Campus, Interdisciplinary Cancer Course Department, Villejuif, France; 14Department of Neurology, Leiden University Medical Center and Department of Neurology, Haaglanden Medical Center, The Hague, The Netherlands; 15Department of Medicine V, Hematology, Oncology and Rheumatology, University of Heidelberg, Heidelberg, Germany
+
+Available online 30 July 2020
+
+
+
+ 
+
+INTRODUCTION
+Central and especially peripheral neurotoxicities due to systemic antineoplastic therapy are common and often dose-limiting side-effects. In patients with chemotherapy (ChT)-induced peripheral neurotoxicity (CIPN), recovery is in general partial with residual deficits in most patients. In these Clinical Practice Guidelines, recommendations on diagnosis, prevention and treatment of peripheral neurotoxicity and specific aspects of central neurotoxicity due to antineoplastic therapy are given. Recommendations regarding immune- related neurotoxicity due to immune checkpoint inhibitors are described in depth in the ESMO Clinical Practice Guide- lines on ‘Management of toxicities from immunotherapy’.1
+
+*Correspondence to: ESMO Guidelines Committee, ESMO Head Ofﬁce, Via Ginevra 4, 6900 Lugano, Switzerland
+E-mail: clinicalguidelines@esmo.org (ESMO Guidelines Committee).
+*EANO Guideline Committee, EANO Ofﬁce, c/o WMA GmbH Alser Strasse 4, 1090 Vienna, Austria
+E-mail: ofﬁce@eano.eu (EANO Guideline Committee).
+*EONS Education Working Group, EONS Ofﬁce, BLSI- bte 1.30.30 Clos Chapelle au Champs 30, 1200 Brussels, Belgium
+E-mail: eons.secretariat@cancernurse.eu (EONS Education Working Group).
+
+5 These Guidelines were developed by the European Society for Medical Oncology (ESMO), the European Oncology Nursing Society (EONS) and the European Association of Neuro-Oncology (EANO). The three societies nomi- nated authors to write the guidelines as well as reviewers to comment on them. These guidelines were approved by the EANO Guideline Committee, the EONS Education Working Group and the ESMO Guidelines Committee in May 2020. 0923-7534/© 2020 European Society for Medical Oncology. Published by
+Elsevier Ltd. All rights reserved.
+ 
+
+PERIPHERAL NEUROTOXICITY
+Although the ‘N’ in CIPN generally stands for ‘neuropathy’, the well-established involvement of dorsal root ganglia neurons (and not only of peripheral nerves) after the administration of several ChT regimens suggests that the term ‘peripheral neurotoxicity’ is more appropriate in this specific context.
+
+Incidence and risk factors
+Incidence. According to the individual antineoplastic drug, the incidence, severity and clinical pattern of CIPN during treatment varies considerably as shown in supplementary Tables S1 and S2, available at https://doi.org/10.1016/j. annonc.2020.07.003. With regard to long-term toxicity, a study on 512 female cancer survivors showed that 47% of women suffered from CIPN (median 6 years) after treatment.2
+Therapy-associated risk factors. CIPN occurs in a dose- dependent manner usually after several cycles of neuro- toxic antineoplastic therapy and is typically dependent on the administered single and cumulative doses, although duration of exposure, scheduling and combination therapies are also potential risk factors (supplementary Table S1, available at https://doi.org/10.1016/j.annonc.2020.07.003).
+Individual risk factors. Individual risk factors for developing CIPN are not yet clearly established. For instance, diabetes
+ 
+
+ 
+mellitus and increasing age (often defined as 75 years) have been proposed as strong independent risk factors.3 However, concurrent exposure to other neurotoxic agents and pre-existing neuropathy, as well as diseases/de- ficiencies per se predisposing to neuropathy, should be considered as potential risk factors [alcohol abuse, renal insufficiency, hypothyroidism, vitamin deficiency, infections like human immunodeficiency virus (HIV) and autoimmune rheumatologic conditions] [IV, B].4e6 Smoking seems to in- crease the risk of long-term prevalent paraesthesia, as re- ported among 1409 long-term Norwegian survivors of testicular cancer.7
+There have been many attempts to identify genetic
+markers carrying a high risk of developing CIPN. However, none of the individual single nucleotide polymorphisms identified so far has sufficient prognostic value for use in clinical practice.8 In cases with severe neurotoxicity, for instance motor involvement due to vincristine-induced CIPN, relevant predisposing neurological diseases such as axonal Charcot Marie Tooth type 1A should be ruled out. These patients usually present with predominant motor involvement and distinct deformities (hollow foot, stork legs).9
+
+Assessment/diagnosis
+Clinical pattern. The most common clinical presentation of CIPN is a predominant sensory axonal neuropathy with occasional motor and autonomic involvement. Predomi- nantly sensory fibres are affected, but some cytostatic agents cause a sensory-motor pattern. Symptoms of CIPN typically occur during the first 2 months of treatment, progress during active antineoplastic treatment, and then usually stabilise soon after treatment is completed. However,	drug-specific	features	like	paclitaxel-	or oxaliplatin-induced acute neurotoxicity or even ‘coasting phenomenon’ as worsening of neuropathic syndromes after cessation of therapy have to be considered (e.g. with plat- inum drugs or paclitaxel; see supplementary Table S2, available at https://doi.org/10.1016/j.annonc.2020.07.003). With some antineoplastic agents (e.g. platinum com- pounds, vinca alkaloids, taxanes and thalidomide), cell bodies in the dorsal root ganglion are more vulnerable to neurotoxic damage (often irreversible), due to less pro- tecting blood brain barrier leading to sensory neuronopathy (ganglionopathy). The clinical picture may be asymmetrical and predominantly involves proprioception sense but does
+not exclude the motor system.
+Large sensory nerves are most commonly affected in CIPN by toxicity in a symmetrical length-dependent manner (dying back axonopathy). Therefore, typical clinical symp- toms are predominantly sensory and usually include the following neuropathic so-called ‘plus’ features: acral pain and paraesthesia (tingling like pins and needles), accom- panied by dysaesthesia, allodynia and hyperalgesia. Sensory loss appears in a ‘glove and stocking type’ distribution and leads to ‘minus’ symptoms like numbness in hands and feet, including impaired perception of light touch, vibration
+ 
+sense, pin prick (hypoalgesia) and proprioception (tuning fork test) in clinical examination.
+Small fibre neuropathy represents affection of nerve terminals of fibres involved in temperature and pain perception, which is, for example, present in patients treated with vinca alkaloids, taxanes, thalidomide and bor- tezomib. It leads to painful sensation of burning feet (and/ or hands) and even lancinating pain, which can be easily potentiated by pin-prick testing. In clinical examination, decreased pain perception and temperature sensation is typical in painful areas.
+Involvement of motor fibres (associated with reduction or absence of deep tendon reﬂexes or even distal weakness, atrophy of small feet muscles, tremor, cramps) or auto- nomic or cranial nerve symptoms appear much more seldom than sensory damage.
+Autonomic involvement which is typical for small fibre damage with vincristine and bortezomib use can lead to abdominal pain, constipation, postural hypotension, bladder disturbances, delayed gastric emptying and reduced variability of heart rate.
+Practical aspects of assessment. The early detection of CIPN is a key factor for an adequate management. A baseline and ongoing clinical evaluation (before every cycle) of physical function is a critical but often overlooked aspect.10 A practical assessment approach for CIPN is summarised in Figure 1. A consequent ongoing assessment could enable the health care professionals to discover po- tential or pre-existing symptoms before the neuropathy becomes irreversible [IV, A]. Therefore, the pretreatment assessment may also require the consultation of a neurol- ogist if uncertainness occurs.
+Until now, no biomarker has proven useful for diagnosing and monitoring CIPN, although serum neurofilament light (NfL) determination, currently in development, appears to be a promising tool.11 So far, it cannot be recommended in daily routine practice.
+
+Neurophysiological examination. Conventional neurophys- iological methods [electromyography (EMG) with nerve conduction studies] may provide complementary informa- tion to clinical assessment and may identify pre-existing, sometimes still subclinical, neuropathy, as separate risk factors for CIPN. Axonal degeneration is evident as pro- gressive reduction of sensory nerve action potential (NAP) amplitude [if motor fibres affected: compound muscle action potential (CMAP) correlating with axonal damage in EMG] followed by impairment of nerve conduction velocity. How- ever, conventional nerve conduction parameters often do not mirror the patients’ symptoms and are not suitable to monitor severity of CIPN during therapy. Furthermore, it is often noted that despite improvement in patients’ symp- tomatic clinical and functional recovery, neurophysiologic assessment shows only a modest improvement. Additional assessment tools like somatosensory potentials may clarify if proximal sensitive nerves have been affected or the presence of comorbidities in rare cases. An EMG may demonstrate
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+Figure 1. Practical approach for CIPN assessment.
+CIPN, chemotherapy-induced peripheral neuropathy.
+a Consider neurophysiology in case of asymmetric pattern of symptoms and/or normal clinical examinations despite patients’ complaints. However, be aware of normal neurophysiology in case of small fibre neuropathy.
+b If autonomic neuropathy is suspected, neurophysiology including sympathetic skin response and heart rate variability should be conducted.
+
+ 
+acute hyperexcitability and chronic neurogenic changes due to motor axonopathy but is not needed for clinical routine. In small fibre neuropathies (e.g. bortezomib), all findings based on standard neurophysiological techniques may be normal and only skin biopsy examined by an experienced pathologist (gold standard) may demonstrate degeneration of small C (heat) and Ad (cold) fibres.
+Assessment toolsdCIPN outcome measurements. In gen- eral, health care professionals tend to underestimate symptoms experienced by patients and that patients’ perception of CIPN is different from that of their health care professionals.12e14 Some specific clinician-reported outcome measurements (CROMs) and patient-reported outcomes measures (PROMs) examples are given in supplementary Table S3, available at https://doi.org/10. 1016/j.annonc.2020.07.003. None can be formally recom- mended over the others.
+ 
+Prevention of CIPN
+Recommendations for or against the use of pharmacological and non-pharmacological prevention strategies for CIPN are listed in Table 1.
+Pharmacological prevention. Many pharmacological agents have been studied for their potential to prevent neuropa- thy. Until now, no effective agent exists to prevent CIPN and, therefore, no positive recommendation can be given for any of the studied agents as shown in Table 1.
+Non-pharmacological prevention. The available evidence discourages the use of acupuncture to prevent CIPN. The usefulness of cryotherapy is very often discussed and, therefore, more details are given. Cryotherapy with frozen socks or gloves showed some promising results in small studies.15,16 In the largest randomised phase III study (n ¼ 180) to-date, no difference in CIPN subscales using the
+ 
+
+Table 1. CIPN prevention: studied interventions
+Intervention	Comments	LoE/GoR	References
+Pharmacological intervention (none of these can be recommended)
+ALC	ALC therapy resulted in significantly worse	I, E	71
+CIPN over 2 years
+Acetylcysteine	Oxaliplatin-based ChT	II, D	72
+Alpha-lipoic acid	Platinum-based ChT	II, D	73
+Amifostine	Platinum- and taxane-based ChT	I, D	74
+Amitriptyline	Vinca alkaloids, platinum-based or taxanes	II, E	75
+Calcium/magnesium	Exclusively oxaliplatin-based ChT	I, E	76
+Calmangafodipira	So far only positive randomised phase II study, phase III	No recommendation possible	77
+study (POLAR programme) is ongoing
+Carbamazepine	Oxaliplatin-based ChT	II, E	78
+DDTC	Cisplatin-based ChT	I, E	74,79
+GSH	Platinum- and taxane-based ChT	I, E	74,80
+Goshajinkigan	Platinum- and taxane-based ChT	I, D	81
+Minocycline	Taxane-based ChT	II, D	82
+MR309, selective sigma-1	So far only a positive randomised phase II study (potential	No recommendation possible	83
+receptor antagonist	neuroprotective)
+Nimodipine	Cisplatin-based ChT	II, E	72
+Omega-3 fatty acids	Taxane-based, positive outcome but small sample size	II, D	84
+(n ¼ 57), not enough evidence to support the use
+Vitamin B	Taxane-, oxaliplatin- or vincristine-based ChT	II, D	85
+Vitamin E	Platinum- and taxane-based ChT	II, D	74
+Multivitamin use	DELCaP study. Patients were asked for multivitamin use.	III, D	86
+Those who used multivitamins had a reduced risk of CIPN, but this was probably a surrogate for other related behaviours, which might be the actual
+drivers of the association with reduced CIPN
+Non-pharmacological intervention
+87
+Acupuncture	(n ¼ 48), outcome of electroacupuncture was worse than	II, E
+with sham acupuncture
+Exercise	Many early reports suggest a possible protective effect of	II, C	20
+exercise on CIPN
+Compression therapy using surgical gloves	In one study, additional drugs such as duloxetine were	III, C	18,19
+allowed
+Cryotherapy with, for example,	Most evidence available for taxane therapy	II, C	15e17,88
+frozen socks and gloves
+ALC, acetyl-L-carnitine; ChT, chemotherapy; CIPN, chemotherapy-induced peripheral neuropathy; DDTC, diethyldithiocarbamate; GoR, grade of recommendation; GSH, glutathione; LoE, level of evidence.
+a Antioxidant agent, mimicking the mitochondrial enzyme manganese superoxide dismutase, thereby protecting cells from oxidative stress.
+
+ 
+European Organisation for Research and Treatment of Cancer ChT-induced peripheral neuropathy 20-item scale (EORTC QLQ CIPN 20) was reported between intervention arms (frozen gloves on both hands versus no frozen gloves) with a considerably high rate of discontinuation due to discomfort.17 However, some neuropathy symptoms were reduced. Although the study results are somewhat het- erogeneous, the prevention of CIPN with cryotherapy can be considered [II, C].
+There is less evidence for the efficacy of compression therapy using surgical gloves. In a small study with 42 pa- tients receiving albumin-bound (nab)-paclitaxel, patients act as their own control wearing surgical gloves on one hand and leaving the other hand ungloved.18 Less neuropathy [subjective measurement by Common Terminology Criteria for Adverse Events (CTCAE) and peripheral neuropathy questionnaire (PNQ)] was seen in the gloved hand compared with the other (ungloved) hand. Of note, the incidence of CIPN was only measured during four cycles of nab-paclitaxel. In another study (n    43), no difference in the incidence of nab-paclitaxel-induced CIPN using either cryotherapy or compression therapy could be found.19 As
+ 
+there seems to be little harm with this intervention, it can be considered as a preventive measure [III, C].
+Many early reports suggest a possible protective effect of exercise and functional training on CIPN. Therefore, medical exercise [e.g. Exercise for Cancer Patients (EXCAP©®)] to improve muscular strength and sensorimotor functions (distal motor skills, body coordination and balance) can be offered to patients at risk of developing CIPN [II, C].20 In addition, self-management exercise interventions should be incorporated into the protocol. Contraindications must be ruled out before starting any medical exercise.4
+
+Treatment of CIPN
+Pharmacological treatment. Efficacious pharmacological therapeutic options for patients with established CIPN are limited. When patients experience chronic CIPN, treatment approaches focus on reduction or relief of neuropathic pain [IV, A]. Of note, the treating physician should always be aware that neuropathic pain may be aggravated by sleep disturbance, anxiety, depression and central sensitisation of pain. In order to decrease the probability of central pain
+ 
+
+Table 2. CIPN therapy: pharmacological interventions
+Intervention	Comments	Dosing used in referenced study	LoE/GoR	References
+Oral drugs
+SSRIs
+Duloxetine	Reduction of neuropathic pain:	30 mg/day for 1 week, then 60 mg/day	I, B	22,89
+cisplatin-treated patients better than taxane-treated patients
+23
+Venlafaxine	Small randomised trial (n ¼ 48), reduction of	50 mg initially, followed by 37.5 mg	II, C
+acute and chronic neuropathic pain in	twice/day oxaliplatin-treated patients
+Anticonvulsants
+Gabapentin	Trial in CIPN was negative. Established efficacy	Targeted dose: 2700 mg/day	II, D	90
+for other forms of neuropathic pain; other dosing in non-CIPN studies: 1200e3600 mg/day
+Pregabalin	Trial in PN due to cancer. Established	Targeted dose: 300 mg twice/day	II, Ca	91
+efficacy for other forms of neuropathic pain
+Lamotrigine	No difference to placebo, higher dropout	Starting dose: 25 mg/day	II, E	92
+rate in the lamotrigine arm	Targeted dose: 300 mg/day
+Tricyclic antidepressants
+93
+Amitriptyline	Small randomised trial (n ¼ 44), small	Starting dose: 10 or 25 mg/day	II, C
+improvement of CIPN, trend for	Targeted dose: 50 mg/day improvement of QoL
+94
+Nortriptyline	Small randomised trial (n ¼ 51) cisplatin	Target maximum dose: 100 mg/day	II, D
+ChT, no significant differences between arms
+Opioids
+Tramadol	Established efficacy for other forms of	Tramadol 200e400 mg in two	II, Ca	24
+neuropathic pain, also a serotonin-	(extended release) or three doses noradrenaline reuptake inhibitor, NNT: 4.7
+Strong opioids	Established efficacy for other forms of	Smallest effective dose	II, Ca	24
+neuropathic pain, salvage option, NNT: 4.3
+Other
+Glutamine	Modest evidence for efficacy in children; so far, no recommendation is possible in adults	95
+Topical local intervention
+27
+Topical low-concentration	(n ¼ 51), improvement in pain scores	1% menthol creme twice/day to	III, B
+menthol cream	(BPI) after 4e6 weeks	affected area and corresponding dermatomal region of spine
+Topical baclofen,	Effect after 4 weeks on CIPN 20,	10 mg baclofen, 40 mg amitriptyline	II, C	28
+amitriptyline,	especially on motor subscale	and 20 mg ketamine ketamine gel
+29
+Topical ketamine and	(n ¼ 462), no benefit was observed	2% ketamine, 4% amitriptyline	I, D
+amitriptyline
+Capsaicin-containing	Most established efficacy for other forms of	Assisted capsaicin application 30 min	I, Ca and III, C	30,31
+patches, 8%	neuropathic pain, one small study in	on affected regions for 60 min, effect	for CIPN
+CIPN (n ¼ 16)	lasting 90 days
+BPI, Brief Pain Inventory; ChT, chemotherapy; CIPN, chemotherapy-induced peripheral neuropathy; GoR, grade of recommendation; LoE, level of evidence; NNT, number needed to treat; PN, polyneuropathy; QoL, quality of life; SSRI, selective serotonin reuptake inhibitor.
+a Evidence from studies in neuropathic pain other than CIPN.
+
+
+ 
+sensitisation, early pain management is of utmost importance.21
+Recommendations for or against the use of pharmaco- logical treatment strategies for CIPN are listed in Table 2.
+Oral drugs.
+Selective serotonin reuptake inhibitor. Duloxetine is so far the only studied drug in CIPN in a large randomised trial showing a moderate clinical benefit in patients with painful CIPN. In 231 patients with CIPN, a higher rate of pain reduction was found with duloxetine versus placebo (59% versus 38%).22 The effect of duloxetine treatment has been shown to be more pronounced in CIPN, due to platinum-based therapies, than in taxanes. Thus, duloxetine is recommended for the treatment of neuropathic pain [I, B] (Table 2). Venlafaxine has also been shown to be effective in a small randomised trial (n 48) and can be considered for the treatment of neuropathic pain [II, C].23
+ 
+Anticonvulsants and tricyclic antidepressants. Anticon- vulsants and tricyclic antidepressants have shown lesser proven efficacy (Table 2). Based on the knowledge in treating neuropathic ‘plus’ symptoms in general, membrane stabilising agents such as anticonvulsants (pregabalin, gabapentin) or tricyclic antidepressants may have the po- tential for symptom control in patients with CIPN. This might be a reasonable option if duloxetine has failed or contraindications are present. From the practical side, it is important to apply all of these suggested agents against neuropathic pain at least for 2 weeks at the appropriate dose in order to assess their efficacy before changing to another option [V, B].
+Opioids. As a salvage option, opioids may be used to relieve neuropathic pain, but evidence is available for neuropathic pain from causes other than antineoplastic therapies (Table 2).24,25 There are no compelling data to
+ 
+
+ 
+suggest that one opioid is better than another one for neuropathic pain.
+Miscellaneous. There are no data supporting the benefit of nonsteroidal anti-inﬂammatory drugs (NSAIDs) and glucocorticoids in the setting of CIPN. However, an anti- inﬂammatory effect on nociceptor involvement in temper- ature fibre pain has been experienced and pathological evidence of the effect of immune-modulation has been provided in an animal model of CIPN induced by bortezomib.26
+Topical local intervention. Studied topical interventions are shown in Table 2. Based on the pathogenic mechanism of neurotoxicity, they should be primarily used in clinical suspicion of small fibre neuropathy.
+Menthol. In a phase II trial, 1% menthol cream was applied to the affected area and 31 of 38 assessable pa- tients showed substantial pain relief with minimal toxicity (P < 0.001).27 Although data from randomised studies are unavailable, topical low-concentration menthol cream should be considered as the cost is low and no adverse events have been reported [III, B].
+Topical baclofen/amitriptyline/ketamine. Topical treat- ment with a baclofen/amitriptyline and ketamine- containing gel showed a non-significant improvement in sensory neuropathy in a randomised trial (n 208).28 Sig- nificant improvement was noted in secondary outcome parameters such as the motor subscale. Its use might be considered [II, C]. In contrast, a topical amitriptyline/keta- mine preparation was studied in 462 patients in a rando- mised, controlled trial (RCT) showing that CIPN pain, numbness or tingling could not be alleviated.29 Its use is not recommended [I, D].
+Capsaicin 8%-containing patches. Most of the available evidence for capsaicin 8%-containing patches derives from non-CIPN studies (mostly in patients with diabetes melli- tus).30 A few attempts were also carried out in patients with
+ 
+painful CIPN.25,31 Capsaicin 8%-containing patches can be considered in patients with CIPN [III, C].
+Non-pharmacological treatment. In addition, or if phar- macologic therapy fails, use of certain non-pharmacological strategies may be offered to the patient with CIPN. Rec- ommendations for or against the use of non- pharmacological treatment strategies of CIPN indicated by the grade of recommendation are listed in Table 3.
+Physical exercise. Many physical exercise approaches lack strong scientific evidence due to the fact that physical ex- ercise normally has been applied in a multimodal setting.32 However, the evidence is growing that physical exercise and functional training (e.g. vibration training) reduces CIPN symptoms.20,33,34 Training to improve coordination, senso- rimotor and fine motor function should begin (at the latest) with the onset of manifest CIPN, but can be started earlier, at the time when potentially neurotoxic cancer treatment is initiated [II, B].4 Furthermore, this strategy becomes of particular importance in clinical and survivorship care plans, to improve physical function in order to prevent disability and falls, especially in older adults.2
+Acupuncture. A Cochrane review from 2017 stated that due to the limited data available, there is insufficient evi- dence to support or refute the use of acupuncture for neuropathic pain.35 However, several recent randomised phase II studies are encouraging even if some trials are limited by their small sample size and short-term follow- up.36e38 Specifically, the study by Bao et al.38 (n 75) in- corporates a sham treatment and a nontreatment control to evaluate the efficacy of acupuncture for CIPN. Acupuncture resulted in a meaningful improvement in CIPN symptoms. Acupuncture might be considered in selected patients to treat CIPN symptoms [II, C].
+Scrambler therapy. Scrambler therapy involves the use of a device to treat pain via noninvasive cutaneous electro- stimulation. This strategy was reported to be beneficial as a noninvasive method for some cancer patients in earlier pilot
+ 
+
+Table 3. CIPN therapy: non-pharmacological interventions
+Intervention	Comments	LoE/GoR	References
+Acupuncture	Several recent randomised phase II studies are positive,	II, C	36e38,96
+Cochrane review from 2017: insufficient data for/or
+against a recommendation
+Neurofeedback	Pilot study in 71 cancer survivors, potential benefit for	II, C	43
+EEG-based neurofeedback
+Physical exercise	Several strategies are available: supervised medical	II, B	4,20
+exercise (sensorimotor function, endurance, strength of
+ﬂexibility), self-management interventions
+(e.g. EXCAP©®)
+Scrambler therapy	Noninvasive cutaneous electrostimulation	II, D	39,40
+41
+Self-guided online cognitive behavioural strategies	PROSPECT, pilot RCT (n ¼ 60), greater improvements in	II, C
+‘worst’ pain than usual care
+Spinal cord stimulation	Small number case series, only in truly refectory pain due	V, C	42
+to CIPN, invasive and expensive procedure: electrode insertion into the dorsal re-entry zone of spinal cord and
+pulse generator implantation under the skin
+CIPN, chemotherapy-induced peripheral neurotoxicity; EEG, electroencephalogram; EXCAP©®, Exercise for Cancer Patients; GoR, grade of recommendation; LoE, level of evidence; PROSPECT, Proactive Self-Management Program for Effects of Cancer Treatment; RCT, randomised controlled trial.
+ 
+
+trials. However, the latest pilot randomised trial showed no
+39,40
+beneficial effect of scrambler therapy.	Scrambler ther-
+apy is not recommended to treat CIPN [II, D].
+PROSPECT. Proactive Self-Management Program for Effects of Cancer Treatment (PROSPECT) represents a self- guided, online cognitive and behaviourally-based pain man- agement intervention for a period of 8 weeks in order to
+41
+reduce pain deriving from CIPN.	A randomised pilot trial
+ 
+(n 60) showed promising results. The intervention implies very little harm and, therefore, a weak recommendation in favour of a self-guided online cognitive and behaviour-based pain management seems to be rational [II, C].
+Spinal cord stimulation. Spinal cord stimulation (SCS) represents a neuromodulation technique that is used to treat truly refractory neuropathic and sympathetically- mediated chronic pain. SCS is an invasive and expensive procedure as it involves percutaneous or surgical implan- tation of electrodes in the epidural space, with power supplied by an implanted battery. SCS has been reported to be successful in several cases; however, no RCT is available in patients with CIPN.42 It may be discussed for selected patients, with truly refractory neuropathic pain and for whom conservative approaches failed [V, C].
+Neurofeedback. A randomised pilot study in 71 cancer survivors suggests potential benefit for electroencephalo- gram (EEG)-based neurofeedback.43 As the intervention im- plies very little harm, a weak recommendation in favour of neurofeedback is justified (generalisability is limited) [II, C].
+
+Supportive measures for safety and self-management
+Assistance with daily living, predominantly sensory damage. For the sensory nerve damage with corresponding impairment in the activities of daily living (ADL), the following assistance measures (described in supplementary Table S4, available at https://doi.org/10.1016/j.annonc.202
+0.07.03)	can be helpful for the patient [V, B] and discussion with the physiotherapist about these measures can be very helpful.
+Assistance with daily living, motor deﬁcit. Problems arise with walking (specifically in the elderly), balance, driving, biking and standing still for extended time periods. Helpful strategies regarding risk assessment of falling, safety mea- sures and supportive measures for ADL are shown in Table 4.
+Patients and their caregivers may develop their own strategies to come to terms with the limitations. Support and information by health care professionals can enhance these, correct these if considered harmful and recommend other interventions that will fit the patients’ ADL patterns. Rehabilitation medicine plays an important role in this setting, and consistency of the information available in the clinical setting from both physicians and nurses is impor- tant. Because most patients are now treated on an outpa- tient basis, caregivers should be included in the discussions and educational issues. The safety issues for both sensory
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADL, activities of daily living.
+
+ 
+
+
+and motor deficits should be addressed at an early stage of the treatment. A timeframe of how long the CIPN may last should be part of the information.
+Safety and prevention information. Depending on the administered antineoplastic drug, safety and prevention information should be communicated to the patient before therapy starts (Table 5).
+Particular attention must be paid to patients receiving oxaliplatin, as the corresponding acute neurotoxicity may include a very unpleasant hyperexcitability (sensitivity to cold) (supplementary Table S1, available at https://doi. org/10.1016/j.annonc.2020.07.003). Information before the first application is of utmost importance as the potential
+
+
+Table 5. Safety and prevention information (expert opinion)
+General measures (sensory disturbances)
+●	Depending on the drug: application of warm or cold; avoid extreme temperatures
+●	Caution about exposure to temperature extremes (outdoor activities)
+●	Recommendations for clothing: warm shoes, socks and gloves, depending on sensation
+●	Caution for injury with sharp objectsdwhen cutting nails, knives etc.
+●	Attention with infectionsdinﬂammation of nail cuticle (paronychia)
+●	Avoid pressure points, for example, tight shoes
+●	Teach patient the principles of foot care, including inspection of the feet for sores or blisters and the importance of wearing properly fitted shoes
+●	Caveat: Permission to drive must be discussed with the treating
+oncologist
+Additional measures for patients receiving oxaliplatin DO
+●	Wear gloves when removing food/objects from refrigerator or freezer
+●	Wear warm shoes and socks also at home unless ﬂoor heating available
+●	Protect ears and nose from cold; cover mouth with a scarf
+AVOID
+●	Consuming cold food and drinks
+●	Contact with cold objects
+●	Breathing cold air
+●	Extended exposure to cold when activity is outdoors
+●	Holding metal railings, cold steering wheels
+ 
+
+ 
+experience of laryngeal spasms and perceived dyspnoea can provoke panic attacks. Several helpful specific counselling measures are depicted in Table 5.
+
+
+Ototoxicity
+Ototoxicity is caused by peripheral damage of special sen- sory neurons in the cochlea. Cisplatin (this guideline focuses on cisplatin) is one of the most ototoxic agents, which is well known to cause irreversible damage to the outer hair cells of the cochlea, starting with the basal region.44 This damage can result in a bilateral sensorineural hearing loss, affecting 20%e75% of patients.45 Although cisplatin- induced hearing loss initially involves higher frequencies, it might eventually affect lower frequencies, particularly those critical for speech perception, if the more apical parts of the cochlea are damaged. Most patients experience some degree of tinnitus during cisplatin-based ChT, and about 40% of long-term survivors have reported tinnitus a median of 4e10 years after treatment.46,47 Carboplatin (approximately 5% of patients) and vinca alkaloids can cause ototoxicity to a much lesser extent. Oxaliplatin very rarely causes ototoxicity.
+Risk factors. Risk factors for developing ototoxicity include increasing cumulative cisplatin dose, application schedule (cisplatin 100 mg/m2 over 5 days is better than over 3 days [I, A]), young age, concomitant applications of other ototoxic drugs (e.g. aminoglycosides and loop diuretics), preceding/concomitant radiotherapy to cochlea or cranial nerve VIII, impaired pre-exposure hearing ability, renal insufficiency and specific genetic variants (e.g. glutathione S-transferase genotypes and variants of WFS1) [III, B].45,47
+Assessment/diagnosis. Before therapy with cisplatin starts, discussions with the patient should include questions related to their profession. If their livelihood is dependent on their hearing acuities, careful treatment planning is warranted. During treatment, patients should be encour- aged to report first signs of hearing impairment, which often are noticed by the patients when using the telephone or when multiple persons are simultaneously speaking.
+For early detection of ototoxicity in adults receiving plat- inum agents, a pure tone audiometry is recommended (including the wide spectrum of frequencies 500e8000 Hz) [IV, A]. A baseline assessment should be done before ChT and at the completion of therapy, at minimum [IV, B]; this recom- mendation refers specifically to patients with testicular cancer as almost all studies were done in this patient population.
+Several grading systems for ototoxicity are available such as the Brock, American Speech-Language-Hearing Associa- tion (ASHA), Muenster, Chang, National Cancer Institute CTCAE (NCI-CTCAE), SIOP Boston and TUNE grading sys- tem.48 Some are designed for use in children (Brock, Muenster, Chang, SIOP), others for adults (TUNE) and some for both (ASHA and NCI-CTCAE). There is substantial vari- ability in the definition of the grades among the scales. No
+ 
+recommendation on the optimal tool is possible; however, the ASHA definition of hearing loss seems to overestimate the hearing problem and may rather not be used as a clinical tool.47
+Prevention. Brock et al.49 reported that the addition of sodium thiosulfate to cisplatin in children with localised hepatoblastoma led to a lower incidence of cisplatin- induced hearing loss without jeopardising survival. A second phase III trial confirmed this protective effect by sodium thiosulfate against cisplatin-induced hearing loss in children,50 but a lower survival rate was seen in the sub- group of patients with disseminated disease. This observa- tion might suggest that sodium thiosulfate is tumour protective in addition to being otoprotective in certain pa- tients. Although otoprotective treatment with sodium thiosulfate could offer a significant patient benefit, it cannot currently be recommended as standard treatment, due to the uncertainty regarding a possible tumour protection and lack of evidence among adult cancer patients [I, C].
+None of the other numerous potential otoprotective agents, namely amifostine, aspirin, curcumin, D- or L- methionine, glutathione ethyl ester, alpha-lipoic acid, methylthiobenzoic acid, tiopronin, melatonin, N-acetylcys- teine, intratympanic dexamethasone, pantoprazole, resver- atrol and vitamin E, can be recommended for the prevention of cisplatin ototoxicity [II, D]. They were shown not to be beneficial or the qualities of the studies were not adequate enough to draw any final conclusions.
+At this point, no recommendation in favour of pharma- cogenomics testing in routine practice is possible [III, A].51
+Treatment. No causative treatment strategy is available so far. Hearing aids can be of help. Patients with profound hearing loss may benefit from cochlear implants. Further assistive devices (e.g. auditory trainers, telephone ampli- fiers) can be beneficial as well.48
+Apart from hearing loss, patients frequently suffer from continuous tinnitus with unpredictable outcome in the sense of remission. For patients suffering from tinnitus, cognitive behavioural strategies (CBT) might be offered [V, B].52 Various suggestions for diminishing acoustic stimulus can be found in supplementary Table S5, available at https://doi.org/10.1016/j.annonc.2020.07.003.
+
+
+Recommendations
+Regular assessment of CIPN should be done as it enables the health care professionals to discover potential symptoms early, before the neuropathy becomes irre- versible [IV, A].
+No effective drug exists to prevent CIPN [II, DeI, E]. Cryotherapy with, for example, frozen socks and gloves can be considered (most evidence is available for taxane therapy) [II, C].
+Compression therapy using surgical gloves to prevent CIPN can be considered [III, C].
+ 
+
+ 
+Medical exercise to improve muscular strength and sensorimotor functions can be offered to patients at risk of developing CIPN [II, C].
+When patients experience chronic CIPN, treatment approaches should focus on reduction or relief of neuro- pathic pain [IV, A].
+Duloxetine is the only agent recommended with level I evidence for the treatment of neuropathic pain [I, B]. Venlafaxine, pregabalin, amitriptyline, tramadol or strong opioids can be considered for the treatment of neuropathic pain [II, C].
+As a local intervention, topical low-concentration menthol cream should be considered in patients with CIPN [III, B].
+Physical exercise and functional training (e.g. vibration training) reduces CIPN symptoms and is, therefore, recommended [II, B].
+Acupuncture might be considered in selected patients to treat CIPN symptoms [II, C].
+For early detection of ototoxicity in adults receiving plat- inum agents, a pure tone audiometry is recommended (including the wide spectrum of frequencies 500e8000 Hz) [IV, A].
+Prophylactic treatment with sodium thiosulfate could offer a significant patient benefit; however, it cannot currently be recommended as standard treatment, due to the uncertainty regarding a possible tumour protec- tion and lack of evidence among adult cancer patients [I, C].
+
+
+CENTRAL NEUROTOXICITY
+For many antineoplastic drugs, the toxicity is related to the route of administration and cumulative dose, and can vary from brief, transient episodes to more severe, chronic sequelae.53 The so-called ‘oncobrain’ or ‘chemobrain’ for which a substantial amount of research is ongoing will not be addressed in this guideline.
+
+Encephalopathy
+This term is widely used to describe global cerebral dysfunction in the absence of primary structural brain dis- ease. In this guideline, only acute encephalopathy will be discussed. Most clinical features of acute encephalopathy are nonspecific, and do not reliably identify a particular aetiology. In cancer patients, its occurrence has been associated with classic chemotherapeutics (supplementary Table S6, available at https://doi.org/10.1016/j.annonc.2 020.07.003). Beside these toxic causes, acute encephalop- athy may be facilitated by concomitant septic disease, pre- existent leukoencephalopathy and metabolic changes (e.g. sodium disturbances due to cancer-related syndrome of inadequate antidiuretic hormone release). Clinical features of acute encephalopathy include changes in consciousness (from impaired attention to confusion and delirium with psychotic symptoms), decreased consciousness (from drowsiness to coma) and changes in affect (apathy, anxiety,
+ 
+agitation). The presentation of acute encephalopathy may also include focal signs like paresis, speech disorders, sei- zures and cranial nerve dysfunctions. An intensified, diag- nostic procedure is necessary if the clinical picture exaggerating these phenomena (mentioned above) and differential diagnoses such as cerebral bleeding or ischaemia in risk patients (e.g. history of thromboembolic event or current anticoagulation) should be radiologically ruled out as well as leptomeningeal disease. In case of unexplained accompanying fever and meningeal irritation, an infectious cause should also be ruled out by cerebro- spinal ﬂuid (CSF) examination [V, B].
+Ifosfamide-induced acute encephalopathy. The estimated incidence for ifosfamide-induced acute encephalopathy is shown in supplementary Table S6, available at https://doi. org/10.1016/j.annonc.2020.07.003. Risk factors for the development of an acute encephalopathy may include: dose of ifosfamide, drug interactions (CYP2B6 inhibitors), renal impairment, low serum albumin, bulky abdominal disease and prior cisplatin treatment [V, B].54 In some case reports, the concomitant use of aprepitant was thought to be a risk factor of developing an ifosfamide-induced acute encephalopathy. This assumption could not be confirmed in larger reported series.54e56
+Prevention and treatment. As prophylactic or therapeu- tic measures, methylene blue and/or thiamine and/or glucose 5% have been applied in small series.57e59 No controlled trials are available for these agents and the possibility of spontaneous resolution of encephalopathy should be taken into account. Some cases have shown some benefit of methylene blue; however, several retrospective studies on the prophylactic usage of methylene blue, combined with thiamine, do not support its efficacy.57 Furthermore, methylene blue may induce a serotonin syn- drome.60 Methylene blue and/or thiamine and/or glucose 5% are not recommended for the prevention and treatment of ifosfamide-induced acute encephalopathy [V, D]. The prophylactic use of exogenous albumin administration is also not effective and is not recommended [V, D].61
+The treatment   is   purely   symptomatic   and   includes
+discontinuation of ifosfamide, correction of electrolytes (if imbalanced) and symptomatic treatment with, for example, benzodiazepines [V, B]. In almost all cases, a spontaneous full remission can be seen without sequelae.
+
+Posterior reversible encephalopathy syndrome
+Patients present with acute neurological deficits including altered consciousness, visual disturbances, blindness, headaches and seizures. Posterior reversible encephalopa- thy syndrome (PRES) is rare but increasingly diagnosed (supplementary Table S6, available at https://doi.org/10.1 016/j.annonc.2020.07.003). A disruption of the bloode brain barrier due to endothelial injury by abrupt blood pressure changes leads to typical vasogenic oedema.53 The posterior regions of the brain are most susceptible to injury because of reduced sympathetic innervation and
+ 
+
+ 
+autoregulation of blood pressure. Therefore, the oedema, which may be demonstrated on T2-weighted magnetic resonance imaging (MRI) scan hyperintensities, involves bilateral parietal-occipital lobes and predominates in white more than grey matter. Risk factors include pre-existing arterial hypertension, renal impairment, autoimmune dis- eases, high-dose antineoplastic therapy, allogenic stem-cell transplantation, solid organ transplantation and immuno- suppression (e.g. ciclosporin) [V, B].62
+Prevention and treatment. Very stringent control of blood pressure is crucial, especially when PRES is present [V, B]. Treatment requires cessation of anticancer therapy and antiepileptic treatment in case of seizures [V, B]. PRES is usually reversible with appropriate supportive management within 2 weeks.63 A reintroduction of the prior anticancer therapy has to be decided on an individual basis.
+
+Acute cerebellar syndrome
+Cerebellar syndrome may develop in patients receiving, for example, high-dose cytarabine. Other examples, however very rare, include bortezomib, rituximab and trastuzumab. It is characterised by dizziness, ataxia, dysarthria, vertigo with nausea and vomiting and cerebellar or vestibuloco- chlear eye movement disorders usually manifesting 2 to 5 days after treatment initiation. In addition to careful history-taking and neurological examination, a T2-weighted MRI scan demonstrating cerebellar hyperintensities and CSF excluding central nervous system (CNS) infection will help to find the diagnosis.53 Risk factors may include liver and renal impairment, very high antineoplastic drug doses and age
+>40 years [V, B].
+Prevention and treatment. No specific preventive measure or causative treatments are available.64 Certainly, the causing antineoplastic drug should be stopped. In case of cytarabine treatment, avoidance of very high doses of cytarabine if possible, especially in patients with renal impairment [IV, C]. This might lower the incidence of an acute cerebellar syndrome. Recovery is uncertain, including remission and persistence of disabling ataxia in sitting and walking.
+
+Myelopathy
+Transverse myelopathy may develop due to high antineo- plastic drug levels in CSF for at least 24 h. It is an uncom- mon complication, but may appear in patients after intrathecal (IT) methotrexate (MTX), cytarabine, cisplatin, carmustine and thiotepa treatment administered via the lumbar route.65 Patients suffer from back or leg pain fol- lowed by paraparesis or more often paraplegia, sensory loss and sphincter dysfunction. T2-weighted MRI images may demonstrate lesions in the dorsal column of the spinal cord. According to meningeal irritation, symptoms of aseptic meningitis may be present. Risk factors include concurrent craniospinal radiotherapy and frequent injections via the lumbar route.
+ 
+Prevention and treatment. No evidence-based preventive measure is established. For treatment, steroids injected slowly via the lumbar route might be considered, although sufficient data are limited [V, C].53 Treatment with high-dose folate metabolites in patients with MTX-induced myelop- athy may be worth a try [V, C].66 In general, recovery is variable; the majority of patients show clinical improvement.
+
+Progressive multifocal leukoencephalopathy
+Progressive multifocal leukoencephalopathy (PML) is a very rare, devastating demyelinating disease of the CNS, which almost exclusively occurs in patients with compromised immune systems (mainly CD4 or CD8 immunosuppression). The prevalence of PML is estimated to be 0.07% among patients with haematological malignancies. PML has been rarely reported in patients with an underlying haemato- logical malignancy treated with immunomodulatory drugs or with antibodies.67 Subacute neurological symptoms in a patient at increased risk of PML, along with typical MRI findings and detection of John Cunningham virus (JCV) DNA in the CSF are sufficient for diagnosis. In the absence of an effective prevention or specific treatment of PML, no recommendation is possible. The main approach is restoring the host adaptive immune response, a strategy that appears to prolong survival and may minimise CNS injury and avoid severe disability.53,67
+
+Aseptic meningitis
+Occurrence of aseptic meningitis is typically associated with IT administration of chemotherapeutics and may be seen in 10%e50% of patients being treated with MTX and specifically liposomal cytarabine (liposomal cytarabine is permanently discontinued due to product-specific supply issues) (supplementary Table S6, available at https://doi. org/10.1016/j.annonc.2020.07.003).68 Typically, signs of meningeal irritation (headache, nuchal stiffness, vomiting, fever, lethargy) develop within 2e4 h after drug injection and usually last for about 12e72 h. This is the distinguishable criterion from iatrogenic bacterial infection, which is usually also accompanied by fever. Symptoms resolve spontaneously with symptomatic treatment. CSF examination may show pleocytosis without other features of bacterial infection.69 CSF culture should be carried out for differential diagnosis. Although little evidence is available, sufficient clinical consensus is present for the concomitant use of IT corticosteroids (the most often used dose is 4 mg IT dexamethasone) to gradually prevent aseptic meningitis [V, C].
+
+Stroke and vasculopathy
+There is an increased risk of thromboembolic stroke in, for example, platinum-based ChT as well as, less often, in 5-ﬂuorouracil, gemcitabine and bleomycin treatment. In addition, angiogenesis inhibitors may induce an ischaemic stroke.70 Risk factors include radiotherapy-induced
+ 
+
+ 
+vasculopathy as well as prothrombotic activity of cancer itself.
+
+Recommendations
+As prophylactic or therapeutic measures, methylene blue and/or thiamine and/or glucose 5% cannot be recom- mended [V, D].
+The prophylactic use of exogenous albumin administra- tion is not recommended [V, D].
+The treatment is purely symptomatic and includes discontinuation of ifosfamide, correction of electrolytes (if imbalanced) and symptomatic treatment with, for example, benzodiazepines [V, B].
+Very stringent control of blood pressure is crucial, espe- cially when PRES is present [V, B].
+Treatment of PRES requires cessation of anticancer therapy and antiepileptic treatment in case of seizures [V, B].
+For acute cerebellar syndrome, no specific preventive measure or causative treatment is available.
+To avoid myelopathy, no evidence-based preventive measure is established.
+For treatment of myelopathy, steroids might be consid- ered, although sufficient data are sparse [V, C].
+Treatment of myelopathy with high-dose folate metabo- lites in patients with MTX-induced myelopathy may be worth a try [V, C].
+In the absence of an effective prevention or specific treatment of PML, no recommendation is possible. The main approach is restoring the host adaptive immune response.
+Sufficient clinical consensus is present for the concomi- tant use of IT corticosteroids (the most often used dose is 4 mg IT dexamethasone) to gradually prevent aseptic meningitis [V, C].
+
+METHODOLOGY
+These Clinical Practice Guidelines were developed in accordance with the ESMO standard operating procedures for Clinical Practice Guidelines development https://www. esmo.org/guidelines/esmo-guidelines-methodology. The relevant literature has been selected by the expert authors. Levels of evidence and grades of recommendation have been applied using the system shown in supplementary Table S7, available at https://doi.org/10.1016/j.annonc.2 020.07.003.98 Statements without grading were consid- ered justified standard clinical practice by the experts and the ESMO Faculty. This manuscript has been subjected to an anonymous peer review process.
+
+ACKNOWLEDGEMENTS
+The ESMO Guidelines Committee thank the ESMO, EONS and EANO Faculties and other experts who provided critical reviews of these ESMO Clinical Practice Guidelines. They also thank the European Cancer Patient Coalition for their
+ 
+review. The authors thank Dr. Camilla Leithold for her editorial assistance.
+
+FUNDING
+No external funding has been received for the preparation of these guidelines. Production costs have been covered by ESMO from central funds.
+
+DISCLOSURE
+BJ has reported advisory board and/or honoraria for pre- sentations for Alexion Pharmaceuticals, Temmler (Hormo- san Pharma), Novartis, Biomarin, Merz Pharmaceuticals, Ipsen Pharma and Allergan; FC has reported consultancy role for Amgen, Astellas/Medivation, AstraZeneca, Celgene, Daiichi-Sankyo, Eisai, GE Oncology, Genentech, Glax- oSmithKline, MacroGenics, Medscape, Merck-Sharp, Merus BV, Mylan, Mundipharma, Novartis, Pfizer, Pierre Fabre, prIME, Roche, Sanofi, Seattle Genetics and Teva; GC has reported financial interests, honoraria for speaker, consul- tancy or advisory role and/or institutional research funding from Toray, Disarm, Helsinn, PledPharma, Mundipharma, Kedrion and Chiesi; PJ has reported travel support from Helsinn, consulting or advisory role for Bristol-Myers Squibb, Chugai, Norgine, Helsinn and Clinigen and research grant from Chugai; ELR has received research grants from Mundipharma and Amgen, honoraria for lec- tures or advisory board from Tocagen, AbbVie, Daiichi Sankyo, Mundipharma and Novartis; MP has received honoraria for lectures, consultation or advisory board participation from Bristol-Myers Squibb, Novartis, Gerson Lehrman Group, CMC Contrast, GlaxoSmithKline, Mundi- pharma, Roche, AstraZeneca, AbbVie, Lilly, MEDahead, Daiichi Sankyo, Merck Sharp & Dohme and has reported research funding from Bristol-Myers Squibb, Böhringer- Ingelheim, GlaxoSmithKline, Merck Sharp & Dohme and Roche; FS has reported financial interests, honoraria for speaker, consultancy or advisory role, royalties, direct research funding from Tesaro, Helsinn, Vifor, Merck Sharp & Dohme, Roche, Amgen, Pierre Fabre Oncology, Pfizer, Leo Pharma, Arrow and Bristol-Myers Squibb; KJ has reported financial interests, honoraria for speaker, consultancy or advisory role, royalties and direct research funding from Merck Sharp & Dohme, Merck, Amgen, Hexal, Riemser, Helsinn, Tesaro, Kreussler, Voluntis, Pfizer, POMME-med, PharmaMar, priME Oncology and Onko Solutions; all remaining authors have declared no conﬂicts of interest.
+
+REFERENCES
+1.	Haanen JBAG, Carbonnel F, Robert C, et al. Management of toxicities from immunotherapy: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up . Ann Oncol. 2017;28:iv119eiv142.
+2.	Winters-Stone KM, Horak F, Jacobs PG, et al. Falls, functioning, and disability among women with persistent symptoms of chemotherapy- induced peripheral neuropathy. J Clin Oncol. 2017;35:2604e2612.
+3.	Hershman DL, Till C, Wright JD, et al. Comorbidities and risk of chemotherapy-induced peripheral neuropathy among participants 65 years or older in Southwest Oncology Group Clinical Trials. J Clin Oncol. 2016;34:3014e3022.
+ 
+
+ 
+4.	Jordan K, Feyer P, Holler U, et al. Supportive treatments for patients with cancer. Dtsch Arztebl Int. 2017;114:481e487.
+5.	Molassiotis A, Cheng HL, Leung KT, et al. Risk factors for chemotherapy- induced peripheral neuropathy in patients receiving taxane- and platinum-based chemotherapy. Brain Behav. 2019;9:e01312.
+6.	Johnson C, Pankratz VS, Velazquez AI, et al. Candidate pathway-based genetic association study of platinum and platinum-taxane related toxicity in a cohort of primary lung cancer patients. J Neurol Sci. 2015;349:124e128.
+7.	Brydoy M, Oldenburg J, Klepp O, et al. Observational study of prevalence of long-term Raynaud-like phenomena and neurological side effects in testicular cancer survivors. J Natl Cancer Inst. 2009;101:1682e1695.
+8.	Argyriou AA, Bruna J, Genazzani AA, Cavaletti G. Chemotherapy- induced peripheral neurotoxicity: management informed by pharma- cogenetics. Nat Rev Neurol. 2017;13:492e504.
+9.	Ibanez-Julia MJ, Berzero G, Reyes-Botero G, et al. Antineoplastic agents exacerbating Charcot Marie Tooth disease: red ﬂags to avoid perma- nent disability. Acta Oncol. 2018;57:403e411.
+10.	Tofthagen C, Visovsky CM, Hopgood R. Chemotherapy-induced pe- ripheral neuropathy: an algorithm to guide nursing management. Clin J Oncol Nurs. 2013;17:138e144.
+11.	Khalil M, Teunissen CE, Otto M, et al. Neurofilaments as biomarkers in neurological disorders. Nat Rev Neurol. 2018;14:577e589.
+12.	Beutler AS, Majithia N, Loprinzi CL. The past and future of ‘reported outcomes’ in studies on chemotherapy neuropathy. Ann Oncol. 2017;28:2631e2632.
+13.	Alberti P, Rossi E, Cornblath DR, et al. Physician-assessed and patient- reported outcome measures in chemotherapy-induced sensory peripheral neurotoxicity: two sides of the same coin. Ann Oncol. 2014;25:257e264.
+14.	Jordan K, Aapro M, Kaasa S, et al. European Society for Medical Oncology (ESMO) position paper on supportive and palliative care. Ann Oncol. 2018;29:36e43.
+15.	Sundar R, Bandla A, Tan SS, et al. Limb hypothermia for preventing paclitaxel-induced peripheral neuropathy in breast cancer patients: a pilot study. Front Oncol. 2016;6:274.
+16.	Griffiths C, Kwon N, Beaumont JL, Paice JA. Cold therapy to prevent paclitaxel-induced peripheral neuropathy. Support Care Cancer. 2018;26:3461e3469.
+17.	Beijers AJM, Bonhof CS, Mols F, et al. Multicenter randomized controlled trial to evaluate the efficacy and tolerability of frozen gloves for the prevention of chemotherapy-induced peripheral neuropathy. Ann Oncol. 2020;31:131e136.
+18.	Tsuyuki S, Senda N, Kanng Y, et al. Evaluation of the effect of compression therapy using surgical gloves on nanoparticle albumin- bound paclitaxel-induced peripheral neuropathy: a phase II multi- center study by the Kamigata Breast Cancer Study Group. Breast Cancer Res Treat. 2016;160:61e67.
+19.	Kanbayashi Y, Sakaguchi K, Ishikawa T, et al. Comparison of the efficacy of cryotherapy and compression therapy for preventing nanoparticle albumin-bound paclitaxel-induced peripheral neuropathy: a prospec- tive self-controlled trial. Breast. 2019;49:219e224.
+20.	Kleckner IR, Kamen C, Gewandter JS, et al. Effects of exercise during chemotherapy on chemotherapy-induced peripheral neuropathy: a multicenter, randomized controlled trial. Support Care Cancer. 2018;26: 1019e1028.
+21.	Fallon M, Giusti R, Aielli F, et al. Management of cancer pain in adult patients: ESMO Clinical Practice Guidelines. Ann Oncol. 2018;29: iv166eiv191.
+22.	Smith EM, Pang H, Cirrincione C, et al. Effect of duloxetine on pain, function, and quality of life among patients with chemotherapy- induced painful peripheral neuropathy: a randomized clinical trial. JAMA. 2013;309:1359e1367.
+23.	Durand JP, Deplanque G, Montheil V, et al. Efficacy of venlafaxine for the prevention and relief of oxaliplatin-induced acute neurotoxicity: results of EFFOX, a randomized, double-blind, placebo-controlled phase III trial. Ann Oncol. 2012;23:200e205.
+24.	Finnerup NB, Attal N, Haroutounian S, et al. Pharmacotherapy for neuropathic pain in adults: a systematic review and meta-analysis. Lancet Neurol. 2015;14:162e173.
+25.	 
+Cavaletti G, Marmiroli P. Pharmacotherapy options for managing chemotherapy-induced peripheral neurotoxicity. Expert Opin Phar- macother. 2018;19:113e121.
+26.	Meregalli C, Marjanovic I, Scali C, et al. High-dose intravenous immunoglobulins reduce nerve macrophage infiltration and the severity of   bortezomib-induced   peripheral   neurotoxicity   in   rats. J Neuroinﬂammation. 2018;15:232.
+27.	Fallon MT, Storey DJ, Krishan A, et al. Cancer treatment-related neuropathic pain: proof of concept study with menthol-a TRPM8 agonist. Support Care Cancer. 2015;23:2769e2777.
+28.	Barton DL, Wos EJ, Qin R, et al. A double-blind, placebo-controlled trial of a topical treatment for chemotherapy-induced peripheral neurop- athy: NCCTG trial N06CA. Support Care Cancer. 2011;19:833e841.
+29.	Gewandter JS, Mohile SG, Heckler CE, et al. A phase III randomized, placebo-controlled study of topical amitriptyline and ketamine for chemotherapy-induced peripheral neuropathy (CIPN): a University of Rochester CCOP study of 462 cancer survivors. Support Care Cancer. 2014;22:1807e1814.
+30.	Simpson DM, Robinson-Papp J, Van J, et al. Capsaicin 8% patch in painful diabetic peripheral neuropathy: a randomized, double-blind, placebo-controlled study. J Pain. 2017;18:42e53.
+31.	Anand P, Elsafa E, Privitera R, et al. Rational treatment of chemotherapy-induced peripheral neuropathy with capsaicin 8% patch: from pain relief towards disease modification. J Pain Res. 2019;12:2039e2052.
+32.	Crevenna R, Ashbury FD. Physical interventions for patients suffering from chemotherapy-induced polyneuropathy. Support Care Cancer. 2018;26:1017e1018.
+33.	Schonsteiner SS, Bauder Missbach H, Benner A, et al. A randomized exploratory phase 2 study in patients with chemotherapy-related pe- ripheral neuropathy evaluating whole-body vibration training as adjunct to an integrated program including massage, passive mobili- zation and physical exercises. Exp Hematol Oncol. 2017;6:5.
+34.	Streckmann F, Kneis S, Leifert JA, et al. Exercise program improves therapy-related side-effects and quality of life in lymphoma patients undergoing therapy. Ann Oncol. 2014;25:493e499.
+35.	Ju ZY, Wang K, Cui HS, et al. Acupuncture for neuropathic pain in adults. Cochrane Database Syst Rev. 2017;12:CD012057.
+36.	Molassiotis A, Suen LKP, Cheng HL, et al. A randomized assessor- blinded wait-list-controlled trial to assess the effectiveness of acupuncture in the management of chemotherapy-induced peripheral neuropathy. Integr Cancer Ther. 2019;18:1534735419836501.
+37.	Wardley AM. ACUFOCIN: randomized clinical trial of ACUpuncture plus standard care versus standard care alone for Chemotherapy Induced Peripheral Neuropathy (CIPN); (12003). In: ASCO Virtual Scientiﬁc Program. Alexandria, VA: American Society of Clinical Oncology; 2020.
+38.	Bao T, Patil S, Chen C, et al. Effect of acupuncture vs sham procedure on chemotherapy-induced peripheral neuropathy symptoms: a ran- domized clinical Trial. JAMA Netw Open. 2020;3:e200681.
+39.	Pachman DR, Weisbrod BL, Seisler DK, et al. Pilot evaluation of Scrambler therapy for the treatment of chemotherapy-induced pe- ripheral neuropathy. Support Care Cancer. 2015;23:943e951.
+40.	Smith TJ, Razzak AR, Blackford AL, et al. A pilot randomized sham- controlled trial of MC5-A scrambler therapy in the treatment of chronic Chemotherapy-Induced Peripheral Neuropathy (CIPN). J Palliat Care. 2020;35:53e58.
+41.	Knoerl R, Smith EML, Barton DL, et al. Self-guided online cognitive behavioral strategies for chemotherapy-induced peripheral neuropa- thy: a multicenter, pilot, randomized, wait-list controlled trial. J Pain. 2018;19:382e394.
+42.	Majithia N, Smith TJ, Coyne PJ, et al. Scrambler therapy for the man- agement of chronic pain. Support Care Cancer. 2016;24:2807e2814.
+43.	Prinsloo S, Novy D, Driver L, et al. The long-term impact of neuro- feedback on symptom burden and interference in patients with chronic chemotherapy-induced neuropathy: analysis of a randomized controlled trial. J Pain Symptom Manage. 2018;55:1276e1285.
+44.	Schacht J, Talaska AE, Rybak LP. Cisplatin and aminoglycoside antibi- otics: hearing loss and its prevention. Anat Rec (Hoboken). 2012;295: 1837e1850.
+ 
+
+ 
+45.	Chovanec M, Abu Zaid M, Hanna N, et al. Long-term toxicity of cisplatin in germ-cell tumor survivors. Ann Oncol. 2017;28:2670e2679.
+46.	Frisina RD, Wheeler HE, Fossa SD, et al. Comprehensive audiometric analysis of hearing impairment and tinnitus after cisplatin-based chemotherapy in survivors of adult-onset cancer. J Clin Oncol. 2016;34:2712e2720.
+47.	Haugnes HS, Stenklev NC, Brydoy M, et al. Hearing loss before and after cisplatin-based chemotherapy in testicular cancer survivors: a longitudinal study. Acta Oncol. 2018;57:1075e1083.
+48.	Landier W. Ototoxicity and cancer therapy. Cancer. 2016;122:1647e 1658.
+49.	Brock PR, Maibach R, Childs M, et al. Sodium thiosulfate for protection from cisplatin-induced hearing loss. N Engl J Med. 2018;378:2376e 2385.
+50.	Freyer DR, Chen L, Krailo MD, et al. Effects of sodium thiosulfate versus observation on development of cisplatin-induced hearing loss in chil- dren with cancer (ACCL0431): a multicentre, randomised, controlled, open-label, phase 3 trial. Lancet Oncol. 2017;18:63e74.
+51.	Lanvers-Kaminsky C, Ciarimboli G. Pharmacogenetics of drug-induced ototoxicity caused by aminoglycosides and cisplatin. Pharmacoge- nomics. 2017;18:1683e1695.
+52.	Tyler RS, Owen RL, Bridges J, et al. Tinnitus suppression in cochlear implant patients using a sound therapy app. Am J Audiol. 2018;27: 316e323.
+53.	Wick W, Hertenstein A, Platten M. Neurological sequelae of cancer immunotherapies and targeted therapies. Lancet Oncol. 2016;17: e529ee541.
+54.	Szabatura AH, Cirrone F, Harris C, et al. An assessment of risk factors associated with ifosfamide-induced encephalopathy in a large aca- demic cancer center. J Oncol Pharm Pract. 2015;21:188e193.
+55.	Aapro MS, Walko CM. Aprepitant: drug-drug interactions in perspec- tive. Ann Oncol. 2010;21:2316e2323.
+56.	Jarkowski A, Miller A, Hecke T, et al. The risk of neurotoxicity with concomitant use of aprepitant and ifosfamide. J Hematol Oncol Pharm. 2011;1:16e21.
+57.	Richards A, Marshall H, McQuary A. Evaluation of methylene blue, thiamine, and/or albumin in the prevention of ifosfamide-related neurotoxicity. J Oncol Pharm Pract. 2011;17:372e380.
+58.	Kasper B, Harter C, Meissner J, et al. Prophylactic treatment of known ifosfamide-induced encephalopathy for chemotherapy with high-dose ifosfamide? Support Care Cancer. 2004;12:205e207.
+59.	Pelgrims J, De Vos F, Van den Brande J, et al. Methylene blue in the treatment and prevention of ifosfamide-induced encephalopathy: report of 12 cases and a review of the literature. Br J Cancer. 2000;82: 291e294.
+60.	McDonnell AM, Rybak I, Wadleigh M, Fisher DC. Suspected serotonin syndrome in a patient being treated with methylene blue for ifosfa- mide encephalopathy. J Oncol Pharm Pract. 2012;18:436e439.
+61.	Kettle JK, Grauer D, Folker TL, et al. Effectiveness of exogenous albumin administration for the prevention of ifosfamide-induced encephalop- athy. Pharmacotherapy. 2010;30:812e817.
+62.	Roy S, Gandhi AK, Jana M, Julka PK. Recurrent posterior reversible encephalopathy syndrome after chemotherapy in hematologic malignancy-posterior reversible encephalopathy syndrome can strike twice!!!. J Cancer Res Ther. 2014;10:393e396.
+63.	How J, Blattner M, Fowler S, et al. Chemotherapy-associated posterior reversible encephalopathy syndrome: a case report and review of the literature. Neurologist. 2016;21:112e117.
+64.	Taillibert S, Le Rhun E, Chamberlain MC. Chemotherapy-related neurotoxicity. Curr Neurol Neurosci Rep. 2016;16:81.
+65.	Graber JJ, Nolan CP. Myelopathies in patients with cancer. Arch Neurol. 2010;67:298e304.
+66.	Ackermann R, Semmler A, Maurer GD, et al. Methotrexate-induced myelopathy responsive to substitution of multiple folate metabolites. J Neurooncol. 2010;97:425e427.
+67.	Tan CS, Koralnik IJ. Progressive multifocal leukoencephalopathy and other disorders caused by JC virus: clinical features and pathogenesis. Lancet Neurol. 2010;9:425e437.
+68.	 
+Durand B, Zairi F, Boulanger T, et al. Chemical meningitis related to intra-CSF liposomal cytarabine. CNS Oncol. 2017;6:261e267.
+69.	Verstappen CC, Heimans JJ, Hoekman K, Postma TJ. Neurotoxic com- plications of chemotherapy in patients with cancer: clinical signs and optimal management. Drugs. 2003;63:1549e1563.
+70.	Seidel C, Hentschel B, Simon M, et al. A comprehensive analysis of vascular complications in 3,889 glioma patients from the German Glioma Network. J Neurol. 2013;260:847e855.
+71.	Hershman DL, Unger JM, Crew KD, et al. Two-year trends of taxane- induced neuropathy in women enrolled in a randomized trial of acetyl-l-carnitine (SWOG S0715). J Natl Cancer Inst. 2018;110:669e 676.
+72.	Hershman DL, Lacchetti C, Dworkin RH, et al. Prevention and man- agement of chemotherapy-induced peripheral neuropathy in survivors of adult cancers: American Society of Clinical Oncology clinical practice guideline. J Clin Oncol. 2014;32:1941e1967.
+73.	Guo Y, Jones D, Palmer JL, et al. Oral alpha-lipoic acid to prevent chemotherapy-induced peripheral neuropathy: a randomized, double- blind, placebo-controlled trial. Support Care Cancer. 2014;22:1223e 1231.
+74.	Albers JW, Chaudhry V, Cavaletti G, Donehower RC. Interventions for preventing neuropathy caused by cisplatin and related compounds. Cochrane Database Syst Rev. 2014:CD005228.
+75.	Kautio AL, Haanpaa M, Leminen A, et al. Amitriptyline in the preven- tion of chemotherapy-induced neuropathic symptoms. Anticancer Res. 2009;29:2601e2606.
+76.	Jordan B, Jahn F, Beckmann J, et al. Calcium and magnesium infusions for the prevention of oxaliplatin-induced peripheral neurotoxicity: a systematic review. Oncology. 2016;90:299e306.
+77.	Glimelius B, Manojlovic N, Pfeiffer P, et al. Persistent prevention of oxaliplatin-induced peripheral neuropathy using calmangafodipir (Ple- dOx((R))): a placebo-controlled randomised phase II study (PLIANT). Acta Oncol. 2018;57:393e402.
+78.	von Delius S, Eckel F, Wagenpfeil S, et al. Carbamazepine for prevention of oxaliplatin-related neurotoxicity in patients with advanced colo- rectal cancer: final results of a randomised, controlled, multicenter phase II study. Invest New Drugs. 2007;25:173e180.
+79.	Gandara DR, Nahhas WA, Adelson MD, et al. Randomized placebo- controlled multicenter evaluation of diethyldithiocarbamate for che- moprotection against cisplatin-induced toxicities. J Clin Oncol. 1995;13: 490e496.
+80.	Leal AD, Qin R, Atherton PJ, et al. North Central Cancer Treatment Group/Alliance trial N08CA-the use of glutathione for prevention of paclitaxel/carboplatin-induced peripheral neuropathy: a phase 3 ran- domized, double-blind, placebo-controlled study. Cancer. 2014;120: 1890e1897.
+81.	Kuriyama A, Endo K. Goshajinkigan for prevention of chemotherapy- induced peripheral neuropathy: a systematic review and meta-anal- ysis. Support Care Cancer. 2018;26:1051e1059.
+82.	Pachman DR, Dockter T, Zekan PJ, et al. A pilot study of minocycline for the prevention of paclitaxel-associated neuropathy: ACCRU study RU221408I. Support Care Cancer. 2017;25:3407e3416.
+83.	Bruna J, Videla S, Argyriou AA, et al. Efficacy of a novel sigma-1 re- ceptor antagonist for oxaliplatin-induced neuropathy: a randomized, double-blind, placebo-controlled phase IIa clinical trial. Neuro- therapeutics. 2018;15:178e189.
+84.	Ghoreishi Z, Esfahani A, Djazayeri A, et al. Omega-3 fatty acids are protective against paclitaxel-induced peripheral neuropathy: a ran- domized double-blind placebo controlled trial. BMC Cancer. 2012;12: 355.
+85.	Schloss JM, Colosimo M, Airey C, et al. A randomised, placebo- controlled trial assessing the efficacy of an oral B group vitamin in preventing the development of chemotherapy-induced peripheral neuropathy (CIPN). Support Care Cancer. 2017;25:195e204.
+86.	Zirpoli GR, McCann SE, Sucheston-Campbell LE, et al. Supplement use and chemotherapy-induced peripheral neuropathy in a cooperative group trial (S0221): the DELCaP study. J Natl Cancer Inst. 2017;109: djx098.
+ 
+
+ 
+87.	Greenlee H, Crew KD, Capodice J, et al. Randomized sham-controlled pilot trial of weekly electro-acupuncture for the prevention of taxane-induced peripheral neuropathy in women with early stage breast cancer. Breast Cancer Res Treat. 2016;156:453e464.
+88.	Hanai A, Ishiguro H, Sozu T, et al. Effects of cryotherapy on objective and subjective symptoms of paclitaxel-induced neuropathy: prospec- tive self-controlled trial. J Natl Cancer Inst. 2018;110:141e148.
+89.	Matsuoka H, Iwase S, Miyaji T, et al. Additive duloxetine for cancer- related neuropathic pain nonresponsive or intolerant to opioid- pregabalin therapy: a randomized controlled trial (JORTC-PAL08). J Pain Symptom Manage. 2019;58:645e653.
+90.	Rao RD, Michalak JC, Sloan JA, et al. Efficacy of gabapentin in the management of chemotherapy-induced peripheral neuropathy: a phase 3 randomized, double-blind, placebo-controlled, crossover trial (N00C3). Cancer. 2007;110:2110e2118.
+91.	Mishra S, Bhatnagar S, Goyal GN, et al. A comparative efficacy of amitriptyline, gabapentin, and pregabalin in neuropathic cancer pain: a prospective randomized double-blind placebo-controlled study. Am J Hosp Palliat Care. 2012;29:177e182.
+92.	Rao RD, Flynn PJ, Sloan JA, et al. Efficacy of lamotrigine in the man- agement of chemotherapy-induced peripheral neuropathy: a phase 3 randomized, double-blind, placebo-controlled trial, N01C3. Cancer. 2008;112:2802e2808.
+93.	 
+Kautio AL, Haanpaa M, Saarto T, Kalso E. Amitriptyline in the treatment of chemotherapy-induced neuropathic symptoms. J Pain Symptom Manage. 2008;35:31e39.
+94.	Hammack JE, Michalak JC, Loprinzi CL, et al. Phase III evaluation of nortriptyline for alleviation of symptoms of cis-platinum-induced pe- ripheral neuropathy. Pain. 2002;98:195e203.
+95.	Sands S, Ladas EJ, Kelly KM, et al. Glutamine for the treatment of vincristine-induced neuropathy in children and adolescents with can- cer. Support Care Cancer. 2017;25:701e708.
+96.	Bao T, Seidman AD, Piulson L, et al. A phase IIA trial of acupuncture to reduce chemotherapy-induced peripheral neuropathy severity during neoadjuvant or adjuvant weekly paclitaxel chemotherapy in breast cancer patients. Eur J Cancer. 2018;101:12e19.
+97.	Tofthagen C, Visovsky C, Berry DL. Strength and balance training for adults with peripheral neuropathy and high risk of fall: current evi- dence and implications for future research. Oncol Nurs Forum. 2012;39:E416eE424.
+98.	Dykewicz CA. Summary of the guidelines for preventing opportunistic infections among hematopoietic stem cell transplant recipients. Clin Infect Dis. 2001;33:139e144 (Adapted from: Gross PA, Barrett TL, Dellinger EP, et al. Purpose of quality standards for infectious diseases. Clin Infect Dis. 1994;18:421).
