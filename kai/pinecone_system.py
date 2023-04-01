@@ -1,17 +1,27 @@
 import pinecone
-
+import os 
+from haystack.document_stores import PineconeDocumentStore
 
 def initiate_pinecone():
     print("Testing PInecone")
-    pinecone.init(
-        api_key="098671e2-0c18-4de5-8d44-1e00683b1671", environment="YOUR_ENVIRONMENT"
+    ENV="eu-west1-gcp"
+    API="0c463aad-1d8d-498d-a28a-177dcfd12711"
+    document_store = PineconeDocumentStore(
+        api_key=API,
+        index='esmo', 
+        environment=ENV, 
     )
-    pinecone.create_index("quickstart", dimension=8, metric="euclidean", pod_type="p1")
-    pinecone.list_indexes()
+    print(document_store.get_document_count())
+    #pinecone.init(
+    #    api_key="0c463aad-1d8d-498d-a28a-177dcfd12711", environment="eu-west1-gcp"
+    #)
+    #pinecone.create_index("quickstart", dimension=8, metric="euclidean", pod_type="p1")
+    #print(pinecone.list_indexes())
+    #print(pinecone.describe_index("esmo"))
 
     # Returns:
     # ['quickstart']
-    print(pinecone.list_indexes())
-
+    #print(pinecone.list_indexes())
+    #return document_store
 
 initiate_pinecone()
