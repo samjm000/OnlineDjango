@@ -77,7 +77,7 @@ retriever = DensePassageRetriever(
 
 ##INITIALIZE READER
 from haystack.nodes import FARMReader
-reader = FARMReader(model_name_or_path="michiyasunaga/BioLinkBERT-large", use_gpu=True)
+reader = FARMReader(model_name_or_path="dmis-lab/biobert-large-cased-v1.1-squad", use_gpu=True)
 
 ##GET PIPELINE UP (RETRIEVER / READER)
 from haystack.pipelines import ExtractiveQAPipeline
