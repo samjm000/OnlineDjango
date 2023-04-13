@@ -35,6 +35,7 @@ from haystack.nodes import TextConverter, PDFToTextConverter, DocxToTextConverte
 from haystack.utils import convert_files_to_docs
 
 # DATA to DOCS
+# DATA to DOCS
 doc_dir = "data/esmo"
 #converter = TextConverter(remove_numeric_tables=True, valid_languages=["en"])
 #doc_txt = converter.convert(file_path="data/esmo", meta=None)[0]
